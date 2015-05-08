@@ -4,7 +4,7 @@
 ##### Author: Weijia Xiong, Satishkumaar Manivannan
 ##### Maintainer: Weijia Xiong <xwjanthony@gmail.com>
 ##### Acknowledgement: Siqi Lao, Shengying Yao, and all contributors of open source packages for Python and R
-##### Depends: Python (>2.7), R
+##### Depends: Python (>2.7), R (>3.1.2)
 ##### Description: Extract text from Gmail inbox and realize spam classification
 ##### NeedCompilation: No
 
