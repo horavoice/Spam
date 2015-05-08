@@ -1,0 +1,674 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta charset=3D"UTF-8">
+	<meta name=3D"viewport" content=3D"width=3Ddevice-width" />
+	<title></title>
+
+
+<style type=3D"text/css">
+* {
+	-webkit-text-size-adjust: none; /* prevent iOS font upsizing */
+}
+.ExternalClass * {
+	line-height: 100%;
+} /* force Outlook.com to honor line-height */
+td {mso-line-height-rule: exactly; }
+
+/* prevent iOS auto-linking */
+.applefix1 a {color:#000000; text-decoration:none;} /* use on all gray body copy */
+.applefix2 a {color:#ffffff; text-decoration:none;} /* use on white footer */
+.applefix3 a {color:#333333; text-decoration:none;} /* use on 05B copy */
+
+/* prevent Outlook purple links */
+.navstack a:link {color:#000000;}
+.ctaText a:link {color:#ffffff;}
+.preheader a:link {color:#000000;}
+.headline a:link {color:#000000;}
+.bodycopy a:link {color:#000000;}
+.legalfooter a:link {color:#000000;}
+
+/** use on colored copy, update per campaign **/
+.colorlink a:link {color:#ed008c;}
+
+@media only screen and (max-width: 480px) {
+/**********************
+SAMSUNG FIX
+set media query to
+max-width: 480px
+for testing in browser
+
+set media query to
+max-device-width: 480px
+for production
+**********************/
+
+/***** specific module styles *****/
+
+/** 02A - Feature All Image Swap **/
+body[yahoo] .mod02AImg { background-image:url(http://images.postdirect.com/master/11/1573532/aspot_mobile.jpg); width:320px !important; height:641px !important; display:block !important; }
+
+/** 02A1 - Image Grid Image Swaps **/
+body[yahoo] .mod02A1Img { background-image:url(http://images.postdirect.com/master/11/1573532/Banner_mobile_01.jpg); width:320px !important; height:284px !important; display:block !important; }
+body[yahoo] .mod02A2Img { background-image:url(http://images.postdirect.com/master/11/1573532/Banner_mobile_02.jpg); width:320px !important; height:126px !important; display:block !important; }
+body[yahoo] .mod02A1ImgB { background-image:url(http://placehold.it/320x100&text=3D320px); width:320px !important; height:100px !important; display:block !important; }
+
+/** 04A - Banner Image Swap **/
+body[yahoo] .mod04AImg { background-image:url(http://images.postdirect.com/master/11/1573532/banner_mobile.jpg); width:320px !important; height:307px !important; display:block !important; background-position:center !important; background-size:contain !important; }
+
+/** 12A - MyBuys Image Swaps **/
+body[yahoo] .mod12A1Img { background-image:url(http://media.4at5.net/email_domains/gnc/166001/images/mod12A1Sm.jpg); width:275px !important; height:154px !important; display:block !important; }
+
+body[yahoo] .mod12A2Img { background-image:url(http://media.4at5.net/email_domains/gnc/166001/images/mod12A2Sm.jpg); width:275px !important; height:154px !important; display:block !important; }
+
+body[yahoo] .mod12A3Img { background-image:url(http://media.4at5.net/email_domains/gnc/166001/images/mod12A3Sm.jpg); width:275px !important; height:154px !important; display:block !important; }
+
+/** Logo image swaps -- Do not remove **/
+body[yahoo] .logo { background-image:url(http://media.4at5.net/email_domains/gnc/166001/images/GNClogoSm.jpg); width:150px !important; height:60px !important; display:block !important; }
+body[yahoo] .logoFr { background-image:url(http://media.4at5.net/email_domains/gnc/166477/images/GNClogoFRmob.jpg); width:150px !important; height:60px !important; display:block !important; }
+body[yahoo] .logoJoinpr { background-image:url(http://media.4at5.net/email_domains/gnc/168779/GNClogoJoinSm_pr.jpg); width:319px !important; height:60px !important; display:block !important; float:right !important;}
+body[yahoo] .logoJoin { background-image:url(http://media.4at5.net/email_domains/gnc/166001/images/GNClogoJoinSm.jpg); width:319px !important; float:right !important; height:60px !important; display:block !important; }
+body[yahoo] .logoInsider { background-image:url(http://media.4at5.net/email_domains/gnc/166001/images/GNClogoInsiderSm.jpg); width:319px !important; float:right !important;  height:60px !important; display:block !important; }
+body[yahoo] .logoSource { background-image:url(http://media.4at5.net/email_domains/gnc/166001/images/GNClogoSourceSm.jpg); width:319px !important; float:right !important; height:76px !important; display:block !important; }
+
+/** GMAIL Banner image swaps **/
+body[yahoo] .GMailEN { background-image:url(http://media.4at5.net/email_domains/gnc/166001/images/GmailBanner_mobileEN.jpg); width:320px !important; height:139px !important; display:block !important; }
+body[yahoo] .GMailFR { background-image:url(http://media.4at5.net/email_domains/gnc/166001/images/GmailBanner_mobileFR.jpg); width:320px !important; height:147px !important; display:block !important; }
+
+
+/** navigation **/
+body[yahoo] .navstack {
+	display:block !important;
+	border-bottom:1px solid #ffffff !important;
+}
+body[yahoo] .nav2 {
+	text-align:center !important;
+	width:150px !important;
+}
+body[yahoo] .nav3 {
+	text-align:center !important;
+	width:100px !important;
+}
+body[yahoo] .border-top {
+	border-top:1px solid #ffffff !important;
+}
+body[yahoo] .border-left {
+	border-left:1px solid #ffffff !important;
+}
+body[yahoo] .border-right {
+	border-right:1px solid #ffffff !important;
+}
+body[yahoo] .rearrange { display:table !important; width:100% !important; }
+body[yahoo] .nav { }
+body[yahoo] .content { display:table-header-group !important; }
+body[yahoo] .footer { display:table-footer-group !important; }
+
+/** reverse table **/
+body[yahoo] tr.table-cell {
+	display:table-cell !important;
+	vertical-align:top !important;
+}
+body[yahoo] td.table-row {
+	display:table-row !important;
+}
+
+/***** universal styles *****/
+body[yahoo] .width150 { /* resize  */
+	width:150px !important;
+}
+body { /* force iOS5 to fill entire screen */
+	width: 100%;
+	min-width: 100%;
+}
+body[yahoo] .marginfix { /* to eliminate padding in iOS7 */
+	position: relative;
+	top: 0;
+	left: 0;
+	right: 0;
+}
+body[yahoo] .full-width-container { /* resizes entire email shell */
+	width: 320px !important;
+	min-width: 320px !important;
+}
+body[yahoo] .full-width { /* use to resize specific table or cell */
+	width: 100% !important;
+	min-width: 100% !important;
+}
+body[yahoo] .fullSizeImg { /* use to resize the image in a cell */
+	width:100% !important;
+	height:auto !important;
+}
+body[yahoo] .halfSizeImg { /* use to resize the image in a cell */
+	width:160px !important;
+	height:auto !important;
+}
+body[yahoo] .section-wrapper { /* use to center sections with a gray border */
+	width:305px !important;
+	margin:0 auto !important;
+}
+body[yahoo] .stack { /* use to turn 2-column into 1-column layout */
+	display: block !important;
+}
+body[yahoo] .stackTop { /* use to turn 2-column into 1-column layout */
+	display: table-header-group !important;
+}
+body[yahoo] .stackBottom { /* use to turn 2-column into 1-column layout */
+	display: table-footer-group !important;
+}
+body[yahoo] .divider {
+	width: 95% !important;
+}
+body[yahoo] .alignL { /* use to re-align left */
+	text-align: left !important;
+}
+body[yahoo] .alignR { /* use to re-align right */
+	text-align: right !important;
+	padding-left: 10px !important
+}
+body[yahoo] .hide { /* use to hide entire table cell */
+	width: 0px !important;
+	height: 0px !important;
+	display: none !important;
+}
+body[yahoo] .hide-img img { /* use to hide the image in a cell - use for image swap */
+	width: 0px !important;
+	height: 0px !important;
+	display: none !important;
+}
+body[yahoo] .no-padding { /* eliminate all padding */
+	padding: 0px !important
+}
+body[yahoo] .top-padding { /* add top padding */
+	padding-top: 15px !important
+}
+body[yahoo] .top-padding-only { /* leave ONLY top padding */
+	padding: 15px 0px 0px 0px !important
+}
+body[yahoo] .bottom-padding { /* add bottom padding */
+	padding-bottom: 15px !important
+}
+body[yahoo] .padLR { /* add side padding */
+	padding-left: 10px !important;
+	padding-right: 10px !important;
+}
+body[yahoo] .padL { /* add side padding left */
+	padding-left: 10px !important
+}
+body[yahoo] .padR { /* add side padding right */
+	padding-right: 10px !important
+}
+body[yahoo] .center { /* use to center an element */
+	margin: 0px auto !important;
+	text-align: center !important;
+}
+body[yahoo] .font80{ /* reduce coupon fontsizes */
+	font-size: 100px !important;
+
+}
+body[yahoo] .font50{ /* reduce coupon fontsizes */
+	font-size: 50px !important;
+	line-height: 110px !important;
+}
+body[yahoo] .font20{ /* reduce coupon fontsizes */
+	font-size: 20px !important;
+	line-height: 90px !important;
+}
+body[yahoo] .threeAcrossImg {
+	width:140px !important;
+	height:auto !important;
+}
+body[yahoo] .imgFloatLeft {
+	float:left !important;
+}
+body[yahoo] .font40a{ /* reduce coupon fontsizes */
+	font-size: 37px !important;
+	line-height: 40px !important;
+}
+body[yahoo] .font16a{ /* reduce coupon fontsizes */
+	font-size: 17px !important;
+	line-height: 20px !important;
+	 padding: 0 30px 0 30px !important;
+}
+
+/* Campaign-Specific Styles */
+
+
+/* end responsive styles */
+}
+</style>
+
+</head>
+<body style=3D"margin:0px; padding:0px;" yahoo=3D"fix"><img src=3D"http://link.mail.gnc.com/1x1.dyn?0TkG1wiGjGokmh2zz66Vk-jnu=3D0" width=3D1 height=3D1  width=3D"1" height=3D"1" border=3D"0">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" class=3D"marginfix" bgcolor=3D"#efefef">
+	<tr>
+		<td align=3D"center">
+
+<!-- begin preheader container -->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" bgcolor=3D"#404040">
+	<tr>
+		<td align=3D"center">
+		<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"640" class=3D"full-width-container">
+		<tr><td width=3D"640" align=3D"center" style=3D"min-width:640px;" class=3D"full-width-container">
+
+
+<!-- 01A PRE-HEADER -->
+		<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" class=3D"header">
+			<tr>
+				<td class=3D"hide" align=3D"left">
+				<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgcolor=3D"#404040">
+					<tr>
+						<td align=3D"left" valign=3D"middle" width=3D"10"></td>
+
+						<td width=3D"250" align=3D"left" valign=3D"middle" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:14px;color:#ffffff; padding-top:8px; padding-bottom:8px;">
+Trusted Quality for 80 Years!</td>
+
+						<td align=3D"right" class=3D"preheader">
+						<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+							<tr>
+								<td align=3D"left" valign=3D"middle" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:14px;color:#ffffff; padding-top:8px; padding-bottom:8px;"><a href=3D"http://link.mail.gnc.com/u.d?PYGjf4xkyxSosw9tvoh=3D1&camp=3DCME:20150426_2ECPromo:20150426&ym=3Dym_2ECPromo1573532" style=3D"color:#ffffff; text-decoration:underline;"><span style=3D"color:#ffffff">Store Locator</span></a></td>
+								<td align=3D"left" valign=3D"middle" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:14px;color:#ffffff; padding-top:8px; padding-bottom:8px;">&nbsp;|&nbsp;</td>
+								<td align=3D"left" valign=3D"middle" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:14px;color:#ffffff; padding-top:8px; padding-bottom:8px;"><a href=3D"http://mail.gnc.com/ftaf-index.jsp?camp=3DCME:20150426_ECPromo:20150426&ym=3Dym_ECPromo1573532&s=3DZYUz&i=3D2038977239609" style=3D"color:#ffffff; text-decoration:underline;"><span style=3D"color:#ffffff">Forward to a Friend</span></a></td>
+								<td align=3D"left" valign=3D"middle" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:14px;color:#ffffff; padding-top:8px; padding-bottom:8px;">&nbsp;|&nbsp;</td>
+								<td align=3D"left" valign=3D"middle" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:14px;color:#ffffff; padding-top:8px; padding-bottom:8px;"><a href=3D"http://link.mail.gnc.com/t.d?L4Gjf4xkyxSosw=3D/@HTML_2PREVIEW_2LINK_0a=3DKjGok-v1ORq-78htqoUmWxe6&msgVersion=3Dweb" style=3D"color:#ffffff; text-decoration:underline;"><span style=3D"color:#ffffff">View in Browser</span></a></td>
+							</tr>
+						</table>
+						</td>
+						<td align=3D"left" valign=3D"middle" width=3D"10"></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+
+
+		</td></tr>
+		</table>
+		</td>
+	</tr>
+</table>
+<!-- end preheader container -->
+
+<!-- begin header container -->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" bgcolor=3D"#ffffff">
+	<tr>
+		<td align=3D"center">
+		<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"640" class=3D"full-width-container">
+		<tr><td width=3D"640" align=3D"center" style=3D"min-width:640px;" class=3D"full-width-container">
+
+<!-- 01B USA HEADER -->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" class=3D"header">
+			<tr>
+				<td class=3D"alignL" align=3D"left" valign=3D"middle"> <a href=3D"http://link.mail.gnc.com/u.d?X4Gjf4xkyxSoswoM=3D3&camp=3DCME:20150426_2ECPromo:20150426&ym=3Dym_2ECPromo1573532" target=3D"_blank"><span class=3D"logoJoin"></span><img src=3D"http://media.4at5.net/email_domains/gnc/166001/images/GNClogo.jpg" width=3D"310"  border=3D"0" alt=3D"GNC" class=3D"hide" style=3D"display:block"></a></td>
+				<td align=3D"right" valign=3D"middle"><a href=3D"http://link.mail.gnc.com/u.d?V4Gjf4xkyxSoswoL=3D13&camp=3DCME:20150426_2ECPromo:20150426&ym=3Dym_2ECPromo1573532" target=3D"_blank"><img src=3D"http://media.4at5.net/email_domains/gnc/166001/images/GNClogoJoin.jpg" width=3D"310" border=3D"0" alt=3D"Gold Card Members" style=3D"display:block" class=3D"hide"></a></td>
+			</tr>
+		</table>
+
+
+		</td></tr>
+		</table>
+		</td>
+	</tr>
+</table>
+<!-- end header container -->
+
+<!-- begin table to rearrange content -->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" class=3D"full-width-container"><tr><td class=3D"rearrange">
+<!-- place tables below to rearrange content -->
+
+<!-- begin body container -->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" class=3D"content" bgcolor=3D"#efefef">
+	<tr>
+		<td align=3D"center">
+		<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"640" class=3D"full-width-container">
+		<tr><td width=3D"640" align=3D"center" style=3D"min-width:640px;" class=3D"full-width-container">
+
+		<!-- include all email body content in below table -->
+		<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"><tr><td align=3D"center">
+		<!-- include all email body content below -->
+
+		<!-- 10px Spacer -->
+					<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+						<tr>
+							<td class=3D"center" height=3D"10" width=3D"620" style=3D"line-height:1px; font-size:1px;" align=3D"left"></td>
+						</tr>
+					</table>
+
+		<!-- 02A FEATURE ALL IMAGE -->
+		<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" bgcolor=3D"#efefef">
+			<tr>
+				<td align=3D"center" valign=3D"top"><a href=3D"http://link.mail.gnc.com/u.d?X4Gjf4xkyxSosw9tvoxK=3D101&camp=3DCME:20150426_2ECPromo:20150426&ym=3Dym_2ECPromo1573532"><span class=3D"mod02AImg"></span><img src=3D"http://images.postdirect.com/master/11/1573532/aspot_desktop.jpg" width=3D"640" alt=3D"" style=3D"display:block" border=3D"0" class=3D"hide"></a></td>
+			</tr>
+		</table>
+    <!-- END 02A FEATURE ALL IMAGE -->
+
+		<!-- 20px Spacer -->
+					<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+						<tr>
+							<td height=3D"20" style=3D"font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align=3D"left">&nbsp;</td>
+						</tr>
+					</table>
+
+
+    <!-- 02B FEATURE B - IMAGE RIGHT, COPY LEFT -->
+		<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"><tr><td>
+
+
+		<!-- top spacing -->
+		<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+			<tr>
+				<td class=3D"hide" height=3D"20" width=3D"9" style=3D"font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align=3D"left"></td>
+				<td align=3D"center" valign=3D"middle" bgcolor=3D"#ffffff">&nbsp;</td>
+
+			</tr>
+		</table>
+		<!-- head banner -->
+		<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"><tr><td>
+					<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+						<tr>
+							<td class=3D"hide" width=3D"9" align=3D"left" valign=3D"top" bgcolor=3D"#d00a2d"></td>
+							<td bgcolor=3D"#ffffff" align=3D"left" valign=3D"middle"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" class=3D"full-width" bgcolor=3D"#d00a2d"><tr>
+								<td align=3D"left" valign=3D"middle" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:26px; color: #ffffff; text-align:left; font-weight:bold; padding:10px 20px;">ENDS TODAY!</td>
+							</tr></table></td>
+							<td bgcolor=3D"#ffffff" class=3D"hide" align=3D"left" valign=3D"top"></td>
+						</tr>
+					</table>
+					<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+						<tr>
+							<td class=3D"hide" width=3D"9" height=3D"11" align=3D"left" valign=3D"top" style=3D"font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;"><img src=3D"http://media.4at5.net/email_domains/gnc/166001/images/headbanTail.png" width=3D"9" height=3D"11" alt=3D"" style=3D"display:block"></td>
+							<td height=3D"11" width=3D"100%" bgcolor=3D"#ffffff" class=3D"full-width" align=3D"left" valign=3D"top" style=3D"font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;">&nbsp;</td>
+
+						</tr>
+					</table>
+		</td></tr></table>
+		<!-- end head banner -->
+
+		<!-- main content -->
+					<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+						<tr>
+							<td class=3D"hide" width=3D"9" align=3D"left" valign=3D"top" style=3D"font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;"></td>
+							<td bgcolor=3D"#ffffff" class=3D"hide" width=3D"20" align=3D"left" valign=3D"top" style=3D"font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;"></td>
+
+		<!-- Left side - Copy -->
+							<td width=3D"260" bgcolor=3D"#ffffff" class=3D"stackBottom" align=3D"left" valign=3D"top">
+							<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+
+		<!-- Title -->
+								<tr>
+									<td class=3D"padLR" align=3D"left" valign=3D"middle" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:18px; color: #d00a2d; text-align:left; font-weight:bold;">In Store &amp; Online</td>
+								</tr>
+                <tr>
+									<td class=3D"padLR" align=3D"left" valign=3D"middle" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:20px; color: #000000; text-align:left; font-weight:bold;">Buy One, Get One 50% Off<br>
+Select National Brands<sup style=3D"font-size: 13px; line-height: 0; vertical-align: 8px">&dagger;</sup></td>
+								</tr>
+
+		<!-- Copy -->
+
+
+
+
+                <tr>
+									<td height=3D"10" style=3D"line-height:1px; font-size:1px;" align=3D"left">&nbsp;</td>
+								</tr>
+
+
+		<!-- CTAs -->
+								<tr>
+									<td class=3D"stack alignL padLR" align=3D"left" valign=3D"middle">
+									<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+										<tr>
+											<td width=3D"10" align=3D"left" valign=3D"middle" bgcolor=3D"#d00a2d"></td>
+											<td align=3D"left" valign=3D"middle" bgcolor=3D"#d00a2d" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; color: #ffffff; font-weight:bold;text-transform:uppercase"><a href=3D"http://link.mail.gnc.com/u.d?EYGjf4xkyxSosw9tvoxE=3D121&camp=3DCME:20150426_2ECPromo:20150426&ym=3Dym_2ECPromo1573532" target=3D"_blank" style=3D"text-decoration:none;color:#ffffff;">shop now</a></td>
+											<td width=3D"10" align=3D"left" valign=3D"middle" bgcolor=3D"#d00a2d"></td>
+											<td align=3D"left" valign=3D"middle"><img src=3D"http://media.4at5.net/email_domains/gnc/166001/images/arrowd00a2d.png" width=3D"14" height=3D"34" alt=3D"" style=3D"display:block"></td>
+                                            <td width=3D"10" align=3D"left" valign=3D"middle"><img src=3D"http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" width=3D"10" height=3D"34" alt=3D"" style=3D"display:block"></td>
+											<td width=3D"10" align=3D"left" valign=3D"middle" bgcolor=3D"#d00a2d"></td>
+											<td align=3D"left" valign=3D"middle" bgcolor=3D"#d00a2d" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; color: #ffffff; font-weight:bold;text-transform:uppercase"><a href=3D"http://link.mail.gnc.com/u.d?T4Gjf4xkyxSosw9tvow5=3D131&camp=3DCME:20150426_2ECPromo:20150426&ym=3Dym_2ECPromo1573532" target=3D"_blank" style=3D"text-decoration:none;color:#ffffff;">find store</a></td>
+											<td width=3D"10" align=3D"left" valign=3D"middle" bgcolor=3D"#d00a2d"></td>
+											<td align=3D"left" valign=3D"middle"><img src=3D"http://media.4at5.net/email_domains/gnc/166001/images/arrowd00a2d.png" width=3D"14" height=3D"34" alt=3D"" style=3D"display:block"></td>
+										</tr>
+									</table>
+									</td>
+								</tr>
+								<tr>
+									<td height=3D"10" style=3D"line-height:1px; font-size:1px;" align=3D"left">&nbsp;</td>
+								</tr>
+
+
+                <!-- Disclaimer -->
+								<tr>
+									<td class=3D"padLR" align=3D"left" valign=3D"middle" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; color: #333333; text-align:left;">Does not combine with any other promotion. No coupon necessary for in-store discount.</td>
+								</tr>
+								<tr>
+									<td height=3D"20" style=3D"line-height:1px; font-size:1px;" align=3D"left">&nbsp;</td>
+								</tr>
+
+							</table>
+							</td>
+							<td bgcolor=3D"#ffffff" class=3D"hide" width=3D"10" align=3D"left" valign=3D"top" style=3D"font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;"></td>
+		<!-- Right side - Image -->
+							<td bgcolor=3D"#ffffff" class=3D"stackTop" align=3D"center" valign=3D"top">
+							<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+								<tr>
+									<td align=3D"center" valign=3D"top"><a href=3D"http://link.mail.gnc.com/u.d?bYGjf4xkyxSosw9tvow-=3D141&camp=3DCME:20150426_2ECPromo:20150426&ym=3Dym_2ECPromo1573532"><img src=3D"http://images.postdirect.com/master/11/1573532/dealoftheday.jpg" alt=3D"" width=3D"312" class=3D"fullSizeImg" style=3D"display:block" border=3D"0"></a></td>
+                                    <tr>
+									<td height=3D"20" style=3D"line-height:1px; font-size:1px;" align=3D"left">&nbsp;</td>
+								</tr>
+
+							</table>
+							</td>
+							<td bgcolor=3D"#ffffff" class=3D"hide" width=3D"20" align=3D"left" valign=3D"top" style=3D"font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;"></td>
+						</tr>
+					</table>
+
+					</td>
+					<td class=3D"hide" height=3D"20" width=3D"9" style=3D"font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align=3D"left"></td>
+			</tr>
+		</table>
+		<!-- END 02B FEATURE B - IMAGE RIGHT, COPY LEFT -->
+
+
+
+
+
+    <!-- 20px Spacer -->
+					<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+						<tr>
+							<td height=3D"20" style=3D"font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align=3D"left">&nbsp;</td>
+						</tr>
+					</table>
+
+                            <!-- 04A BANNER IMAGE-->
+		<table class=3D"full-width" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" bgcolor=3D"#ffffff">
+			<tr>
+				<td align=3D"left" valign=3D"top"><a href=3D"http://link.mail.gnc.com/u.d?MYGjf4xkyxSosw9tvowz=3D151&camp=3DCME:20150426_2ECPromo:20150426&ym=3Dym_2ECPromo1573532" target=3D"_blank"><span class=3D"mod04AImg"></span><img src=3D"http://images.postdirect.com/master/11/1573532/banner_desktop.jpg" alt=3D"" width=3D"640" class=3D"hide" style=3D"display:block" border=3D"0"></a></td>
+			</tr>
+		</table>
+        <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" bgcolor=3D"#efefef">
+			<tr>
+				<td class=3D"hide" width=3D"15" align=3D"left" valign=3D"top"></td>
+
+				<td class=3D"full-width" align=3D"left" valign=3D"top">
+				<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+
+
+<!-- CTAs -->
+					<tr>
+						<td class=3D"alignL padLR" align=3D"left" valign=3D"middle">
+						<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+							<tr>
+								<td class=3D"stack" align=3D"left" valign=3D"middle">
+								<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+									<tr>
+										<td width=3D"10" align=3D"left" valign=3D"middle" bgcolor=3D"#d00a2d"></td>
+										<td align=3D"left" valign=3D"middle" bgcolor=3D"#d00a2d" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; color: #ffffff; font-weight:bold;text-transform:uppercase;"><a href=3D"http://link.mail.gnc.com/u.d?A4Gjf4xkyxSosw9tvowt=3D171&camp=3DCME:20150426_2ECPromo:20150426&ym=3Dym_2ECPromo1573532" target=3D"_blank" style=3D"text-decoration:none; color:#ffffff;">learn more</a></td>
+										<td width=3D"10" align=3D"left" valign=3D"middle" bgcolor=3D"#d00a2d"></td>
+										<td align=3D"left" valign=3D"middle"><img src=3D"http://media.4at5.net/email_domains/gnc/166001/images/arrowd00a2d.png" width=3D"14" height=3D"34" alt=3D"" style=3D"display:block"></td>
+										<td width=3D"10" align=3D"left" valign=3D"middle"><img src=3D"http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" width=3D"10" height=3D"34" alt=3D"" style=3D"display:block"></td>
+										<td width=3D"10" align=3D"left" valign=3D"middle" bgcolor=3D"#d00a2d"></td>
+										<td align=3D"left" valign=3D"middle" bgcolor=3D"#d00a2d" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; color: #ffffff; font-weight:bold;text-transform:uppercase;"><a href=3D"http://link.mail.gnc.com/u.d?YYGjf4xkyxSosw9tvowo=3D161&camp=3DCME:20150426_2ECPromo:20150426&ym=3Dym_2ECPromo1573532" target=3D"_blank" style=3D"text-decoration:none; color:#ffffff;">shop now</a></td>
+										<td width=3D"10" align=3D"left" valign=3D"middle" bgcolor=3D"#d00a2d"></td>
+										<td align=3D"left" valign=3D"middle"><img src=3D"http://media.4at5.net/email_domains/gnc/166001/images/arrowd00a2d.png" width=3D"14" height=3D"34" alt=3D"" style=3D"display:block"></td>
+									</tr>
+								</table>
+								</td>
+								<td class=3D"stack" width=3D"20" align=3D"left" valign=3D"middle" style=3D"font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;"><img src=3D"http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" width=3D"20" height=3D"10" alt=3D"" style=3D"display:block"></td>
+
+							</tr>
+						</table>
+						</td>
+					</tr>
+
+
+<!-- social -->
+
+					<tr>
+						<td height=3D"20" style=3D"line-height:1px; font-size:1px;" align=3D"left">&nbsp;</td>
+					</tr>
+				</table>
+				</td>
+				<td class=3D"hide" width=3D"20" height=3D"10" style=3D"font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align=3D"left"></td>
+			</tr>
+		</table>
+				<!-- END 04A BANNER IMAGE-->
+
+        	<!-- 20px Spacer -->
+					<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+						<tr>
+							<td height=3D"20" style=3D"font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align=3D"left">&nbsp;</td>
+						</tr>
+					</table>
+
+
+		<!-- closing table for all email body content -->
+		</td></tr></table>
+		<!-- end closing table for all email body content -->
+
+		</td></tr>
+		</table>
+		</td>
+	</tr>
+</table>
+<!-- end body container -->
+
+<!-- begin footer container -->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" bgcolor=3D"#A8A8A8" class=3D"footer">
+	<tr>
+		<td align=3D"center">
+		<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"640" class=3D"full-width-container">
+		<tr><td width=3D"640" align=3D"center" style=3D"min-width:640px;" class=3D"full-width-container">
+
+		<!-- footer -->
+			<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+				<tr>
+					<td align=3D"center">
+		<!-- 20px Spacer -->
+					<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+						<tr>
+							<td height=3D"20" style=3D"font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align=3D"left">&nbsp;</td>
+						</tr>
+					</table>
+
+<!-- US English footer -->
+<!-- Social US -->
+					<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+						<tr>
+							<td align=3D"center" valign=3D"middle">
+							<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" class=3D"center" bgcolor=3D"#a8a8a8">
+								<tr>
+									<td align=3D"left" valign=3D"middle" class=3D"navlink"><a href=3D"http://link.mail.gnc.com/u.d?D4Gjf4xkyxSoswus=3D3&camp=3DCME:20150426_2ECPromo:20150426&ym=3Dym_2ECPromo1573532" target=3D"_blank"><img src=3D"http://media.4at5.net/email_domains/gnc/166001/images/socFB.jpg" width=3D"37" height=3D"32" border=3D"0" alt=3D"Facebook" style=3D"display:block"></a></td>
+									<td align=3D"left" valign=3D"middle" class=3D"navlink"><a href=3D"http://link.mail.gnc.com/u.d?JYGjf4xkyxSoswur=3D13&camp=3DCME:20150426_2ECPromo:20150426&ym=3Dym_2ECPromo1573532" target=3D"_blank"><img src=3D"http://media.4at5.net/email_domains/gnc/166001/images/socTw.jpg" width=3D"36" height=3D"32" border=3D"0" alt=3D"Twitter" style=3D"display:block"></a></td>
+									<td align=3D"left" valign=3D"middle" class=3D"navlink"><a href=3D"http://link.mail.gnc.com/u.d?L4Gjf4xkyxSoswum=3D23&camp=3DCME:20150426_2ECPromo:20150426&ym=3Dym_2ECPromo1573532" target=3D"_blank"><img src=3D"http://media.4at5.net/email_domains/gnc/166001/images/socIG.jpg" width=3D"41" height=3D"32" border=3D"0" alt=3D"Instagram" style=3D"display:block"></a></td>
+									<td align=3D"left" valign=3D"middle" class=3D"navlink"><a href=3D"http://link.mail.gnc.com/u.d?WYGjf4xkyxSoswu96=3D33&camp=3DCME:20150426_2ECPromo:20150426&ym=3Dym_2ECPromo1573532" target=3D"_blank"><img src=3D"http://media.4at5.net/email_domains/gnc/166001/images/socPin.jpg" width=3D"37" height=3D"32" border=3D"0" alt=3D"Pintrest" style=3D"display:block"></a></td>
+									<td align=3D"left" valign=3D"middle" class=3D"navlink"><a href=3D"http://link.mail.gnc.com/u.d?M4Gjf4xkyxSoswu9_=3D43&camp=3DCME:20150426_2ECPromo:20150426&ym=3Dym_2ECPromo1573532" target=3D"_blank"><img src=3D"http://media.4at5.net/email_domains/gnc/166001/images/socYT.jpg" width=3D"37" height=3D"32" border=3D"0" alt=3D"You Tube" style=3D"display:block"></a></td>
+									<td align=3D"left" valign=3D"middle" class=3D"navlink"><a href=3D"http://link.mail.gnc.com/u.d?GYGjf4xkyxSoswu9w=3D53&camp=3DCME:20150426_2ECPromo:20150426&ym=3Dym_2ECPromo1573532" target=3D"_blank"><img src=3D"http://media.4at5.net/email_domains/gnc/166001/images/socSS.jpg" width=3D"37" height=3D"32" border=3D"0" alt=3D"Subscribe" style=3D"display:block"></a></td>
+								</tr>
+							</table>
+							</td>
+						</tr>
+						<tr>
+							<td height=3D"10" style=3D"font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align=3D"left"></td>
+						</tr>
+					</table>
+		<!-- Contact Nav -->
+					<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center">
+						<tr>
+							<td class=3D"stack legalfooter" align=3D"right">
+							<table class=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+								<tr>
+									<td align=3D"left" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:16px;color:#000000;"><a href=3D"http://link.mail.gnc.com/u.d?KYGjf4xkyxSoswu91=3D63&camp=3DCME:20150426_2ECPromo:20150426&ym=3Dym_2ECPromo1573532" style=3D"color:#000000; text-decoration:none;"><span style=3D"color:#000000">Locations</span></a></td>
+									<td width=3D"20" style=3D"font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align=3D"left"></td>
+									<td align=3D"left" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:16px;color:#000000;"><a href=3D"http://link.mail.gnc.com/u.d?DYGjf4xkyxSoswu9O=3D73&camp=3DCME:20150426_2ECPromo:20150426&ym=3Dym_2ECPromo1573532" style=3D"color:#000000; text-decoration:none;"><span style=3D"color:#000000">Gold Card</span></a></td>
+								</tr>
+							</table>
+							</td>
+							<td class=3D"stack legalfooter" align=3D"left">
+							<table class=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+								<tr>
+									<td width=3D"20" style=3D"font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align=3D"left" class=3D"hide"></td>
+									<td align=3D"left" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:16px;color:#000000;"><a href=3D"http://link.mail.gnc.com/u.d?Z4Gjf4xkyxSoswu9E=3D93&camp=3DCME:20150426_2ECPromo:20150426&ym=3Dym_2ECPromo1573532" style=3D"color:#000000; text-decoration:none;"><span style=3D"color:#000000">Franchising</span></a></td>
+									<td width=3D"20" style=3D"font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align=3D"left"></td>
+									<td align=3D"left" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:16px;color:#000000;"><a href=3D"http://link.mail.gnc.com/u.d?B4Gjf4xkyxSoswu9Z=3D103&camp=3DCME:20150426_2ECPromo:20150426&ym=3Dym_2ECPromo1573532" style=3D"color:#000000; text-decoration:none;"><span style=3D"color:#000000">Contact Us</span></a></td>
+								</tr>
+							</table>
+							</td>
+						</tr>
+					</table>
+
+		<!-- 10px Spacer -->
+					<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+						<tr>
+							<td height=3D"10" style=3D"font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align=3D"left"></td>
+						</tr>
+					</table>
+					<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+						<tr>
+							<td width=3D"10" style=3D"font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align=3D"left"></td>
+							<td align=3D"left" valign=3D"middle" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:10px; color: #000000; line-height:14px; text-align:left;" class=3D"legalfooter">
+
+These statements have not been evaluated by the FDA. These products are not intended to diagnose, treat, cure or prevent any disease. Regular prices effective through May 18, 2015 at <span class=3D"applefix1">GNC.com</span>, through phone orders via  <span class=3D"applefix1">1-877-GNC-4700</span>, and at participating GNC stores in the U.S.  All products and prices may not be available at all locations. Pricing and promotions may not be available online. Prices may be higher in Alaska, Hawaii and Puerto Rico. Sales on select fitness equipment may not be combined with any discounts or Member Pricing. StriVectin&reg; products cannot be combined with any discount. Auto Delivery items cannot be combined with any discount except special Auto-Delivery-only promotions. Errors and omissions are not the responsibility of the advertiser. Shop one of more than 6,200 GNC stores. Call  <span class=3D"applefix1">1-800-477-4462</span> or visit  <span class=3D"applefix1">GNC.com</span> for the store nearest you.<br><br>
+*Offer valid online only April 26, 2015. Buy one, get one of equal or lesser value 50% off. Mix and match. Select products only. Excludes discontinued and Non-Member Sale products. Other exclusions may apply. Click =E2=80=9CShop Now" to view specific products included in the sale.<br><br>
+&dagger;Offer valid April 26, 2015. Buy one, get one of equal or lesser value 50% off. Mix and match. Select products only. Excludes discontinued and Non-Member Sale products. Other exclusions may apply. See associate for details or click =E2=80=9CShop Now" to view specific products included in the sale.
+
+<br><br>
+							You have received this email at <a href=3D"#" onclick=3D"return false" style=3D"color:#000000; text-decoration:none; cursor:text;" target=3D"_blank">blackyao12@gmail.com</a>. To receive fewer emails or unsubscribe, <a href=3D"http://mail.gnc.com/unsubscribe_usa.jsp?s=3DZYUz&i=3D2038977239609" target=3D"_blank" style=3D"text-decoration:underline;"><font color=3D"#000000">click here</font></a>. <br>
+							<br>
+							View our Privacy Policy: <a href=3D"http://link.mail.gnc.com/u.d?Y4Gjf4xkyxSoswh8P=3D203&camp=3DCME:20150426_2ECPromo:20150426&ym=3Dym_2ECPromo1573532" target=3D"_blank" style=3D"text-decoration:underline;"><font color=3D"#000000">click here</font></a>. <br>
+							<br>
+							To update your email address or change your personal options, visit the My Account area at <a href=3D"http://link.mail.gnc.com/u.d?X4Gjf4xkyxSoswh9S=3D113&camp=3DCME:20150426_2ECPromo:20150426&ym=3Dym_2ECPromo1573532" target=3D"_blank" style=3D"text-decoration:none; color:#000000;">GNC.com</a> or contact GNC Customer Service at <a href=3D"tel:1-888-462-2548" onclick=3D"return false" style=3D"color:#000000; text-decoration:none; cursor:text;" target=3D"_blank"><span class=3D"applefix1">1-888-462-2548</span></a>. You may also write to GNC at: General Nutrition Corporation / Attn: Customer Service / <span class=3D"applefix1">300 Sixth Ave / Pittsburgh, PA 15222 USA.</span> </span></td>
+							<td width=3D"10" style=3D"font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align=3D"left"></td>
+						</tr>
+					</table>
+
+		<!-- 20px Spacer -->
+					<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+						<tr>
+							<td height=3D"20" style=3D"font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align=3D"left">&nbsp;</td>
+						</tr>
+					</table>
+		<!-- end Disclaimer -->
+
+		<!--end footer -->
+					</td>
+				</tr>
+			</table>
+		<!-- end footer -->
+
+		</td></tr>
+		</table>
+		</td>
+	</tr>
+</table>
+<!-- end footer container -->
+
+
+<!-- closing table to rearrange content -->
+</td></tr></table>
+<!-- end closing table to rearrange content -->
+
+		</td>
+	</tr>
+</table>
+</body>
+</html>
+

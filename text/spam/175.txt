@@ -1,0 +1,836 @@
+<html>
+<head>
+    <style media=3D"screen and (max-width: 478px)">
+        @media screen and (max-width: 480px) {
+            table[class=3Dmain],
+            table[class=3Dwishprod],
+            table[class=3Dmain-product],
+            table[class=3Dbest-seller-prods],
+            table[class=3Dbest-seller-prods-ac],
+            td[class=3Dbest-seller-prods-ac] {
+                width: 320px !important;
+            }
+
+            td[class=3Dtitle-wishlist] {
+                font-size: 14px !important;
+            }
+
+            td[class=3Dtitle-welcome] {
+                font-size: 15px !important;
+            }
+
+            td[class=3Dbuy-button] a {
+                display: block !important;
+                color: #fff !important;
+                background-color: #ef164b !important;
+                line-height: 40px !important;
+                height: 40px !important;
+                width: 100% !important;
+                text-transform: uppercase !important;
+                letter-spacing: 2px !important;
+                text-align: center !important;
+                text-decoration: none !important;
+            }
+
+            td[class=3Dbuy-button-ac2] a {
+                display: block !important;
+                color: #fff !important;
+                background-color: #ef164b !important;
+                line-height: 40px !important;
+                height: 40px !important;
+                width: 100% !important;
+                text-transform: uppercase !important;
+                letter-spacing: 2px !important;
+                font-size: 11px !important;
+                text-align: center !important;
+                text-decoration: none !important;
+            }
+
+            td[class=3Dproduct-render-table-ac2],
+            td[class=3Dproduct-render-table] {
+                width: 160px !important;
+            }
+
+            td[class=3Dmobile-product-spacer] {
+                height: 30px !important;
+            }
+
+            td[class=3Dheader-notification] {
+                font-size: 10px !important;
+            }
+
+            td[class=3Dfooter-link],
+            td[class=3Dfooter-link] a,
+            td[class=3Dfooter-description],
+            td[class=3Dfooter-description] a {
+                font-size: 9px !important;
+            }
+
+            .hide-on-mobile,
+            td[class=3Dhide-on-mobile] {
+                display: none !important;
+            }
+
+            .hide-on-desktop,
+            td[class=3Dhide-on-desktop] {
+                display: block !important;
+            }
+
+            tr[class=3Dresp-product] {
+                height: 146px !important;
+            }
+
+            td[class=3Dheight-20] {
+                height: 10px !important;
+            }
+
+            td[class=3Dmobile-reduced-font] a {
+                font-size: 9px !important;
+                -webkit-text-size-adjust: none !important;
+            }
+
+            td[class=3Doutlookwidth-92],
+            td[class=3Doutlookwidth] {
+                width: 144px !important;
+            }
+
+            td[class=3Doutlookwidth-11],
+            td[class=3Doutlookwidth-16] {
+                width: 16px !important;
+            }
+
+            /*price drop*/
+            td[class=3Dpd-height80] {
+                height: 20px !important;
+            }
+            td[class=3Dpd-center-on-mobile] {
+                text-align: center !important;
+            }
+
+            /*ac2*/
+            td[class=3Dwidth-30] {
+                width: 25px !important;
+            }
+            td[class=3Dwidth-328] {
+                width: 268px !important;
+            }
+
+            /*wishlist*/
+            td[class=3Dw30] {
+                width: 10px !important;
+            }
+            table[class=3Dw340] {
+                width: 310px !important;
+            }
+            td[class=3Dfont14] {
+                font-size: 12px !important;
+            }
+
+            /*abandomed search*/
+            td[class=3Das-img-width],
+            img[class=3Das-img-width] {
+                width: 115px !important;
+            }
+            td[class=3Dproduct-render-table-as],
+            table[class=3Dproduct-render-table-as] {
+                width: 127px !important;
+            }
+            td[class=3Dprod-table-as],
+            table[class=3Dprod-table-as] {
+                width: 254px !important;
+            }
+            td[class=3Dprod-space] {
+                width: 6px !important;
+            }
+            td[class=3Dprod-space-height] {
+                height: 12px !important;
+            }
+        }
+
+    </style>
+</head>
+<body>
+    <table class=3D"main" align=3D"center" cellspacing=3D"0" cellpadding=3D=
+"0" border=3D"0" width=3D"640" style=3D"font-family:Arial, Helvetica, sans-=
+serif; font-size:14px; color:#000000; mso-table-lspace:0px; mso-table-rspac=
+e:0px; border-collapse:collapse; mso-line-height-rule:exactly; width:640px">
+        <tr><td class=3D"header-notification" height=3D"6" style=3D"font-fa=
+mily:Arial, Helvetica, sans-serif; font-size:14px; border-collapse:collapse=
+; mso-line-height-rule:exactly; color:#666666; background-color:#f5f5f5" bg=
+color=3D"#f5f5f5"></td></tr>
+        <tr>
+            <td class=3D"header-notification" align=3D"center" style=3D"fon=
+t-family:Arial, Helvetica, sans-serif; font-size:14px; border-collapse:coll=
+apse; mso-line-height-rule:exactly; color:#666666; background-color:#f5f5f5=
+" bgcolor=3D"#f5f5f5">
+                Kill that midday slump. We&#8217;re serving up style and &#=
+8211; as always &#8211; you&#8217;re in.
+            </td>
+        </tr>
+        <tr><td class=3D"header-notification header-border" height=3D"6" st=
+yle=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; border-col=
+lapse:collapse; mso-line-height-rule:exactly; color:#666666; background-col=
+or:#f5f5f5; border-bottom:1px solid #cdcdcd" bgcolor=3D"#f5f5f5"></td></tr>
+        <tr><td height=3D"10" style=3D"font-family:Arial, Helvetica, sans-s=
+erif; font-size:14px; color:#000000; border-collapse:collapse; mso-line-hei=
+ght-rule:exactly"></td></tr>
+        <tr>
+            <td class=3D"header-account" style=3D"font-family:Arial, Helvet=
+ica, sans-serif; font-size:14px; border-collapse:collapse; mso-line-height-=
+rule:exactly; text-transform:uppercase; font-weight:700; color:#777777; tex=
+t-decoration:none">
+                <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" wid=
+th=3D"100%" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14=
+px; color:#000000; mso-table-lspace:0px; mso-table-rspace:0px; border-colla=
+pse:collapse; mso-line-height-rule:exactly">
+                    <tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                        <td align=3D"left" style=3D"font-family:Arial, Helv=
+etica, sans-serif; font-size:14px; color:#000000; border-collapse:collapse;=
+ mso-line-height-rule:exactly">
+                            <a href=3D"http://emails.ruelala.com/wf/click?u=
+pn=3DopuBm1-2FW6YYzrTPvgLPhlJLVJcQPbjLi7yGsMCb5phJbsJrOQuSKEZ0ZZrLjxBUQI-2F=
+LRx0snBk3k-2FRKfhUJk3CMvLEWwRnh8XoKJHK46tzgKQRYYai25od2jBh2Y-2BwtGXyYTvZaFp=
+nXd1eMQC1pjEA-3D-3D_gQT0YvJb9VaJ4yc7C1Hnu3jgphUTUZ96v06Wd-2FxE0bT67Cx6-2BJ0=
+LMcoWwZ-2B3tUqWSIW-2BuL60s5OhlWDDJdOr1efIBtPhXRkziMwkixBzgaaQ1mRKaOAyVB-2BB=
+9jqOtDFCCga-2FVcJEqYOmix6pgSJRhS-2BDt83dt9977h8YaVeG1KF-2FNgE3KDO4xREH-2Fed=
+eVy8hf-2FZnYXvYuV5ei2axgE8krYCPhxrRnvdiC8eD17P-2F4yP9FuUmOghw4NSqnDubc4Yplx=
+x-2BmMv7o8EPj2Zhx4deJz4JOQmiiQMro-2FLVWgRcRMeupig8WHVGpkEPkhQ0VeQOAiWrFwRlO=
+IFdFxuMrChWF0-2FHnNsmoYzO0m6n5Z4rttGHjUAioN6jDIseFkcDlujWB97HLNOXlZ5T6eJ5PE=
+KH9YVZFhPPi2DN6iXGdmK4fk4ul-2BG031hD-2FgS797imMxOe" class=3D"header-custome=
+r" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; text-=
+transform:uppercase; font-weight:700; color:#777777; text-decoration:none">=
+Hello!</a>
+                        </td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                        <td align=3D"right" style=3D"font-family:Arial, Hel=
+vetica, sans-serif; font-size:14px; color:#000000; border-collapse:collapse=
+; mso-line-height-rule:exactly">
+                            <a href=3D"http://emails.ruelala.com/wf/click?u=
+pn=3Dang7WTyOa3Y4g7EE2htTyg0Ej-2BMUKC0DkcOYkXC-2F7XKAYmG7W2rxCBAs81dRtYPVC3=
+c9g6YV-2F4NuAvOUYHSpJAsbRQflCIwXZFvJAtUgx7BVxF0Fjm4LcJ8foJEmr-2BGNgQHp4CqsA=
+x-2F7VdEyxTnaZA-3D-3D_gQT0YvJb9VaJ4yc7C1Hnu3jgphUTUZ96v06Wd-2FxE0bT67Cx6-2B=
+J0LMcoWwZ-2B3tUqWSIW-2BuL60s5OhlWDDJdOr1efIBtPhXRkziMwkixBzgaaQ1mRKaOAyVB-2=
+BB9jqOtDFCCga-2FVcJEqYOmix6pgSJRhS-2BDt83dt9977h8YaVeG1KF-2FNgE3KDO4xREH-2F=
+edeVy8hf-2FZnYXvYuV5ei2axgE8krYCPhxrRnvdiC8eD17P-2F4yP9FuUmOghw4NSqnDubc4Yp=
+lxx-2BmMv7o8EPj2Zhx4deJz4JOQmiiQMro-2FLVWgRcRMe0iLE8phIuq2nZ11A11jZmIzYau4N=
+BCveRGYe7OXbjYsfCeVp6ESzOAseHb-2B6eZ-2BHt2233nvqdYrHbMoeXvGCD1fbxUtqb95aaiq=
+SLIuhAGkCq-2BUf5jQ9EsQ5j3snrNhLucLnKxHHHkAiWdmqIE-2FiS" class=3D"header-acc=
+ount" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; te=
+xt-transform:uppercase; font-weight:700; color:#777777; text-decoration:non=
+e">My Account</a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr><td height=3D"10" style=3D"font-family:Arial, Helvetica, sans-s=
+erif; font-size:14px; color:#000000; border-collapse:collapse; mso-line-hei=
+ght-rule:exactly"></td></tr>
+        <tr>
+            <td align=3D"center" style=3D"font-family:Arial, Helvetica, san=
+s-serif; font-size:14px; color:#000000; border-collapse:collapse; mso-line-=
+height-rule:exactly">
+                <table align=3D"center" cellspacing=3D"0" cellpadding=3D"0"=
+ border=3D"0" width=3D"100%" style=3D"font-family:Arial, Helvetica, sans-se=
+rif; font-size:14px; color:#000000; mso-table-lspace:0px; mso-table-rspace:=
+0px; border-collapse:collapse; mso-line-height-rule:exactly">
+                    <tr>
+                        <td width=3D"30%" valign=3D"bottom" style=3D"font-f=
+amily:Arial, Helvetica, sans-serif; font-size:14px; color:#000000; border-c=
+ollapse:collapse; mso-line-height-rule:exactly"></td>
+                        <td width=3D"40%" align=3D"center" style=3D"font-fa=
+mily:Arial, Helvetica, sans-serif; font-size:14px; color:#000000; border-co=
+llapse:collapse; mso-line-height-rule:exactly">
+                            <a href=3D"http://emails.ruelala.com/wf/click?u=
+pn=3Dang7WTyOa3Y4g7EE2htTyrDkVanaIvXPcrTjPQKlHqY0bJnxEMYeF0ysxyTQ1J4zN0GFB9=
+UZIoXzAAvEj2yKvJELzb3J5Ksm4hiSaD-2B6dgcY-2BYH7OZKPYbIAuJQSWj1YY7xaGELkx4eat=
+BpT-2FZUNKg-3D-3D_gQT0YvJb9VaJ4yc7C1Hnu3jgphUTUZ96v06Wd-2FxE0bT67Cx6-2BJ0LM=
+coWwZ-2B3tUqWSIW-2BuL60s5OhlWDDJdOr1efIBtPhXRkziMwkixBzgaaQ1mRKaOAyVB-2BB9j=
+qOtDFCCga-2FVcJEqYOmix6pgSJRhS-2BDt83dt9977h8YaVeG1KF-2FNgE3KDO4xREH-2FedeV=
+y8hf-2FZnYXvYuV5ei2axgE8krYCPhxrRnvdiC8eD17P-2F4yP9FuUmOghw4NSqnDubc4Yplxx-=
+2BmMv7o8EPj2Zhx4deJz4JOQmiiQMro-2FLVWgRcRMc-2BQVosjgbIR7BPTvKvgd-2BLRAfdd6h=
+gulzu-2Bjc-2BTn-2FggPr-2BUbLvaPuvfbiJ0m-2FLsJi-2BDiGK6NlCE6CcHjvsjJLVWGx9CT=
+w7FeTvswu5oZVvC5dHo7NwKA9P30AMDU5hhvmcLwbDSp0jFxRLiyESl3bX" style=3D"font-f=
+amily:Arial, Helvetica, sans-serif; font-size:14px; color:#000000">
+                                <img src=3D"http://img.triggermail.io/ruela=
+la/logo.png" width=3D"170" class=3D"logo" align=3D"center" alt=3D"ruelala" =
+border=3D"0">
+                            </a>
+                        </td>
+                        <td width=3D"30%" valign=3D"bottom" style=3D"font-f=
+amily:Arial, Helvetica, sans-serif; font-size:14px; color:#000000; border-c=
+ollapse:collapse; mso-line-height-rule:exactly"></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr><td height=3D"15" class=3D"bottom-line" style=3D"font-family:Ar=
+ial, Helvetica, sans-serif; font-size:14px; color:#000000; border-collapse:=
+collapse; mso-line-height-rule:exactly; border-bottom:3px solid #e9e9e9"></=
+td></tr>
+        <tr>
+            <td height=3D"32" class=3D"bottom-line" style=3D"font-family:Ar=
+ial, Helvetica, sans-serif; font-size:14px; color:#000000; border-collapse:=
+collapse; mso-line-height-rule:exactly; border-bottom:3px solid #e9e9e9">
+                <table align=3D"center" cellspacing=3D"0" cellpadding=3D"0"=
+ border=3D"0" width=3D"100%" class=3D"menu" style=3D"font-family:Arial, Hel=
+vetica, sans-serif; font-size:14px; color:#000000; mso-table-lspace:0px; ms=
+o-table-rspace:0px; border-collapse:collapse; mso-line-height-rule:exactly">
+                    <tr>
+                        <td valign=3D"middle" align=3D"center" style=3D"fon=
+t-family:Arial, Helvetica, sans-serif; font-size:14px; color:#000000; borde=
+r-collapse:collapse; mso-line-height-rule:exactly"><a href=3D"http://emails=
+.ruelala.com/wf/click?upn=3Dang7WTyOa3Y4g7EE2htTyg0Ej-2BMUKC0DkcOYkXC-2F7XI=
+3afJ06DVKDBdCBlqt1PnpmzgcprNzZdbLR6vvd4q1wsjr0O0PGctfcDOEq9QQIRufePcCUGIuuy=
+P7wSgvscnJVZBrO0-2BjjnoxaA2U97Yj4Q-3D-3D_gQT0YvJb9VaJ4yc7C1Hnu3jgphUTUZ96v0=
+6Wd-2FxE0bT67Cx6-2BJ0LMcoWwZ-2B3tUqWSIW-2BuL60s5OhlWDDJdOr1efIBtPhXRkziMwki=
+xBzgaaQ1mRKaOAyVB-2BB9jqOtDFCCga-2FVcJEqYOmix6pgSJRhS-2BDt83dt9977h8YaVeG1K=
+F-2FNgE3KDO4xREH-2FedeVy8hf-2FZnYXvYuV5ei2axgE8krYCPhxrRnvdiC8eD17P-2F4yP9F=
+uUmOghw4NSqnDubc4Yplxx-2BmMv7o8EPj2Zhx4deJz4JOQmiiQMro-2FLVWgRcRMf6wh6O59Cz=
+Sn81Cn-2F8af4pwX32o50nDm7sB08AL9n-2FdTcTIOv8jxIZwuy0999FnDhsosKLJjlgvfjPzU1=
+qApCHCPT1nhwSypOaY-2BlMq9IfDJh1L9sGCZt0EfEx-2FYUdLiu4RdyCCEe1IjI6YcjITPa8" =
+style=3D"font-family:Arial, Helvetica, sans-serif; color:#000000; text-deco=
+ration:none; font-weight:bold; font-size:12px">ALL</a></td>
+                        <td valign=3D"middle" align=3D"center" style=3D"fon=
+t-family:Arial, Helvetica, sans-serif; font-size:14px; color:#000000; borde=
+r-collapse:collapse; mso-line-height-rule:exactly"><a href=3D"http://emails=
+.ruelala.com/wf/click?upn=3Dang7WTyOa3Y4g7EE2htTyg0Ej-2BMUKC0DkcOYkXC-2F7XK=
+UF8VElmbbu6uw-2FlSXkzulasnbyJZvDaBqNcVrrFaNuKJjiglRBDm8VFtvbESP8gGhjhJp2m5n=
+V4eS1VhDUl8NIKFhWfTVTIe4WdFvplx8goujieAetikCHDAnkVOqt4aGawSbRMFRZxekhFJka2d=
+O_gQT0YvJb9VaJ4yc7C1Hnu3jgphUTUZ96v06Wd-2FxE0bT67Cx6-2BJ0LMcoWwZ-2B3tUqWSIW=
+-2BuL60s5OhlWDDJdOr1efIBtPhXRkziMwkixBzgaaQ1mRKaOAyVB-2BB9jqOtDFCCga-2FVcJE=
+qYOmix6pgSJRhS-2BDt83dt9977h8YaVeG1KF-2FNgE3KDO4xREH-2FedeVy8hf-2FZnYXvYuV5=
+ei2axgE8krYCPhxrRnvdiC8eD17P-2F4yP9FuUmOghw4NSqnDubc4Yplxx-2BmMv7o8EPj2Zhx4=
+deJz4JOQmiiQMro-2FLVWgRcRMeKTjxt6jdtO33kji1kP0rXzoKESoXgzSNf3JGGdWx-2FiRVjF=
+kUDiGXswXB-2BM3evpEcBLXz3h6tZTgO7N4kGZXo6Fl3fQxg6-2FtxHtiNX2zFwW7ukQuy2TAOE=
+iOGQo8SwotCjtZzdvPyVFB3a6kipH1Jv" style=3D"font-family:Arial, Helvetica, sa=
+ns-serif; color:#000000; text-decoration:none; font-weight:bold; font-size:=
+12px">WOMEN</a></td>
+                        <td valign=3D"middle" align=3D"center" style=3D"fon=
+t-family:Arial, Helvetica, sans-serif; font-size:14px; color:#000000; borde=
+r-collapse:collapse; mso-line-height-rule:exactly"><a href=3D"http://emails=
+.ruelala.com/wf/click?upn=3Dang7WTyOa3Y4g7EE2htTyg0Ej-2BMUKC0DkcOYkXC-2F7XK=
+UF8VElmbbu6uw-2FlSXkzuljULsJHWSdLizCELpEd1pZLBCo-2Bg81DW0REG19jpMAwYK0KcvxU=
+1zArnOszRpxydybt2fCKkQi4f8hv1bpzwPp4x9xLryRPmIVSbzQTMUnQA-3D_gQT0YvJb9VaJ4y=
+c7C1Hnu3jgphUTUZ96v06Wd-2FxE0bT67Cx6-2BJ0LMcoWwZ-2B3tUqWSIW-2BuL60s5OhlWDDJ=
+dOr1efIBtPhXRkziMwkixBzgaaQ1mRKaOAyVB-2BB9jqOtDFCCga-2FVcJEqYOmix6pgSJRhS-2=
+BDt83dt9977h8YaVeG1KF-2FNgE3KDO4xREH-2FedeVy8hf-2FZnYXvYuV5ei2axgE8krYCPhxr=
+RnvdiC8eD17P-2F4yP9FuUmOghw4NSqnDubc4Yplxx-2BmMv7o8EPj2Zhx4deJz4JOQmiiQMro-=
+2FLVWgRcRMeHr5izqGyxVyq-2Bi-2FeXCAzjVNGQkFOPx-2FiIUlMuBAxjpO8Oj5XJfTOkDK5Rh=
+nI3pER4h84iUdO3Xh9k68veKyKIydzcclrjyGemuo9Y6paY1v0FHEG57wa53aXan0VQ-2B-2FF9=
+0blmNf-2BUqf-2Fy6apMMWaw" style=3D"font-family:Arial, Helvetica, sans-serif=
+; color:#000000; text-decoration:none; font-weight:bold; font-size:12px">ME=
+N</a></td>
+                        <td valign=3D"middle" align=3D"center" style=3D"fon=
+t-family:Arial, Helvetica, sans-serif; font-size:14px; color:#000000; borde=
+r-collapse:collapse; mso-line-height-rule:exactly"><a href=3D"http://emails=
+.ruelala.com/wf/click?upn=3Dang7WTyOa3Y4g7EE2htTyg0Ej-2BMUKC0DkcOYkXC-2F7XK=
+UF8VElmbbu6uw-2FlSXkzultbKJBTNmixV5ZIsFGw1v-2FYymNrdwU26j0pZWfM-2FB6cj0Jiu0=
+I8lxUuZwrQwDK-2F5fmImB0YLGUeVe9zLt-2FPKjQd-2BPh2V9NwkAbof6SOZ8aI9XiVqYyukmh=
+Pc-2BNEOPfX3b_gQT0YvJb9VaJ4yc7C1Hnu3jgphUTUZ96v06Wd-2FxE0bT67Cx6-2BJ0LMcoWw=
+Z-2B3tUqWSIW-2BuL60s5OhlWDDJdOr1efIBtPhXRkziMwkixBzgaaQ1mRKaOAyVB-2BB9jqOtD=
+FCCga-2FVcJEqYOmix6pgSJRhS-2BDt83dt9977h8YaVeG1KF-2FNgE3KDO4xREH-2FedeVy8hf=
+-2FZnYXvYuV5ei2axgE8krYCPhxrRnvdiC8eD17P-2F4yP9FuUmOghw4NSqnDubc4Yplxx-2BmM=
+v7o8EPj2Zhx4deJz4JOQmiiQMro-2FLVWgRcRMc3l6uIW6ut9UN4XM-2Bmuv7mH-2FNCp-2Be-2=
+FJL4f6NbMyv5YQZxg-2Fd7e6-2BgKAIetKgU7PTJVK8JUMfAv0llwLrhwOAagnEF6-2Bk-2Fod8=
+qKUu1674EJ0ffv31ZeUrIGJTepqXbtx-2BDk-2B-2F27oqPUSXQmeWe3ToSZ" style=3D"font=
+-family:Arial, Helvetica, sans-serif; color:#000000; text-decoration:none; =
+font-weight:bold; font-size:12px">LIVING</a></td>
+                        <td valign=3D"middle" align=3D"center" style=3D"fon=
+t-family:Arial, Helvetica, sans-serif; font-size:14px; color:#000000; borde=
+r-collapse:collapse; mso-line-height-rule:exactly"><a href=3D"http://emails=
+.ruelala.com/wf/click?upn=3Dang7WTyOa3Y4g7EE2htTyg0Ej-2BMUKC0DkcOYkXC-2F7XK=
+UF8VElmbbu6uw-2FlSXkzulw2Z-2Bj85fDl-2B8m8-2BYHFjScLJCugZmncQBkhnvF-2FfCYXC7=
+Yg-2FyrjEfIWNBemJ8CeO-2FkbtNJGCZHFR9AP2C-2FNQbXdwtZeHJyFMr1gpD8Z7r-2BaE-3D_=
+gQT0YvJb9VaJ4yc7C1Hnu3jgphUTUZ96v06Wd-2FxE0bT67Cx6-2BJ0LMcoWwZ-2B3tUqWSIW-2=
+BuL60s5OhlWDDJdOr1efIBtPhXRkziMwkixBzgaaQ1mRKaOAyVB-2BB9jqOtDFCCga-2FVcJEqY=
+Omix6pgSJRhS-2BDt83dt9977h8YaVeG1KF-2FNgE3KDO4xREH-2FedeVy8hf-2FZnYXvYuV5ei=
+2axgE8krYCPhxrRnvdiC8eD17P-2F4yP9FuUmOghw4NSqnDubc4Yplxx-2BmMv7o8EPj2Zhx4de=
+Jz4JOQmiiQMro-2FLVWgRcRMdZW5kiuq7JSDod7K5eOiibXwrtATLzEMkZiF8-2FIqxHDfEnXpw=
+xE9-2FwtzbS0HlHyXC1mtfECxWmWk5K9xGIaVOBHd1hoXHFfvRQ7YbxQUZR9ji48joj6zE7q0ls=
+Pjds313-2BcWY2eATxZcOPaJoLYX-2BE" style=3D"font-family:Arial, Helvetica, sa=
+ns-serif; color:#000000; text-decoration:none; font-weight:bold; font-size:=
+12px">KIDS</a></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td style=3D"font-family:Arial, Helvetica, sans-serif; font-siz=
+e:14px; color:#000000; border-collapse:collapse; mso-line-height-rule:exact=
+ly">
+                <table align=3D"center" cellspacing=3D"0" cellpadding=3D"0"=
+ border=3D"0" width=3D"100%" style=3D"font-family:Arial, Helvetica, sans-se=
+rif; font-size:14px; color:#000000; mso-table-lspace:0px; mso-table-rspace:=
+0px; border-collapse:collapse; mso-line-height-rule:exactly">
+                    <tr><td height=3D"20" style=3D"font-family:Arial, Helve=
+tica, sans-serif; font-size:14px; color:#000000; border-collapse:collapse; =
+mso-line-height-rule:exactly"></td></tr>
+                    <tr>
+                        <td style=3D"font-family:Arial, Helvetica, sans-ser=
+if; font-size:14px; color:#000000; border-collapse:collapse; mso-line-heigh=
+t-rule:exactly">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20
+
+
+=09
+
+
+
+
+<table class=3D"main" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" widt=
+h=3D"640" align=3D"center" style=3D"font-family:Arial, Helvetica, sans-seri=
+f; font-size:14px; color:#000000; mso-table-lspace:0px; mso-table-rspace:0p=
+x; border-collapse:collapse; mso-line-height-rule:exactly; width:640px">
+	<tr>
+		<td class=3D"title-welcome" style=3D"font-family:Arial, Helvetica, sans-s=
+erif; border-collapse:collapse; mso-line-height-rule:exactly; color:#000; f=
+ont-size:15px; text-transform:uppercase; text-align:center" align=3D"center=
+">
+			<strong>HAPPENING NOW:</strong> APRIL 28, 2015
+		</td>
+	</tr>
+	<tr><td height=3D"20" style=3D"font-family:Arial, Helvetica, sans-serif; f=
+ont-size:14px; color:#000000; border-collapse:collapse; mso-line-height-rul=
+e:exactly"></td></tr>
+=09
+=09=09
+		<tr>
+	        <td class=3D"advertising" style=3D"font-family:Arial, Helvetica, s=
+ans-serif; font-size:14px; color:#000000; border-collapse:collapse; mso-lin=
+e-height-rule:exactly">
+	            <a href=3D"http://emails.ruelala.com/wf/click?upn=3DopuBm1-2FW=
+6YYzrTPvgLPhlLg24bd2jR5nsldGlPqc-2FsKRWfZTfjM25hidPOwMZtCxZ1fOKF6uU-2FtiXza=
+2XERnQrOA2w8oIt0-2FOFwq4HodWXv8Bbg-2FIFrrqyE995SF205pAJWuJm0zj9REwATCB-2Fbi=
+m5U5k3G8nQVqU5EgC7jWUJrmKe0rhbXxvH4IwSqirXMfGtPsj7M3emxrfFFy0D58huoGJgP8LVV=
+ZN6C4Quv10EAtUKuTu7P3A9nV3jnnuq2ZKsQ2gCdVr1EYp2y6GWcLbQ-3D-3D_gQT0YvJb9VaJ4=
+yc7C1Hnu3jgphUTUZ96v06Wd-2FxE0bT67Cx6-2BJ0LMcoWwZ-2B3tUqWSIW-2BuL60s5OhlWDD=
+JdOr1efIBtPhXRkziMwkixBzgaaQ1mRKaOAyVB-2BB9jqOtDFCCga-2FVcJEqYOmix6pgSJRhS-=
+2BDt83dt9977h8YaVeG1KF-2FNgE3KDO4xREH-2FedeVy8hf-2FZnYXvYuV5ei2axgE8krYCPhx=
+rRnvdiC8eD17P-2F4yP9FuUmOghw4NSqnDubc4Yplxx-2BmMv7o8EPj2Zhx4deJz4JOQmiiQMro=
+-2FLVWgRcRMddEDNG3lw436Ca0QOnys8N7wIWFwHbsSdUg81-2F1FcPR1LvGEZfeCu-2BtZcRPE=
+ww3RsB8LvcJ2XhklvVxh3KXwLbxlUjzyle5MkqyAHRdJE97nwKnwWJP9OpjnLGwkWDAKDpasUvY=
+u2875Crh841TTaD" style=3D"font-family:Arial, Helvetica, sans-serif; font-si=
+ze:14px; color:#000000">
+	                <img src=3D"http://img.triggermail.io/ruelala/DAY_1_WOMEN_=
+Pandora.jpg" width=3D"100%" alt=3D"Pandora - Unforgettable moments" border=
+=3D"0">
+	            </a>
+	        </td>
+	    </tr>
+	    <tr>
+	    	<td class=3D"main-banner-text" style=3D"font-family:Arial, Helvetica,=
+ sans-serif; font-size:14px; color:#000000; border-collapse:collapse; mso-l=
+ine-height-rule:exactly; border:1px solid #e9e9e9">
+	    		<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"lef=
+t" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; color=
+:#000000; mso-table-lspace:0px; mso-table-rspace:0px; border-collapse:colla=
+pse; mso-line-height-rule:exactly">
+	    			<tr><td height=3D"20" colspan=3D"2" style=3D"font-family:Arial, Hel=
+vetica, sans-serif; font-size:14px; color:#000000; border-collapse:collapse=
+; mso-line-height-rule:exactly"></td></tr>
+	    			<tr>
+	    				<td width=3D"10" style=3D"font-family:Arial, Helvetica, sans-serif=
+; font-size:14px; color:#000000; border-collapse:collapse; mso-line-height-=
+rule:exactly"></td>
+	    				<td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:1=
+4px; color:#000000; border-collapse:collapse; mso-line-height-rule:exactly">
+	    					<a href=3D"http://emails.ruelala.com/wf/click?upn=3DopuBm1-2FW6YY=
+zrTPvgLPhlLg24bd2jR5nsldGlPqc-2FsKRWfZTfjM25hidPOwMZtCxZ1fOKF6uU-2FtiXza2XE=
+RnQrOA2w8oIt0-2FOFwq4HodWXv8Bbg-2FIFrrqyE995SF205pAJWuJm0zj9REwATCB-2Fbim5U=
+5k3G8nQVqU5EgC7jWUJrmKe0rhbXxvH4IwSqirXMfGtPsj7M3emxrfFFy0D58huoGJgP8LVVZN6=
+C4Quv10EAtUKuTu7P3A9nV3jnnuq2ZKsQ2gCdVr1EYp2y6GWcLbQ-3D-3D_gQT0YvJb9VaJ4yc7=
+C1Hnu3jgphUTUZ96v06Wd-2FxE0bT67Cx6-2BJ0LMcoWwZ-2B3tUqWSIW-2BuL60s5OhlWDDJdO=
+r1efIBtPhXRkziMwkixBzgaaQ1mRKaOAyVB-2BB9jqOtDFCCga-2FVcJEqYOmix6pgSJRhS-2BD=
+t83dt9977h8YaVeG1KF-2FNgE3KDO4xREH-2FedeVy8hf-2FZnYXvYuV5ei2axgE8krYCPhxrRn=
+vdiC8eD17P-2F4yP9FuUmOghw4NSqnDubc4Yplxx-2BmMv7o8EPj2Zhx4deJz4JOQmiiQMro-2F=
+LVWgRcRMe-2FSRKv27apNPPOA-2BGYDsNs8bn3ohsdoxEUgvSnTsd7mBjxM7z2afCNonFJnFyqz=
+2R7-2BJFthJTSFXnN7NU0G-2B5aeVOjzx2sDOPAKWPjIPnKz6w8iibOTDrnxkp6opGIovj8eHWE=
+1De-2FSHKI5LlsF2mp" style=3D"font-family:Georgia, serif; font-size:17px; co=
+lor:#000000; text-decoration:none">
+	    						On the It List: PANDORA <span class=3D"arrow" style=3D"color:#ee=
+1e4d">&#9658;</span>
+	    					</a>
+	    				</td>
+	    			</tr>
+	    			<tr><td height=3D"35" colspan=3D"2" style=3D"font-family:Arial, Hel=
+vetica, sans-serif; font-size:14px; color:#000000; border-collapse:collapse=
+; mso-line-height-rule:exactly"></td></tr>
+	    		</table>
+	    	</td>
+	    </tr>
+=09=20=20=20=20
+=20=20=20=20
+	<tr><td height=3D"30" style=3D"font-family:Arial, Helvetica, sans-serif; f=
+ont-size:14px; color:#000000; border-collapse:collapse; mso-line-height-rul=
+e:exactly"></td></tr>
+	<tr>
+		<td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; co=
+lor:#000000; border-collapse:collapse; mso-line-height-rule:exactly">
+			<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"=
+ width=3D"100%" style=3D"font-family:Arial, Helvetica, sans-serif; font-siz=
+e:14px; color:#000000; mso-table-lspace:0px; mso-table-rspace:0px; border-c=
+ollapse:collapse; mso-line-height-rule:exactly">
+				<tr>
+					<td width=3D"5%" style=3D"font-family:Arial, Helvetica, sans-serif; fo=
+nt-size:14px; color:#000000; border-collapse:collapse; mso-line-height-rule=
+:exactly"></td>
+					<td width=3D"90%" class=3D"bottom-line subtitle" style=3D"font-family:=
+Arial, Helvetica, sans-serif; color:#000000; border-collapse:collapse; mso-=
+line-height-rule:exactly; border-bottom:3px solid #e9e9e9; font-size:16px; =
+text-align:center; line-height:35px" align=3D"center">Great taste! We think=
+ you'll like these best sellers too!</td>
+					<td width=3D"5%" style=3D"font-family:Arial, Helvetica, sans-serif; fo=
+nt-size:14px; color:#000000; border-collapse:collapse; mso-line-height-rule=
+:exactly"></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr><td height=3D"20" style=3D"font-family:Arial, Helvetica, sans-serif; f=
+ont-size:14px; color:#000000; border-collapse:collapse; mso-line-height-rul=
+e:exactly"></td></tr>
+	<tr>
+		<td class=3D"main" style=3D"font-family:Arial, Helvetica, sans-serif; fon=
+t-size:14px; color:#000000; border-collapse:collapse; mso-line-height-rule:=
+exactly; width:640px" width=3D"640">
+			<table class=3D"best-seller-prods-ac" cellspacing=3D"0" cellpadding=3D"0=
+" border=3D"0" align=3D"center" style=3D"font-family:Arial, Helvetica, sans=
+-serif; font-size:14px; color:#000000; mso-table-lspace:0px; mso-table-rspa=
+ce:0px; border-collapse:collapse; mso-line-height-rule:exactly; width:640px=
+" width=3D"640">
+				<tr>
+					<td class=3D"best-seller-prods-ac" style=3D"font-family:Arial, Helveti=
+ca, sans-serif; font-size:14px; color:#000000; border-collapse:collapse; ms=
+o-line-height-rule:exactly; width:640px" width=3D"640">
+=09=09=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+						<table class=3D"product-render-table" cellspacing=3D"0" cellpadding=
+=3D"0" border=3D"0" align=3D"left" style=3D"font-family:Arial, Helvetica, s=
+ans-serif; font-size:14px; color:#000000; mso-table-lspace:0px; mso-table-r=
+space:0px; border-collapse:collapse; mso-line-height-rule:exactly; width:15=
+2px; float:left" width=3D"152">
+=09=09=09=09=09=09=09
+							<tr>
+								<td class=3D"outlookwidth-16" style=3D"font-family:Arial, Helvetica=
+, sans-serif; font-size:14px; color:#000000; border-collapse:collapse; mso-=
+line-height-rule:exactly; width:15px" width=3D"15"></td>
+								<td class=3D"outlookwidth" style=3D"font-family:Arial, Helvetica, s=
+ans-serif; font-size:14px; color:#000000; border-collapse:collapse; mso-lin=
+e-height-rule:exactly; width:122px" width=3D"122">
+									<a href=3D"http://emails.ruelala.com/wf/click?upn=3Dang7WTyOa3Y4g7=
+EE2htTyg0Ej-2BMUKC0DkcOYkXC-2F7XJs6KClr2UlA0ZO0pFWfmofbBBPhRPRw0kSU70YE6arh=
+sFZfGlfLbWCgoBqRZMqmtnfpQ-2BEyB03h-2FQSoj1ehAS2VkLL7f139AsCseZyQ5vNX4A90ngh=
+ThDW9fmGDOjWen-2FQ-2FL6pjceiRWCC2h0-2F3eoR_gQT0YvJb9VaJ4yc7C1Hnu3jgphUTUZ96=
+v06Wd-2FxE0bT67Cx6-2BJ0LMcoWwZ-2B3tUqWSIW-2BuL60s5OhlWDDJdOr1efIBtPhXRkziMw=
+kixBzgaaQ1mRKaOAyVB-2BB9jqOtDFCCga-2FVcJEqYOmix6pgSJRhS-2BDt83dt9977h8YaVeG=
+1KF-2FNgE3KDO4xREH-2FedeVy8hf-2FZnYXvYuV5ei2axgE8krYCPhxrRnvdiC8eD17P-2F4yP=
+9FuUmOghw4NSqnDubc4Yplxx-2BmMv7o8EPj2Zhx4deJz4JOQmiiQMro-2FLVWgRcRMcugymUSL=
+2rSGcCP62kDn08iA4eeNwuJxcMJ7ZRwCuGLGNn3E2gsP4c-2B5-2B4v-2Ft3W50Tc4VnHB1AwBz=
+6FPngk-2BqUj2jykeRWxrf5vCQQgildv6vmSZ8Z2RTTsgv6KZETmdlh8-2BOd1TmvWVMHvCtgLd=
+dq" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; colo=
+r:#000000">
+										<img src=3D"https://asset1.ruecdn.com/images/product/141255/14125=
+50047_RLLD_1.jpg" class=3D"outlookwidth" border=3D"0" style=3D"width:122px"=
+ width=3D"122">
+									</a>
+								</td>
+=09=09=09=09=09=09=09=09
+								<td class=3D"outlookwidth-16" style=3D"font-family:Arial, Helvetica=
+, sans-serif; font-size:14px; color:#000000; border-collapse:collapse; mso-=
+line-height-rule:exactly; width:15px" width=3D"15"></td>
+=09=09=09=09=09=09=09=09
+							</tr>
+						</table>
+=09=09=09=09=09=09
+						<table class=3D"product-render-table" cellspacing=3D"0" cellpadding=
+=3D"0" border=3D"0" align=3D"left" style=3D"font-family:Arial, Helvetica, s=
+ans-serif; font-size:14px; color:#000000; mso-table-lspace:0px; mso-table-r=
+space:0px; border-collapse:collapse; mso-line-height-rule:exactly; width:15=
+2px; float:left" width=3D"152">
+=09=09=09=09=09=09=09
+							<tr>
+								<td class=3D"outlookwidth-16" style=3D"font-family:Arial, Helvetica=
+, sans-serif; font-size:14px; color:#000000; border-collapse:collapse; mso-=
+line-height-rule:exactly; width:15px" width=3D"15"></td>
+								<td class=3D"outlookwidth" style=3D"font-family:Arial, Helvetica, s=
+ans-serif; font-size:14px; color:#000000; border-collapse:collapse; mso-lin=
+e-height-rule:exactly; width:122px" width=3D"122">
+									<a href=3D"http://emails.ruelala.com/wf/click?upn=3Dang7WTyOa3Y4g7=
+EE2htTyg0Ej-2BMUKC0DkcOYkXC-2F7XJs6KClr2UlA0ZO0pFWfmofbuL-2Bveb7JllsADniMMS=
+2BRzPdO3CJevQ68duwYgWmzCeHnUkK4P-2BamGOt-2BaI3yAqYRuMXwCxCcH-2B4HPlitw03uQn=
+rMnB-2BqR-2BK6vpZfNOzrgf3r0qtNTKiiYfmADCY8-2Bt_gQT0YvJb9VaJ4yc7C1Hnu3jgphUT=
+UZ96v06Wd-2FxE0bT67Cx6-2BJ0LMcoWwZ-2B3tUqWSIW-2BuL60s5OhlWDDJdOr1efIBtPhXRk=
+ziMwkixBzgaaQ1mRKaOAyVB-2BB9jqOtDFCCga-2FVcJEqYOmix6pgSJRhS-2BDt83dt9977h8Y=
+aVeG1KF-2FNgE3KDO4xREH-2FedeVy8hf-2FZnYXvYuV5ei2axgE8krYCPhxrRnvdiC8eD17P-2=
+F4yP9FuUmOghw4NSqnDubc4Yplxx-2BmMv7o8EPj2Zhx4deJz4JOQmiiQMro-2FLVWgRcRMf5Ix=
+Jw03Y382gfMYvaoKJM3Ug-2BcYxaZ2buviKXTYk9Y9opVrU0aF-2BFIkvf7QNXYT-2Bw-2FKfRc=
+aa-2BndVFI1nZhc3NCTpNM2RSK64ztGIUhmHohl4sVf4eUg0TbqvxlT64LTWAbQlEZ-2Bo6dosF=
+J9Usd6a6" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px=
+; color:#000000">
+										<img src=3D"https://asset1.ruecdn.com/images/product/105056/10505=
+64006_RLLD_1.jpg" class=3D"outlookwidth" border=3D"0" style=3D"width:122px"=
+ width=3D"122">
+									</a>
+								</td>
+=09=09=09=09=09=09=09=09
+								<td class=3D"outlookwidth-16" style=3D"font-family:Arial, Helvetica=
+, sans-serif; font-size:14px; color:#000000; border-collapse:collapse; mso-=
+line-height-rule:exactly; width:15px" width=3D"15"></td>
+=09=09=09=09=09=09=09=09
+							</tr>
+						</table>
+=09=09=09=09=09=09
+						<table class=3D"product-render-table" cellspacing=3D"0" cellpadding=
+=3D"0" border=3D"0" align=3D"left" style=3D"font-family:Arial, Helvetica, s=
+ans-serif; font-size:14px; color:#000000; mso-table-lspace:0px; mso-table-r=
+space:0px; border-collapse:collapse; mso-line-height-rule:exactly; width:15=
+2px; float:left" width=3D"152">
+=09=09=09=09=09=09=09
+							<tr><td class=3D"mobile-product-spacer" colspan=3D"3" style=3D"font-=
+family:Arial, Helvetica, sans-serif; font-size:14px; color:#000000; border-=
+collapse:collapse; mso-line-height-rule:exactly; height:0px; line-height:1p=
+x" height=3D"0"></td></tr>
+=09=09=09=09=09=09=09
+							<tr>
+								<td class=3D"outlookwidth-16" style=3D"font-family:Arial, Helvetica=
+, sans-serif; font-size:14px; color:#000000; border-collapse:collapse; mso-=
+line-height-rule:exactly; width:15px" width=3D"15"></td>
+								<td class=3D"outlookwidth" style=3D"font-family:Arial, Helvetica, s=
+ans-serif; font-size:14px; color:#000000; border-collapse:collapse; mso-lin=
+e-height-rule:exactly; width:122px" width=3D"122">
+									<a href=3D"http://emails.ruelala.com/wf/click?upn=3Dang7WTyOa3Y4g7=
+EE2htTyg0Ej-2BMUKC0DkcOYkXC-2F7XJs6KClr2UlA0ZO0pFWfmofJhLcZ8DEtFsO91oN-2Fcb=
+uF642atYoeXxEMxZfOSorj4M4-2BZTCxBh17BjClDzY4vReKURv8WJwV-2FQvqaCqPhDXgNy9Ci=
+HXsDSl4UmGPs-2FjlvJcnHz8dho3l3kUcs23KiuU_gQT0YvJb9VaJ4yc7C1Hnu3jgphUTUZ96v0=
+6Wd-2FxE0bT67Cx6-2BJ0LMcoWwZ-2B3tUqWSIW-2BuL60s5OhlWDDJdOr1efIBtPhXRkziMwki=
+xBzgaaQ1mRKaOAyVB-2BB9jqOtDFCCga-2FVcJEqYOmix6pgSJRhS-2BDt83dt9977h8YaVeG1K=
+F-2FNgE3KDO4xREH-2FedeVy8hf-2FZnYXvYuV5ei2axgE8krYCPhxrRnvdiC8eD17P-2F4yP9F=
+uUmOghw4NSqnDubc4Yplxx-2BmMv7o8EPj2Zhx4deJz4JOQmiiQMro-2FLVWgRcRMfmzAcZDdSC=
+aP9zCCMlxB8e9Z3r2OClVrGSZqjkHMmbkhG91Gk97rwQlLpOcDTIOtJW0Qov9R1lr3Pb0iVIoaQ=
+d3ZVLUJwgmHgb1GsbZDoNVrZW1lJJ-2BsUsp-2BPXXIKLkNakAc3KaB1i8IVyGRGoA4YC" styl=
+e=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#00000=
+0">
+										<img src=3D"https://asset1.ruecdn.com/images/product/131165/13116=
+50017_RLLD_1.jpg" class=3D"outlookwidth" border=3D"0" style=3D"width:122px"=
+ width=3D"122">
+									</a>
+								</td>
+=09=09=09=09=09=09=09=09
+								<td class=3D"outlookwidth-16" style=3D"font-family:Arial, Helvetica=
+, sans-serif; font-size:14px; color:#000000; border-collapse:collapse; mso-=
+line-height-rule:exactly; width:15px" width=3D"15"></td>
+=09=09=09=09=09=09=09=09
+							</tr>
+						</table>
+=09=09=09=09=09=09
+						<table class=3D"width-143" cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" align=3D"left" style=3D"font-family:Arial, Helvetica, sans-serif; fo=
+nt-size:14px; color:#000000; mso-table-lspace:0px; mso-table-rspace:0px; bo=
+rder-collapse:collapse; mso-line-height-rule:exactly; width:137px; float:le=
+ft" width=3D"137">
+=09=09=09=09=09=09=09
+							<tr><td class=3D"mobile-product-spacer" colspan=3D"3" style=3D"font-=
+family:Arial, Helvetica, sans-serif; font-size:14px; color:#000000; border-=
+collapse:collapse; mso-line-height-rule:exactly; height:0px; line-height:1p=
+x" height=3D"0"></td></tr>
+=09=09=09=09=09=09=09
+							<tr>
+								<td class=3D"outlookwidth-16" style=3D"font-family:Arial, Helvetica=
+, sans-serif; font-size:14px; color:#000000; border-collapse:collapse; mso-=
+line-height-rule:exactly; width:15px" width=3D"15"></td>
+								<td class=3D"outlookwidth" style=3D"font-family:Arial, Helvetica, s=
+ans-serif; font-size:14px; color:#000000; border-collapse:collapse; mso-lin=
+e-height-rule:exactly; width:122px" width=3D"122">
+									<a href=3D"http://emails.ruelala.com/wf/click?upn=3Dang7WTyOa3Y4g7=
+EE2htTyg0Ej-2BMUKC0DkcOYkXC-2F7XJs6KClr2UlA0ZO0pFWfmof84RJM2ptLym6zkz-2BKl2=
+CI4AdZ1xFhfWw414ql9qhbMqy47OpPXMOqeQ1-2FsDwsUF-2BPQO6tcjmBBKQxrv-2BeEXqZoFf=
+Br6IkzuWNtviYC2UiXbfeXOLd11ct74l8ZpJc9m9_gQT0YvJb9VaJ4yc7C1Hnu3jgphUTUZ96v0=
+6Wd-2FxE0bT67Cx6-2BJ0LMcoWwZ-2B3tUqWSIW-2BuL60s5OhlWDDJdOr1efIBtPhXRkziMwki=
+xBzgaaQ1mRKaOAyVB-2BB9jqOtDFCCga-2FVcJEqYOmix6pgSJRhS-2BDt83dt9977h8YaVeG1K=
+F-2FNgE3KDO4xREH-2FedeVy8hf-2FZnYXvYuV5ei2axgE8krYCPhxrRnvdiC8eD17P-2F4yP9F=
+uUmOghw4NSqnDubc4Yplxx-2BmMv7o8EPj2Zhx4deJz4JOQmiiQMro-2FLVWgRcRMeG6CyyTnnN=
+wNps-2FPFuNK3wsjjE9cOJm9BmZ9jxtA9s1KmzegQ0w-2F0LT-2BvnnkegIDhy6Lp3tiy2yPtuK=
+8L8MBdDe-2FLOuRFkkVjUs2Da7AoP9w5Pf37samMvw-2FvFzArAGqiWqIQw9qkXqzxNYIgi63S8=
+" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; color:=
+#000000">
+										<img src=3D"https://asset1.ruecdn.com/images/product/141263/14126=
+38513_RLLD_1.jpg" class=3D"outlookwidth" border=3D"0" style=3D"width:122px"=
+ width=3D"122">
+									</a>
+								</td>
+=09=09=09=09=09=09=09=09
+							</tr>
+						</table>
+=09=09=09=09=09=09
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr><td height=3D"20" style=3D"font-family:Arial, Helvetica, sans-s=
+erif; font-size:14px; color:#000000; border-collapse:collapse; mso-line-hei=
+ght-rule:exactly"></td></tr>
+        <tr>
+            <td class=3D"footer" style=3D"font-family:Arial, Helvetica, san=
+s-serif; font-size:14px; color:#000000; border-collapse:collapse; mso-line-=
+height-rule:exactly; background-color:#f0f0f0" bgcolor=3D"#f0f0f0">
+                <table class=3D"footer-content mobile-reduced-font" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"100%" align=3D"center" s=
+tyle=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#00=
+0000; mso-table-lspace:0px; mso-table-rspace:0px; border-collapse:collapse;=
+ mso-line-height-rule:exactly; text-align:center">
+                    <tr><td height=3D"30" colspan=3D"4" style=3D"font-famil=
+y:Arial, Helvetica, sans-serif; font-size:14px; color:#000000; border-colla=
+pse:collapse; mso-line-height-rule:exactly"></td></tr>
+                    <tr>
+                        <td style=3D"font-family:Arial, Helvetica, sans-ser=
+if; font-size:14px; color:#000000; border-collapse:collapse; mso-line-heigh=
+t-rule:exactly">
+                            <table cellspacing=3D"0" cellpadding=3D"0" bord=
+er=3D"0" width=3D"100%" align=3D"left" style=3D"font-family:Arial, Helvetic=
+a, sans-serif; font-size:14px; color:#000000; mso-table-lspace:0px; mso-tab=
+le-rspace:0px; border-collapse:collapse; mso-line-height-rule:exactly">
+                                <tr><td style=3D"font-family:Arial, Helveti=
+ca, sans-serif; font-size:14px; color:#000000; border-collapse:collapse; ms=
+o-line-height-rule:exactly"></td></tr>
+                            </table>
+                        </td>
+                        <td class=3D"mobile-reduced-font" style=3D"font-fam=
+ily:Arial, Helvetica, sans-serif; font-size:14px; color:#000000; border-col=
+lapse:collapse; mso-line-height-rule:exactly"><a href=3D"http://emails.ruel=
+ala.com/wf/click?upn=3Dang7WTyOa3Y4g7EE2htTyg0Ej-2BMUKC0DkcOYkXC-2F7XJmejk7=
+bu6nKWt-2FJXu6UgLUg7Lt6HuKW8JjRFNhEvIHsQ8hedvGGwEws983xHXX36IoAo5ERSrbbmHOs=
+Z3KnaKn7GVC2ZPYC5sWp5diAcv7JL5QV4WE2I-2B8sUCogm1bUlM-3D_gQT0YvJb9VaJ4yc7C1H=
+nu3jgphUTUZ96v06Wd-2FxE0bT67Cx6-2BJ0LMcoWwZ-2B3tUqWSIW-2BuL60s5OhlWDDJdOr1e=
+fIBtPhXRkziMwkixBzgaaQ1mRKaOAyVB-2BB9jqOtDFCCga-2FVcJEqYOmix6pgSJRhS-2BDt83=
+dt9977h8YaVeG1KF-2FNgE3KDO4xREH-2FedeVy8hf-2FZnYXvYuV5ei2axgE8krYCPhxrRnvdi=
+C8eD17P-2F4yP9FuUmOghw4NSqnDubc4Yplxx-2BmMv7o8EPj2Zhx4deJz4JOQmiiQMro-2FLVW=
+gRcRMfT7oROPCIev5-2BttcvIFW3GVJ43CoG1EpR7Xo7asxQVqbdO34DBPJyDuYa6od9dH4At6-=
+2FpDMVnxbWSwNAdl24QCXp8ZpGp1mN4NQS5D1TngXSySBliD5V7hHN-2FiO29XEIYuROC84u4vB=
+G8WXmln1rz4" class=3D"footer-link" style=3D"font-family:Arial, Helvetica, s=
+ans-serif; font-size:14px; text-transform:uppercase; text-decoration:none; =
+color:#000; font-weight:700">About Rue La La</a></td>
+                        <td class=3D"mobile-reduced-font" style=3D"font-fam=
+ily:Arial, Helvetica, sans-serif; font-size:14px; color:#000000; border-col=
+lapse:collapse; mso-line-height-rule:exactly"><a href=3D"http://emails.ruel=
+ala.com/wf/click?upn=3Dz0OHn28yp0POLL309K-2BEkWDl1XIdr7OzASvyprbHcNbt-2BXBf=
+LiSbWHhOUCanRDYi-2BkjI9VHMYvlG9tsn8qzfS8w5ed5LmEUXjXL-2FPO48R5wfLWMIey4Wyee=
+S6a-2BMafm6DFTFZAInje01YvHLbvvNNJ1Xl9Y306HGRKTpVeEH9aStkXofMxTPyW-2B2Mm8Zyu=
+wOEylb-2F8pvCwmiDyWfPXVnvQ-3D-3D_gQT0YvJb9VaJ4yc7C1Hnu3jgphUTUZ96v06Wd-2FxE=
+0bT67Cx6-2BJ0LMcoWwZ-2B3tUqWSIW-2BuL60s5OhlWDDJdOr1efIBtPhXRkziMwkixBzgaaQ1=
+mRKaOAyVB-2BB9jqOtDFCCga-2FVcJEqYOmix6pgSJRhS-2BDt83dt9977h8YaVeG1KF-2FNgE3=
+KDO4xREH-2FedeVy8hf-2FZnYXvYuV5ei2axgE8krYCPhxrRnvdiC8eD17P-2F4yP9FuUmOghw4=
+NSqnDubc4Yplxx-2BmMv7o8EPj2Zhx4deJz4JOQmiiQMro-2FLVWgRcRMdLo7-2F-2BoTu25bc9=
+Xj9W8ZOEvOfNul-2BfnHOGHLL5owz12fIMTZ9kJSXN4YdanOAMXYLXWCM49jK6Y6HtwjWpHX6Kb=
+AlZtV8Bt6K3S82wKIYdhMSBbfDomsEJ5NFFzidIrj0KilBIxf7EPlIK1VBIk2M1" class=3D"f=
+ooter-link" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14=
+px; text-transform:uppercase; text-decoration:none; color:#000; font-weight=
+:700">Career</a></td>
+                        <td class=3D"mobile-reduced-font" style=3D"font-fam=
+ily:Arial, Helvetica, sans-serif; font-size:14px; color:#000000; border-col=
+lapse:collapse; mso-line-height-rule:exactly"><a href=3D"http://emails.ruel=
+ala.com/wf/click?upn=3Dang7WTyOa3Y4g7EE2htTyg0Ej-2BMUKC0DkcOYkXC-2F7XJq4A5U=
+HLXxxG8NuLunVzxinWOQTDgg52vx7KMggqnC5mpjMNrDHI0fESZAedKBryqTG5NhHpBh8f0EGbj=
+o9SBBynO9VyugWKp8ojNfSxJ9piCkKbg1Z9qA3-2BT0e-2F3ZErE-3D_gQT0YvJb9VaJ4yc7C1H=
+nu3jgphUTUZ96v06Wd-2FxE0bT67Cx6-2BJ0LMcoWwZ-2B3tUqWSIW-2BuL60s5OhlWDDJdOr1e=
+fIBtPhXRkziMwkixBzgaaQ1mRKaOAyVB-2BB9jqOtDFCCga-2FVcJEqYOmix6pgSJRhS-2BDt83=
+dt9977h8YaVeG1KF-2FNgE3KDO4xREH-2FedeVy8hf-2FZnYXvYuV5ei2axgE8krYCPhxrRnvdi=
+C8eD17P-2F4yP9FuUmOghw4NSqnDubc4Yplxx-2BmMv7o8EPj2Zhx4deJz4JOQmiiQMro-2FLVW=
+gRcRMfWGNUruIuWtFtw-2BHT-2BvFT1hqyb-2Bv6Y4UY0WEQATaTCyuIvosq-2B1-2Fb-2BweXw=
+VrgYv-2BOsC-2BQ2L-2BU0ZsPvleDALu-2F9fl5WoWyQHbEo2l5tyoDVBXMrvuoQzTwBskOuLVe=
+4dOWQsG4dvzNh-2BaOcyEkpIFSJ" class=3D"footer-link" style=3D"font-family:Ari=
+al, Helvetica, sans-serif; font-size:14px; text-transform:uppercase; text-d=
+ecoration:none; color:#000; font-weight:700">Privacy Policy</a></td>
+                        <td class=3D"mobile-reduced-font" style=3D"font-fam=
+ily:Arial, Helvetica, sans-serif; font-size:14px; color:#000000; border-col=
+lapse:collapse; mso-line-height-rule:exactly"><a href=3D"http://emails.ruel=
+ala.com/wf/click?upn=3Dang7WTyOa3Y4g7EE2htTyg0Ej-2BMUKC0DkcOYkXC-2F7XKQ4sN0=
+xjozR3xH9cte9RhOXJAlLtlEDaGSuZ18ZwdL5cb5jKA-2FKsLGcbULKVH98DblFXgu25-2F0n-2=
+FBUqx-2FIpvlGuUdmoPpFBBRPzwUcY2Gu2lN50VoWdSN24aSvs8S55fo-3D_gQT0YvJb9VaJ4yc=
+7C1Hnu3jgphUTUZ96v06Wd-2FxE0bT67Cx6-2BJ0LMcoWwZ-2B3tUqWSIW-2BuL60s5OhlWDDJd=
+Or1efIBtPhXRkziMwkixBzgaaQ1mRKaOAyVB-2BB9jqOtDFCCga-2FVcJEqYOmix6pgSJRhS-2B=
+Dt83dt9977h8YaVeG1KF-2FNgE3KDO4xREH-2FedeVy8hf-2FZnYXvYuV5ei2axgE8krYCPhxrR=
+nvdiC8eD17P-2F4yP9FuUmOghw4NSqnDubc4Yplxx-2BmMv7o8EPj2Zhx4deJz4JOQmiiQMro-2=
+FLVWgRcRMd-2Fg2LC-2BNwzOjK7Y-2BFB9QgM-2FqBtlgHuvZ7knacQSxDzveoJU7ZRslYVirEv=
+Clwkg1RIcJpwBH3sTYRHzv5PEC6-2FMtzSf6x9RSl8NZX8quZleJB48NU0Sj2-2Bu9OBCrC27yI=
+8SpZSDT7qA0YA43-2BEVT7y" class=3D"footer-link" style=3D"font-family:Arial, =
+Helvetica, sans-serif; font-size:14px; text-transform:uppercase; text-decor=
+ation:none; color:#000; font-weight:700">Terms of use</a></td>
+                    </tr>
+                    <tr><td height=3D"15" colspan=3D"4" style=3D"font-famil=
+y:Arial, Helvetica, sans-serif; font-size:14px; color:#000000; border-colla=
+pse:collapse; mso-line-height-rule:exactly"></td></tr>
+                </table>
+                <table class=3D"footer-content" cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0" width=3D"95%" align=3D"center" style=3D"font-family:A=
+rial, Helvetica, sans-serif; font-size:14px; color:#000000; mso-table-lspac=
+e:0px; mso-table-rspace:0px; border-collapse:collapse; mso-line-height-rule=
+:exactly; text-align:center">
+                    <tr>
+                        <td class=3D"footer-description" style=3D"font-fami=
+ly:Arial, Helvetica, sans-serif; border-collapse:collapse; mso-line-height-=
+rule:exactly; font-size:12px; color:#7c7c7c">
+                            To adjust your email-subscription preferences o=
+r unsubscribe, please <a href=3D"http://emails.ruelala.com/wf/click?upn=3Do=
+puBm1-2FW6YYzrTPvgLPhlKIgzht29VGwOuzqMY1Elkd5weIRM1-2Fz7zIWE9ELkKmFntH0alX9=
+WTzC22LyOe4Eo2CJDhu3Y2cgllTKJqGNP3kjAt2FCJjQ-2B3hYiKhSqvPa-2BfWsjfiRiy2XVeY=
+VDhh30oW-2BTtJ7FccPvDUE-2FaALKWz15sktvEZauTd7u1Yk8syo2rIyKpqVSrjsJm8CRao6gT=
+SUmUgRWL1CaMMqBGv-2FsCoP-2FO1bnsoPzw7w6o9gUSbuyVap54StZwyE2uCrwkp-2FuC8I4mF=
+Nm3S0H0NnHP9qUzmfP0TP8FrKL6GkfEcgY-2BQKconbqJ03xta0UEdAIKe-2B9g-3D-3D_gQT0Y=
+vJb9VaJ4yc7C1Hnu3jgphUTUZ96v06Wd-2FxE0bT67Cx6-2BJ0LMcoWwZ-2B3tUqWSIW-2BuL60=
+s5OhlWDDJdOr1efIBtPhXRkziMwkixBzgaaQ1mRKaOAyVB-2BB9jqOtDFCCga-2FVcJEqYOmix6=
+pgSJRhS-2BDt83dt9977h8YaVeG1KF-2FNgE3KDO4xREH-2FedeVy8hf-2FZnYXvYuV5ei2axgE=
+8krYCPhxrRnvdiC8eD17P-2F4yP9FuUmOghw4NSqnDubc4Yplxx-2BmMv7o8EPj2Zhx4deJz4JO=
+QmiiQMro-2FLVWgRcRMfEI7A3DZztq3zu25icxqOgp2rsgNbKiPzdWESD9Cv7y-2BS42rDqv-2B=
+ESDHe5AoJNnHFWzpFLaU2q3cDVTB6Sdp71RXexL35EOy2E3KOrTfx-2FX2Iw-2BeLkDfTorpwfU=
+Zc7D-2FQ0Uo1-2BRtrCI7ZmvlgfEasi" style=3D"font-family:Arial, Helvetica, san=
+s-serif; font-size:12px; color:#7c7c7c">use this link</a>. If you'd like to=
+ change your email address, go to <a href=3D"http://emails.ruelala.com/wf/c=
+lick?upn=3Dang7WTyOa3Y4g7EE2htTyg0Ej-2BMUKC0DkcOYkXC-2F7XKAYmG7W2rxCBAs81dR=
+tYPVC3c9g6YV-2F4NuAvOUYHSpJAsbRQflCIwXZFvJAtUgx7BVxF0Fjm4LcJ8foJEmr-2BGNgQH=
+p4CqsAx-2F7VdEyxTnaZA-3D-3D_gQT0YvJb9VaJ4yc7C1Hnu3jgphUTUZ96v06Wd-2FxE0bT67=
+Cx6-2BJ0LMcoWwZ-2B3tUqWSIW-2BuL60s5OhlWDDJdOr1efIBtPhXRkziMwkixBzgaaQ1mRKaO=
+AyVB-2BB9jqOtDFCCga-2FVcJEqYOmix6pgSJRhS-2BDt83dt9977h8YaVeG1KF-2FNgE3KDO4x=
+REH-2FedeVy8hf-2FZnYXvYuV5ei2axgE8krYCPhxrRnvdiC8eD17P-2F4yP9FuUmOghw4NSqnD=
+ubc4Yplxx-2BmMv7o8EPj2Zhx4deJz4JOQmiiQMro-2FLVWgRcRMcPCAUO2Ac8d-2B5Bky1nBOy=
+PvBOy-2BkxA-2BPNM2vo8V4UhP87-2BJ0GyB-2BNtitC06DBECrn2DIX-2BSv-2B3mibddo10zJ=
+2FtKc7uD-2BFPBDMxj0aMpB-2F-2BOBlDCUu92zBTRgX4aSEEZvqzIWwwhkbRL-2FuFZyFoNPo"=
+ style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#=
+7c7c7c">My Account</a>. Mailing address: 20 Channel Center, 3rd Floor, Bost=
+on, MA 02210. This is an email advertisement. Rue La La is a division of Re=
+tail Convergence . com, LP. &#169;2015 Rue La La all rights reserved.
+                        </td>
+                    </tr>
+                    <tr><td height=3D"30" style=3D"font-family:Arial, Helve=
+tica, sans-serif; font-size:14px; color:#000000; border-collapse:collapse; =
+mso-line-height-rule:exactly"></td></tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+<img src=3D"http://emails.ruelala.com/wf/open?upn=3DgQT0YvJb9VaJ4yc7C1Hnu3j=
+gphUTUZ96v06Wd-2FxE0bT67Cx6-2BJ0LMcoWwZ-2B3tUqWSIW-2BuL60s5OhlWDDJdOr1efIBt=
+PhXRkziMwkixBzgaaQ1mRKaOAyVB-2BB9jqOtDFCCga-2FVcJEqYOmix6pgSJRhS-2BDt83dt99=
+77h8YaVeG1KF-2FNgE3KDO4xREH-2FedeVy8hf-2FZnYXvYuV5ei2axgE8krYCPhxrRnvdiC8eD=
+17P-2F4yP9FuUmOghw4NSqnDubc4Yplxx-2BmMv7o8EPj2Zhx4deJz4JOQmiiQMro-2FLVWgRcR=
+MfFSfbUEJ19fN-2FYb3NmAKU-2F-2BsaNuyJXqE0rqJfaQe24VwrH9okTlTVVI2ibKdtgI5SZvE=
+I03vRRWN6mxiSsykleY4AgVApxL9SefA-2Bn7vga1wURq2xlM2DuBBX6vXbAvUTTsS5pkjjKmQh=
+Sy-2BxUxfsf" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height=
+:1px !important;width:1px !important;border-width:0 !important;margin-top:0=
+ !important;margin-bottom:0 !important;margin-right:0 !important;margin-lef=
+t:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding=
+-right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+

@@ -1,0 +1,324 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+
+<style>
+a.hair:link{
+  color:#b63218;
+}
+a.hair:visited{
+  color:#b63218;
+}
+a.hair:hover{
+  color:#b63218;
+}
+a.hair:focus{
+  color:#b63218;
+}
+a.hair:active{
+  color:#b63218;
+}
+.ExternalClass * {
+    line-height: 100%;
+}
+</style>
+
+<div itemscope itemtype=3D"http://schema.org/EmailMessage">
+  <div itemprop=3D"publisher" itemscope itemtype=3D"http://schema.org/Organization">
+    <meta itemprop=3D"name" content=3D"Puritan's Pride"/>
+    <link itemprop=3D"url" href=3D"http://www.puritan.com/"/>
+    <link itemprop=3D"url/googlePlus" href=3D"https://plus.google.com/+puritanspride#+puritanspride/posts"/>
+  </div>
+  <div itemprop=3D"about" itemscope itemtype=3D"http://schema.org/Offer">
+    <link itemprop=3D"image" href=3D"http://images.vitaminimages.com/pp/VF/ppemail/responsivebanners/14-PP-6813-GMAIL-INBOXPreview-todaysDeal.jpg"/>
+  </div>
+</div>
+
+</head>
+
+<body style=3D"margin:0px; padding:0px;" yahoo=3D"fix"><img src=3D"http://link.nbty.com/1x1.dyn?0tEGy3V0iJNomh7JIqSoZem_K=3D0" width=3D1 height=3D1  width=3D"1" height=3D"1" border=3D"0">
+
+<table class=3D"hide" cellspacing=3D"0" cellpadding=3D"0" width=3D"650" align=3D"center" border=3D"0" class=3D"full-width-content">
+<tr>
+<td class=3D"hide" align=3D"center" width=3D"650"><font color=3D"#666666" face=3D"Arial,Helvetica,sans-serif,Verdana,Geneva" size=3D"1">For healthy, strong, radiant hair | <a href=3D"http://link.nbty.com/t.d?lYGulDhMPMyt0U=3D/@HTML_2PREVIEW_2LINK_0a=3DzCJNo-qtqxq58LTtqludGZjH" name=3D"viewimages" target=3D"_blank" ><font color=3D"#666666">View Images</font></a></font></td>
+</tr>
+</table>
+
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgcolor=3D"#ffffff" align=3D"center" class=3D"full-width-content">
+<tr>
+<td class=3D"full-width-content" bgcolor=3D"#ffffff" valign=3D"top" align=3D"center">
+
+<table id=3D"wrapper" width=3D"650" align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"full-width-content">
+
+                    <tr>
+    					<td class=3D"full-width-content"align=3D"center" valign=3D"top" bgcolor=3D"#ffffff">
+
+<table style=3D"width: 650px; background-color: #ffffff;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"full-width-content">
+	<tr>
+		<td class=3D"full-width-content" align=3D"center" valign=3D"top" bgcolor=3D"#ffffff">
+
+<table class=3D"full-width-content" cellpadding=3D"5" cellspacing=3D"0" border=3D"0" bgcolor=3D"#FFFFFF" width=3D"650" height=3D"71">
+    <tr>
+        <td class=3D"stack" align=3D"center" bgcolor=3D"#FFFFFF" width=3D"264" height=3D"71" valign=3D"bottom" ><a href=3D"http://link.nbty.com/u.d?J4GulDhMPMyt0UWWr=3D3&s=3D32616&cmp=3Dyml-_2-haircare-_2-default" target=3D"_blank" name=3D"logo"><img src=3D"http://images.postdirect.com/content/nbtyinc/118/pplogo500px.gif" width=3D"264" height=3D"71" alt=3D"Puritan's Pride=C2=AE healthy choices for healthy living" border=3D"0" style=3D"display:block;" class=3D"shrink2" /></a></td>
+		<td class=3D"hide" height=3D"71" valign=3D"bottom" align=3D"right" bgcolor=3D"#FFFFFF"><font style=3D"font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#666666;"><a class=3D"hide" href=3D"http://link.nbty.com/t.d?pYGulDhMPMyt0U=3D/@SHARE_2THIS_2LINK_0a=3D4iJNo-qtqxq58LTtqludGZjH" target=3D"_blank" style=3D"text-decoration:none;" name=3D"sharethis" ><img class=3D"hide" src=3D"http://content.4at5.net/email_domains/imgLib/share_this.png" alt=3D"" height=3D"10" border=3D"0" /><font color=3D"#339900">&nbsp;ShareThis</font></a>&nbsp;&nbsp;
+		<a class=3D"hide" href=3D"https://web.puritan.com/ftaf.jsp?s=3DZR-G&i=3D445771056322" target=3D"_blank" style=3D"text-decoration:none;" name=3D"ftaf" ><img class=3D"hide" src=3D"http://images.postdirect.com/content/nbtyinc/118/envelopeicon.gif" alt=3D"" height=3D"10" border=3D"0" /><font color=3D"#666666">&nbsp;Forward to a Friend</font></a></font><br class=3D"hide"><br class=3D"hide">
+		<a class=3D"hide" href=3D"http://link.nbty.com/u.d?KYGulDhMPMyt0UWW6z=3D43&s=3D32616&cmp=3Dyml-_2-haircare-_2-default" target=3D"_blank" style=3D"text-decoration:none;" name=3D"FS_Header"><img src=3D"http://images.postdirect.com/content/nbtyinc/118/14-PP-7085-EMAIL-FreeShipping-Blue-Orange.gif" height=3D"71" alt=3D"FREE SHIPPING** ON EVERYTHING delivered within the contiguous 48 US" width=3D"264" border=3D"0" class=3D"hide"></td>
+    </tr>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" bgcolor=3D"#ffffff">
+             <tr>
+                <td align=3D"center" style=3D"padding:8px 5px 0px 5px;" class=3D"nopad"><hr color=3D"#184173"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+
+                    <tr>
+                      <td class=3D"stack navText" align=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">                          <tr>
+                            <td align=3D"center" style=3D"font-family:Arial, Verdana, sans serif;font-size:12px;color:#184173;padding:0px 10px 0px 10px"><span class=3D"whiteLink"><a href=3D"http://link.nbty.com/u.d?MYGulDhMPMyt0UWDL=3D3&s=3D32616&cmp=3Dinfo-_2-haircare-_2-default" style=3D"color:#184173; text-decoration:none"><strong>Vitamins & Herbs</strong></a></span></td>
+                            <td align=3D"right" style=3D"font-family:Arial, Verdana, sans serif;font-size:12px;color:#184173;padding:0px 0px 0px 0px">|</td>
+                            <td align=3D"center" style=3D"font-family:Arial, Verdana, sans serif;font-size:12px;color:#184173;padding:0px 10px 0px 10px"><span class=3D"whiteLink"><a href=3D"http://link.nbty.com/u.d?IYGulDhMPMyt0UWDM=3D13&s=3D32616&cmp=3Dinfo-_2-haircare-_2-default" style=3D"color:#184173; text-decoration:none"><strong>Clearance</strong></a></span></td>
+                            <td align=3D"right" style=3D"font-family:Arial, Verdana, sans serif;font-size:12px;color:#184173;padding:0px 0px 0px 0px">|</td>
+                            <td align=3D"center" style=3D"font-family:Arial, Verdana, sans serif;font-size:12px;color:#184173;padding:0px 10px 0px 10px"><span class=3D"whiteLink"><a href=3D"http://link.nbty.com/u.d?HYGulDhMPMyt0UWDB=3D23&s=3D32616&cmp=3Dinfo-_2-haircare-_2-default" style=3D"color:#184173; text-decoration:none"><strong>Top Sellers</strong></a></span></td>
+                          </tr>
+                        </table></td>
+                      <td class=3D"hide" align=3D"center" style=3D"font-family:Arial, Verdana, sans serif;font-size:12px;color:#184173;padding:0px 0px 0px 0px">|</td>
+                      <td class=3D"hide" align=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                          <tr>
+                            <td align=3D"center" style=3D"font-family:Arial, Verdana, sans serif;font-size:12px;color:#184173;padding:0px 0px 0px 0px"></td>
+                            <td align=3D"center" style=3D"font-family:Arial, Verdana, sans serif;font-size:12px;color:#184173;padding:0px 10px 0px 10px"><span class=3D"whiteLink"><a href=3D"http://link.nbty.com/u.d?GYGulDhMPMyt0UWDa2=3D33&s=3D32616&cmp=3Dinfo-_2-haircare-_2-default" style=3D"color:#184173; text-decoration:none"><strong>Bargain Bin</strong></a></span></td>
+                            <td align=3D"center" style=3D"font-family:Arial, Verdana, sans serif;font-size:12px;color:#184173;padding:0px 0px 0px 0px">|</td>
+                            <td align=3D"center" style=3D"font-family:Arial, Verdana, sans serif;font-size:12px;color:#184173;padding:0px 10px 0px 10px"><span class=3D"whiteLink"><a href=3D"http://link.nbty.com/u.d?c4GulDhMPMyt0UWDaz=3D43&s=3D32616&cmp=3Dinfo-_2-haircare-_2-default" style=3D"color:#184173; text-decoration:none"><strong>Health & Beauty</strong></a></span></td>
+                            <td align=3D"center" style=3D"font-family:Arial, Verdana, sans serif;font-size:12px;color:#184173;padding:0px 0px 0px 0px">|</td>
+                            <td align=3D"center" style=3D"font-family:Arial, Verdana, sans serif;font-size:12px;color:#184173;padding:0px 10px 0px 10px"><span class=3D"whiteLink"><a href=3D"http://link.nbty.com/u.d?RYGulDhMPMyt0UWDa8=3D53&s=3D32616&cmp=3Dinfo-_2-haircare-_2-default" style=3D"color:#184173; text-decoration:none"><strong>Co Q-10</strong></a></span></td>
+                          </tr>
+                       </table></td>
+                    </tr>
+                  </table>
+                  <hr color=3D"#184173">
+                 </td>
+              </tr>
+            </table>
+
+<table class=3D"hide" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center">
+        <tr>
+        <td style=3D"padding:0px 0px 5px 0px;" width=3D"650" align=3D"center"><font color=3D"#4e4e4e" style=3D"font-family:Arial,Helvetica,sans-serif;font-size:11px;color:#4e4e4e;">
+        &nbsp;&nbsp;To order by phone, call <a href=3D"tel:1-800-645-1030" style=3D"color:#184173;text-decoration:none;"><span style=3D"color:#184173;"><strong>1.800.645.1030</strong></span></a> and mention code <span style=3D"color:#184173;"><strong>5P1321D</strong></span></font></td>
+        </font>
+        </tr>
+        </table>
+
+<CENTER>
+
+    <table cellspacing=3D"0" align=3D"center" cellpadding=3D"0" border=3D"0" width=3D"650" bgcolor=3D"#FFFFFF">
+<tr>
+<td>
+<a href=3D"http://link.nbty.com/u.d?RYGulDhMPMyt0UciKkye=3D461&s=3D32616&cmp=3Dyml-_2-haircare-_2-default" target=3D"_blank" style=3D"display:block" name=3D"Hair_Care_Main"><img src=3D"http://images.postdirect.com/master/9/1175556/15-PP-1321-EMAIL-Beauty-Triggered-Program_HairCare_01.jpg" width=3D"650" height=3D"446" style=3D"display:block;" alt=3D"Hair Care Sale - For healthy, strong, radiant hair - SAVE NOW &raquo;" border=3D"0"></a></td>
+</tr></table>
+
+</center>
+
+<CENTER><table cellspacing=3D"0" align=3D"center" cellpadding=3D"0" border=3D"0" width=3D"650" bgcolor=3D"#FFFFFF">
+<tr>
+<td>
+<a href=3D"http://link.nbty.com/u.d?E4GulDhMPMyt0UciKkyw=3D401&s=3D32616&cmp=3Dyml-_2-haircare-_2-default" target=3D"_blank" style=3D"display:block" name=3D"biotin"><img src=3D"http://images.postdirect.com/master/9/1175556/15-PP-1321-EMAIL-Beauty-Triggered-Program_HairCare_02.jpg" width=3D"133" height=3D"141" style=3D"display:block;" alt=3D"Biotin &raquo;" border=3D"0"></a></td>
+<td>
+<a href=3D"http://link.nbty.com/u.d?dYGulDhMPMyt0UciKky1=3D411&s=3D32616&cmp=3Dyml-_2-haircare-_2-default" target=3D"_blank" style=3D"display:block" name=3D"coconut_oil"><img src=3D"http://images.postdirect.com/master/9/1175556/15-PP-1321-EMAIL-Beauty-Triggered-Program_HairCare_03.jpg" width=3D"129" height=3D"141" style=3D"display:block;" alt=3D"Coconut Oil &raquo;" border=3D"0"></a></td>
+<td>
+<a href=3D"http://link.nbty.com/u.d?A4GulDhMPMyt0UciKkyq=3D421&s=3D32616&cmp=3Dyml-_2-haircare-_2-default" target=3D"_blank" style=3D"display:block" name=3D"hair_color"><img src=3D"http://images.postdirect.com/master/9/1175556/15-PP-1321-EMAIL-Beauty-Triggered-Program_HairCare_04.jpg" width=3D"128" height=3D"141" style=3D"display:block;" alt=3D"Hair Color &raquo;" border=3D"0"></a></td>
+<td>
+<a href=3D"http://link.nbty.com/u.d?X4GulDhMPMyt0UciKkyv=3D431&s=3D32616&cmp=3Dyml-_2-haircare-_2-default" target=3D"_blank" style=3D"display:block" name=3D"hair_repair_styling"><img src=3D"http://images.postdirect.com/master/9/1175556/15-PP-1321-EMAIL-Beauty-Triggered-Program_HairCare_05.jpg" width=3D"126" height=3D"141" style=3D"display:block;" alt=3D"Hair Repair & Styling &raquo;" border=3D"0"></a></td>
+<td>
+<a href=3D"http://link.nbty.com/u.d?S4GulDhMPMyt0UciKkyk=3D441&s=3D32616&cmp=3Dyml-_2-haircare-_2-default" target=3D"_blank" style=3D"display:block" name=3D"shampoo_conditioner"><img src=3D"http://images.postdirect.com/master/9/1175556/15-PP-1321-EMAIL-Beauty-Triggered-Program_HairCare_06.jpg" width=3D"134" height=3D"141" style=3D"display:block;" alt=3D"Shampoo & Conditioner &raquo;" border=3D"0"></a></td>
+</tr></table></center>
+
+<CENTER><table cellspacing=3D"0" align=3D"center" cellpadding=3D"0" border=3D"0" width=3D"650" bgcolor=3D"#FFFFFF">
+<tr>
+<td>
+<img src=3D"http://images.postdirect.com/master/9/1175556/15-PP-1321-EMAIL-Beauty-Triggered-Program_HairCare_07.jpg" width=3D"650" height=3D"39" style=3D"display:block;" alt=3D"Customer Testimonials &raquo;" border=3D"0"></td>
+</tr></table></center>
+
+
+<CENTER><table cellspacing=3D"0" align=3D"center" cellpadding=3D"0" border=3D"0" width=3D"650" bgcolor=3D"#FFFFFF">
+<tr>
+<td>
+<a href=3D"http://link.nbty.com/u.d?PYGulDhMPMyt0UciKkyZ=3D451&s=3D32616&cmp=3Dyml-_2-haircare-_2-default" target=3D"_blank" style=3D"display:block" name=3D"desert_essence_coconut_oil"><img src=3D"http://images.postdirect.com/master/9/1175556/15-PP-1321-EMAIL-Beauty-Triggered-Program_HairCare_08.jpg" width=3D"337" height=3D"313" style=3D"display:block;" alt=3D"Desert Essence&reg; Coconut Shampoo 8 fl oz Shampoo / Item #036894 &raquo;" border=3D"0"></a>
+</td>
+<td align=3D"left" width=3D"313" height=3D"313" bgcolor=3D"#FFFFFF" style=3D"line-height:16px;font-family:Arial, Helvetica, sans-serif;font-size:14px;color:#575a5d"><b>Desert Essence<sup>&reg;</sup> Coconut Shampoo</b><br>
+8 fl oz Shampoo / Item #036894<br><br>
+Nourishing for Dry Hair<br><br>
+
+Bring back shine and health to over-processed, damaged hair. Infused with organic coconut oil to provide intense moisture, smooth frizzies, and restore hair's natural luster. With continued use, hair looks revived, strong and healthy.<br><br>
+
+Manufactured by Desert Essence<sup>&reg;</sup>.<br>
+Paraben Free; Cruelty Free; Gluten Free; Vegetarian; Free of Harmful Ingredients<BR><BR>
+<font color=3D"#b63218">
+<strong><a class=3D"hair" href=3D"http://link.nbty.com/u.d?MYGulDhMPMyt0UciKk18C=3D521&s=3D32616&cmp=3Dyml-_2-haircare-_2-default" target=3D"_blank" style=3D"display:block" name=3D"shop_desert-essence">Shop Desert Essence=C2=AE Coconut Shampoo &raquo;</a></strong></font>
+</td>
+</tr></table>
+
+<CENTER><table cellspacing=3D"0" align=3D"center" cellpadding=3D"0" border=3D"0" width=3D"650" bgcolor=3D"#FFFFFF">
+<tr><td>
+<img src=3D"http://images.postdirect.com/master/9/1175556/15-PP-1321-EMAIL-Beauty-Triggered-Program_HairCare_10.jpg" border=3D"0" width=3D"650" height=3D"10" style=3D"display:block;">
+</td>
+</tr></table>
+
+<CENTER><table cellspacing=3D"0" align=3D"center" cellpadding=3D"0" border=3D"0" width=3D"650" bgcolor=3D"#FFFFFF">
+<tr>
+<td width=3D"40" height=3D"293"></td>
+<td align=3D"left" width=3D"286" height=3D"293" bgcolor=3D"#FFFFFF" style=3D"line-height:16px;font-family:Arial, Helvetica, sans-serif;font-size:14px;color:#575a5d">
+<strong>Puritan's Pride<sup>&reg;</sup> Moroccan Argan Oil</strong><br>
+2 fl oz Oil / Item #036220<br><br>
+
+Helps Protect Against Free-Radical Damage Naturally Moisturizing Emollient for Dry Skin<br><br>
+
+Sourced from Morocco, Argan Oil contains Vitamin E, essential fatty acids, and protective antioxidants. Argan oil helps to nourish your skin and hair naturally, while also assisting in free-radical protection.<BR><BR>
+
+<font color=3D"#b63218">
+<strong><a class=3D"hair" href=3D"http://link.nbty.com/u.d?OYGulDhMPMyt0UciKkyI=3D481&s=3D32616&cmp=3Dyml-_2-haircare-_2-default" target=3D"_blank" style=3D"display:block" name=3D"shop_organic-argan-oil">Shop Moroccan Argan Oil &raquo;
+</a></strong></font>
+</td>
+<td width=3D"10" height=3D"293"></td>
+<td>
+<a href=3D"http://link.nbty.com/u.d?TYGulDhMPMyt0UciKk18P=3D531&s=3D32616&cmp=3Dyml-_2-haircare-_2-default" target=3D"_blank" style=3D"display:block" name=3D"argan_oil"><img src=3D"http://images.postdirect.com/master/9/1175556/15-PP-1321-EMAIL-Beauty-Triggered-Program_HairCare_12.jpg" width=3D"324" height=3D"293" style=3D"display:block;" alt=3D"Puritan's Pride Moroccan Argan Oil 2 fl oz Oil / Item #036220 &raquo;" border=3D"0"></a>
+</td>
+</tr></table>
+
+<CENTER><table cellspacing=3D"0" align=3D"center" cellpadding=3D"0" border=3D"0" width=3D"650" bgcolor=3D"#FFFFFF">
+<tr><td>
+<img src=3D"http://images.postdirect.com/master/9/1175556/15-PP-1321-EMAIL-Beauty-Triggered-Program_HairCare_13.jpg" border=3D"0" width=3D"650" height=3D"17" style=3D"display:block;">
+</td>
+</tr></table>
+
+<CENTER><table cellspacing=3D"0" align=3D"center" cellpadding=3D"0" border=3D"0" width=3D"650" bgcolor=3D"#FFFFFF">
+<tr>
+<td>
+<a href=3D"http://link.nbty.com/u.d?IYGulDhMPMyt0UciKkyN=3D491&s=3D32616&cmp=3Dyml-_2-haircare-_2-default" target=3D"_blank" style=3D"display:block" name=3D"coconut_oil"><img src=3D"http://images.postdirect.com/master/9/1175556/15-PP-1321-EMAIL-Beauty-Triggered-Program_HairCare_14.jpg" width=3D"360" height=3D"295" style=3D"display:block;" alt=3D"Puritan's Pride Coconut Oil for Skin & Hair 7 fl oz Oil / Item #035736 &raquo;" border=3D"0"></a>
+</td>
+<td align=3D"left" width=3D"290" height=3D"295" bgcolor=3D"#FFFFFF" style=3D"line-height:16px;font-family:Arial, Helvetica, sans-serif;font-size:14px;color:#575a5d"><strong>Puritan's Pride<sup>&reg;</sup> Coconut Oil for Skin & Hair</strong> 7 fl oz Oil / Item #035736<BR><BR>
+Pamper your body with Coconut Oil! This exotic topical nutrient will help moisturize and soften dry, rough skin - and can even be used in your hair! And like the name implies, there's just one ingredient: coconut oil! No fillers or added fragrances.<br><br>
+
+No Parabens, Petroleum or SLS. No Artificial Color. No animal testing/100% vegetarian ingredients.<BR><BR>
+
+<font color=3D"#b63218">
+<strong><a class=3D"hair" href=3D"http://link.nbty.com/u.d?B4GulDhMPMyt0UciKk18I=3D541&s=3D32616&cmp=3Dyml-_2-haircare-_2-defaultscid=3D32616&cmp=3Dyml-_2-haircare-_2-default" target=3D"_blank" style=3D"display:block" name=3D"shop_haircare3">Shop Coconut Oil &raquo;
+</a></strong></font>
+</td>
+<td width=3D"40" height=3D"295"></td>
+</tr></table>
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" bgcolor=3D"#ffffff">
+<tr>
+<td height=3D"20" style=3D"line-height:10px; font-size:1px;">&nbsp;</td>
+</tr>
+</table>
+
+<table class=3D"full-width-content9" align=3D"center" height=3D"0" width=3D"650" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgcolor=3D"#184173">
+    	<tr><td></td></tr></table>
+
+<table class=3D"full-width-content" align=3D"center" height=3D"32" width=3D"650" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgcolor=3D"#184173" >
+    	<tr>
+        <td class=3D"hide" height=3D"32" width=3D"125"></td>
+		<td class=3D"stack" align=3D"center" height=3D"15" style=3D"font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#FFFFFF;"><strong>HIGHEST QUALITY INGREDIENTS</strong></a></span></td>
+        <td class=3D"hide" align=3D"center" height=3D"15" style=3D"font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#FFFFFF;"><strong>&nbsp;&nbsp;&bull;&nbsp;&nbsp;</strong></a></span></td>
+         <td class=3D"stack" height=3D"15" align=3D"center" style=3D"font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#FFFFFF;"><strong>LOWEST PRICES</strong></td>
+         <td class=3D"hide" height=3D"32" width=3D"125"></td>
+    	</tr></table>
+
+ <table class=3D"full-width-content9" align=3D"center" height=3D"0" width=3D"650" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgcolor=3D"#184173" >
+    	<tr><td></td></tr></table>
+
+        <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF">
+              <tr>
+                <td align=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                    <tr>
+                      <td valign=3D"top" class=3D"stack navText" align=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                          <tr>
+                            <td align=3D"center" style=3D"color:#FFFFFF;" class=3D"social"><img src=3D"http://images.postdirect.com/content/nbtyinc/119/Emailfooter_stayconnected3.jpg" alt=3D"Stay Connected" width=3D"260" height=3D"30" border=3D"0" class=3D"connected"></a></td></tr>
+                            <TR>
+                            <td align=3D"center" style=3D"color:#FFFFFF;">
+               <a href=3D"http://link.nbty.com/u.d?IYGulDhMPMyt0UWWL=3D3" target=3D"_blank" name=3D"facebook"><img src=3D"http://images.postdirect.com/content/nbtyinc/119/Emailfooter_FB2.jpg" width=3D"36" height=3D"33" border=3D"0" class=3D"social"></a>
+		<a href=3D"http://link.nbty.com/u.d?MYGulDhMPMyt0UWWM=3D13" target=3D"_blank" name=3D"twitter"><img src=3D"http://images.postdirect.com/content/nbtyinc/119/Emailfooter_tw2.jpg" width=3D"32" height=3D"33" border=3D"0" class=3D"social"></a>
+		<a href=3D"http://link.nbty.com/u.d?VYGulDhMPMyt0UWWB=3D23" target=3D"_blank" name=3D"Pinterest"><img src=3D"http://images.postdirect.com/content/nbtyinc/119/Emailfooter_pin2.jpg" width=3D"32" height=3D"33" border=3D"0" class=3D"social"></a>
+               <a href=3D"http://link.nbty.com/u.d?aYGulDhMPMyt0UWWa2=3D33" target=3D"_blank" name=3D"Instagram"><img src=3D"http://images.postdirect.com/content/nbtyinc/119/Emailfooter_inst2.jpg" width=3D"31" height=3D"33" border=3D"0" class=3D"social"></a>
+		<a href=3D"http://link.nbty.com/u.d?QYGulDhMPMyt0UWWaz=3D43" target=3D"_blank" name=3D"Blog"><img src=3D"http://images.postdirect.com/content/nbtyinc/119/Emailfooter_blog2.jpg" width=3D"31" height=3D"33" border=3D"0" class=3D"social"></a>
+		<a href=3D"http://link.nbty.com/u.d?YYGulDhMPMyt0UWWa8=3D53" target=3D"_blank" name=3D"Google Plus"><img src=3D"http://images.postdirect.com/content/nbtyinc/119/Emailfooter_gplus2.jpg" width=3D"32" height=3D"33" border=3D"0" class=3D"social"></a>
+		<a href=3D"http://link.nbty.com/u.d?aYGulDhMPMyt0UWWa5=3D63" target=3D"_blank" name=3D"Youtube"><img src=3D"http://images.postdirect.com/content/nbtyinc/119/Emailfooter_youtube2.jpg" width=3D"33" height=3D"33" border=3D"0" class=3D"social"></a></td>
+                          </tr>
+                        </table></td>
+          <td class=3D"stack navText" align=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                          <tr>
+                            <td width=3D"1" class=3D"hide"><img src=3D"http://images.postdirect.com/content/nbtyinc/119/Emailfooter_vertrule.jpg" width=3D"1" height=3D"93" /></td>
+                            <td align=3D"center" style=3D"color:#FFFFFF;" class=3D"hide"><a href=3D"http://link.nbty.com/u.d?B4GulDhMPMyt0UWWaC=3D73" target=3D"_blank" name=3D"raf"><img class=3D"cornerimage" src=3D"http://images.postdirect.com/content/nbtyinc/119/Emailfooter_refer3.jpg" alt=3D"Refer a Friend and SAVE 10%&dagger; for you and a friend&raquo;" width=3D"158" height=3D"93" border=3D"0" /></a></td>
+                                                      </tr>
+                        </table></td>
+         <td class=3D"stack navText" align=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                          <tr>
+                            <td width=3D"1" class=3D"hide"><img src=3D"http://images.postdirect.com/content/nbtyinc/119/Emailfooter_vertrule.jpg" width=3D"1" height=3D"93" /></td>
+<td width=3D"10" class=3D"hide"></td>
+                            <td class=3D"hide" align=3D"center" style=3D"color:#FFFFFF;"><a href=3D"http://link.nbty.com/u.d?G4GulDhMPMyt0UWWaI=3D93&s=3D32616&cmp=3Dinfo-_2-haircare-_2-default" target=3D"_blank" name=3D"new_low_prices"><img src=3D"http://images.postdirect.com/content/nbtyinc/119/bannerleftnav_pricematch.gif" alt=3D"Price Match Guarantee - Find a Lower Price and We'll Match It&raquo;" width=3D"179" height=3D"66" border=3D"0" class=3D"hide"></a></td>
+                                                      </tr>
+                        </table></td></tr>
+                  </table></td>
+              </tr>
+            </table>
+
+<table class=3D"shrink" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" bgcolor=3D"#ffffff">
+<tr>
+<td class=3D"shrink" height=3D"15" style=3D"line-height:1px; font-size:1px;">&nbsp;</td>
+</tr>
+</table>
+
+<table class=3D"section-wrapper" border=3D"1" cellspacing=3D"0" bordercolor=3D"#000000" cellpadding=3D"1" width=3D"475" align=3D"center">
+	<tr>
+		<td align=3D"center"><font color=3D"#000000" size=3D"1" face=3D"Arial,Helvetica,sans-serif, Verdana,Geneva">* These statements have not been evaluated by the U.S. Food and Drug Administration. These products are not intended to diagnose, treat, cure or prevent any disease.</font></td>
+	</tr>
+</table>
+<br>
+
+<CENTER><table class=3D"section-wrapper" cellspacing=3D"0" cellpadding=3D"0" width=3D"650">
+<tr>
+<td align=3D"left" valign=3D"top" class=3D"shrink3"><font style=3D"font-family:Arial,Helvetica,sans-serif;font-size:11px;color:#4e4e4e;">This email was sent to: blackyao12@gmail.com<br /><br />
+If this email was forwarded to you, <a target=3D"_blank" name=3D"signup" href=3D"http://link.nbty.com/u.d?WYGulDhMPMyt0UciKkxm=3D61&s=3D32616&cmp=3Dyml-_2-haircare-_2-default" style=3D"color:#184173;">click here to subscribe</a> to the Puritan's Pride<sup>&reg;</sup> email list.
+<br /><br />
+
+** Free Shipping applies to orders shipping within the contiguous 48 United States only; discount will automatically apply to cart at checkout; not valid on prior purchases.<br />
+&dagger; Some conditions apply. See <a href=3D"http://link.nbty.com/u.d?CYGulDhMPMyt0UDd_=3D43" name=3D"referafriend_tcs" target=3D"_blank" style=3D"color:#184173;">terms and conditions</a> for details.<br />
+All products subject to availability. To expedite orders, we may substitute a smaller bottle if ordered quantity is out of stock. Terms and conditions subject to change. Internet distribution or resale strictly prohibited. We reserve the right, at our sole discretion, to refuse or cancel any order for any reason. For your convenience, you will not be charged until your payment method is authorized, the order information is verified for accuracy and your order is shipped.<br />
+										<br />
+										<strong>Please do not reply to this email.</strong> To send us your questions and comments, or to unsubscribe from future email messages and exclusive offers from Puritan&#39;s Pride&reg;, please use the links below.<br />
+										<br />
+										<a href=3D"http://link.nbty.com/u.d?YYGulDhMPMyt0UDM=3D3&s=3D32616&cmp=3Dyml-_2-haircare-_2-default" target=3D"_blank" name=3D"custserv"><font color=3D"#666666">Customer Service</font></a> | <a href=3D"https://web.puritan.com/unsubscribe.jsp?s=3DZR-G&i=3D445771056322" target=3D"_blank" name=3D"unsub"><font color=3D"#666666">Unsubscribe</font></a> | <a href=3D"http://link.nbty.com/u.d?L4GulDhMPMyt0UDG=3D23&s=3D32616&cmp=3Dyml-_2-haircare-_2-default" target=3D"_blank" name=3D"privacy"><font color=3D"#666666">Privacy Policy</font></a><br />
+										<br />
+										Copyright 2015 Puritan's Pride&reg;, Inc. &middot; PO Box 9001 &middot; Oakdale, NY 11769 &middot; 1-800-645-1030 &middot; <a href=3D"http://link.nbty.com/u.d?P4GulDhMPMyt0UDd6=3D33&s=3D32616&cmp=3Dyml-_2-haircare-_2-default" style=3D"text-decoration: none" target=3D"_blank" name=3D"ppurl"><font color=3D"#333333">www.puritan.com</font></a></font></td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+
+
+<img src=3D"http://cquotient.puritan.com/blackyao12@gmail.com?cqid=3D5P1321D&_cq_pool_id=3Dcontrol" />
+
+
+
+<!-- ALC pixel. Do not remove -->
+
+<img width=3D"1" height=3D"1" src=3D"http://na-track.idtargeting.com/email.gif?cid=3DHA25O&_mjnctid=3Db540b7a54fb57fc0e6060e6af7ad8808">
+<img width=3D"1" height=3D"1" src=3D"http://na-ho.idtargeting.com/ho/HA25O/0?_mjnctid=3Db540b7a54fb57fc0e6060e6af7ad8808&hash=3D74cf52216548201dfc0e853fce5395cc98e670df">
+<img width=3D"1" height=3D"1" src=3D"http://na-ho.idtargeting.com/ho/HA25O/1?_mjnctid=3Db540b7a54fb57fc0e6060e6af7ad8808&hash=3D85d6deca101b3de9752870169ce0a8a2308b32d2">
+<img width=3D"1" height=3D"1" src=3D"http://na-ho.idtargeting.com/ho/HA25O/2?_mjnctid=3Db540b7a54fb57fc0e6060e6af7ad8808&hash=3D74cf52216548201dfc0e853fce5395cc98e670df">
+<img width=3D"1" height=3D"1" src=3D"http://na-ho.idtargeting.com/ho/HA25O/3?_mjnctid=3Db540b7a54fb57fc0e6060e6af7ad8808&hash=3Db540b7a54fb57fc0e6060e6af7ad8808">
+
+
+
+</body>
+</html>
+

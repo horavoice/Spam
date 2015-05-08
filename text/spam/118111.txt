@@ -1,0 +1,678 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+
+<title>The Body Shop</title>
+ <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+ <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.0"/>
+<style media=3D"all" type=3D"text/css">
+.ReadMsgBody {width: 100%;}
+.ExternalClass * {line-height: 100%;}
+.ExternalClass {width: 100%; line-height: 100%}
+.ExternalClass font{line-height: 100%}
+
+a {outline: none;}
+a:link {text-decoration:none; color:#797979}
+a:visited {text-decoration:none; color:#797979}
+a:hover {text-decoration:none; color:#797979}
+a.und {text-decoration: underline !important; }
+
+body{width:100% !important; -webkit-text-size-adjust:100% !important; -ms-text-size-adjust:100%; margin:0; padding:0;}
+table {border-collapse: collapse;}
+
+
+@media only screen and (max-width: 480px), (max-device-width: 480px) {
+
+img[class=3Dimage_resize] { width:320px !important; height:26px !important; }
+
+	/**Global Styles**/
+	body[yahoo] .hide {display: none !important;}
+	body[yahoo] .MainWidth {width: 320px !important; min-width: 320px !important; padding: 0px !important;}
+
+	body[yahoo] .MainWidth1 {width:300px !important; min-width: 300px !important; padding: 0px !important;}
+	body[yahoo] .Block {display:block !important;}
+
+	body[yahoo] .PaddingNull {padding:0 0 0 0 !important;}
+   /**Global Styles**/
+
+   /**Preheader**/
+   body[yahoo] .Top10 {padding:10px 0 0 0 !important;}
+   /**Preheader**/
+   /**Logo**/
+     body[yahoo] .Btm5 {padding:0 0 5px 0 !important;}
+   /**Logo**/
+   /**Top Navigation**/
+   body[yahoo] .NodashRborder {border-right:none !important;}
+   body[yahoo] .PaddingResetLR {padding:10px 7px 10px 7px !important;}
+   body[yahoo] .PaddingResetLR2 {padding:0px 7px 10px 7px !important;}
+   body[yahoo] .NoPadding1 {padding:0 10px 0 0 !important;}
+   body[yahoo] .NoPadding2 {padding:0 10px 0 10px !important;}
+   body[yahoo] .NoPadding3 {padding:0 0 0 10px !important;}
+     /**Top Navigation**/
+
+	 /**HERO**/
+	 body[yahoo] .Hero {width: 100% !important; height:auto !important;}
+    /**HERO**/
+
+	 /**Hero Image UPDATE FOR MOBILE  **/
+	body[yahoo] .mobileHero {display:block !important; height:211px !important; width:300px !important; background-image: url('http://media.4at5.net/email_domains/bodyshop/156788/replen-topbanner_mob.jpg') !important; background-repeat:no-repeat !important;}
+ /**Hero Image UPDATE FOR MOBILE  **/
+ /**2 Side by Side**/
+  body[yahoo] .BTMSide5Pad {padding:0 0 20px 0 !important;}
+ /**2 Side by Side**/
+	/** MED Article 1**/
+	body[yahoo] .ImgartPad {padding:10px 0 0 0 !important;}
+	body[yahoo] .CTApad {padding:10px 0 20px 0 !important;}
+	/** MED Article 1**/
+ 	/**MED Article 2**/
+	body[yahoo] .medPad{padding:20px 60px 10px 25px !important;}
+	/**MED Article 2**/
+ /**MOD1**/
+  body[yahoo] .Text25R {padding:0 15px 15px 0 !important;}
+  body[yahoo] .Text25Ra {padding:0 0 15px 0 !important;}
+  body[yahoo] .Text25Rb {padding:25px 5px 30px 15px  !important;}
+  body[yahoo] .Text25Rc {padding:0 5px 15px 0 !important;}
+  body[yahoo] .CTAPadRest {padding:0 0 0 0 !important; float:left !important;}
+ /**MOD1**/
+
+  /**MOD2**/
+  body[yahoo] .ImgR {padding:5px 0 15px 0 !important;}
+   body[yahoo] .ModPadResest {padding:10px !important;}
+  /**MOD2**/
+  /*** 3 Across Styling ***/
+table[class=3Dhorizontal] {width:290px !important;}
+table[class=3Dhorizontal] tr.inline {
+	display: inline !important;
+}
+table[class=3Dhorizontal] td.floatLeft {
+	float: left !important;
+	width: 35% !important
+
+}
+table[class=3Dhorizontal] td.floatLeft img {
+	width: 90px !important;
+	height: auto !important;
+	float: left !important
+}
+table[class=3Dhorizontal] td.floatRight {
+	float: left !important;
+	width: 65% !important;
+
+}
+  /*** 3 Across Styling ***/
+ /**MOD4**/
+  body[yahoo] .Mod4paddingReset {padding:5px 0 10px 0 !important;}
+  body[yahoo] .Mod4paddingReset2 {padding:0 10px 0 10px !important;}
+ /**MOD4**/
+ /**5 PROD**/
+  body[yahoo] .BTMProd5Pad {padding:0 0 10px 0 !important;}
+  body[yahoo] .BTMProd5Padb {padding:0 0 20px 0 !important;}
+   body[yahoo] .BTMProd5Padc {padding:0 0 15px 0 !important;}
+ body[yahoo] .TBLProd5Pad {padding:20px 10px 20px 20px !important;}
+ /**5 PROD**/
+
+ /**BTM1 COUPON**/
+ body[yahoo] .BTM1paddingReset {padding:0 0 20px 10px !important;}
+ body[yahoo] .BTM2paddingReset {padding:0 0 0 10px !important;}
+  /**BTM1 COUPON**/
+
+  /**BTM1 COUPON**/
+  body[yahoo] .BTM1couponImg {width:300px !important; height: auto !important;}
+    body[yahoo] .BTM1couponImgb {width:290px !important; height: auto !important;}
+ /**BTM1 COUPON**/
+ /**Hidden Desktop NAV**/
+  body[yahoo] .mobilecontent{
+	display:block!important;
+    max-height: none !important;
+}
+
+  body[yahoo] #boderHidden { width:320px !important; border-top:1px #797979 solid!important; border-bottom:1px #797979 solid!important; padding:10px 0 10px 0 !important;}
+  body[yahoo] #text1 {width:80px !important; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:17px;  color:#666666; text-align:center; padding:0 10px 0 0 !important;}
+  body[yahoo] #text2 {width:100px !important;  font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:17px;  color:#666666; text-align:center; padding:0 10px 0 10px !important;}
+  body[yahoo] #text3 {width:140px !important; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:17px;  color:#666666; text-align:center; padding:0 0 0 10px !important;}
+/**Hidden Desktop Nav**/
+/**Social**/
+body[yahoo] .DivImg{width:45px !important; height:auto !important;}
+body[yahoo] .Social2Pad {padding:5px 0 15px 0 !important;}
+/**Social**/
+/**Legal Nav**/
+ body[yahoo] .NodashRbordera {border-right:none !important;display:block !important;}
+   body[yahoo] .NoPadding1q {padding:0 10px 0 0 !important;}
+  body[yahoo] .NoPadding3a {padding:10px 0 0 10px !important;}
+  /**Legal Nav**/
+*[class=3DTBSfooterbutton]{
+	text-decoration:none !important;
+	display:block !important;
+	background: #888888 !important;
+	padding: 5px !important;
+	color:#ffffff !important;
+	text-align:center !important;
+	text-decoration:none !important;
+	width:140px !important;
+	margin: 5px auto !important;
+}
+*[class=3DTBSstack]{display:block !important; width:100% !important; padding: 0 !important;}
+*[class=3DhideBreak]{
+	display: none !important;
+}
+</style>
+</head>
+
+<body leftmargin=3D"0" topmargin=3D"0" marginwidth=3D"0" marginheight=3D"0" yahoo=3D"fix"><img src=3D"http://link.p0.com/1x1.dyn?06EG9bIYiBLUmh7JL-qtFenV4=3D0" width=3D1 height=3D1  width=3D"1" height=3D"1" border=3D"0">
+
+<!-- Begin Gmail Grid View data -->
+<div itemscope itemtype=3D"http://schema.org/EmailMessage">
+  <div itemprop=3D"publisher" itemscope itemtype=3D"http://schema.org/Organization">
+    <meta itemprop=3D"name" content=3D"The Body Shop"/>
+    <link itemprop=3D"url" href=3D"http://www.thebodyshop-usa.com"/>
+    <link itemprop=3D"url/googlePlus" href=3D"https://plus.google.com/+thebodyshopusa"/>
+  </div>
+  <div itemprop=3D"about" itemscope itemtype=3D"http://schema.org/Offer">
+    <link itemprop=3D"image" href=3D"http://www.thebodyshop.ca/en/email/chrome/2014_AgilOne/AGL_GV_Replenishment.jpg"/>
+  </div>
+</div>
+<!-- End Gmail Grid View data -->
+
+ <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" style=3D"text-align:center">
+	<tr>
+	  <td width=3D"100%" valign=3D"top" align=3D"center">
+  <!--Wrapper-->
+   <table width=3D"640" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"MainWidth">
+  <tr>
+    <td class=3D"MainWidth" style=3D"max-width:640px; padding:0 10px 35px 10px;" valign=3D"top" align=3D"center">
+ <!--Header-->
+  <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"MainWidth">
+  <tr>
+    <td valign=3D"top" align=3D"center" style=3D"padding:30px 0 0 0;" class=3D"Top10">
+    <!--Preheader-->
+ <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+  <tr>
+    <td valign=3D"top" align=3D"center" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:14px;  color:#79797a; text-align:left; padding:0 0 22px 0;">Time to Re-order Your Body Butter!&nbsp;<a href=3D"http://link.p0.com/u.d?L4GulA10KQysemcqMYzd=3D331&s=3DReplenishment_2BodyButter&utm_2term=3Dnavigation_2hp&utm_2content=3D09Argan&tmcampid=3D31&tmad=3Dc&tmplaceref=3DYesMailClick&tmclickref=3DYesMailClick" target=3D"_blank" style=3D"text-decoration: underline;">Shop Now</a>.</td>
+    <td class=3D"hide" valign=3D"top" align=3D"center" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:14px; color:#79797a; text-align:right; padding:0 0 22px 0;"><a href=3D"http://link.p0.com/t.d?lYGulA10KQysem=3D/@HTML_2PREVIEW_2LINK_0a=3D0iBLU-rHYxq2QW_2tqlueShmb" target=3D"_blank" class=3D"und">View in Browser</a></td>
+  </tr>
+ </table>
+   <!--Preheader-->
+  <!--Logo/Address/F2F-->
+  <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"MainWidth">
+  <tr>
+  <!--Logo-->
+    <td width=3D"34%" class=3D"Btm5" align=3D"center" valign=3D"top" style=3D"padding:0 0 10px 0;"><a href=3D"http://link.p0.com/u.d?HYGulA10KQysemcqMYzS=3D341&s=3DReplenishment_2BodyButter&utm_2term=3Dnavigation_2logohp&utm_2content=3D09Argan&tmcampid=3D31&tmad=3Dc&tmplaceref=3DYesMailClick&tmclickref=3DYesMailClick"><img src=3D"http://www.thebodyshop.ca/en/email/chrome/2014_ResponsiveEmailAssets/tbsnamelogo_02.png" alt=3D"THE BODY SHOP" width=3D"210" border=3D"0" style=3D"display:block;" class=3D"TBScenter"/></a></td>
+  <!--Logo-->
+  <!--Address/F2F-->
+    <td width=3D"66%" align=3D"center" valign=3D"middle" class=3D"hide" style=3D"padding:0 0 10px 0;">
+    <table width=3D"410" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+    <tr>
+    <td width=3D"175" style=3D"line-height:11px; font-size:11px;"></td>
+<!--
+     <td width=3D"123" align=3D"center" valign=3D"top" style=3D"mso-line-height-rule: exactly; font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:11px;  color:#000001; text-align:right; padding:0 7px 0 0; border-right:1px #000001 solid;">Add to Address Book</td> -->
+        <td width=3D"235" align=3D"right" valign=3D"top" style=3D"mso-line-height-rule: exactly; font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:11px;  color:#000001; text-align:right; padding:0 0 0 5px;"><a href=3D"http://bodyshop.p0.com/ftaf-index.jsp?s=3D5rha&i=3D445814769274" target=3D"_blank" class=3D"und">Forward to a Friend</a></td>
+    </tr>
+    </table></td>
+  <!--Address/F2F-->
+  </tr>
+ </table>
+   <!--Logo/Address/F2F-->
+    <!--Top Nav-->
+      <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"MainWidth">
+  <tr>
+    <td class=3D"PaddingResetLR" valign=3D"top" align=3D"center" style=3D"padding:10px 17px 12px 17px; border-top:1px #797979 solid; border-bottom:1px #797979 solid;">
+  <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+  <tr>
+    <td class=3D"NoPadding1" valign=3D"top" align=3D"center" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:17px;  color:#666666; text-align:center; padding:0 5px 0 0;"><a href=3D"http://link.p0.com/u.d?BYGulA10KQysemcqMYzM=3D361&s=3DReplenishment_2BodyButter&utm_2term=3Dnavigation_2new&utm_2content=3D09Argan&tmcampid=3D31&tmad=3Dc&tmplaceref=3DYesMailClick&tmclickref=3DYesMailClick" target=3D"_blank">WHAT'S NEW</a></td>
+    <td class=3D"NoPadding2" valign=3D"top" align=3D"center" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:17px; color:#666666; text-align:center; padding:0 5px 0 5px;"><a href=3D"http://link.p0.com/u.d?b4GulA10KQysemcqMYzB=3D371&s=3DReplenishment_2BodyButter&utm_2term=3Dnavigation_2bathbody&utm_2content=3D09Argan&tmcampid=3D31&tmad=3Dc&tmplaceref=3DYesMailClick&tmclickref=3DYesMailClick" target=3D"_blank">BATH &amp; BODY</a></td>
+    <td class=3D"NodashRborder NoPadding3" valign=3D"top" align=3D"center" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:17px; color:#666666; text-align:center; padding:0 5px 0 5px;"><a href=3D"http://link.p0.com/u.d?DYGulA10KQysemcqMYzG=3D381&s=3DReplenishment_2BodyButter&utm_2term=3Dnavigation_2sc&utm_2content=3D09Argan&tmcampid=3D31&tmad=3Dc&tmplaceref=3DYesMailClick&tmclickref=3DYesMailClick" target=3D"_blank">SKIN CARE</a></td>
+    <td class=3D"hide" valign=3D"top" align=3D"center" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:17px; color:#666666; text-align:center; padding:0 5px 0 5px;"><a href=3D"http://link.p0.com/u.d?R4GulA10KQysemcqMYy7=3D391&s=3DReplenishment_2BodyButter&utm_2term=3Dnavigation_2gifts&utm_2content=3D09Argan&tmcampid=3D31&tmad=3Dc&tmplaceref=3DYesMailClick&tmclickref=3DYesMailClick" target=3D"_blank">GIFTS</a></td>
+    <td class=3D"hide" valign=3D"top" align=3D"center" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:17px; color:#666666; text-align:center; padding:0 5px 0 5px;"><a href=3D"http://link.p0.com/u.d?JYGulA10KQysemcqMYyw=3D401&s=3DReplenishment_2BodyButter&utm_2term=3Dnavigation_2mu&utm_2content=3D09Argan&tmcampid=3D31&tmad=3Dc&tmplaceref=3DYesMailClick&tmclickref=3DYesMailClick" target=3D"_blank">MAKEUP</a></td>
+   <td class=3D"hide" valign=3D"top" align=3D"center" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:17px; color:#666666; text-align:center; padding:0 0 0 5px;"><a href=3D"http://link.p0.com/u.d?bYGulA10KQysemcqMYy1=3D411&s=3DReplenishment_2BodyButter&utm_2term=3Dnavigation_2store&utm_2content=3D09Argan&tmcampid=3D31&tmad=3Dc&tmplaceref=3DYesMailClick&tmclickref=3DYesMailClick" target=3D"_blank">FIND A STORE</a></td>
+   </tr>
+ </table>
+ </td>
+  </tr>
+ </table>
+   <!--Top Nav-->
+   </td>
+  </tr>
+ </table>
+   <!--END Header-->
+    <!--Body Content-->
+<table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"MainWidth">
+  <tr>
+    <td valign=3D"top" align=3D"center" style=3D"padding:15px 0 0 0;">
+
+    <!--Feature B - All images-->
+     <!-- Hero Image UPDATE FOR MOBILE line 46 in CSS -->
+     <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+  	<tr>
+    <td valign=3D"top" align=3D"center" class=3D"hide">
+    <img src=3D"http://www.thebodyshop.ca/en/email/chrome/2014_AgilOne/replen-topbanner_01.jpg" alt=3D"Never miss a day with your favorite formulas! Re-order now, before the last drop." width=3D"310" height=3D"218" style=3D"display:block;" border=3D"0" class=3D"hide" />
+    </td>
+    <td valign=3D"top" align=3D"center"><img src=3D"http://www.thebodyshop.ca/en/email/chrome/2014_AgilOne/replen-topbanner_02.jpg" width=3D"310" height=3D"218" alt=3D"" style=3D"display:block;" border=3D"0" class=3D"hide" /><span class=3D"mobileHero"> </span>
+    </td>
+    </tr>
+    </table>
+     <!-- Hero Image UPDATE FOR MOBILE line 46 in CSS -->
+     <!--END Feature B - All images-->
+    </td>
+    </tr>
+    </table>
+     <!--Body Content-->
+     <!--MOD WRAPPER-->
+      <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"MainWidth1">
+  <tr>
+    <td valign=3D"top" align=3D"center" style=3D"padding:13px 0 13px 0;">
+
+
+    <!--Feature D Hybrid-->
+    <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"MainWidth1">
+  <tr>
+    <td valign=3D"top" align=3D"center" style=3D"padding:0 0 13px 0;">
+    <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+  <tr>
+    <td valign=3D"top" align=3D"center" class=3D"ModPadResest" style=3D"padding:16px; border-right:1px solid #ebebeb; border-left:1px solid #ebebeb; border-top:1px solid #ebebeb; border-bottom:1px solid #ebebeb;">
+    <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+  <tr>
+    <td align=3D"center" valign=3D"top"  class=3D"Block Text25Ra">
+     <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+    <tr>
+    <td valign=3D"top" align=3D"center" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:22px; line-height:25px; color:#d00561; text-align:left; padding:0 0 10px 0; font-weight:bold;">Body Butter</td>
+    </tr>
+    </table>
+
+    <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+    <tr>
+    <td valign=3D"top" align=3D"center" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:17px; color:#666666; text-align:left; padding:0 0 10px 0;">Offering up to 24 hours of skin hydration, our skin-quenching body butter range is full of unique ingredients, scents and textures to suit all preferences.</td>
+    </tr>
+    </table>
+
+      <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+    <tr>
+    <td valign=3D"top" align=3D"left" style=3D"padding:10px 0 0 0;">
+     <table border=3D"0" bgcolor=3D"#08789E" cellpadding=3D"0" cellspacing=3D"0" width=3D"190">
+                                        <tr>
+                                          <td  valign=3D"middle"  bgcolor=3D"#ce0762" class=3D"CTA" align=3D"center" style=3D"line-height:20px;color:#ffffff;font-family:Arial, Helvetica, sans serif;font-size:14px; padding:10px 0 10px 0; font-weight:bold;"><a href=3D"http://link.p0.com/u.d?V4GulA10KQysemcqMYzj=3D311&s=3DReplenishment_2BodyButter&utm_2term=3Dmp_2bb&utm_2content=3D09Argan&tmcampid=3D31&tmad=3Dc&tmplaceref=3DYesMailClick&tmclickref=3DYesMailClick" style=3D"text-decoration:none;color:#ffffff;"><span style=3D"color:#ffffff;">SHOP BODY BUTTER</span></a> <span style=3D"font-size:13px; vertical-align:top;color:#ffffff;">=E2=96=BA</span></td>
+                                        </tr>
+                                      </table>
+                                      </td>
+                                      </tr>
+                                      </table>
+    </td>
+    <td align=3D"center" valign=3D"middle" class=3D"Block ImgR" style=3D"padding:0 0 0 0;">
+    <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+    <tr>
+    <td valign=3D"top" align=3D"left" style=3D"padding:10px 0 0 0;">
+    	<a href=3D"http://link.p0.com/u.d?RYGulA10KQysemcqMYzY=3D321&s=3DReplenishment_2BodyButter&utm_2term=3Dmp_2bb&utm_2content=3D09Argan&tmcampid=3D31&tmad=3Dc&tmplaceref=3DYesMailClick&tmclickref=3DYesMailClick"><img src=3D"http://www.thebodyshop.ca/en/email/chrome/2014_AgilOne/bodybutter-l.jpg" alt=3D"" width=3D"277" style=3D"display:block;" border=3D"0" /></a>
+    </td>
+    </tr>
+    </table>
+
+    </td>
+    </tr>
+    </table>
+    </td>
+    </tr>
+    </table>
+    </td>
+    </tr>
+    </table>
+    <!--End Feature D Hybrid-->
+
+
+     <!--Headline A - All Images-->
+    <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+  <tr>
+    <td valign=3D"top" align=3D"center" style=3D"border-top: 1px solid #666666; border-bottom: 1px solid #666666;">
+    <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+  <tr>
+    <td valign=3D"top" align=3D"center" class=3D"Block"><img src=3D"http://www.thebodyshop.ca/en/email/chrome/2014_AgilOne/you-might-also-like-to-try-gray.png" width=3D"520" height=3D"42" style=3D"display:block;" class=3D"image_resize" border=3D"0" /></td>
+
+    </tr>
+    </table>
+    </td>
+    </tr>
+    </table>
+    <!--End Headline A - All Images-->
+
+
+
+
+      <!--Product Grid C - 5 Across-->
+      <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+  <tr>
+    <td valign=3D"bottom" align=3D"center" style=3D"padding:20px 10px 20px 10px;" class=3D"TBLProd5Pad">
+      <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center">
+                    <tr>
+                      <td class=3D"Block BTMProd5Pad" align=3D"center" valign=3D"bottom">
+                      <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                      <tr>
+
+                                                  <td align=3D"left" style=3D"padding:0 0 0 0" valign=3D"bottom">
+                                                  <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"left">
+                                <tr>
+                                  <td align=3D"left">
+                                  <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                      <tr>
+                                        <td valign=3D"bottom" align=3D"left" style=3D"padding:0 0 20px 0;"><a href=3D"http://link.p0.com/t.d?wYGulA10KQysem=3D/link.mercent.com/redirect.ashx_0mr:merchantID=3DTheBodyShop&mr:trackingCode=3D61F6CFC2-51A6-E411-B866-B8CA3A5D9DDA&mr:targetUrl=3Dhttp://www.thebodyshop-usa.com/body-cleansers/shower-gel/regular-shower/raspberry-shower-gel.aspx_0utm_2source=3DAGL&utm_2medium=3DEmail&utm_2campaign=3DReplenishment_2BodyButter"><img src=3D"http://www.thebodyshop-usa.com/images/packshot/products/large/raspberry-shower-gel_l.jpg" alt=3D"This soap-free shower gel contains raspberries picked early in the season to preserve their freshness. It has a sweet seasonal scent..." width=3D"120" style=3D"display:block;" border=3D"0" /></a></td>
+                                      </tr>
+                                    </table>
+
+
+                                    <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                      <tr>
+                                        <td valign=3D"bottom" width=3D"100%" align=3D"left" style=3D"font-family:Arial;color:#666666;font-size:14px;line-height:20px;  padding:0 10px 0 0;">Early-Harvest Raspberry Shower Gel 8.4 fl oz</td>
+                                      </tr>
+                                    </table>
+                                     <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                  <tr>
+                                       <td valign=3D"bottom" align=3D"left" style=3D"font-family:Arial, Helvetica, sans serif;color:#ce0761;font-size:14px;line-height:20px; padding:10px 20px 0 0;"><a href=3D"http://link.p0.com/t.d?wYGulA10KQysem=3D/link.mercent.com/redirect.ashx_0mr:merchantID=3DTheBodyShop&mr:trackingCode=3D61F6CFC2-51A6-E411-B866-B8CA3A5D9DDA&mr:targetUrl=3Dhttp://www.thebodyshop-usa.com/body-cleansers/shower-gel/regular-shower/raspberry-shower-gel.aspx_0utm_2source=3DAGL&utm_2medium=3DEmail&utm_2campaign=3DReplenishment_2BodyButter" style=3D"text-decoration:none;color:#ce0761; font-weight:bold;"><span style=3D"color:#ce0761; text-decoration:underline;">Shop Now <span style=3D"vertical-align:top;">=E2=96=BA</span></span></a></td>
+
+                                      </tr>
+                              </table>
+                              </td>
+                              </tr>
+                              </table>
+                              		</td>
+
+
+                                     <td align=3D"left" style=3D"padding:0 0 0 0" valign=3D"bottom">
+                                                  <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"left">
+                                <tr>
+                                  <td align=3D"left">
+                                  <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                      <tr>
+                                        <td valign=3D"bottom" align=3D"left" style=3D"padding:0 0 20px 0;"><a href=3D"http://link.p0.com/t.d?9YGulA10KQysem=3D/link.mercent.com/redirect.ashx_0mr:merchantID=3DTheBodyShop&mr:trackingCode=3D60F6CFC2-51A6-E411-B866-B8CA3A5D9DDA&mr:targetUrl=3Dhttp://www.thebodyshop-usa.com/body-cleansers/shower-gel/regular-shower/blueberry-shower-gel.aspx_0utm_2source=3DAGL&utm_2medium=3DEmail&utm_2campaign=3DReplenishment_2BodyButter"><img src=3D"http://www.thebodyshop-usa.com/images/packshot/products/large/blueberry-shower-gel_l.jpg" alt=3D"This soap-free shower gel envelops skin in an uplifting fruity scent. It contains Community Fair Trade honey from Ethiopia and bouncy blueberry fruit extract...." width=3D"120" style=3D"display:block;" border=3D"0" /></a></td>
+                                      </tr>
+                                    </table>
+
+
+                                    <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                      <tr>
+                                        <td valign=3D"bottom" width=3D"100%" align=3D"left" style=3D"font-family:Arial;color:#666666;font-size:14px;line-height:20px;  padding:0 10px 0 0;">Blueberry Shower Gel 8.4 fl oz</td>
+                                      </tr>
+                                    </table>
+                                     <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                  <tr>
+                                       <td valign=3D"bottom" align=3D"left" style=3D"font-family:Arial, Helvetica, sans serif;color:#ce0761;font-size:14px;line-height:20px; padding:10px 20px 0 0;"><a href=3D"http://link.p0.com/t.d?9YGulA10KQysem=3D/link.mercent.com/redirect.ashx_0mr:merchantID=3DTheBodyShop&mr:trackingCode=3D60F6CFC2-51A6-E411-B866-B8CA3A5D9DDA&mr:targetUrl=3Dhttp://www.thebodyshop-usa.com/body-cleansers/shower-gel/regular-shower/blueberry-shower-gel.aspx_0utm_2source=3DAGL&utm_2medium=3DEmail&utm_2campaign=3DReplenishment_2BodyButter" style=3D"text-decoration:none;color:#ce0761; font-weight:bold;"><span style=3D"color:#ce0761; text-decoration:underline;">Shop Now <span style=3D"vertical-align:top;">=E2=96=BA</span></span></a></td>
+
+                                      </tr>
+                              </table>
+                              </td>
+                              </tr>
+                              </table>
+                              		</td>
+
+                      </tr>
+                      </table>
+                      </td>
+                        <td class=3D"Block BTMProd5Pad" valign=3D"bottom">
+                        <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                      <tr>
+
+                                                   <td align=3D"left" style=3D"padding:0 0 0 0" valign=3D"bottom">
+                                                  <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"left">
+                                <tr>
+                                  <td align=3D"left">
+                                  <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                      <tr>
+                                        <td valign=3D"bottom" align=3D"left" style=3D"padding:0 0 20px 0;"><a href=3D"http://link.p0.com/t.d?s4GulA10KQysem=3D/link.mercent.com/redirect.ashx_0mr:merchantID=3DTheBodyShop&mr:trackingCode=3D5717AADD-AC9D-E411-B866-B8CA3A5D9DDA&mr:targetUrl=3Dhttp://www.thebodyshop-usa.com/bath-body-care/body-moisturizers/lotions-creams/raspberry-body-lotion.aspx_0utm_2source=3DAGL&utm_2medium=3DEmail&utm_2campaign=3DReplenishment_2BodyButter"><img src=3D"http://www.thebodyshop-usa.com/images/packshot/products/large/raspberry-body-lotion_l.jpg" alt=3D"This lightweight body lotion contains raspberries picked early in the season to preserve their freshness. This season's must-have for hydrated skin, leaving it feeling smooth and moisturized...." width=3D"120" style=3D"display:block;" border=3D"0" /></a></td>
+                                      </tr>
+                                    </table>
+
+
+                                    <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                      <tr>
+                                        <td valign=3D"bottom" width=3D"100%" align=3D"left" style=3D"font-family:Arial;color:#666666;font-size:14px;line-height:20px;  padding:0 10px 0 0;">Early-Harvest Raspberry Body Lotion 8.4 fl oz</td>
+                                      </tr>
+                                    </table>
+                                     <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                  <tr>
+                                       <td valign=3D"bottom" align=3D"left" style=3D"font-family:Arial, Helvetica, sans serif;color:#ce0761;font-size:14px;line-height:20px; padding:10px 20px 0 0;"><a href=3D"http://link.p0.com/t.d?s4GulA10KQysem=3D/link.mercent.com/redirect.ashx_0mr:merchantID=3DTheBodyShop&mr:trackingCode=3D5717AADD-AC9D-E411-B866-B8CA3A5D9DDA&mr:targetUrl=3Dhttp://www.thebodyshop-usa.com/bath-body-care/body-moisturizers/lotions-creams/raspberry-body-lotion.aspx_0utm_2source=3DAGL&utm_2medium=3DEmail&utm_2campaign=3DReplenishment_2BodyButter" style=3D"text-decoration:none;color:#ce0761; font-weight:bold;"><span style=3D"color:#ce0761; text-decoration:underline;">Shop Now <span style=3D"vertical-align:top;">=E2=96=BA</span></span></a></td>
+
+                                      </tr>
+                              </table>
+                              </td>
+                              </tr>
+                              </table>
+                              		</td>
+
+
+                                         <td align=3D"left" style=3D"padding:0 0 0 0" valign=3D"bottom">
+                                                  <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"left">
+                                <tr>
+                                  <td align=3D"left">
+                                  <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                      <tr>
+                                        <td valign=3D"bottom" align=3D"left" style=3D"padding:0 0 20px 0;"><a href=3D"http://link.p0.com/t.d?k4GulA10KQysem=3D/link.mercent.com/redirect.ashx_0mr:merchantID=3DTheBodyShop&mr:trackingCode=3D7083B30B-43CA-E311-98FB-B8CA3A5D9DDA&mr:targetUrl=3Dhttp://www.thebodyshop-usa.com/body-moisturizers/body-butter/mini-body-butter/mini-body-butter-moringa.aspx_0utm_2source=3DAGL&utm_2medium=3DEmail&utm_2campaign=3DReplenishment_2BodyButter"><img src=3D"http://www.thebodyshop-usa.com/images/packshot/products/large/mini-body-butter-moringa_l.jpg" alt=3D"This rich and creamy Body Butter is a feast for the skin. It melts straight in to leave skin feeling soft and smooth. It contains Community Fair Trade shea butter and has a delicate white floral scent. 24-hour hydration Great for normal to dry skin White floral scent..." width=3D"120" style=3D"display:block;" border=3D"0" /></a></td>
+                                      </tr>
+                                    </table>
+
+
+                                    <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                      <tr>
+                                        <td valign=3D"bottom" width=3D"100%" align=3D"left" style=3D"font-family:Arial;color:#666666;font-size:14px;line-height:20px;  padding:0 10px 0 0;">Mini Moringa Body Butter Mini - 1.7 oz</td>
+                                      </tr>
+                                    </table>
+                                     <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                  <tr>
+                                       <td valign=3D"bottom" align=3D"left" style=3D"font-family:Arial, Helvetica, sans serif;color:#ce0761;font-size:14px;line-height:20px; padding:10px 20px 0 0;"><a href=3D"http://link.p0.com/t.d?k4GulA10KQysem=3D/link.mercent.com/redirect.ashx_0mr:merchantID=3DTheBodyShop&mr:trackingCode=3D7083B30B-43CA-E311-98FB-B8CA3A5D9DDA&mr:targetUrl=3Dhttp://www.thebodyshop-usa.com/body-moisturizers/body-butter/mini-body-butter/mini-body-butter-moringa.aspx_0utm_2source=3DAGL&utm_2medium=3DEmail&utm_2campaign=3DReplenishment_2BodyButter" style=3D"text-decoration:none;color:#ce0761; font-weight:bold;"><span style=3D"color:#ce0761; text-decoration:underline;">Shop Now <span style=3D"vertical-align:top;">=E2=96=BA</span></span></a></td>
+
+                                      </tr>
+                              </table>
+                              </td>
+                              </tr>
+                              </table>
+                              		</td>
+
+
+                      </tr>
+                      </table>
+                      </td>
+                       <td class=3D"Block BTMProd5Pad" align=3D"center" valign=3D"bottom">
+                       <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center">
+                      <tr>
+
+                                                   <td align=3D"left" style=3D"padding:0 0 0 0" valign=3D"bottom">
+                                                  <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"left">
+                                <tr>
+                                  <td align=3D"left">
+                                  <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                      <tr>
+                                        <td valign=3D"bottom" align=3D"left" style=3D"padding:0 0 20px 0;"><a href=3D"http://link.p0.com/t.d?qYGulA10KQysem=3D/link.mercent.com/redirect.ashx_0mr:merchantID=3DTheBodyShop&mr:trackingCode=3D7883B30B-43CA-E311-98FB-B8CA3A5D9DDA&mr:targetUrl=3Dhttp://www.thebodyshop-usa.com/body-moisturizers/body-butter/mini-body-butter/mini-body-butter-shea.aspx_0utm_2source=3DAGL&utm_2medium=3DEmail&utm_2campaign=3DReplenishment_2BodyButter"><img src=3D"http://www.thebodyshop-usa.com/images/packshot/products/large/mini-body-butter-shea_l.jpg" alt=3D"This super-rich and creamy Body Butter is a feast for the skin. It melts straight in to leave skin feeling soft and smooth. It contains Community Fair Trade shea butter and has a delicious nutty scent. 24-hour hydration Great for very dry skin Delicious nutty scent..." width=3D"120" style=3D"display:block;" border=3D"0" /></a></td>
+                                      </tr>
+                                    </table>
+
+
+                                    <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                      <tr>
+                                        <td valign=3D"bottom" width=3D"100%" align=3D"left" style=3D"font-family:Arial;color:#666666;font-size:14px;line-height:20px;  padding:0 10px 0 0;">Mini Shea Body Butter Mini - 1.7 oz</td>
+                                      </tr>
+                                    </table>
+                                     <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                  <tr>
+                                       <td valign=3D"bottom" align=3D"left" style=3D"font-family:Arial, Helvetica, sans serif;color:#ce0761;font-size:14px;line-height:20px; padding:10px 20px 0 0;"><a href=3D"http://link.p0.com/t.d?qYGulA10KQysem=3D/link.mercent.com/redirect.ashx_0mr:merchantID=3DTheBodyShop&mr:trackingCode=3D7883B30B-43CA-E311-98FB-B8CA3A5D9DDA&mr:targetUrl=3Dhttp://www.thebodyshop-usa.com/body-moisturizers/body-butter/mini-body-butter/mini-body-butter-shea.aspx_0utm_2source=3DAGL&utm_2medium=3DEmail&utm_2campaign=3DReplenishment_2BodyButter" style=3D"text-decoration:none;color:#ce0761; font-weight:bold;"><span style=3D"color:#ce0761; text-decoration:underline;">Shop Now <span style=3D"vertical-align:top;">=E2=96=BA</span></span></a></td>
+
+                                      </tr>
+                              </table>
+                              </td>
+                              </tr>
+                              </table>
+                              		</td>
+
+
+                                      </tr>
+                      </table>
+                      </td>
+                    </tr>
+                  </table>
+    </td>
+    </tr>
+    </table>
+    <!--End Product Grid C - 5 Across-->
+
+
+
+    </td>
+    </tr>
+    </table>
+     <!--MOD WRAPPER-->
+      <!--Wrapper-->
+      <!--Hidden Desktop NAV starts line 112 CSS-->
+      <!--[if !mso 9]><!-->
+ <div class=3D"mobilecontent" style=3D"display:none;max-height:0px;overflow:hidden;">
+    <table width=3D"320" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mobilecontent" style=3D"display:none;max-height:0px;overflow:hidden;" id=3D"boderHidden">
+    <tr>
+    <td valign=3D"top" align=3D"center" id=3D"text1"><a href=3D"http://link.p0.com/u.d?PYGulA10KQysemcqMYyq=3D421&s=3DReplenishment_2BodyButter&utm_2term=3Dnavigation_2gifts&utm_2content=3D09Argan&tmcampid=3D31&tmad=3Dc&tmplaceref=3DYesMailClick&tmclickref=3DYesMailClick" target=3D"_blank">GIFTS</a></td>
+    <td valign=3D"top" align=3D"center" id=3D"text2"><a href=3D"http://link.p0.com/u.d?K4GulA10KQysemcqMYyv=3D431&s=3DReplenishment_2BodyButter&utm_2term=3Dnavigation_2mu&utm_2content=3D09Argan&tmcampid=3D31&tmad=3Dc&tmplaceref=3DYesMailClick&tmclickref=3DYesMailClick" target=3D"_blank">MAKEUP</a></td>
+    <td valign=3D"top" align=3D"center" id=3D"text3"><a href=3D"http://link.p0.com/u.d?cYGulA10KQysemcqMYyk=3D441&s=3DReplenishment_2BodyButter&utm_2term=3Dnavigation_2store&utm_2content=3D09Argan&tmcampid=3D31&tmad=3Dc&tmplaceref=3DYesMailClick&tmclickref=3DYesMailClick" target=3D"_blank">FIND A STORE</a></td>
+    </tr>
+    </table>
+    </div>
+  <!--<![endif]-->
+   <!--Hidden Desktop NAV starts line 112 CSS-->
+
+<!-- Don't Miss Out! -->
+    <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+    	<tr>
+        	<td valign=3D"top" style=3D"padding: 10px 0 0 0;"></td>
+        </tr>
+        <tr>
+            <td valign=3D"top" align=3D"center" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:13px; line-height:16px; text-align:center; background-color: #888888; color:#ffffff; padding:10px 10px 10px 10px;"><strong>DON'T MISS OUT!</strong> Add us to your address book and keep up to date with our exclusive offers. </td>
+        </tr>
+    </table>
+<!-- End Don't Miss Out! -->
+
+    <!--Social-->
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"620" class=3D"MainWidth">
+  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"padding:10px 0 10px 0;">
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+  <tr>
+    <td width=3D"31" align=3D"center" valign=3D"top" class=3D"hide">&nbsp;</td>
+    <td width=3D"119" align=3D"center" valign=3D"top" class=3D"hide"><img src=3D"http://media.4at5.net/email_domains/bodyshop/155851/images/line_01.jpg" width=3D"119" height=3D"34" style=3D"display:block;" border=3D"0" /></td>
+    <td align=3D"center" valign=3D"top"><img src=3D"http://media.4at5.net/email_domains/bodyshop/155851/images/line_02.jpg" width=3D"45" height=3D"34" style=3D"display:block;" border=3D"0"  class=3D"DivImg"/></td>
+    <td width=3D"38" align=3D"center" valign=3D"top"><a href=3D"http://link.p0.com/u.d?Q4GulA10KQysemcqMYxE=3D121" target=3D"_blank"><img src=3D"http://www.thebodyshop.ca/en/email/chrome/2014_ResponsiveEmailAssets/footer_fb.png" width=3D"38" height=3D"34" style=3D"display:block;" border=3D"0" /></a></td>
+    <td width=3D"38" align=3D"center" valign=3D"top"><a href=3D"http://link.p0.com/u.d?TYGulA10KQysemcqMYw5=3D131" target=3D"_blank"><img src=3D"http://www.thebodyshop.ca/en/email/chrome/2014_ResponsiveEmailAssets/footer_tw.png" width=3D"38" height=3D"34" style=3D"display:block;" border=3D"0" /></a></td>
+    <td width=3D"39" align=3D"center" valign=3D"top"><a href=3D"http://link.p0.com/u.d?U4GulA10KQysemcqMYw-=3D141" target=3D"_blank"><img src=3D"http://www.thebodyshop.ca/en/email/chrome/2014_ResponsiveEmailAssets/footer_pin.png" width=3D"38" height=3D"34" style=3D"display:block;" border=3D"0" /></a></td>
+    <td width=3D"38" align=3D"center" valign=3D"top"><a href=3D"http://link.p0.com/u.d?B4GulA10KQysemcqMYwz=3D151" target=3D"_blank"><img src=3D"http://www.thebodyshop.ca/en/email/chrome/2014_ResponsiveEmailAssets/footer_ig.png" width=3D"38" height=3D"34" style=3D"display:block;" border=3D"0" /></a></td>
+    <td width=3D"39" align=3D"center" valign=3D"top"><a href=3D"http://link.p0.com/u.d?aYGulA10KQysemcqMYyZ=3D451" target=3D"_blank"><img src=3D"http://www.thebodyshop.ca/en/email/chrome/2014_ResponsiveEmailAssets/footer_gplus.png" width=3D"38" height=3D"34" style=3D"display:block;" border=3D"0" /></a></td>
+     <td width=3D"38" align=3D"center" valign=3D"top"><a href=3D"http://link.p0.com/u.d?EYGulA10KQysemcqMYwt=3D171" target=3D"_blank"><img src=3D"http://www.thebodyshop.ca/en/email/chrome/2014_ResponsiveEmailAssets/footer_yt.png" width=3D"38" height=3D"34" style=3D"display:block;" border=3D"0" /></a></td>
+   <td width=3D"119" align=3D"center" valign=3D"top" class=3D"hide"><img src=3D"http://media.4at5.net/email_domains/bodyshop/155851/images/line_01.jpg" width=3D"119" height=3D"34" style=3D"display:block;" border=3D"0" /></td>
+    <td align=3D"center" valign=3D"top"><img src=3D"http://media.4at5.net/email_domains/bodyshop/155851/images/line_02.jpg" width=3D"45" height=3D"34" style=3D"display:block;" border=3D"0"  class=3D"DivImg"/></td>
+     <td width=3D"31" align=3D"center" valign=3D"top" class=3D"hide">&nbsp;</td> </tr>
+    </table>
+    </td>
+    </tr>
+    </table>
+  <!--Social-->
+    <!--Customer Service-->
+      <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"MainWidth">
+  <tr>
+    <td class=3D"Social2Pad" align=3D"center" valign=3D"top" style=3D"padding:5px 0 25px 0;">
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"MainWidth">
+  <tr>
+   <td  align=3D"center" valign=3D"top" class=3D"Block BTMProd5Padb"><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+   <tr>
+   <td align=3D"center" valign=3D"middle" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:14px; color:#888888; text-align:left;">CUSTOMER SERVICE<br />1-800-263-9746 </td>
+   <td align=3D"center" valign=3D"top"><img src=3D"http://www.thebodyshop.ca/en/email/chrome/2014_ResponsiveEmailAssets/footer_lock.png" style=3D"display:block;" border=3D"0" height=3D"35" /></td><td  align=3D"center" valign=3D"middle" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:14px; color:#888888; text-align:left;">SECURE PAYMENT ONLINE<br />OR OVER THE PHONE </td>
+</tr></table>
+   </td>
+   <td  align=3D"center" valign=3D"top" class=3D"Block"><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+   <tr>
+     <td align=3D"center" valign=3D"top"><img src=3D"http://www.thebodyshop.ca/en/email/chrome/2014_ResponsiveEmailAssets/footer_returns.png" height=3D"35" style=3D"display:block;" border=3D"0" /></td>
+   <td  align=3D"center" valign=3D"middle" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:14px; color:#888888; text-align:left;">RETURN ONLINE <br />
+&amp; IN-STORE </td>
+   <td align=3D"center" valign=3D"top"><img src=3D"http://www.thebodyshop.ca/en/email/chrome/2014_ResponsiveEmailAssets/footer_truck.png" style=3D"display:block;" border=3D"0" height=3D"35" /></td>
+    <td  align=3D"center" valign=3D"middle" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:14px; color:#888888; text-align:left;">FREE DELIVERY*
+</td></tr></table></td>
+    </tr>
+    </table>
+    </td>
+    </tr>
+    </table>
+  <!--Customer Service-->
+   <!--Social 2-->
+      <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"MainWidth">
+  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"padding:15px 0 20px 0; border-top:1px #797979 solid;"><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+      <tr>
+        <td  align=3D"center" valign=3D"top" class=3D"Block"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+          <tr>
+            <td align=3D"center" valign=3D"top"><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+              <tr>
+                <td  align=3D"center" valign=3D"top" class=3D"Block BTMProd5Padc"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                  <tr>
+                    <td align=3D"center" valign=3D"top" style=3D"padding:0 15px 0 0;"><a href=3D"http://link.p0.com/u.d?K4GulA10KQysemcqMYye=3D461&s=3DReplenishment_2BodyButter&utm_2term=3Dfoot_2values&utm_2content=3D09Argan&tmcampid=3D31&tmad=3Dc&tmplaceref=3DYesMailClick&tmclickref=3DYesMailClick" target=3D"_blank"><img src=3D"http://www.thebodyshop.ca/en/email/chrome/2014_ResponsiveEmailAssets/values_aat.png" width=3D"94" height=3D"54"  style=3D"display:block;" border=3D"0" /></a></td>
+                    <td align=3D"center" valign=3D"top" style=3D"padding:0 15px 0 0;"><a href=3D"http://link.p0.com/u.d?J4GulA10KQysemcqMYyT=3D471&s=3DReplenishment_2BodyButter&utm_2term=3Dfoot_2values&utm_2content=3D09Argan&tmcampid=3D31&tmad=3Dc&tmplaceref=3DYesMailClick&tmclickref=3DYesMailClick" target=3D"_blank"><img src=3D"http://www.thebodyshop.ca/en/email/chrome/2014_ResponsiveEmailAssets/values_scft.png" width=3D"94" height=3D"54"  style=3D"display:block;" border=3D"0" /></a></td>
+                    <td class=3D"PaddingNull" align=3D"center" valign=3D"top" style=3D"padding:0 15px 0 0;"><a href=3D"http://link.p0.com/u.d?UYGulA10KQysemcqMYyI=3D481&s=3DReplenishment_2BodyButter&utm_2term=3Dfoot_2values&utm_2content=3D09Argan&tmcampid=3D31&tmad=3Dc&tmplaceref=3DYesMailClick&tmclickref=3DYesMailClick" target=3D"_blank"><img src=3D"http://www.thebodyshop.ca/en/email/chrome/2014_ResponsiveEmailAssets/values_ase.png" width=3D"94" height=3D"54"  style=3D"display:block;" border=3D"0" /></a></td>
+                  </tr>
+                </table></td>
+                <td  align=3D"center" valign=3D"top" class=3D"Block"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                  <tr>
+                    <td align=3D"center" valign=3D"top" style=3D"padding:0 15px 0 0;"><a href=3D"http://link.p0.com/u.d?TYGulA10KQysemcqMYyN=3D491&s=3DReplenishment_2BodyButter&utm_2term=3Dfoot_2values&utm_2content=3D09Argan&tmcampid=3D31&tmad=3Dc&tmplaceref=3DYesMailClick&tmclickref=3DYesMailClick" target=3D"_blank"><img src=3D"http://www.thebodyshop.ca/en/email/chrome/2014_ResponsiveEmailAssets/values_dhr.png" width=3D"94" height=3D"54"  style=3D"display:block;" border=3D"0" /></a></td>
+                    <td align=3D"center" valign=3D"top"><a href=3D"http://link.p0.com/u.d?GYGulA10KQysemcqMYyC=3D501&s=3DReplenishment_2BodyButter&utm_2term=3Dfoot_2values&utm_2content=3D09Argan&tmcampid=3D31&tmad=3Dc&tmplaceref=3DYesMailClick&tmclickref=3DYesMailClick" target=3D"_blank"><img src=3D"http://www.thebodyshop.ca/en/email/chrome/2014_ResponsiveEmailAssets/values_ptp.png" width=3D"94" height=3D"54"  style=3D"display:block;" border=3D"0" /></a></td>
+                  </tr>
+                </table></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+    </tr>
+    </table>
+   <!--Social 2-->
+      <!--Legal Nav-->
+      <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"MainWidth">
+  <tr>
+    <td class=3D"PaddingResetLR2" valign=3D"top" align=3D"center" style=3D"padding:0 25px 15px 25px;">
+  <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+  <tr>
+    <td valign=3D"top" align=3D"center" class=3D"Block">
+  <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+  <tr>
+    <td width=3D"33%" class=3D"TBSstack" valign=3D"top" align=3D"center" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:17px;  color:#666666; text-align:center; padding:0 5px 0 5px; margin: 0 auto;"><a href=3D"http://bodyshop.p0.com/unsubscribe.jsp?s=3D5rha&i=3D445814769274" target=3D"_blank" style=3D"color:#666666; text-decoration: underline;" class=3D"TBSfooterbutton">UNSUBSCRIBE</a></td>
+
+    <td width=3D"34%" class=3D"TBSstack" valign=3D"top" align=3D"center" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:17px; color:#666666; text-align:center; padding:0 5px 0 5px;"><a href=3D"http://link.p0.com/u.d?dYGulA10KQysemcqMYyH=3D511&s=3DReplenishment_2BodyButter&utm_2term=3Dterms_2use&utm_2content=3D09Argan&tmcampid=3D31&tmad=3Dc&tmplaceref=3DYesMailClick&tmclickref=3DYesMailClick" target=3D"_blank" style=3D"color:#666666; text-decoration: underline;" class=3D"TBSfooterbutton">TERMS OF USE</a></td>
+
+    <td width=3D"33%" class=3D"TBSstack" valign=3D"top" align=3D"center" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:17px; color:#666666; text-align:center; padding:0 5px 0 5px;"><a href=3D"http://link.p0.com/u.d?V4GulA10KQysemcqMY18C=3D521&s=3DReplenishment_2BodyButter&utm_2term=3Dterms_2privacy&utm_2content=3D09Argan&tmcampid=3D31&tmad=3Dc&tmplaceref=3DYesMailClick&tmclickref=3DYesMailClick" target=3D"_blank" style=3D"color:#666666; text-decoration: underline;" class=3D"TBSfooterbutton">PRIVACY POLICY</a></td>
+        </tr>
+    </table>
+    </td>
+   </tr>
+ </table>
+ </td>
+  </tr>
+ </table>
+   <!--Legal Nav-->
+     <!--Legal-->
+    <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+  <tr>
+    <td valign=3D"top" align=3D"center" style=3D"font-family:Arial, Helvetica, sans-serif; padding:5px 20px 10px 20px; text-align:center; color:#666666; font-size:11px; line-height:16px;">
+
+<a href=3D"http://link.p0.com/u.d?SYGulA10KQysemcqMY18P=3D531&s=3DReplenishment_2BodyButter&utm_2term=3Dfoot_2lybo&utm_2content=3D09Argan&tmcampid=3D31&tmad=3Dc&tmplaceref=3DYesMailClick&tmclickref=3DYesMailClick" target=3D"_blank" style=3D"text-decoration: underline;">*Terms and conditions apply</a>.<br />In-store offers valid in participating The Body Shop stores in the US.<br />
+<br />
+<a href=3D"http://link.p0.com/u.d?H4GulA10KQysemcqMY18I=3D541&s=3DReplenishment_2BodyButter&utm_2term=3Dfoot_2hp&utm_2content=3D09Argan&tmcampid=3D31&tmad=3Dc&tmplaceref=3DYesMailClick&tmclickref=3DYesMailClick" target=3D"_blank" style=3D"text-decoration: underline;">http://www.thebodyshop-usa.com</a><br />
+The Body Shop 5036 One World Way Wake Forest, NC 27587.<br class=3D"hideBreak" />
+This message is being sent by Yesmail on behalf of The Body Shop.<br />
+<a href=3D"http://bodyshop.p0.com/unsubscribe.jsp?s=3D5rha&i=3D445814769274" target=3D"_blank" style=3D"color:#666666; text-decoration: underline;">Click here to unsubscribe</a>.<br />
+<br />
+&copy; 2014 The Body Shop International plc.<br />
+&reg; A registered trademark of The Body Shop International plc.<br class=3D"hideBreak" />
+&trade; A trademark of The Body Shop International plc. All rights reserved.<br />
+    </td>
+    </tr>
+    </table>
+    <!--Legal-->
+    </td>
+    </tr>
+    </table>
+
+      </td>
+      </tr>
+      </table>
+
+<img src=3D"http://pfna.levexis.com/bodyshopusa/tman.cgi?tmad=3Di&tmcampid=3D31&tmplaceref=3DYesMailOpen&tmclickref=3DYesMailOpen" />
+</body>
+</html>
+
+

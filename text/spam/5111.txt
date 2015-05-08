@@ -1,0 +1,1453 @@
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Transitional//EN=22
+ =22http://www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd=22>
+<html xmlns=3D=22http://www=2Ew3=2Eorg/1999/xhtml=22>
+	<head>
+        <meta http-equiv=3D=22Content-Type=22 content=3D=22text/html; chars=
+et=3DUTF-8=22
+ />
+        <title></title>
+        <style type=3D=22text/css=22>
+			/* /=5C/=5C/=5C/=5C/=5C/=5C/=5C/=5C/ CLIENT-SPECIFIC STYLES /=5C/=5C/=5C=
+/=5C/=5C/=5C/=5C/=5C/ */
+			=23outlook a=7Bpadding:0;=7D /* Force Outlook to provide a =22view in br=
+owser=22
+ message */
+			=2EReadMsgBody=7Bwidth:100%;=7D =2EExternalClass=7Bwidth:100%;=7D /* For=
+ce Hotmail to
+ display emails at full width */
+			=2EExternalClass, =2EExternalClass p, =2EExternalClass span, =2EExternal=
+Class
+ font, =2EExternalClass td, =2EExternalClass div =7Bline-height: 100%;=7D /=
+* Force
+ Hotmail to display normal line spacing */
+			body, table, td, p, a, li, blockquote=7B-webkit-text-size-adjust:100%;
+ -ms-text-size-adjust:100%;=7D /* Prevent WebKit and Windows mobile changing
+ default text sizes */
+			table, td=7Bmso-table-lspace:0pt; mso-table-rspace:0pt;=7D /* Remove spa=
+cing
+ between tables in Outlook 2007 and up */
+			img=7B-ms-interpolation-mode:bicubic;=7D /* Allow smoother rendering of
+ resized image in Internet Explorer */
+
+			/* /=5C/=5C/=5C/=5C/=5C/=5C/=5C/=5C/ RESET STYLES /=5C/=5C/=5C/=5C/=5C/=
+=5C/=5C/=5C/ */
+			body=7Bmargin:0; padding:0;=7D
+			img=7Bborder:0; height:auto; line-height:100%; outline:none;
+ text-decoration:none;=7D
+			table=7Bborder-collapse:collapse =21important;=7D
+			body, =23bodyTable, =23bodyCell=7Bheight:100% =21important; margin:0; pa=
+dding:0;
+ width:100% =21important;=7D
+
+			/* /=5C/=5C/=5C/=5C/=5C/=5C/=5C/=5C/ TEMPLATE STYLES /=5C/=5C/=5C/=5C/=
+=5C/=5C/=5C/=5C/ */
+
+			/* =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D Page Styles =3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D */
+
+			=23bodyCell=7Bpadding:0px;=7D
+			=23templateContainer=7Bwidth:600px;=7D
+
+			/**
+			* =40tab Page
+			* =40section background style
+			* =40tip Set the background color and top border for your email=2E You m=
+ay
+ want to choose colors that match your company's branding=2E
+			* =40theme page
+			*/
+			body, =23bodyTable=7B
+				 background-color:white;
+			=7D
+
+			/**
+			* =40tab Page
+			* =40section background style
+			* =40tip Set the background color and top border for your email=2E You m=
+ay
+ want to choose colors that match your company's branding=2E
+			* =40theme page
+			*/
+			=23bodyCell=7B
+				 border-top:0px solid =23BBBBBB;
+			=7D
+
+			/**
+			* =40tab Page
+			* =40section email border
+			* =40tip Set the border for your email=2E
+			*/
+			=23templateContainer=7B
+				 border:1px solid =23BBBBBB;
+			=7D
+
+			/**
+			* =40tab Page
+			* =40section heading 1
+			* =40tip Set the styling for all first-level headings in your emails=2E =
+These
+ should be the largest of your headings=2E
+			* =40style heading 1
+			*/
+			h1=7B
+				 color:=23202020 =21important;
+				display:block;
+				 font-family:Helvetica;
+				 font-size:26px;
+				 font-style:normal;
+				 font-weight:bold;
+				 line-height:100%;
+				 letter-spacing:normal;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				 text-align:left;
+			=7D
+
+			/**
+			* =40tab Page
+			* =40section heading 2
+			* =40tip Set the styling for all second-level headings in your emails=2E
+			* =40style heading 2
+			*/
+			h2=7B
+				 color:black =21important;
+				display:block;
+				 font-family:Helvetica;
+				 font-size:20px;
+				 font-style:italic;
+				 font-weight:normal;
+				 line-height:100%;
+				 letter-spacing:normal;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				 text-align:left;
+			=7D
+
+			h3=7B
+				font-weight: normal;
+			=7D
+
+			/* =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D Header Styles =3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D */
+
+			/**
+			* =40tab Header
+			* =40section preheader style
+			* =40tip Set the background color and bottom border for your email's
+ preheader area=2E
+			* =40theme header
+			*/
+			=23templatePreheader=7B
+				 background-color:=23F4F4F4;
+				 border-bottom:1px solid =23CCCCCC;
+			=7D
+
+			/**
+			* =40tab Header
+			* =40section preheader text
+			* =40tip Set the styling for your email's preheader text=2E Choose a siz=
+e and
+ color that is easy to read=2E
+			*/
+			=2EpreheaderContent=7B
+				 color:=23FFFFFF;
+				 font-family:Arial;
+				 font-size:10px;
+				 line-height:125%;
+				 text-align:left;
+			=7D
+
+			=2EpreheaderContentRight=7B
+				 color:=23FFFFFF;
+				 font-family:Arial;
+				 font-size:10px;
+				 line-height:125%;
+				 text-align:right;
+			=7D
+
+			/**
+			* =40tab Header
+			* =40section preheader link
+			* =40tip Set the styling for your email's preheader links=2E Choose a co=
+lor
+ that helps them stand out from your text=2E
+			*/
+			=2EpreheaderContent a:link, =2EpreheaderContent a:visited, /* Yahoo=21 M=
+ail
+ Override */ =2EpreheaderContent a =2Eyshortcuts /* Yahoo=21 Mail Override =
+*/=7B
+				 color:=23606060;
+				 font-weight:normal;
+				 text-decoration:underline;
+			=7D
+
+			/**
+			* =40tab Header
+			* =40section header style
+			* =40tip Set the background color and borders for your email's header ar=
+ea=2E
+			* =40theme header
+			*/
+			=23templateHeader=7B
+				 background-color:white;
+				 border-top:1px solid =23FFFFFF;
+				 border-bottom:1px solid =23CCCCCC;
+			=7D
+
+			/**
+			* =40tab Header
+			* =40section header text
+			* =40tip Set the styling for your email's header text=2E Choose a size a=
+nd
+ color that is easy to read=2E
+			*/
+			=2EheaderContent=7B
+				 color:=23505050;
+				 font-family:Helvetica;
+				 font-size:20px;
+				 font-weight:bold;
+				 line-height:100%;
+				 padding-top:0;
+				 padding-right:0;
+				 padding-bottom:0;
+				 padding-left:0;
+				 text-align:left;
+				 vertical-align:middle;
+			=7D
+
+			/**
+			* =40tab Header
+			* =40section header link
+			* =40tip Set the styling for your email's header links=2E Choose a color=
+ that
+ helps them stand out from your text=2E
+			*/
+			=2EheaderContent a:link, =2EheaderContent a:visited, /* Yahoo=21 Mail Ov=
+erride
+ */ =2EheaderContent a =2Eyshortcuts /* Yahoo=21 Mail Override */=7B
+				 color:=23EB4102;
+				 font-weight:normal;
+				 text-decoration:underline;
+			=7D
+
+			=23headerImage=7B
+				height:auto;
+				max-width:600px;
+			=7D
+
+			/* =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D Body Styles =3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D */
+
+			/**
+			* =40tab Body
+			* =40section body style
+			* =40tip Set the background color and borders for your email's body area=
+=2E
+			*/
+			=23templateBody=7B
+				 background-color:white;
+			=7D
+
+			/**
+			* =40tab Body
+			* =40section body text
+			* =40tip Set the styling for your email's main content text=2E Choose a =
+size
+ and color that is easy to read=2E
+			* =40theme main
+			*/
+			=2EbodyContent=7B
+				 color:=23505050;
+				 font-family:Helvetica;
+				 font-size:16px;
+				 line-height:150%;
+
+				 text-align:left;
+			=7D
+
+			/**
+			* =40tab Body
+			* =40section body link
+			* =40tip Set the styling for your email's main content links=2E Choose a
+ color that helps them stand out from your text=2E
+			*/
+			=2EbodyContent a:link, =2EbodyContent a:visited, /* Yahoo=21 Mail Overri=
+de */
+ =2EbodyContent a =2Eyshortcuts /* Yahoo=21 Mail Override */=7B
+				 color:=23EB4102;
+				 font-weight:normal;
+				 text-decoration:underline;
+			=7D
+
+			=2EbodyContent img=7B
+				display:inline;
+				height:auto;
+				max-width:560px;
+			=7D
+
+			/* =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D Footer Styles =3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D */
+
+			/**
+			* =40tab Footer
+			* =40section footer style
+			* =40tip Set the background color and borders for your email's footer ar=
+ea=2E
+			* =40theme footer
+			*/
+			=23templateFooter=7B
+				 background-color:white;
+				 border-top:1px solid =23FFFFFF;
+			=7D
+
+			/**
+			* =40tab Footer
+			* =40section footer text
+			* =40tip Set the styling for your email's footer text=2E Choose a size a=
+nd
+ color that is easy to read=2E
+			* =40theme footer
+			*/
+			=2EfooterContent=7B
+				 color:=23808080;
+				 font-family:Helvetica;
+				 font-size:10px;
+			=09
+				padding-right:20px;
+			=09
+				padding-left:20px;
+				 text-align:left;
+			=7D
+
+			/**
+			* =40tab Footer
+			* =40section footer link
+			* =40tip Set the styling for your email's footer links=2E Choose a color=
+ that
+ helps them stand out from your text=2E
+			*/
+			=2EfooterContent a:link, =2EfooterContent a:visited, /* Yahoo=21 Mail Ov=
+erride
+ */ =2EfooterContent a =2Eyshortcuts, =2EfooterContent a span /* Yahoo=21 M=
+ail
+ Override */=7B
+				 color:=23606060;
+				 font-weight:normal;
+				 text-decoration:underline;
+			=7D
+
+			/* /=5C/=5C/=5C/=5C/=5C/=5C/=5C/=5C/ MOBILE STYLES /=5C/=5C/=5C/=5C/=5C/=
+=5C/=5C/=5C/ */
+
+            =40media only screen and (max-width: 480px)=7B
+				/* /=5C/=5C/=5C/=5C/=5C/=5C/ CLIENT-SPECIFIC MOBILE STYLES /=5C/=5C/=5C=
+/=5C/=5C/=5C/ */
+				body, table, td, p, a, li, blockquote=7B-webkit-text-size-adjust:none
+ =21important;=7D /* Prevent Webkit platforms from changing default text si=
+zes */
+                body=7Bwidth:100% =21important; min-width:100% =21important=
+;=7D /*
+ Prevent iOS Mail from adding padding to the body */
+
+				/* /=5C/=5C/=5C/=5C/=5C/=5C/ MOBILE RESET STYLES /=5C/=5C/=5C/=5C/=5C/=
+=5C/ */
+				=23bodyCell=7Bpadding:0px =21important;=7D
+
+				/* /=5C/=5C/=5C/=5C/=5C/=5C/ MOBILE TEMPLATE STYLES /=5C/=5C/=5C/=5C/=
+=5C/=5C/ */
+
+				/* =3D=3D=3D=3D=3D=3D=3D=3D Page Styles =3D=3D=3D=3D=3D=3D=3D=3D */
+
+				/**
+				* =40tab Mobile Styles
+				* =40section template width
+				* =40tip Make the template fluid for portrait or landscape view
+ adaptability=2E If a fluid layout doesn't work for you, set the width to 3=
+00px instead=2E
+				*/
+				=23templateContainer=7B
+					max-width:600px =21important;
+					 width:100% =21important;
+				=7D
+
+				/**
+				* =40tab Mobile Styles
+				* =40section heading 1
+				* =40tip Make the first-level headings larger in size for better
+ readability on small screens=2E
+				*/
+				h1=7B
+					 font-size:24px =21important;
+					 line-height:100% =21important;
+				=7D
+
+				/**
+				* =40tab Mobile Styles
+				* =40section heading 2
+				* =40tip Make the second-level headings larger in size for better
+ readability on small screens=2E
+				*/
+				h2=7B
+					 font-size:20px =21important;
+					 line-height:100% =21important;
+					text-align: left;
+					font-size: 14px =21important;
+				=7D
+
+				h3=7B
+					 font-size:20px =21important;
+					 line-height:100% =21important;
+					text-align: left;
+					font-size: 13px =21important;
+				=7D
+
+				/* =3D=3D=3D=3D=3D=3D=3D=3D Header Styles =3D=3D=3D=3D=3D=3D=3D=3D */
+
+				=23templatePreheader=7Bdisplay:none =21important;=7D /* Hide the templa=
+te
+ preheader to save space */
+
+				/**
+				* =40tab Mobile Styles
+				* =40section header image
+				* =40tip Make the main header image fluid for portrait or landscape view
+ adaptability, and set the image's original width as the max-width=2E If a =
+fluid
+ setting doesn't work, set the image width to half its original size
+ instead=2E
+				*/
+				=23headerImage=7B
+					height:auto =21important;
+					 max-width:600px =21important;
+					 width:100% =21important;
+				=7D
+
+				/**
+				* =40tab Mobile Styles
+				* =40section header text
+				* =40tip Make the header content text larger in size for better
+ readability on small screens=2E We recommend a font size of at least 16px=
+=2E
+				*/
+				=2EheaderContent=7B
+					 font-size:20px =21important;
+					 line-height:125% =21important;
+				=7D
+
+				/* =3D=3D=3D=3D=3D=3D=3D=3D Body Styles =3D=3D=3D=3D=3D=3D=3D=3D */
+
+				/**
+				* =40tab Mobile Styles
+				* =40section body image
+				* =40tip Make the main body image fluid for portrait or landscape view
+ adaptability, and set the image's original width as the max-width=2E If a =
+fluid
+ setting doesn't work, set the image width to half its original size instea=
+d=2E
+				*/
+				=23bodyImage=7B
+					height:auto =21important;
+					 max-width:600px =21important;
+					 width:100% =21important;
+				=7D
+
+				/**
+				* =40tab Mobile Styles
+				* =40section body text
+				* =40tip Make the body content text larger in size for better readabili=
+ty
+ on small screens=2E We recommend a font size of at least 16px=2E
+				*/
+				=2EbodyContent=7B
+					 font-size:12px =21important;
+					 /*line-height:125% =21important;*/
+					text-align: left;
+				=7D
+
+				/* =3D=3D=3D=3D=3D=3D=3D=3D Footer Styles =3D=3D=3D=3D=3D=3D=3D=3D */
+
+				/**
+				* =40tab Mobile Styles
+				* =40section footer text
+				* =40tip Make the body content text larger in size for better readabili=
+ty
+ on small screens=2E
+				*/
+				=2EfooterContent=7B
+					 font-size:12px =21important;
+					 line-height:115% =21important;
+				=7D
+
+				/*=2EfooterContent a=7Bdisplay:block =21important;=7D /* Place footer s=
+ocial and
+ utility links on their own lines, for easier access */
+			=7D
+		</style>
+    </head>
+    <body leftmargin=3D=220=22 marginwidth=3D=220=22 topmargin=3D=220=22 ma=
+rginheight=3D=220=22
+ offset=3D=220=22><img border=3D=220=22 width=3D=221=22 height=3D=221=22 sr=
+c=3D=22https://news=2Eforever21=2Ecom/pub/as?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQG=
+ozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbjB7VXHkMX%3Dw&_ei_=3DEolaGGF4SNMvxFF7Ku=
+cKuWNYplWuSNpk-NH3KkVm9MOvqTVLT0=2E=22>
+
+    	<center>
+        	<table align=3D=22center=22 border=3D=220=22 cellpadding=3D=220=22=
+ cellspacing=3D=220=22 height=3D=22100%=22 width=3D=22100%=22 id=3D=22bodyT=
+able=22>
+            	<tbody><tr>
+                	<td align=3D=22center=22 valign=3D=22top=22 id=3D=22bodyCe=
+ll=22>
+                    	<=21-- BEGIN TEMPLATE // -->
+                    	<table border=3D=220=22 cellpadding=3D=220=22 cellspac=
+ing=3D=220=22 id=3D=22templateContainer=22 width=3D=22600=22>
+                        	<tbody><tr>
+                            	<td align=3D=22center=22 valign=3D=22top=22>
+                                	<=21-- BEGIN PREHEADER // -->
+                                    <table border=3D=220=22 cellpadding=3D=
+=220=22 cellspacing=3D=220=22 width=3D=22100%=22 id=3D=22templatePreheader=
+=22 style=3D=22background-color:black;
+ color:white=22>
+                                        <tbody><tr>
+                                            <td valign=3D=22top=22 class=3D=
+=22preheaderContent=22 style=3D=22padding-top:15px; padding-right:20px; pad=
+ding-bottom:15px;
+ padding-left:21px; letter-spacing:1px; color:white=22>
+                                               Free Shipping No Minimum
+                                            </td>
+                                            <td valign=3D=22top=22 width=3D=
+=22275=22 align=3D=22right=22 class=3D=22preheaderContentRight=22 style=3D=
+=22padding-top:15px;
+ padding-right:20px; padding-bottom:10px; padding-left:0; color:=23b2b2b2;=
+=22>
+                                                <a href=3D=22https://news=
+=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7=
+b0ze3zgmkPqvjYyzbjB7VXtpKX%3DYRYRRY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0=
+M_aUq6x_tqgT6e2IVfDnIbzkWaqgNCT2vHZ8BwSA5HY2M7IIHWjNlSw4-IVpbTwILsQ1RItzw1U=
+APVC5OGllqSCnx0TWNSlar7nP8sMtxjRZ1JGyGo5t4MjKKfUMMQ0bWWp2zq1YWvGVBd0EmTqgDB=
+BnTS5cluIWBuKf1wJNKyLWEHnmAB6slvhnJmZE19x4uwx23bycia_V9Q9fCmmDRkpvhNQBgC0A_=
+xtfBGGWuWwhMlmlNgUhmaVdyQD6sjnBANgfPm-ckiMBX-tLZ49FJEHe6IhsZSw4ELCwW2K59pxx=
+XHYqY5D0_aZDSP3lbnQsnhNzJZBaosAFAXGm1BKU-IIgddYWg_kSaPxJY5E8HaayYqm1pp4hx8x=
+39eGgAsWSESTJyyxjurMHpw=2E=22 target=3D=22_blank=22 style=3D=22color:=23b2b=
+2b2;=22>View in your browser</a>
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                    <=21-- // END PREHEADER -->
+                                </td>
+                            </tr>
+                        	<tr>
+                            	<td align=3D=22center=22 valign=3D=22top=22>
+                                	<=21-- BEGIN HEADER // -->
+                                    <table border=3D=220=22 cellpadding=3D=
+=220=22 cellspacing=3D=220=22 width=3D=22100%=22 id=3D=22templateHeader=22>
+                                        <tbody><tr>
+                                            <td valign=3D=22top=22 style=3D=
+=22padding-top:15px; padding-bottom:15px=22 class=3D=22headerContent=22>
+                                            	<a href=3D=22https://news=2Efo=
+rever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3=
+zgmkPqvjYyzbjB7VXtpKX%3DYRYRWY&_ei_=3DEolaGGF4SNMvxFF7KucKuWN1nM5Q1iVfgTlV3=
+eRvT_7TqTVLTfvswcfOK6xE=2E=22><img border=3D=220=22 src=3D=22https://static=
+=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/forever21/contentlibrary/=21us/=
+2015_us/20150503_f21_us_freenomin/RI_20150503_F21_US_FreeNoMin/images/20140=
+508_F21US_logo=2Ejpg=22 style=3D=22max-width:600px;=22 id=3D=22headerImage=
+=22 border=3D=220=22 alt=3D=22Forever 21=22></a>
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                    <=21-- // END HEADER -->
+                                </td>
+                            </tr>
+                        	<tr>
+                            	<td align=3D=22center=22 valign=3D=22top=22>
+                                	<=21-- BEGIN BODY // -->
+                                    <table border=3D=220=22 cellpadding=3D=
+=220=22 cellspacing=3D=220=22 width=3D=22100%=22 id=3D=22templateBody=22 st=
+yle=3D=22background-color:white; align=3Dcenter;=22>
+            <=21-- New Row Starts -->
+            <tbody>
+			<tr>
+                <td width=3D=22600=22 height=3D=2275=22 style=3D=22padding-=
+bottom:5px=22>
+                    <a href=3D=22https://news=2Eforever21=2Ecom/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbjB7VXtpKX%3DY=
+RYRAY&_ei_=3DEolaGGF4SNMvxFF7KucKuWO24-EGoZcdCiTGXuJY1caGqTVLTfvswcfOK6xEvT=
+mA=2E=22 target=3D=22null=22>
+                        <img src=3D=22https://static=2Ecdn=2Eresponsys=2Ene=
+t/i5/responsysimages/forever21/contentlibrary/=21us/2015_us/20150503_f21_us=
+_freenomin/RI_20150503_F21_US_FreeNoMin/images/20150503_F21_US_cnmain=2Ejpg=
+=22 width=3D=22600=22 border=3D=220=22 alt=3D=22Free Shipping No Minimum=22=
+></a>
+                </td>
+            </tr>
+            <=21------ Updated Code - ---------------->
+
+			<tr>
+                <td width=3D=22600=22 height=3D=22420=22 style=3D=22padding=
+-bottom:5px=22>
+                    <a href=3D=22https://news=2Eforever21=2Ecom/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbjB7VXtpKX%3DY=
+RYCAY&_ei_=3DEolaGGF4SNMvxFF7KucKuWPYShm8Bqa99qcRXeLTZkqmqTVLTfvswcfOK6xEvT=
+mAdM=2E=22 target=3D=22null=22>
+                        <img src=3D=22https://static=2Ecdn=2Eresponsys=2Ene=
+t/i5/responsysimages/forever21/contentlibrary/=21us/2015_us/20150503_f21_us=
+_freenomin/RI_20150503_F21_US_FreeNoMin/images/20150503_F21_US_cnfirst=2Ejp=
+g=22 width=3D=22600=22 border=3D=220=22 alt=3D=22Shop by Outfit=22></a>
+                </td>
+            </tr>
+
+			<tr>
+                <td width=3D=22600=22 height=3D=2244=22 style=3D=22padding-=
+bottom:5px=22>
+                    <a href=3D=22https://news=2Eforever21=2Ecom/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbjB7VXtpKX%3DY=
+RYCCY&_ei_=3DEolaGGF4SNMvxFF7KucKuWPIFLqoGLCaDRgjyP6xM3rjqTVLTfvswcfOK6xEvT=
+k=2E=22 target=3D=22null=22>
+                        <img src=3D=22https://static=2Ecdn=2Eresponsys=2Ene=
+t/i5/responsysimages/forever21/contentlibrary/=21us/2015_us/20150503_f21_us=
+_freenomin/RI_20150503_F21_US_FreeNoMin/images/20150503_F21_US_cnsec=2Ejpg=
+=22 width=3D=22600=22 border=3D=220=22 alt=3D=22NEW ARRIVALS - YOUR DAILY D=
+OSE=22></a>
+                </td>
+            </tr>
+		=09
+            <=21--New Product Row-->
+            <tr>
+                <td>
+                    <table cellpadding=3D=220=22 cellspacing=3D=220=22>
+                        <tbody><tr>
+                            <td width=3D=226=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYRCY&_ei_=3DEvBrhPcSU2igSGA7PLDlOPNx8Di4IbPkzIrEWp7qPdYPGDSeQF=
+IVkHWljZ5EhC4YjwmDHmSK40KkbsgSk6bYx49r0aGqbEJYRjgp4XmEl1Q5GPidfhQ7tRl3kyM-_=
+fpPEwFVtuPbC2KbAFhLcprj7nGAJI5wFoTnxnHagjq3aJw5_33o6B0NPLpFrGPqeR5M8P74g6MR=
+QeKC79n0IFahEDXQlN301XvAK_GTBXZXLsReL-kNA6bJ1mr8ZUHlnxSlyfMbt2zy5dM-poWYIVm=
+r6k2H2ErtpcdLQNRqoHCPfmNsSbQZ-MdR3VbB30JJbfSCyXs6PAf3dBmOj7juZxXVcSVnm29ztg=
+e5E4ERulTx53a0InuWpZ4Rsbw_Nv3docttZ5fq8VJUka9kiQUMtRz8Nv1Ls6gAgXYS0LU=2E=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&index=3D1&userid=3Dblackyao12=40gmail=2Eco=
+m&scheme=3Dnewarrivals_rr&campaignid=3Dnewarrivals_5/3/2015&creationdate=3D=
+5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>
+                            </td>
+                            <td width=3D=225=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYSRY&_ei_=3DEq08-8_XFAvWKFnrBPtmQsyoctc1VoQKGXHd6oNTHG0UkrtMVS=
+ni7oOTbqj2ELAQaO9MdUPW-aSfZ0m35TP3r1UG6cHYVbnMHZNtg2a-JQjpi_rzAMwYP0puwTGTe=
+W5AbFZOP9X0tQlDnTub9LdWh4rEaHFfL-pu2hYPLjKaLN3vnMPobhXYNZv1i96A1KvHyrAQlsCT=
+oqYPOuBib6ZyyPpCgHNYpoa2po5D70PlUe3ivg4mR8UlGwjR0DvBJT690KEcruSAubF51SOvYSj=
+apzNg0NwtFLjIYKiJ4KF_bh9IOoxVdLIYC7IV1yOfFXrWwMTJVIJScJK9gryD1wYRmWbzEn8n45=
+j8-y77gGNUq8uJaYpsCKaRjI7I22dLPo2y9jsecC0yQM79yGHdpIm73okMsYuN7LXDmic=2E=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&index=3D2&userid=3Dblackyao12=40gmail=2Eco=
+m&scheme=3Dnewarrivals_rr&campaignid=3Dnewarrivals_5/3/2015&creationdate=3D=
+5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>
+
+                            </td>
+                            <td width=3D=225=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYSTY&_ei_=3DEnSKb08ByX08W3IDbz3HhspEaDIyu1vUg_NRHqHMDKJ92e8bPx=
+0MyagvdmeYdkXTbdXNFKGs07X6XJzkMm7i4a2-prTC-M81nDYbhMML955RnoewoUbeE2nG1jYpB=
+LbNywwqpIeWRNCA9hosvhiZc-Eo1t1fi3fT2tpe6RqeDz_eBIGx3HnTzc2rRgFVsiDU27OSDUXe=
+16LyzA11ezIf20lAF__SyEqfhcLfcqpmvK8AH5wSIWSyyoOUav325LuSKUp_5BqDZDX-xlKIDMM=
+x2XyPH6BXFgcaYr2qrupO6trq_oLtvzKAVvta7Wq3ADBZ5Z0JFXzHqcJ-Z2z9iqG5Wc-kdnoLeg=
+3-PxoWQYnDdCcv3Bk1VEZ8mquB8lICt90Yi4NfHs3ygNDcQJ0S3xKYovnxnxd0ir-1qec=2E=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&index=3D3&userid=3Dblackyao12=40gmail=2Eco=
+m&scheme=3Dnewarrivals_rr&campaignid=3Dnewarrivals_5/3/2015&creationdate=3D=
+5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>=20
+                            </td>
+                            <td width=3D=226=22>
+                                &nbsp;
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <=21-- Spcer -->
+            <tr>
+                <td height=3D=2210=22>
+                    &nbsp;
+                </td>
+            </tr>
+            <=21--New Product Row-->
+            <tr>
+                <td>
+                    <table cellpadding=3D=220=22 cellspacing=3D=220=22>
+                        <tbody><tr>
+                            <td width=3D=226=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYSWY&_ei_=3DEhO876BBPD4Qb-huJQsMOCBT5obfkY8ByoR2f6f-COYaMlFEG-=
+dxD_xSQDeM0NLqOD98yPa-dpOjGHA-zBgiZxL0iXmLYJt2ZhugxSS96L7_I_8V0u3m52loUhBjB=
+7LcZnjchO89_jp_wKiBMTgatLFRDhRbo28IgYgQuAQ_hvKAKDHVbbvQDmmhc3wF33MElS2phoTy=
+Q8Ls-t-5WzCDNs2Gf-Gy9OU9vij4dvXTFcR56xd4_N8bMGCZ3QDIgN9iJ7SM73ugtelIWRkHN61=
+x4JEFJlcuqINwhD6bbueCpi1gpuVWIWN5EPcmnfe1hrI8OIiWiWXjDgqCd4GyLpQZr5tkBtI5CM=
+3A4h7-sogWC3U3_kdMkegGMWDw4tCFLRaPBa7injzn_CwEvKv02fJwEvmqewrfr83Pk3M=2E=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&amp;index=3D4&amp;userid=3Dblackyao12=40gm=
+ail=2Ecom&amp;scheme=3Dnewarrivals_rr&amp;campaignid=3Dnewarrivals_5/3/2015=
+&amp;creationdate=3D5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>=20
+
+                            </td>
+                            <td width=3D=225=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYSAY&_ei_=3DEjwwg5JKwnOpE4JzE0h77n24ZyUddjwmw71aWivjpOQW4yhxeg=
+wIF71RTN0R4Fv-Cue0LpPM0msN2wEJiNrJbK29sVDo712lhv37PelMQEXe5rQSeQPva2VVJFrbm=
+MU5IA-Nk9WScv6jjLPldcQhReH01wjgjEskGEl_ErSxz_O4GiTLtI1_C-UI8F692zNLYBDJO7De=
+2jl8KKkOHuzRwwWFsPB4fQlxv9c-VmhUR8XzIu1b1S8ShCHekQ9WbX1U9lNxM2w3tisDn6-sX5J=
+7Qa_GArCQ1gevItiRkzrYzSs7p7HrCd1L4B-C11b-MwOQxOH3LSEUXR4vQZLzCYsN5yKKtHH83J=
+LmBOmOjCKRtEnXa8jOZt3alsnB7uL8QW062rbWNH0ZxEC1gDodfH-LhHjdMumf5L9BJgU=2E=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&amp;index=3D5&amp;userid=3Dblackyao12=40gm=
+ail=2Ecom&amp;scheme=3Dnewarrivals_rr&amp;campaignid=3Dnewarrivals_5/3/2015=
+&amp;creationdate=3D5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>
+
+                            </td>
+                            <td width=3D=225=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYSCY&_ei_=3DEnlLwu5mgDZONZSF1pmV5-w2Wt6Y8LDZwsWA4i9X7FeTArXiZN=
+_z2z1MEQ5UBjL1AUAPg0SftL_Z0hbppjLUNVpZXuwPwN1YW3DDZp9aAeP8Mxqn4-LF0IXzQ-sXq=
+TR07phqWBVhIX6OF_euQp0yfIp_S4iteVpSm9O8XbF2iWsTHHEUab6O48FBgAL2nFUBbb5p0zJ9=
+Id-sXArEqg6vo4Xm33DyAAf8Ga1OH7itNSbGTdKlhO6NhR8i8aXAgaJ8Ar0XfAqLptup-zij7F8=
+gRNurp-wDtb2qP7SApG59xwIqynIeufHAq_LJc7pRRPF0DqJP8cUITLobQ8UklyfQHml-iq2xUF=
+LcEUUtGghs47_QUh-p6jzoYL3efcWNra5KKOxRsw59YzrrXuSauZ-D8Zu_3_-KNehpK5E=2E=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&amp;index=3D6&amp;userid=3Dblackyao12=40gm=
+ail=2Ecom&amp;scheme=3Dnewarrivals_rr&amp;campaignid=3Dnewarrivals_5/3/2015=
+&amp;creationdate=3D5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>=20
+
+                            </td>
+                            <td width=3D=226=22>
+                                &nbsp;
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <=21-- Spcer -->
+            <tr>
+                <td height=3D=2210=22>
+                    &nbsp;
+                </td>
+            </tr>
+            <=21--New Product Row-->
+            <tr>
+                <td>
+                    <table cellpadding=3D=220=22 cellspacing=3D=220=22>
+                        <tbody><tr>
+                            <td width=3D=226=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYTRY&_ei_=3DEudfmI0tDRwKoLBg6ioX5U6g0c54Zl967GvPe7dnzfq16zrwnp=
+zhgKb6Ie1NMvYGbaYMHjIsnXCTPu8Ifa7QllPnZc69UkA4_pbYd-mzLR3RiYYuGKKET_SmNyXj3=
+q2GUS9_YL1BGDldm75xsfFryRSspDdnv6ODDQB9SDzigDLnRukwoIUMkcF0qgF2hPCbyBRULej4=
+bpFMQAz6dulLlSH0dqxwwljFd__3dbfJ_ZktXH0zC4oHhslkDK7xM5l6L7CWXpl-CMSl9lAlNN_=
+TweSEBMaKkqXuarDcFkNyLXXZZ5vOVqv4tFcgU6UfDOaBQuL4l21-xGqwa8TGSM4uXMjC9lpZHb=
+AsejXcgY5uPnu-DfRFhgb-RT8oBlEKFhwxlXgvGph9fO4RL36LeXD7z8T6QWgUaQe900k=2E=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&amp;index=3D7&amp;userid=3Dblackyao12=40gm=
+ail=2Ecom&amp;scheme=3Dnewarrivals_rr&amp;campaignid=3Dnewarrivals_5/3/2015=
+&amp;creationdate=3D5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>=20
+
+                            </td>
+                            <td width=3D=225=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYTTY&_ei_=3DEicQWuhD-ipSi6FBNVoQI4ejJH785gd7txTU9oY4CY5P2-UxUa=
+1DmpcyyJGql4VMpohkLIZTGZ-6a9gyOeE9KdvF_hu_w1tcw7oIB4ZloGKS7_c7qj3NGwVQPhqBZ=
+_Xkhd8mblCF2T2OPrIthNi9aoqXz_QHHc-MQdJum6RDIc4koaYWkGPIM8ChjlbE-ulj87nmuUbL=
+s7nRV-p9TnsL75N0znHE8rlUUWmmaOUdtcKxxUL957iOAdWK0ErW28HzJZE0ZlrZJxsyDAt3xhK=
+7eqaMFLDPPUnZss53BQybIsbQEYaJ2MzG8YN6E_Awqz4BVkovnBdBrvTssKnpKb8iQVf6OiPcw3=
+Vdv9-yCnis6Ek-wNFL79iwuhudH7juyybrqgA2zTyn92sWdu-lJ3yW83NDLeM5XdkVeGs=2E=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&amp;index=3D8&amp;userid=3Dblackyao12=40gm=
+ail=2Ecom&amp;scheme=3Dnewarrivals_rr&amp;campaignid=3Dnewarrivals_5/3/2015=
+&amp;creationdate=3D5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>=20
+
+                            </td>
+                            <td width=3D=225=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYTWY&_ei_=3DErR6Qt11uT_0yBLmFnP_xH9oDLSAAvu9Uce0r-Oj-rynSB0NaO=
+ElaoyRt_ZX0w6UtTBWc2n3BLsMd4YdEFEb8I8ZdZCOC2vl9T6cCsnvozSCfN7dAzfXObShu1QP6=
+Tk4xzvrBa26smvn_soiAJOHAaTmFJgvSBqKrY_FDXyOjMC5aFoPWGQIPtT40n5Q_FxFtrOLX9Kd=
+3VXtkCL2wwMgfrPCh43r16uvqfqPDFDdjnHml94_QDpODOSWeDtLMufc91cULni999bdOjX5QXy=
+eLZWYJB-UkYsM_TW8y8wjui7B97jBM9Jrttfyq1euOftRWm9pWGDpNf8U60akGqIc_M-v7DuLeY=
+VPALITtWa6tYV76zjNZbGFhVB27OdUVvQKWsR8jjXr_1dgfjnzFETHEZpDpCWYe64tRQg=2E=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&amp;index=3D9&amp;userid=3Dblackyao12=40gm=
+ail=2Ecom&amp;scheme=3Dnewarrivals_rr&amp;campaignid=3Dnewarrivals_5/3/2015=
+&amp;creationdate=3D5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>
+
+                            </td>
+                            <td width=3D=226=22>
+                                &nbsp;
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <=21-- Spcer -->
+            <tr>
+                <td height=3D=2210=22>
+                    &nbsp;
+                </td>
+            </tr>
+            <=21--New Product Row-->
+            <tr>
+                <td>
+                    <table cellpadding=3D=220=22 cellspacing=3D=220=22>
+                        <tbody><tr>
+                            <td width=3D=226=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYTAY&_ei_=3DEhiJR1Wj-5JIsNG0RTA-S38vBvFcpoAAvrhg_UC53GiKjfMQo3=
+PTJH1r0vmT-245R9uaDOgVZgz_1Q4aQFd4z8ATvI6sYHcjHmuOQG-s37BnW34EmWZcxt32fPY0p=
+nFQjUNLQAgO3iIswu_uF6bfUviJ28e8Nb6-I5hPlM92SVR7FOC4yor4iILaOO_7wTTilEj3YU0g=
+Vnm7Lh-y8FVCBySB5yC9TJplw7Slpsos0c7LQTiUm7sMb1QqM7PwMH5LQ-rA4fNsqeXDjWwdk1w=
+-ynV9BjAjoetd9Iyvn2YWPR4Sk2J24Ae8mVgu-7GxrJmjjQ4TfPgDqR9WXogDPwsLFfPp4_03ZS=
+rABRPL998endNi_xb1fXHaBR3JfQQu1dlGzVWvUJbd2HFk8O-eNoqHo_Tp4iB_3O7gZ1AD_M=2E=
+=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&amp;index=3D10&amp;userid=3Dblackyao12=40g=
+mail=2Ecom&amp;scheme=3Dnewarrivals_rr&amp;campaignid=3Dnewarrivals_5/3/201=
+5&amp;creationdate=3D5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>=20
+
+                            </td>
+                            <td width=3D=225=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYTCY&_ei_=3DEi6YNwETdcMgFf5cpySAZ8zm3FMZTnQzTMXzRKaJLBBa0ROSwA=
+vGIi1V_s7LZQtrrXYqrjc7JfEK0NbZPN4Si_vmkvXf__WydJP9XjPXp9CMzDok4NkDRX7FkP0Y2=
+nLxYMkzny4KEL0V6GY_UmcNPG9HkmAR9W8VpQd5E0s1g5CSvYIBSWPRodHANjdNr-qO08ELFhPT=
+Ow2Chf7Ch7GCbBrE6-MmdiF48lGSDVb3vDl1sc4MfOeggx3XUNP44dfuQ_vpX6jSjCEc3FH9HjP=
+NPDxKSlg0oLC8N3b3K1AeLSd9cZOsa4E6tCc2Qc4JVmJKYVBCIjYZPJhRFioE0FZMQlSEFNgXO0=
+73hA1PTHp0xB6wrTFIkWqohna60tQcW_eq9Qs78X0J5Irlgs_bO_HAvRk6ZgAq5pcxiJkDZg=2E=
+=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&amp;index=3D11&amp;userid=3Dblackyao12=40g=
+mail=2Ecom&amp;scheme=3Dnewarrivals_rr&amp;campaignid=3Dnewarrivals_5/3/201=
+5&amp;creationdate=3D5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>=20
+
+                            </td>
+                            <td width=3D=225=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYURY&_ei_=3DEtttD3QfCqgIp7vI6Mk2q2pJsHlJgLtEKw4bNwQgXJCJ82d5Vk=
+EV58CoAPHnCQEQ6lgSrk1xN4mtMcrysCdIn_q3kHXfKdlREeCHWtSSJZQ2deLF2z_Xp_fqekPt4=
+-HcsmrBTawIG_xt3B-Chkrue8OksAKf7wcJ6vVtcxXgfqjbciYht8L1nKYkiTxm-ieUWpuW66WU=
+wtVuDm_dWPPSOSxy36YUvjziJ4UdkCfhl8sdsV72TIKLV6Z_7JTp1HPhv8QU5BKlQFwJ7xkcFZ9=
+LeNQbSpqKdpmaL96pPjGNAJP7WRXcGOqLyflIZH6dlt-_-DzOrz0qWRK63MYU53PKT5A1d_cAs5=
+v5Diqx03DNQGvBYluT0erVs9q3L8Gz9nXUKX31Ha0n5dIdl1TBQT3jBsHkXDbK8KOo05DQHg=2E=
+=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&amp;index=3D12&amp;userid=3Dblackyao12=40g=
+mail=2Ecom&amp;scheme=3Dnewarrivals_rr&amp;campaignid=3Dnewarrivals_5/3/201=
+5&amp;creationdate=3D5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>=20
+
+                            </td>
+                            <td width=3D=226=22>
+                                &nbsp;
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <=21-- Spcer -->
+            <tr>
+                <td height=3D=2210=22>
+                    &nbsp;
+                </td>
+            </tr>
+            <=21--New Product Row-->
+            <tr>
+                <td>
+                    <table cellpadding=3D=220=22 cellspacing=3D=220=22>
+                        <tbody><tr>
+                            <td width=3D=226=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYUTY&_ei_=3DEvATdpS3Dm1U6EXGx7yReR89BDD3L0o16SvsF5bcOwZtN2Yd4N=
+smeCuYSyRqN3n_5RnG6gEgecdE_j2yRDEUotGmX0Puy6oIEtHm5IdKh1ausA_dMvULQaACCEJkP=
+P5d5QzY3DA3xWglOnoNFn3doK0tPSjxRZW6OU11kHFm655JnKfVDsVCztta8HRNiGwK1oo0HA26=
+DXfiyjnirpiJI0Loe8jLpNXLwo4yA2VXxvnx8MYmPu-SHG9nY07nhVPDtKx6YRDmNFrBXteGKD2=
+JtftHWNHeUCWiSDrOooqYjyIov9DsSEOmvbDrZiSoJ5YY0hO50pJpJDIgjoD4-blMkaInDT31m5=
+WPrUcsqIR2yRxa6KOdXb-gkI2PqZmzixwJtV-AA2iEFS9TroKN6NmYsO_GjGfVB94KBiXVHM=2E=
+=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&amp;index=3D13&amp;userid=3Dblackyao12=40g=
+mail=2Ecom&amp;scheme=3Dnewarrivals_rr&amp;campaignid=3Dnewarrivals_5/3/201=
+5&amp;creationdate=3D5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>=20
+
+                            </td>
+                            <td width=3D=225=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYUWY&_ei_=3DEjKVm_y5iAeBGop49487AXsivIU5Hv-7CL5d2L9K259f_JjvLW=
+8b1phR6qh11HkGB4vV0HpbSxZyreWOrrVs_rNTYzZnK1_SJpZwavBENT9Us7S-KBrjwBQuf8lXl=
+1ycjGEKa5MVB0wzZWbxJypPPjrpw4hyyQKc2Pco6p7dD69WSLf2sxm5-hBq_a0HGgr7qs0k-V13=
+juWSzf47uJHkGT3sQwY6EcjZwsm7q6TaQLMMNPko0rSserqtwwHIyC2mJ1T6nKZVA_27hi1ht4x=
+4qlTVwetcfpEWP49HeMTPOk3tX5C5q22u-YpM5sxrupA9JzviDa_YqE28A4p8cEhmHgQVtL5uq4=
+msYsegOvH3nAmUSB8EE0mWS2OfS03T3ssypXAEJGS-KXmTCe8-_WASlKeAv2nXOLNpAgvxKM=2E=
+=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&amp;index=3D14&amp;userid=3Dblackyao12=40g=
+mail=2Ecom&amp;scheme=3Dnewarrivals_rr&amp;campaignid=3Dnewarrivals_5/3/201=
+5&amp;creationdate=3D5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>=20
+
+                            </td>
+                            <td width=3D=225=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYUAY&_ei_=3DErFvPmGqF0gSDVe-jw_9KbEiVLwqtJQ9GCguIw9jHBWP8sxDit=
+9sjLufhz0ungIcsrhM0sH9_ZDd2m13oxf14Qsl_SW-CictKrq4XbG5ni7kI-yKAvewRnokE2q-6=
+m2mb7hjXXdiCKmPsl9kVSr_QTIhcVtwSfdZvvBu-HYQx-mIiqy2sgajgEjmqmeR0wL8Ng-efaIE=
+IOSTappPa23U3lJjSdNPRH4QiTArMWQi-3X0dYvHgLrzL3if8lKa7XCs1iCUYH9vB34SAm5jUiD=
+AjWufbKuTW-hDFf796gjVkuccItvdMyuuLHOsOV30XtGzk11qRUYOBgI7Rtrb9JXMELVTJ3qngd=
+l1Eo4hV2UdtITr4K_Ltdpy8De7l1jPEGEH5XupL_W1f0ETLTbr4YvHWnvWmLKIyUmhTUwCVM=2E=
+=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&amp;index=3D15&amp;userid=3Dblackyao12=40g=
+mail=2Ecom&amp;scheme=3Dnewarrivals_rr&amp;campaignid=3Dnewarrivals_5/3/201=
+5&amp;creationdate=3D5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>
+
+                            </td>
+                            <td width=3D=226=22>
+                                &nbsp;
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <=21-- Spcer -->
+            <tr>
+                <td height=3D=2210=22>
+                    &nbsp;
+                </td>
+            </tr>
+            <=21--New Product Row-->
+            <tr>
+                <td>
+                    <table cellpadding=3D=220=22 cellspacing=3D=220=22>
+                        <tbody><tr>
+                            <td width=3D=226=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYUCY&_ei_=3DEr5wsTc-e7V2JEHUSWvhfin1jCy-s15hq6Z2vXFF7IrETorK7O=
+GUyI1Ge29S4_V3wLmHG-Lr_bCS2nBoF-u8vldlX4dmwDytLFxFx-TYJTAZDyRfjl2TJHdNKT6yv=
+j9xoR9qS2S9tzf2VbEMezzhS3gmhlnwMi7qBqN9np5QydyHK-C3eU-6RLG9iKFet-FRtudvP30r=
+a26Vl2JdpjGt3Y39MAI2WcGhRqiTROxi_lKDD7VCO46AmBvR-GUo2S5PBq0kDgRp94s5rP76jfI=
+i6cC2aQiPJuuBaSN3IE90-D68QrNearP6iemv8tmHhyauSo7WVeNok3A8T25rJU7QZCuoQA9DX3=
+I-jN_bKBeLeF4Sw-jpY5zHQNdXwRGuF2dOZSwmwe9p8UTvaPcTVXqyV-xCYmZnh7Z7OAZ5_g=2E=
+=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&amp;index=3D16&amp;userid=3Dblackyao12=40g=
+mail=2Ecom&amp;scheme=3Dnewarrivals_rr&amp;campaignid=3Dnewarrivals_5/3/201=
+5&amp;creationdate=3D5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>=20
+
+                            </td>
+                            <td width=3D=225=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYWRY&_ei_=3DEnrYk6yXrOKFjQBE2V8Shv1588Tg-_S6MCnScLKtuVnpUWjBQM=
+huMnokPci48CejIx3P-omJUhAUO1FHQh_kdZL_R7myfCD5s_CnKV43XYh6K0ser293cG0eCzzgJ=
+0t3TOzRpmNUdUXwLnyYFtO-ZoAER4oORk9akbe2XCr0FVjyq8g8KI4uhLOocP38P3-WMtB6_Ltz=
+AAE7Gyl_ZGtMjsey6ZSDxUNr4UGKFp4lVjIN8ZpQLth0qdfSuiEyY5z9j8ZJW7CNEcCzyRIhfPg=
+IFX2n3SxFk1XVzYijM7sV794DLqfPhWGVsvbxHxuR7459T-xkVN9At5BgcO_sAde5llkjcpbSBk=
+Buj3T2NZGhG4w5Ni6h5ismmaO0pIdmqHBl6hpPjpEN-qhoSc6QuaJKU-g2bbGzKcgJy1D7Uw=2E=
+=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&amp;index=3D17&amp;userid=3Dblackyao12=40g=
+mail=2Ecom&amp;scheme=3Dnewarrivals_rr&amp;campaignid=3Dnewarrivals_5/3/201=
+5&amp;creationdate=3D5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>=20
+                            </td>
+                            <td width=3D=225=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYWTY&_ei_=3DEijPPygznHpPog_kG721qxlRpxNCkodoBPaBdRXNrZqsNMvDM3=
+dpAvqWAwlAy9LVtbVoY54L2PfnE58iMRYCLOqn_5ZJ3C8yclGvvActhGFhPnA_1ygvU5djBmAaT=
+IHvPeTm-9oS4Fz31hBPmxaXf45SdwS4o0tShcJ94xekoyW_MEHgf5iucaAgG5VpMGI_ZuW9-ZQF=
+a8qSey4LztsAxP3fvqgne7_SAuQU348rQLYJRcELsmoD84ocpf2WiQxLBjjw76Y9_EF1Ad3_d8F=
+N4XSEz_PBr1WSCjTtDkcx8xKnKeXiQrHWeea8G0lx_eW66UzhQ8u-DEy7pQZm9_iCt2TQ8IW9VT=
+V71O3GICrXO1d-X_uCp670bsn5PM5bp-43jMYsqH6KdXZtpXL4PGoDsQQ-PlyTdO2RSaqwPg=2E=
+=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&amp;index=3D18&amp;userid=3Dblackyao12=40g=
+mail=2Ecom&amp;scheme=3Dnewarrivals_rr&amp;campaignid=3Dnewarrivals_5/3/201=
+5&amp;creationdate=3D5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>=20
+                            </td>
+                            <td width=3D=226=22>
+                                &nbsp;
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <=21-- Spcer -->
+            <tr>
+                <td height=3D=2210=22>
+                    &nbsp;
+                </td>
+            </tr>
+            <=21--New Product Row-->
+            <tr>
+                <td>
+                    <table cellpadding=3D=220=22 cellspacing=3D=220=22>
+                        <tbody><tr>
+                            <td width=3D=226=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYWWY&_ei_=3DEgAM9Sw-5NGhlzWEglzIpu9XdfwCPbKePYQpSqwtrPRExR99u_=
+LvYnU4fFSbZX6lsumlh3rswAf6V_ULhbH0pwOX01WTKrkRN7cdVVLWLPD7CDVXsYsABV_zvFLQY=
+UiP4rUTmJ_aLSFV4q1JOyIeMfgzRpnHQ7mOEihdRykKxnOIz89TeELEJm9wLUkLzoWtjWO1gjq0=
+Jj2lvrSnr9diVHCoNqwqMlye45_cwLdns2Uew-cxWJuueM-mssTqSw49UtICzJIxt_d9aFcFkxR=
+UAFKfpkH9UubYQ5yY680J9kwSlWaHiyXj00tLci5W7YwlwszHPJtXcCVZQcY3R6J4aJ1pHZ4zDt=
+p_KIPagFiRJzyySRYkLSd1BKlyz7ucjN-6eAY6sSaZ84rLtcoGJPZJ2A5VjfbxbNZj4QB8Jw=2E=
+=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&amp;index=3D19&amp;userid=3Dblackyao12=40g=
+mail=2Ecom&amp;scheme=3Dnewarrivals_rr&amp;campaignid=3Dnewarrivals_5/3/201=
+5&amp;creationdate=3D5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>=20
+
+                            </td>
+                            <td width=3D=225=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYWAY&_ei_=3DErgAauGpypFyCAm2_FbvOaD_AhiIw_nU6TPs8ELrkrJsBiEuhG=
+MVhFMOCLOu7KlStZz97n5G4Sb5LBc-zY1X9Tnt3NHq-_5WpkUORzPVkpwxI3kb6VxoljmGUhp4k=
+kmhZpV_MTwWfgan8XavhLt2RVO0HIuGFAFMNegNgn2isnbu3RaI7bDXmtCywMVDNLyz59cJ4gwO=
+HoK8zOUAzC_PbzC0HeqcSMRPxnSvl0tEYfeJkIPLtO8XN2ZRelCvDL6LyLbLn8-fkr6apks4WfH=
+xdU9-Fc2iFB3zHaEEV-aQUbfWUu1lrqq8MvXUgtQUyeh0w_MJCRJNLOnCus04ZF5y-HrY2jg2bD=
+IAJXQNqVn8wuaDV76HGbXBJb-yBkLjXPHBzn6ZtyDQ_tpMH0ENWaGiF21bmSLbUWSeNBqgtw=2E=
+=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&amp;index=3D20&amp;userid=3Dblackyao12=40g=
+mail=2Ecom&amp;scheme=3Dnewarrivals_rr&amp;campaignid=3Dnewarrivals_5/3/201=
+5&amp;creationdate=3D5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>=20
+
+                            </td>
+                            <td width=3D=225=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYWCY&_ei_=3DEmpAl-sqcq2UjJABZUKKwR_4EP34zbUhNgftU09vD7kOO0rylG=
+5LkYrR3ihrFYIIkMLqw3a8w2VuPkEaBbVj29jxLkD2-Bsyyak1HpzFVCJJI-bsCStnvX5SqNzWs=
+-TedJFuJ0m1cgZTvdK2-lBeO3TAxBgXzx72RX95magm75W7G5V8uRQtrxQ4stglBrAnfEx8hOCy=
+7ssHYlxLtI50_rc6Qt84FZ-j13MalCU0Ba-twdYPIxPJDhyt-bOqW_PM5ehf4QTI1GyZtM1hGw0=
+wVAFn4mhxulxEQ4siUchlYREJQcrKmMsobXS7WdaMdFFnfGwXSrIeWGBy82fxcqVY6eP8ec3oUX=
+ORFHLioiYwSr1enwyel65RFFVi_rlaWhxQofB5zelCWBCz1eV4SHdXE0qJRhr_yPp2YUoln0=2E=
+=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&amp;index=3D21&amp;userid=3Dblackyao12=40g=
+mail=2Ecom&amp;scheme=3Dnewarrivals_rr&amp;campaignid=3Dnewarrivals_5/3/201=
+5&amp;creationdate=3D5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>
+
+                            </td>
+                            <td width=3D=226=22>
+                                &nbsp;
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <=21-- Spcer -->
+            <tr>
+                <td height=3D=2210=22>
+                    &nbsp;
+                </td>
+            </tr>
+            <=21--New Product Row-->
+            <tr>
+                <td>
+                    <table cellpadding=3D=220=22 cellspacing=3D=220=22>
+                        <tbody><tr>
+                            <td width=3D=226=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYYRY&_ei_=3DErHlTryy4IKNisNkrn--PyZt_1BRpGAD_j-BxHHBWLJku6g-WH=
+OZPjdYL4iHbnvFhamaKjbcTAhllkytfOEQZsb3p9YyflC0mK9k1r42V9Fe1Q9b8_SHcYOU7C9WL=
+0jyJhYdX-NnYtgJpJ5bJo0MRxXozC3aXIflUOnJb5T2a4oQbBmejKblfqeAvnqMjhWjdbePAlUO=
+3rH30YGO7uXogDheXaD_7XkRYHV2NvTJftJdm8xZXSbiyxOMldnJRiSLhcLDax4OUvistFHF8SN=
+OUkDL9zki_O60HI78XGagUPqGN7tt6S7yZ0rOVqdvjCYWZq3LqoZpkC38okn-YB_i9OJHNRZN4s=
+mejBxFfS11jINl83S-dJAEwFzeAB7n-Vb2BrwRbSoS2YdDtv2W8nKEieZA1AZ-pCw1gz8J2M=2E=
+=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&amp;index=3D22&amp;userid=3Dblackyao12=40g=
+mail=2Ecom&amp;scheme=3Dnewarrivals_rr&amp;campaignid=3Dnewarrivals_5/3/201=
+5&amp;creationdate=3D5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>=20
+
+                            </td>
+                            <td width=3D=225=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYYTY&_ei_=3DEhSjGcJg-_WJr_0aY3sIIOCKN2in51S8VASQIIgRD_IuM2lvpC=
+_WWwo60WqRyQOxJfrxc0uqPwy2CRAGzGMZ0321wo2zAx2i7AqnMlJc2oa0V8SvI80FcueuoK4RC=
+rsNeVzlcmsZVzQ8HWEtW4XoBhIm6yb783aObX5ZL445mu00RjkdWEaU8JaKY5irwDqIt87DyJs4=
+BypNVdWEXDdpPz3hoLGbjOOu_Uvwwf9XcnC8tRy58XVG0YH6QmgldU-XW5XQy7nL_luPnGTkmzX=
+oED2OmqHSmcS8BPWvnzL88pqPLaFjU96Pfm6FTqDoPB39dfF82LT4g-F5qYp98COQzLwAoXEpbf=
+RZHx9wiHQ902dpNNa5jA9Q_jvMpqLR1EWefs2b6iGDPE6LNHKbaXDN4Z9-ImnZ2tBL4pI0Ew=2E=
+=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&amp;index=3D23&amp;userid=3Dblackyao12=40g=
+mail=2Ecom&amp;scheme=3Dnewarrivals_rr&amp;campaignid=3Dnewarrivals_5/3/201=
+5&amp;creationdate=3D5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>
+
+                            </td>
+                            <td width=3D=225=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYYWY&_ei_=3DEp7dKOMEvevMeWgJu87Uw-IxqiXVsB9-BT3xESE_uhHAyi-QOm=
+lJ-KW5QBwAcppgLOswquq27IiOQ25NTsD7Or7rWNEiLrob4ICEmu6aOwewJEXSHrVnDWI-vgSFA=
+fiHFS-XIgvKy0AKpRSP6Kcxb-dS2DI8tFv0KW2RGjSPklE3H7UsAtNii5hwnTpU4_wuDKzXhrWd=
+R5wAhoSrtxmXROdq2MjtPLvZvLhqoOGBqM0acEc5l_aysG4mX91CuQAiVxIfLmMXG0sL1VwQhXR=
+-QJdXhuQ6FcbV1AXh27Qi9R0chBs8U87IwmLb-TZbTYlSAOgjIJDlv7bRMXUSJQAlGy3UlYVJB6=
+R9NK7CZUA2sYsrnL5XH3771VEZWZn4FUGr9sQLwX88a_D47hsAxNGajQAF0b-Qp7t4ircRaM=2E=
+=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&amp;index=3D24&amp;userid=3Dblackyao12=40g=
+mail=2Ecom&amp;scheme=3Dnewarrivals_rr&amp;campaignid=3Dnewarrivals_5/3/201=
+5&amp;creationdate=3D5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>=20
+
+                            </td>
+                            <td width=3D=226=22>
+                                &nbsp;
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <=21-- Spcer -->
+            <tr>
+                <td height=3D=2210=22>
+                    &nbsp;
+                </td>
+            </tr>
+            <=21--New Product Row-->
+            <tr>
+                <td>
+                    <table cellpadding=3D=220=22 cellspacing=3D=220=22>
+                        <tbody><tr>
+                            <td width=3D=226=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYYAY&_ei_=3DEug_b3mrAEXRIHV3qAWgPMRrso6CtXWb3Ymnq3Il2IgrS7LaV3=
+c8qR2iPB2e628EfJAfUf0JRaYhJJhs1iZWbNUKZtUSPcSRE_dYRIk88xXRsRyuyMkyxKvnqmP3d=
+xd1h8rhvu8op5KULaq4lFFz6duwt3Vh2EUKEuT_NoAk_-IULdFKX43MmjO_xjWA3ZZHPu_F4Q2s=
+HL3dSQobHwaqcYoOZ0Qhx7YzwhmF5lEGCgD6kJoppz7iX7Kl2wkgUTJdg3A7JcWUcQRGQ5z4ahp=
+lnvaKLt7Dk8skB9tlPAWtx-HR7hKvlLuBzhA6Rr1PEGvubPmcuOWM7wPVPBttCzkmsYmZNIRPtF=
+IIbsFopjicPwrsbCpLnGiFnIHTpu6C9cWHjU8s1wrwJea9-NN2csd1hLQ5CqUVpi66pHUr70=2E=
+=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&amp;index=3D25&amp;userid=3Dblackyao12=40g=
+mail=2Ecom&amp;scheme=3Dnewarrivals_rr&amp;campaignid=3Dnewarrivals_5/3/201=
+5&amp;creationdate=3D5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>
+
+                            </td>
+                            <td width=3D=225=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYYCY&_ei_=3DEo79iMgoul9h-VQv46bB99_kTUkzWCEbGscAwN1gjYT5VVCKhv=
+MH1JsxqiqZ7T9T0KIf2zbQx5b0JwbtCjohQO_ALMeWEvSGGnfKwxACd9FhDDAOwkVgMer0BJAIP=
+bmV4NqZlMWTZwky2TjijF1nNSt_LqQG1igW9KvfTIqBaO2X9DXhnGWW1shWaQbpW6cLY_rBRnla=
+9b0z8hcatj2x1icpy6KyKBuCi3ODKUdzoRg3TN-omxvQeesgr_cDWV9Z8Dnhhbmz3zl0-elsJyt=
+_6J1wCKH04M_yF9IULomCRIV_HbArBEL9EafYcBvr86Ts85jorXspxjXIjIks0DZWIOA4ISvlZX=
+fQoKUzrUjxhtG84sZALibP0UQzWRuvlOpz3NsoSm30g5cag1ckZbTg8e8OF_c3W-QvLFf4VM=2E=
+=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&amp;index=3D26&amp;userid=3Dblackyao12=40g=
+mail=2Ecom&amp;scheme=3Dnewarrivals_rr&amp;campaignid=3Dnewarrivals_5/3/201=
+5&amp;creationdate=3D5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>
+                            </td>
+                            <td width=3D=225=22>
+                                &nbsp;
+                            </td>
+                            <td width=3D=22192=22 valign=3D=22top=22>
+                                <a href=3D=22https://news=2Eforever21=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbj=
+B7VXtpKX%3DYRYRTY&_ei_=3DEgDeurFvDYmgJdra5p5F_50UA3ZiAIaU9uvJNepcGuwUYQ3XBU=
+VgOk9fh3f0EKmNnbnGehifpq7naKUwg0GJrXhXSSVQrxRiF8Wng-XQJXajoiQCq_O3S30pS2ekx=
+KTppcqpUpgVqxYOHiK4jeLclqyIF2ZedVi7NxfbztoD4f_AIZAJuE9Y6_TmqUWKs7IBbI_m0sMc=
+7HESK1FwMkJbx--awecp-59BgUEv2FwI44ZIpEwohwRBbDGB0CEIbQaEwIjwc3DAg8MXj6e6EbH=
+woHTbPgWzRUx7dHlT9VcSOq6sZU4mc0_PyVn4kSmZmYId5u2baKZnk-MVc8jd-9CnOGigl7PiwT=
+hS4kKDRzRvksTY3-fSGBvYphovOnfPoo1YFUKjWkctRP2JWnzO-X_5x2o41y7A2Hi3biVRQ0=2E=
+=22>
+                                    <img src=3D=22http://ris=2Eres-x=2Ecom/=
+image=2Easpx?appid=3DForever2101&amp;index=3D27&amp;userid=3Dblackyao12=40g=
+mail=2Ecom&amp;scheme=3Dnewarrivals_rr&amp;campaignid=3Dnewarrivals_5/3/201=
+5&amp;creationdate=3D5/3/2015=22 border=3D=220=22 width=3D=22192=22></a>=20
+                            </td>
+                            <td width=3D=226=22>
+                                &nbsp;
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <=21-- Spcer -->
+            <tr>
+                <td height=3D=2210=22>
+                    &nbsp;
+                </td>
+            </tr>
+                                    </tbody></table>
+                                    <=21-- // END BODY -->
+                                </td>
+                            </tr>
+                        	<tr>
+                            	<td align=3D=22center=22 valign=3D=22top=22>
+                                	<=21-- BEGIN FOOTER // -->
+                                    <table border=3D=220=22 cellpadding=3D=
+=220=22 cellspacing=3D=220=22 width=3D=2295%=22 id=3D=22templateFooter=22>
+                                        <tbody><tr>
+                                            <td valign=3D=22center=22 heigh=
+t=3D=2260=22 class=3D=22footerContent=22 align=3D=22center=22 style=3D=22fo=
+nt-family:Arial, Helvetica, san-serif;
+ font-weight:bold; font-size:12px; color:black; border-top:1px solid =23CCC=
+CCC;
+ border-bottom:1px solid =23CCCCCC; text-align: center=22>
+                                            	<=21--GET SOCIAL &nbsp;&nbsp;-=
+->
+                                                <a href=3D=22https://news=
+=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7=
+b0ze3zgmkPqvjYyzbjB7VXtpKX%3DYRYARY&_ei_=3DEolaGGF4SNMvxFF7KucKuWO7mnvOXKWv=
+Axt5shDLGfBKqTVLTfvswcfOK6xEvTmAdM=2E=22><img border=3D=220=22  src=3D=22ht=
+tps://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/forever21/contentli=
+brary/=21us/2015_us/20150503_f21_us_freenomin/RI_20150503_F21_US_FreeNoMin/=
+images/20140219_F21US_facebook=2Ejpg=22 alt=3D=22Facebook=22></a>&nbsp;&nbs=
+p;&nbsp;
+                                                <a href=3D=22https://news=
+=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7=
+b0ze3zgmkPqvjYyzbjB7VXtpKX%3DYRYATY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNhGoWPOTXU=
+kH1OVSvUi-HVqTVLTfvswcfOK6xEvTmAdM=2E=22><img border=3D=220=22  src=3D=22ht=
+tps://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/forever21/contentli=
+brary/=21us/2015_us/20150503_f21_us_freenomin/RI_20150503_F21_US_FreeNoMin/=
+images/20140219_F21US_twitter=2Ejpg=22 alt=3D=22Twitter=22></a>&nbsp;&nbsp;=
+&nbsp;
+                                                <a href=3D=22https://news=
+=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7=
+b0ze3zgmkPqvjYyzbjB7VXtpKX%3DYRYAWY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0=
+M_aUq6x_tqgTzafP8ZlJjgrP3p8yYin-G8OI=2E=22><img border=3D=220=22  src=3D=22=
+https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/forever21/content=
+library/=21us/2015_us/20150503_f21_us_freenomin/RI_20150503_F21_US_FreeNoMi=
+n/images/20140219_F21US_google=2Ejpg=22 alt=3D=22Google+=22></a>&nbsp;&nbsp=
+;&nbsp;
+                                                <a href=3D=22https://news=
+=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7=
+b0ze3zgmkPqvjYyzbjB7VXtpKX%3DYRYAAY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0=
+M_aUq6x_tqgT5oGFpiX3mMVpbJwQk9q8JD0=2E=22><img border=3D=220=22  src=3D=22h=
+ttps://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/forever21/contentl=
+ibrary/=21us/2015_us/20150503_f21_us_freenomin/RI_20150503_F21_US_FreeNoMin=
+/images/20140219_F21US_youtube=2Ejpg=22 alt=3D=22YouTube=22></a>&nbsp;&nbsp=
+;&nbsp;
+                                                <a href=3D=22https://news=
+=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7=
+b0ze3zgmkPqvjYyzbjB7VXtpKX%3DYRYACY&_ei_=3DEolaGGF4SNMvxFF7KucKuWOtV94h4UPg=
+m8RO4kPk3rYeqTVLTfvswcfOK6xEvTmA=2E=22><img border=3D=220=22  src=3D=22http=
+s://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/forever21/contentlibr=
+ary/=21us/2015_us/20150503_f21_us_freenomin/RI_20150503_F21_US_FreeNoMin/im=
+ages/20140219_F21US_pinterest=2Ejpg=22 alt=3D=22Pinterest=22></a>&nbsp;&nbs=
+p;&nbsp;
+                                                <a href=3D=22https://news=
+=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7=
+b0ze3zgmkPqvjYyzbjB7VXtpKX%3DYRYBRY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0=
+M_aUq6x_tqgT_S8sVaHMFwfPGwDGA75iknY=2E=22><img border=3D=220=22  src=3D=22h=
+ttps://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/forever21/contentl=
+ibrary/=21us/2015_us/20150503_f21_us_freenomin/RI_20150503_F21_US_FreeNoMin=
+/images/20140219_F21US_instagram=2Ejpg=22 alt=3D=22Instagram=22></a>&nbsp;&=
+nbsp;&nbsp;
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                        	<td align=3D=22center=22 style=3D=
+=22padding-top:30px; padding-bottom:10px;font-family:Arial, Helvetica, san-=
+serif; font-size:13px;
+ letter-spacing:1px;=22>
+                                        		<span style=3D=22font-family:Geor=
+gia;font-style:italic;font-weight:bold; color:=23000001=22>NEED
+ HELP?</span>&nbsp;&nbsp;1-888-494-3837
+                                        	</td>
+                                        </tr>
+                                        <tr>
+                                        	<td align=3D=22center=22 style=3D=
+=22padding-bottom: 20px;=22>
+                                        		<a href=3D=22https://news=2Eforev=
+er21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgm=
+kPqvjYyzbjB7VXtpKX%3DYRYBTY&_ei_=3DEolaGGF4SNMvxFF7KucKuWOkHNx3fbMWjCMDF_ez=
+8oBWqTVLTfvswcfOK6xEvTk=2E=22 style=3D=22font-family:Arial, Helvetica, san-=
+serif;text-decoration:none; color:=23000001; font-size:11px; font-weight:bo=
+ld; display:inline-block=22>FAQ'S</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                                        		<a href=3D=22https://news=2Eforev=
+er21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgm=
+kPqvjYyzbjB7VXtpKX%3DYRYBWY&_ei_=3DEolaGGF4SNMvxFF7KucKuWPGgBAAg4tjf9pQp4J9=
+NO0jqTVLTfvswcfOK6xEvTmAdM=2E=22 style=3D=22font-family:Arial, Helvetica, s=
+an-serif;text-decoration:none; color:=23000001; font-size:11px; font-weight=
+:bold; display:inline-block=22>STORE LOCATOR</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                                        		<a href=3D=22https://news=2Eforev=
+er21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgm=
+kPqvjYyzbjB7VXtpKX%3DYRYBAY&_ei_=3DEolaGGF4SNMvxFF7KucKuWPAtbfsSezN3-o8vYN2=
+zcqdqTVLTfvswcfOK6xEvTmAdM=2E=22 style=3D=22font-family:Arial, Helvetica, s=
+an-serif;text-decoration:none; color:=23000001; font-size:11px; font-weight=
+:bold; display:inline-block=22>GIFT CARDS</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                                        		<a href=3D=22https://news=2Eforev=
+er21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgm=
+kPqvjYyzbjB7VXtpKX%3DYRYBCY&_ei_=3DEolaGGF4SNMvxFF7KucKuWN0KcxfIOWpO7nxuq5i=
+yYlzqTVLTfvswcfOK6xEvTmAdM=2E=22 style=3D=22font-family:Arial, Helvetica, s=
+an-serif;text-decoration:none; color:=23000001; font-size:11px; font-weight=
+:bold; display:inline-block=22>IPHONE APP</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                                        		<a href=3D=22https://news=2Eforev=
+er21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgm=
+kPqvjYyzbjB7VXtpKX%3DYRYCRY&_ei_=3DEolaGGF4SNMvxFF7KucKuWPt6W9ppofoyZHlap4b=
+_3UNqTVLTfvswcfOK6xEvTmA=2E=22 style=3D=22font-family:Arial, Helvetica, san=
+-serif;text-decoration:none; color:=23000001; font-size:11px; font-weight:b=
+old; display:inline-block=22>ANDROID APP</a>
+                                        	</td>
+                                        </tr>
+                                        <tr>
+                                            <td valign=3D=22top=22 align=3D=
+=22left=22 class=3D=22footerContent=22 style=3D=22padding-top:0; letter-spa=
+cing:1px;
+ padding-bottom: 50px; color: =23000001; text-align:left=22>
+  <br />
+Receive free shipping on your entire order=2E No minimum purchase required=
+=2E This offer applies to standard ground shipping within the United States=
+=2E Not valid on shipments to Alaska, Hawaii, U=2ES=2E territories, P=2EO=
+=2E Boxes, APO/FPO and international addresses=2E If you choose another shi=
+pping option, additional charges may apply=2E Free shipping will be automat=
+ically applied to qualifying orders at checkout=2E No adjustments on previo=
+us purchases=2E Valid online only=2E Forever 21 reserves the right to modif=
+y or cancel this promotion at any time without notice=2E<br /> <br />
+ Having trouble viewing this=20
+ e-mail? <a href=3D=22https://news=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%=
+3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbjB7VXtpKX%3DYRYRRY&_ei_=
+=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6e2IVfDnIbzkWaqgNCT2vHZ8BwSA=
+5HY2M7IIHWjNlSw4-IVpbTwILsQ1RItzw1UAPVC5OGllqSCnx0TWNSlar7nP8sMtxjRZ1JGyGo5=
+t4MjKKfUMMQ0bWWp2zq1YWvGVBd0EmTqgDBBnTS5cluIWBuKf1wJNKyLWEHnmAB6slvhnJmZE19=
+x4uwx23bycia_V9Q9fCmmDRkpvhNQBgC0A_xtfBGGWuWwhMlmlNgUhmaVdyQD6sjnBANgfPm-ck=
+iMBX-tLZ49FJEHe6IhsZSw4ELCwW2K59pxxXHYqY5D0_aZDSP3lbnQsnhNzJZBaosAFAXGm1BKU=
+-IIgddYWg_kSaPxJY5E8HaayYqm1pp4hx8x39eGgAsWSESTJyyxjurMHpw=2E=22>Click
+ here</a> to view in your browser<br/> <br/>
+												To make sure you receive our emails, please add
+ forever21=40news=2Eforever21=2Ecom to your address book=2E You received th=
+is message because you've
+ registered or accepted our invitation to receive emails from Forever21, or
+ you've made a purchase from Forever21=2Ecom=2E
+												<br><br>
+												If you no longer wish to receive information and updates from
+ us, please <a href=3D=22https://news=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc=
+2X%3DWQpglLjHJlYQGozeFkIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbjB7VXtpKX%3DYRYCTY&_e=
+i_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgTJXZyFK6ditTSDG8aiGxOaD1YfJ=
+sPvs4RK4XseB91Wj1-uPo5kHL-JH4=2E=22>click here</a>=2E
+												<br><br>
+												By setting and saving your e-mail preferences, you can select
+ which brand you'd like to hear from Forever 21, Inc=2E Please <a href=3D=
+=22https://news=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGozeF=
+kIXDJqmrcYr4Yh7b0ze3zgmkPqvjYyzbjB7VXtpKX%3DYRYCWY&_ei_=3DEolaGGF4SNMvxFF7K=
+ucKuWNHvC_sZZO0M_aUq6x_tqgTeZRasCWpZbG0blcLdai4PY9h3DIt1xH18LqADIq4zM12JojN=
+V7fdL7aO=2E=22>click here</a> to
+ update=2E
+												<br><br>
+												Forever 21, Inc=2E 3880 N Mission Road, Los Angeles, CA 90031&n=
+bsp;&nbsp;&nbsp;
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                    <=21-- // END FOOTER -->
+                                </td>
+                            </tr>
+                        </tbody></table>
+                        <=21-- // END TEMPLATE -->
+                    </td>
+                </tr>
+            </tbody></table>
+        </center>
+    </body>
+</html>
+<br>
+
+

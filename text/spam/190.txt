@@ -1,0 +1,1256 @@
+<=21DOCTYPE html>
+<html xmlns=3D=22http://www=2Ew3=2Eorg/1999/xhtml=22>
+<head>
+<meta content=3D=22width=3Ddevice-width=22 name=3D=22viewport=22 />
+<title>Shop Your Way&reg; =7C Sears&reg;</title>
+  <style type=3D=22text/css=22>
+  =40media only screen and (max-device-width: 768px) =7B
+  td=5Bclass=3D=22mobi-legal-text=22=5D a =7Bcolor:=23acacac =21important=7D
+  =7D
+
+  =40media only screen and (max-device-width: 480px) =7B
+ table=5Bclass=3D=22mobi-hide=22=5D, td=5Bclass=3D=22mobi-hide=22=5D, table=
+=5Bclass=3D=22mobi-spacer-hide=22=5D =7Bdisplay:none =21important;=7D
+  td=5Bclass=3D=22frame-wrap-padd=22=5D =7Bpadding:15px =21important;=7D
+  table=5Bclass=3D=22content-wrapper=22=5D =7Bwidth:310px =21important;=7D
+td=5Bclass=3D=22content-bg=22=5D=7Bpadding:5px 0 0 0 =21important;=7D
+  table=5Bclass=3D=22content-bin-wrap=22=5D,
+  table=5Bclass=3D=22table-resize=22=5D =7Bwidth:298px =21important;=7D
+  table=5Bclass=3D=22table-resize=22=5D td =7Bfont-size:15px =21important;=
+=7D
+  table=5Bclass=3D=22table-resize-spring=22=5D =7Bwidth:298px =21important;=
+=7D
+  table=5Bclass=3D=22table-resize-spring=22=5D td =7Bfont-size:15px =21impo=
+rtant; border-top:1px solid =23e4e4e4;=7D
+  table=5Bclass=3D=22mobi-spacer=22=5D,table=5Bclass=3D=22mobi-spacer=22=5D=
+ img =7Bheight:5px =21important; width:200px;=7D
+
+/* header */
+table=5Bclass=3D=22top-header=22=5D =7Bwidth:298px =21important;=7D
+table=5Bclass=3D=22top-header=22=5D td =7Bpadding-bottom:2px =21important;=
+=7D
+table=5Bclass=3D=22member-name=22=5D =7Bwidth:298px =21important;=7D
+table=5Bclass=3D=22points-info=22=5D =7Bwidth:298px =21important;=7D
+
+table=5Bid=3D=22mobi-header=22=5D =7Bwidth:298px =21important;=7D
+table=5Bid=3D=22mobi-header=22=5D td=5Bclass=3D=22hide=22=5D =7Bdisplay:non=
+e =21important;=7D
+table=5Bid=3D=22mobi-header=22=5D img =7B-ms-interpolation-mode:bicubic; wi=
+dth:298px =21important; height:auto;=7D
+table=5Bid=3D=22header-bottom=22=5D =7Bwidth:288px =21important;=7D
+table=5Bid=3D=22header-bottom=22=5D td =7Bpadding:0px 0px 0px 0px =21import=
+ant;=7D
+/* header ends */
+
+  /* sywr banner */
+  table=5Bclass=3D=22sywr-banner-wrapper=22=5D =7Bwidth:298px =21important;=
+=7D
+  table=5Bclass=3D=22sywr-banner-wrapper=22=5D td=5Bclass=3D=22sywr-banner-=
+left-mobile=22=5D =7Bwidth:75px =21important;=7D
+  table=5Bclass=3D=22sywr-banner-wrapper=22=5D td=5Bclass=3D=22sywr-banner-=
+left-mobile=22=5D img =7Bwidth:75px =21important; height:auto =21important;=
+=7D
+  table=5Bclass=3D=22sywr-banner-wrapper=22=5D td=5Bclass=3D=22sywr-banner-=
+left-desktop=22=5D =7Bdisplay:none =21important;=7D
+  table=5Bclass=3D=22sywr-banner-wrapper=22=5D td=5Bclass=3D=22sywr-banner-=
+right-mobile=22=5D =7Bwidth:213px =21important; color:=23ffffff =21importan=
+t; font-size:10px =21important; padding-left: 10px; =7D
+  table=5Bclass=3D=22sywr-banner-wrapper=22=5D td=5Bclass=3D=22sywr-banner-=
+right-mobile=22=5D a =7Bcolor:=23ffffff =21important;=7D
+  table=5Bclass=3D=22sywr-banner-wrapper=22=5D td=5Bclass=3D=22sywr-banner-=
+right-mobile=22=5D img =7Bwidth:213px =21important;  height:auto =21importa=
+nt;=7D
+  table=5Bclass=3D=22sywr-banner-wrapper=22=5D td=5Bclass=3D=22sywr-banner-=
+right-desktop=22=5D =7Bdisplay:none =21important;=7D
+
+  /* banner */
+  table=5Bclass=3D=22banner-area=22=5D=7Bwidth:278px =21important; display:=
+block =21important;=7D
+  table=5Bclass=3D=22banner-area=22=5D td=5Bclass=3D=22col1=22=5D =7Bwidth:=
+278px =21important; display:block =21important;=7D
+  table=5Bclass=3D=22banner-area=22=5D td=5Bclass=3D=22col1=22=5D img =7B-m=
+s-interpolation-mode:bicubic; width:278px; max-width:278px =21important; he=
+ight:auto;=7D
+
+  /* footer */
+  table=5Bclass=3D=22footer-resize=22=5D,
+  table=5Bclass=3D=22footer-links=22=5D =7Bwidth:300px =21important;=7D
+  table=5Bclass=3D=22footer-resize=22=5D td =7Bfont-size:14px =21important;=
+=7D
+  table=5Bclass=3D=22footer-links=22=5D td =7Bline-height:20px =21important=
+; width:150px =21important;=7D
+  td=5Bclass=3D=22mobi-legal-hero=22=5D =7Bfont-size:13px =21important; lin=
+e-height:17px =21important;=7D
+  td=5Bclass=3D=22mobi-legal-hero=22=5D a =7Bcolor:=23666666 =21important;=
+=7D
+  td=5Bclass=3D=22mobi-legal-text=22=5D =7Bfont-size:13px =21important; lin=
+e-height:17px =21important;=7D
+  td=5Bclass=3D=22mobi-legal-text=22=5D a =7Bcolor:=23acacac =21important;=
+=7D
+  /* Global CSS Insertion*/
+
+  /* trolley */
+table=5Bclass=3D=22mobi-trolley=22=5D =7Bwidth:298px =21important;=7D
+table=5Bclass=3D=22mobi-trolley=22=5D td=5Bclass=7E=3D=22block=22=5D, span=
+=5Bclass=3D=22block=22=5D =7Bdisplay:block =21important;=7D
+table=5Bclass=3D=22mobi-trolley=22=5D td=5Bclass=3D=22hide=22=5D, br=5Bclas=
+s=3D=22hide=22=5D =7Bdisplay:none =21important;=7D
+table=5Bclass=3D=22mobi-trolley=22=5D td=5Bclass=7E=3D=22Tborder=22=5D =7Bb=
+order-top:1px solid =23ebebeb =21important;=7D
+table=5Bclass=3D=22mobi-trolley=22=5D img =7B-ms-interpolation-mode:bicubic=
+; max-width:298px =21important; height:auto;=7D
+
+/* hero */
+span=5Bclass=3D=22appleLinksGrey=22=5D a =7Bcolor:=23666666 =21important; t=
+ext-decoration:none =21important;=7D
+table=5Bclass=3D=22mobi-hero-TRLYLIQClawBack=22=5D =7Bwidth:298px =21import=
+ant;=7D
+table=5Bclass=3D=22mobi-hero-TRLYLIQClawBack=22=5D td=5Bclass=7E=3D=22block=
+=22=5D, span=5Bclass=3D=22block=22=5D =7Bdisplay:block =21important;=7D
+table=5Bclass=3D=22mobi-hero-TRLYLIQClawBack=22=5D td=5Bclass=3D=22hide=22=
+=5D, br=5Bclass=3D=22hide=22=5D =7Bdisplay:none =21important;=7D
+table=5Bclass=3D=22mobi-hero-TRLYLIQClawBack=22=5D td=5Bclass=7E=3D=22Tbord=
+er=22=5D =7Bborder-top:1px solid =23ebebeb =21important;=7D
+table=5Bclass=3D=22mobi-hero-TRLYLIQClawBack=22=5D td=5Bclass=3D=22Bpad20=
+=22=5D =7Bpadding-bottom:20px =21important;=7D
+table=5Bclass=3D=22mobi-hero-TRLYLIQClawBack=22=5D td=5Bclass=3D=22text16=
+=22=5D =7Bfont-size:16px =21important;=7D
+table=5Bclass=3D=22mobi-hero-TRLYLIQClawBack=22=5D td=5Bclass=3D=22text25=
+=22=5D =7Bfont-size:25px =21important;=7D
+table=5Bclass=3D=22mobi-hero-TRLYLIQClawBack=22=5D td=5Bclass=3D=22text18=
+=22=5D =7Bfont-size:18px =21important;=7D
+table=5Bclass=3D=22mobi-hero-TRLYLIQClawBack=22=5D img =7B-ms-interpolation=
+-mode:bicubic; max-width:298px =21important; height:auto;=7D
+/* hero ends */=20
+
+  =7D
+
+  </style>
+</head>
+
+=20
+ =20
+=20
+=20
+ =20
+=20
+ =20
+ =20
+=20
+
+
+<body style=3D=22padding:0; margin:0; text-align:center;=22>
+  <style type=3D=22text/css=22>
+  =2EReadMsgBody=7Bwidth:100%;=7D =2EExternalClass=7Bwidth:100%;=7D =2EExte=
+rnalClass *=7Bline-height:123%=7D =2Eoutlook=7Bline-height:125%=7D body=7B-=
+webkit-font-smoothing:antialiased;=7D html=7B-webkit-text-size-adjust:none;=
+=7D
+  </style>
+
+
+  <=21-- body wrapper -->
+  <table class=3D=22frame-wrap=22 width=3D=22100%=22 border=3D=220=22 cells=
+pacing=3D=220=22 cellpadding=3D=220=22>
+    <tr>
+      <td class=3D=22frame-wrap-padd=22 align=3D=22center=22 valign=3D=22to=
+p=22 style=3D=22padding:15px 0; background-color:=23ffffff;=22>
+
+        <=21-- snippet area table -->
+        <table width=3D=22700=22 border=3D=220=22 align=3D=22center=22 cell=
+padding=3D=220=22 cellspacing=3D=220=22 class=3D=22mobi-hide=22 id=3D=22rem=
+oveIt=22>
+          <tr>
+            <td width=3D=22352=22 align=3D=22left=22 valign=3D=22bottom=22 =
+style=3D=22padding-bottom:10px;=22>
+
+              <=21-- snippet -->
+              <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22 width=3D=22350=22>
+                <tr>
+                  <td width=3D=22350=22 align=3D=22left=22 valign=3D=22bott=
+om=22 style=3D=22font-size:11px; line-height:17px; color:=23acacac; font-fa=
+mily:Arial, Helvetica, sans-serif;=22><a style=3D=22color:=23acacac; text-d=
+ecoration:none;=22 href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc=
+2X%3DWQpglLjHJlTQGnnD5AiUC9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYBCTT&_=
+ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdg=
+Gzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLp9TH5T1TDL15Zy-=
+o1ZAXTOxcSu3DnUo-CbP-NOJfgOMGtkjM4T0VnYEomyTnsv8QJe5XuxCDmjtiL05YwM_McDG7Ov=
+E3X3swBp4TwVwWFIr12MHSFGZnEakDsS0QQ7b4UYLqV-1zivtUVOZROLYFq8RZ7xaXZKGoljO5j=
+emJBXxvW92JXbKUkb2wb_xfedQomavTGmBUgxxsxqiEk-ZSiycOxqHN6XxuUNYtU1lC0Gj2Pa4K=
+InaFskr5z0FPsEuUpe5rLaS4h0G-FgLwPwTrIT6wMvzzXOOwFcTP8wtTpfh2g=2E=22><strong=
+>Even more benefits: layaway, free store pickup & free shipping</strong></a=
+><br />
+                  <a style=3D=22color:=23acacac;=22 href=3D=22https://sywr=
+=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5AiUC9mOtKGjsFSSKmhi=
+zdiF16YwsXfpLL9RVXtpKX%3DTTYBCWT&_ei_=3DEqr5QyC9GlQucnranatv7DJuilCvY0Lo7hw=
+2Ro_N38cgSoa6gkq5OjSwF8MMghVrpQ1d7sgaZ0B8vpgRAaNioRsL3Q9p-7JqftwL4j_ox5arUM=
+MivgCsbTRc6knLT7-4zb1fSCIjH-K0Ms2AgbfBM8X0v8B7D-cpxppmy4kKCV1n9ZzQ0jVvm8oIb=
+3Pfg-qjkJmnFljyg_K9QEL7GoMlqwWFx0CemW5ma75vHfQhD4fdgKd7wxFmftQfRJZT7U2yuuOQ=
+zd8SU1pKdr_uoFlaev8XAlOjK-skXEbjlHdZKxR1k3SdBCB2vpmj0m3NFE4VG5rsp4I--NDaawW=
+54myhBdGJCPruoUT9PaOlytpOXiaB-TmmMajHiqFiH5ysmUSjtf2xHWzk61cn3Se4zABk2iN8QH=
+wxGt1YO0MRL2dwk8G96U__Lwuj9zuXJhCxobxjPHR9DKtqdyLnU7tmYfCJSp_9XConcjXyPVvMy=
+GPOSLgIVra3U-ElDJnyFDXRqxQ0xJPyjGbFkYhVuKT0NHzhj-22ABevQ3aWpSlII5nGlVxu8O7Z=
+KERYqO-NmFJL9tBscg0VMR9klf9cUCgEmfPoFHvpcWIVHMx39yaoXkuns9URCqlLhF5vWzLO0sX=
+GLGh3uQqWeooFZzy_NamNKrNozhGqQ6j3IDE7F8uwuHTlckREKkmC9d-Ib_xLRvEOCGpHkW_RLA=
+I3PVGxBEIaUiQ7vUC5=2E=22>View the web version of this email=2E</a></td>
+                </tr>
+              </table>
+              <=21-- snippet ends -->
+             =20
+            </td>
+            <td width=3D=22326=22 align=3D=22right=22 valign=3D=22bottom=22=
+ style=3D=22padding-bottom:10px;=22><a href=3D=22https://sywr=2Ersys2=2Enet=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5AiUC9mOtKGjsFSSKmhizdiF16YwsXfpLL=
+9RVXtpKX%3DTTYBCAT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3l=
+L5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-q=
+o5ihLp9TH5T1TDL15Zy-o1ZAXTOxcSu3DnUo-CbP-NOJfgOMGtkjM4T0VnYEomyTnsv8QJe5Xux=
+CDmjtiL05YwM_McDG7OvE3X3swBp4TwVwWFIr12MHSFGZnEakDsS0QQ7b4UYLqV-1zivtUVOZRO=
+LYFq8RZ7xaXZKGoljO5jemJBXxigyNsz7pnyQ6uxKukIG-dD-ygHuOXK52ME2_=2E=22 rilt=
+=3D=22header_animation=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Ene=
+t/i2/responsysimages/sywr/contentlibrary/oldcontent/=21Storewide_Templates/=
+SYW_Template_700px_Cobranded=2Eimages/2014_SYW_700PX_TEMPLATES_ANIMATION_NE=
+W_04=2Egif=22 alt=3D=22One download=2E Countless ways to save=2E =7C Shop'i=
+n&reg; for exclusive coupons and more=21 =7C GET THE APP=22 width=3D=22285=
+=22 height=3D=2257=22 border=3D=220=22 /></a>
+            </td>
+          </tr>
+        </table>
+        <=21-- snippet area table ends -->
+       =20
+        <=21-- main content wrapper -->
+        <table width=3D=22700=22 border=3D=220=22 align=3D=22center=22 cell=
+padding=3D=220=22 cellspacing=3D=220=22 class=3D=22content-wrapper=22>
+          <tr>
+            <td width=3D=22698=22 align=3D=22center=22 valign=3D=22top=22 c=
+lass=3D=22content-bg=22 style=3D=22border:1px solid =23c2c2c2; background:=
+=23ffffff; padding:10px 0;=22>
+
+              <=21-- header/content bin wrapper -->
+              <table class=3D=22content-bin-wrap=22 width=3D=22680=22 borde=
+r=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                <tr>
+                  <td class=3D=22fixheader=22 align=3D=22center=22 valign=
+=3D=22top=22 style=3D=22background:=23ffffff; padding:0px 0px 0px 0px;=22>
+
+                    <=21-- header -->
+                    <table id=3D=22mobi-header=22 width=3D=22680=22 border=
+=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                      <tr>
+                        <td width=3D=22349=22 height=3D=2250=22 align=3D=22=
+left=22 valign=3D=22middle=22 class=3D=22header-logo=22><a href=3D=22https:=
+//sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5AiUC9mOtKGjsF=
+SSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYBCCT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZ=
+ZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE4=
+53AMrTW57tkuiv1tV0-qo5ihLp9TH5T1TDL15Zy-o1ZAXTOxcSu3DnUo-CbP-NOJfgOMGtkjM4T=
+0VnYEomyTnsv8QJe5XuxCDmjtiL05YwM_McDG7OvE3X3swBp4TwVwWFIr12MHSFGZnEakDsS0QQ=
+7b4UYLqV-1zivtUVOZROLYFq8RZ7xaXZKGoljO5jemJBXxigyNsz7pnyQ6uxKukIG-dD-ygHuOX=
+K52ME2_=2E=22 rilt=3D=22nav_logo=22><img src=3D=22https://responsys=2Ehs=2E=
+llnwd=2Enet/i2/responsysimages/sywr/contentlibrary/triggered/triggered_temp=
+lates/images/2014_SYW_700PX_SYW_01=2Ejpg=22 width=3D=22303=22 height=3D=225=
+0=22 alt=3D=22SHOP YOUR WAY &reg;=22 border=3D=220=22 /></a></td>
+
+                        <=21-- <td align=3D=22right=22 valign=3D=22middle=
+=22 class=3D=22mobi-hide=22 style=3D=22font-family:Arial, Helvetica, sans-s=
+erif; -webkit-text-size-adjust:none; font-size:12px; color:=23666666;=22><a=
+ href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQG=
+nnD5AiUC9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYBCCT&_ei_=3DEolaGGF4SNMv=
+xFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVO=
+WlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLp9TH5T1TDL15Zy-o1ZAXTOxcSu3DnUo-C=
+bP-NOJfgOMGtkjM4T0VnYEomyTnsv8QJe5XuxCDmjtiL05YwM_McDG7OvE3X3swBp4TwVwWFIr1=
+2MHSFGZnEakDsS0QQ7b4UYLqV-1zivtUVOZROLYFq8RZ7xaXZKGoljO5jemJBXxigyNsz7pnyQ6=
+uxKukIG-dD-ygHuOXK52ME2_=2E=22 ><img src=3D=22/contentlibrary/triggered/tri=
+ggered_templates/images/SYW_Logo_02=2Ejpg=22 alt=3D=22Members always get mo=
+re=22 width=3D=22349=22 height=3D=2280=22 border=3D=220=22 /></a></td> -->
+    <td align=3D=22right=22 valign=3D=22middle=22 class=3D=22mobi-hide=22 s=
+tyle=3D=22font-family:Arial, Helvetica, sans-serif; -webkit-text-size-adjus=
+t:none; font-size:12px; color:=23666666;=22><a href=3D=22https://sywr=2Ersy=
+s2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5AiUC9mOtKGjsFSSKmhizdiF16=
+YwsXfpLL9RVXtpKX%3DTTASTCT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_t=
+qgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tku=
+iv1tV0-qo5ihLp9TH5T1TDL15Zy-o1ZAXTOxcSu3DnUo-CbP-NOJfgOMGtkjM4T0VnYEomyTnsv=
+8QJe5XuxCDmjtiL05YwM_McDG7OvE3X3swBp4TwVwWFIr12MHSFGZnEakDsS0QQ7b4UYLqV-1zi=
+vtUVOZROLYFq8RZ7xaXZKGoljO5jemJBXxigyNsz7pnyQ6uxKukIG-dD-ygHuOXK52ME2_=2E=
+=22 ><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/=
+sywr/contentlibrary/triggered/triggered_liq/images/sears_LogoRight=2Ejpg=22=
+ alt=3D=22Sears &reg;=22 width=3D=22339=22 height=3D=2268=22 border=3D=220=
+=22 /></a></td>
+
+                      </tr>
+                    </table>
+                    <=21-- header -->
+                =20
+			=09
+
+
+
+ <table id=3D=22header-bottom=22 border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22 width=3D=22678=22>
+                    <tr>
+                       <td align=3D=22center=22 style=3D=22padding:5px 0px =
+15px 0px;=22>
+                  <table class=3D=22mobi-hide=22 width=3D=22100%=22 border=
+=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                    <tr>
+                      <td align=3D=22center=22 valign=3D=22middle=22 style=
+=3D=22font-size:10px; font-family:Arial, Helvetica, sans-serif; -webkit-tex=
+t-size-adjust:none;=22><a style=3D=22color:=23919295; text-decoration:none;=
+=22 href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJl=
+TQGnnD5AiUC9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTASRRT&_ei_=3DEolaGGF4S=
+NMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUr=
+mVNw2CjJ_FarzkfeR_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87=
+l1CvAa2K9khU5fm56fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUwCvPyjZ4OreuSfd757QM=
+xT73GblplP2l21aeBw_rr1Ge26UqnOm-2L1sY-9hJgKnEXuF_SYwm-7NOHdkWBqPKL454oLUwwW=
+a28oPHpooMZZj3jDFblR4EVCuG6GK32a9xnjaTpe4CfdnU6oqe8e-hU2V-gZgVaiYuGePbgHkcN=
+bgAzjT4G7jEMc2rAeW1OhZoz74GQqfd6YA1tZIdmZZUen26vAuNt_oUa1w=2E=22 rilt=3D=22=
+nav_appliances=22>APPLIANCES</a></td>
+					  <td align=3D=22left=22 valign=3D=22middle=22>&nbsp; </td>
+                       <td align=3D=22center=22 valign=3D=22middle=22 style=
+=3D=22font-size:10px; font-family:Arial, Helvetica, sans-serif; -webkit-tex=
+t-size-adjust:none;=22><a style=3D=22color:=23919295; text-decoration:none;=
+=22 href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJl=
+TQGnnD5AiUC9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTASRTT&_ei_=3DEolaGGF4S=
+NMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUr=
+mVNw2CjJ_FarzkfeR_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87=
+l1CvAa2K9khU5fm56fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUwCvPyjZ4OreuSfd757QM=
+xT73GblplP2l21aeBw_rr1G3dqEopw0iXc917GvqpVTyY7KHzrpFIhTtD5mGNPlh92rsUMTVIhf=
+ppCU1zu1-W1CHY0PMwx7F8UtT8MQI9Qj_x10Cc9QDrmMSlMVphUfDL5PeLlBDqUJipp_7uYRoq-=
+b_aqRXheoG5xJ2uXDnQjjRfPHZNbtjicD0I7AuvwG7w2ohd3-cHJ8y6jGAI5Eg=2E=22 rilt=
+=3D=22nav_home=22>BED, BATH & HOME</a></td>
+					<td align=3D=22left=22 valign=3D=22middle=22>&nbsp; </td>
+                      <td align=3D=22center=22 valign=3D=22middle=22 style=
+=3D=22font-size:10px; font-family:Arial, Helvetica, sans-serif; -webkit-tex=
+t-size-adjust:none;=22><a style=3D=22color:=23919295; text-decoration:none;=
+=22 href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJl=
+TQGnnD5AiUC9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTASRWT&_ei_=3DEolaGGF4S=
+NMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUr=
+mVNw2CjJ_FarzkfeR_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87=
+l1CvAa2K9khU5fm56fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUwCvPyjZ4OreuSfd757QM=
+xT73GblplP2l21aeBw_rr1Ga-x4hpKZHn5ZVVKVH-S84Bo4ixmds_Ku_4DKCMbnj473J3Dz4pPl=
+U5qpHk17QWxRU6ZKYVa0nFTwPkRIyBM38rAM6T3VbY8DS-uQdDWuNBrG8ZlE3DollREAnUHakA0=
+T0uWca4NJFi37zwkpW_N5WpTZMdum1ZF2TVxEu9tBU9vBWJM1HPA6R6yEtp0XzXVvbc1uU8ynH0=
+=2E=22 rilt=3D=22nav_clothing=22>CLOTHING</a></td>
+                       <td align=3D=22left=22 valign=3D=22middle=22>&nbsp; =
+</td>
+                        <td align=3D=22center=22 valign=3D=22middle=22 styl=
+e=3D=22font-size:10px; font-family:Arial, Helvetica, sans-serif; -webkit-te=
+xt-size-adjust:none; text-transform:uppercase;=22><a style=3D=22color:=2391=
+9295; text-decoration:none;=22 href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?=
+_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5AiUC9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX=
+%3DTTASRAT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64=
+FGQ7bro-dCdgGzbxpp1hqAYTfUrmVNw2CjJ_FarzkfeR_s-vzksh7GjXM3L6degwAuUpnayhYUv=
+o6mGvb5Ey7SiaitriGvsz28rw87l1CvAa2K9khU5fm56fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2=
+s-Ok5ZUwCvPyjZ4OreuSfd757QMxT73GblplP2l21aeBw_rr1G9hExy7SCOWF3_33NXnS6LEe2Q=
+rDgZObLGcvTFQ-Cjd2jZb42UiQE0GApTiD34y0fmwqEZFArUANgLWZKbMbNjclR7PnQBJ-ZBlpE=
+hrCUU_N0X9HNxtnn2E4YqunCB0mecgIxu8suD2SRLKYpej9UfgUu4wYIQMAzzZZflTJbmAqIzHJ=
+HMlgHGOEfWvWtBvHXFy2zw=2E=22 rilt=3D=22nav_electronics=22>ELECTRONICS</a></=
+td><=21--  -->
+                         <td align=3D=22left=22 valign=3D=22middle=22>&nbsp=
+; </td>
+                       <td align=3D=22center=22 valign=3D=22middle=22 style=
+=3D=22font-size:10px; font-family:Arial, Helvetica, sans-serif; -webkit-tex=
+t-size-adjust:none;=22><a style=3D=22color:=23919295; text-decoration:none;=
+=22 href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJl=
+TQGnnD5AiUC9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTASRCT&_ei_=3DEolaGGF4S=
+NMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUr=
+mVNw2CjJ_FarzkfeR_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87=
+l1CvAa2K9khU5fm56fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUwCvPyjZ4OreuSfd757QM=
+xT73GblplP2l21aeBw_rr1G4pb5YUCVHwF4hPY_JXpiXkABc6W4dEOFCt_rUoHWfI2KHUe0c6BA=
+ageh9RwM7yhQ2jRC8m2cDxwYMHgDrDuM1hQxn9_7lcLx0MV1MNOrMQuBJxirPKKLpF52cMTlN-n=
+GC9M0T7qsQpQ1DkKJhM5ncKS_XnOGcHVwEaiuMgU1h_Sxb44VP4PwWPHoUyH=2E=22 rilt=3D=
+=22nav_lawn_garden=22>LAWN & GARDEN</a></td>
+					<td align=3D=22left=22 valign=3D=22middle=22>&nbsp; </td>
+                        <td align=3D=22center=22 valign=3D=22middle=22 styl=
+e=3D=22font-size:10px; font-family:Arial, Helvetica, sans-serif; -webkit-te=
+xt-size-adjust:none;=22><a style=3D=22color:=23919295; text-decoration:none=
+;=22 href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJ=
+lTQGnnD5AiUC9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTASSRT&_ei_=3DEolaGGF4=
+SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfU=
+rmVNw2CjJ_FarzkfeR_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw8=
+7l1CvAa2K9khU5fm56fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUwCvPyjZ4OreuSfd757Q=
+MxT73GblplP2l21aeBw_rr1G9sl_bW5Ai3-OcgMEkCm7O-0MWEshxrBru2ZQ-eOqvxg2z3k_QwC=
+j36xjfayemWQlMGRM9jy1x8gH6WzAKZC1HtS8z0tU8qfo_0JDMsR5FFCkbuBUPi-WVI-rZ911cl=
+S76puWuQr7hbfzHOiNVKO4sKHevWUcpKFW3K-8VZ_LI5J=2E=22 rilt=3D=22nav_tools=22>=
+TOOLS</a></td><=21--  -->
+                        <td align=3D=22left=22 valign=3D=22middle=22>&nbsp;=
+ </td>
+                       <td align=3D=22center=22 valign=3D=22middle=22 style=
+=3D=22font-size:10px; font-family:Arial, Helvetica, sans-serif; -webkit-tex=
+t-size-adjust:none;=22><a style=3D=22color:=23919295; text-decoration:none;=
+=22 href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJl=
+TQGnnD5AiUC9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTASSTT&_ei_=3DEolaGGF4S=
+NMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUr=
+mVNw2CjJ_FarzkfeR_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87=
+l1CvAa2K9khU5fm56fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUwCvPyjZ4OreuSfd757QM=
+xT73GblplP2l21aeBw_rr1G7JbVsYAzrNb3Pbl6fAOgOVVTBXOPowukQzl777jeXYIqb9Loer_J=
+-9w-cGjNQ8h0ngCSOIovwMRFEsV9uLcdJPjeO_J8w2JjZHj-RzTScaiKYAexlIerloRXIiJ3dl6=
+mrkNmr7vfjHqtdLU91P9rFqOqyTM8I79_uWbl-EjJ2aOW5eHkW0wNDYOAPi7-FdZyuOI9Dc=2E=
+=22 rilt=3D=22nav_clearance=22>CLEARANCE</a></td>
+					      </tr>
+                  </table>
+                  </td>
+                  </tr>
+                  </table>
+
+                  </td>
+                </tr>
+              </table>
+             =20
+              <=21-- spacer=20
+              <table class=3D=22mobi-spacer=22 width=3D=22680=22 border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                <tr>
+                  <td height=3D=229=22 align=3D=22left=22 valign=3D=22top=
+=22 style=3D=22font-size:1px;line-height:1px;=22><img src=3D=22/contentlibr=
+ary/triggered/triggered_templates/images/00-global-trans=2Epng=22 border=3D=
+=220=22 height=3D=2210=22 width=3D=22200=22 style=3D=22display:block;=22 />=
+</td>
+                </tr>
+              </table>
+        spacer ends -->
+              <=21-- header/content bin wrapper ends -->
+             =20
+              <=21-- SYWR banner/content bin wrapper -->
+
+
+
+
+
+
+<=21-- SYWR banner/content bin wrapper -->
+            <table class=3D=22content-bin-wrap=22 width=3D=22678=22 border=
+=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+              <tr>
+                <td align=3D=22center=22 valign=3D=22top=22 bgcolor=3D=22=
+=23FFFFFF=22 style=3D=22border:none; background:=23FFFFFF;=22>
+				<table class=3D=22sywr-banner-wrapper=22 width=3D=22678=22 border=3D=22=
+0=22 cellspacing=3D=220=22 cellpadding=3D=220=22 bgcolor=3D=22=231B3F94=22 =
+style=3D=22border:none; background:=231B3F94=22>
+                	<tr>
+						<=21-- Mobile my info -->
+						<td class=3D=22sywr-banner-left-mobile=22><img src=3D=22https://respo=
+nsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/content/sears2/SYW_Logo_Mobile=
+=2Epng=22 border=3D=220=22 width=3D=221=22 height=3D=221=22 style=3D=22disp=
+lay:block;=22 /></td>
+                        <=21-- Mobile my info -->
+			<=21-- Mobile Points Banner --> =20
+                        <td class=3D=22sywr-banner-right-mobile=22><a href=
+=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5A=
+iUC9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCRTT&_ei_=3DEuEYQkWU38rfKC4Nt=
+sOc5IC2cA6YKY7u9ebGPwXMFpQaMHrytougijOhsAsMDhHgxpF5Rm0huaDB4VbZS2IZZwK-hpbs=
+hbNDvIEswTqAv_lFdgvcIQiwKJVrtUXnfHPyy73KXR9SFZ1DRv9i-JuqhMq7JlRE713xB-6VIry=
+ABH7Z5K53vz5oRWXDk6JpwXXuqrzgi1TvM_eoYCFM27iLObYOrBe9ZwDKWeLLN6q7H-k-b0ojqc=
+Pkts1OJPM-FdYgDg3um3f5kWbB4QUP74PJs4O3PXf2k54UexEvbDsx8OXGVRMFBUKH5-i6PbDXQ=
+Jy38nqVf4IgrzORdK75=2E=22><img src=3D=22http://promo=2Esemantictec=2Ecom/te=
+c/api/promo/campaign/Statement/asset/PointsEmail/position/0?sywrid=3D708119=
+7509736188&skinstyle=3Dmobile&version=3Dnew&source=3Dsears=22 border=3D=220=
+=22 style=3D=22display:block;=22 width=3D=221=22 height=3D=221=22 /></a></t=
+d>
+                        <=21-- Mobile Points Banner -->
+                        <=21-- Desktop Points Banner -->
+                        <td align=3D=22center=22 class=3D=22sywr-banner-rig=
+ht-desktop=22 bgcolor=3D=22=231B3F94=22 style=3D=22border:none; background:=
+=231B3F94;=22><a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X=
+%3DWQpglLjHJlTQGnnD5AiUC9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCRTT&_ei=
+_=3DEuEYQkWU38rfKC4NtsOc5IC2cA6YKY7u9ebGPwXMFpQaMHrytougijOhsAsMDhHgxpF5Rm0=
+huaDB4VbZS2IZZwK-hpbshbNDvIEswTqAv_lFdgvcIQiwKJVrtUXnfHPyy73KXR9SFZ1DRv9i-J=
+uqhMq7JlRE713xB-6VIryABH7Z5K53vz5oRWXDk6JpwXXuqrzgi1TvM_eoYCFM27iLObYOrBe9Z=
+wDKWeLLN6q7H-k-b0ojqcPkts1OJPM-FdYgDg3um3f5kWbB4QUP74PJs4O3PXf2k54UexEvbDsx=
+8OXGVRMFBUKH5-i6PbDXQJy38nqVf4IgrzORdK75=2E=22><img src=3D=22http://promo=
+=2Esemantictec=2Ecom/tec/api/promo/campaign/Statement/asset/PointsEmail/pos=
+ition/0?sywrid=3D7081197509736188&source=3Dsears=22 border=3D=220=22 style=
+=3D=22display:block;=22 alt=3D=22View Account or Redeem Points=22 /></a></t=
+d>
+                        <=21-- Desktop Points Banner -->
+					</tr>
+				</table> =20
+				</td>
+              </tr>
+            </table>
+            <=21-- SYWR banner/content bin wrapper -->
+              <=21-- SYWR banner/content bin wrapper -->
+            =20
+              <=21-- //////////////////// START CONTENT ///////////////////=
+/ -->
+              =20
+              <=21-- spacer=20
+              <table class=3D=22mobi-spacer=22 width=3D=22678=22 border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                <tr>
+                  <td align=3D=22left=22 valign=3D=22top=22><img src=3D=22/=
+contentlibrary/triggered/triggered_templates/images/00-global-trans=2Epng=
+=22 border=3D=220=22 height=3D=2210=22 width=3D=22200=22 style=3D=22display=
+:block;=22 /></td>
+                </tr>
+              </table>
+              spacer ends -->
+
+              <=21-- body content dynamic insertion -->
+
+			 =20
+                  <=21-- hero -->
+                  <table class=3D=22mobi-hero-TRLYLIQClawBack=22 width=3D=
+=22678=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                    <tr>
+                      <td class=3D=22hide=22 align=3D=22center=22 valign=3D=
+=22top=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysim=
+ages/sywr/contentlibrary/triggered/triggered_liq/LIQStoreClawBack_Content2/=
+images/03102015_SYW_RUSH-Triggered-LIG-Store-Claw_KM_FINAL_layered_03_01_01=
+=2Ejpg=22 width=3D=2237=22 height=3D=22163=22 border=3D=220=22 style=3D=22d=
+isplay:block;=22 /></td>
+                      <td class=3D=22Bpad20=22 align=3D=22center=22 valign=
+=3D=22top=22><a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%=
+3DWQpglLjHJlTQGnnD5AiUC9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCDAT&_ei_=
+=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzb=
+xpp1hqAYTfUrmVNw2CjJ_FarzkfeR_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7Siait=
+riGvsz28rw87l1CvAa2K9khU5fm56fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUznzF_sd_=
+3VBuVn-P8HdxV-VRANt2QHjZoem3GWeRHTL18PaRKgDxjN_M-5A2-mmSsULropnDdHRznjDvMPY=
+3fGMqWmXbYggrcQehf0DGtXXuZAo718X_O2-wQlBTL0Mjq45bJchiIRpnAOKa7CxdB0mRyKjEd-=
+Q12nNj4qouno9NmKIS7spSt5oVBBkO3n5ARnXIGRM2wNz3IiNc0QPg=2E=22><img src=3D=22=
+https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/contentlibrary=
+/triggered/triggered_liq/LIQStoreClawBack_Content2/images/03102015_SYW_RUSH=
+-Triggered-LIG-Store-Claw_SRS_FINAL_layered_03_01_02=2Ejpg=22 width=3D=2261=
+0=22 height=3D=22163=22 alt=3D=22YOUR SEARS=2E GREAT DEAL=2E=22 border=3D=
+=220=22 style=3D=22display:block;=22 /></a>					 =20
+					  </td>
+                      <td class=3D=22hide=22 align=3D=22center=22 valign=3D=
+=22top=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysim=
+ages/sywr/contentlibrary/triggered/triggered_liq/LIQStoreClawBack_Content2/=
+images/03102015_SYW_RUSH-Triggered-LIG-Store-Claw_KM_FINAL_layered_03_01_03=
+=2Ejpg=22 width=3D=2231=22 height=3D=22163=22 border=3D=220=22 style=3D=22d=
+isplay:block;=22 /></td>
+			        </tr>
+                  </table>
+                  <table class=3D=22mobi-hero-TRLYLIQClawBack=22 width=3D=
+=22678=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                    <tr>
+                      <td class=3D=22hide=22 align=3D=22center=22 valign=3D=
+=22top=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysim=
+ages/sywr/contentlibrary/triggered/triggered_liq/LIQStoreClawBack_Content2/=
+images/03102015_SYW_RUSH-Triggered-LIG-Store-Claw_KM_FINAL_layered_03_02_01=
+=2Ejpg=22 width=3D=2262=22 height=3D=22380=22 border=3D=220=22 style=3D=22d=
+isplay:block;=22 /></td>
+                      <td align=3D=22center=22 valign=3D=22middle=22 style=
+=3D=22vertical-align:middle;=22>
+<=21-- ********** LOD *********** -->
+
+<=21-- ********** END LOD *********** -->
+                      	<table class=3D=22mobi-hero-TRLYLIQClawBack=22 width=
+=3D=22555=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                          <tr>
+                            <td class=3D=22text18=22 align=3D=22center=22 v=
+align=3D=22top=22 style=3D=22font-family:Arial, Helvetica, sans-serif; font=
+-size:28px; color:=23666666; -webkit-text-size-adjust:none; padding:0 10px =
+0 10px;=22><font style=3D=22color:=23333333;=22>Shengyiang&=2344;&nbsp;rede=
+em</font></td>
+                          </tr>
+                          <tr>
+                            <td class=3D=22text25=22 align=3D=22center=22 v=
+align=3D=22top=22 style=3D=22font-family:Arial, Helvetica, sans-serif; font=
+-size:44px; color:=231c3f94; -webkit-text-size-adjust:none; padding:0 5px 1=
+5px 5px;=22><strong>&=2336;10 in surprise points</strong></td>
+                          </tr>
+                          <tr>
+                            <td class=3D=22text16=22 align=3D=22center=22 v=
+align=3D=22top=22 style=3D=22font-family:Arial, Helvetica, sans-serif; font=
+-size:18px; color:=23666666; -webkit-text-size-adjust:none; padding:0 5px 1=
+5px 5px;=22>(10,000 points) on your Sears Home Fashions purchase of <strong=
+ style=3D=22color:=23333333;=22>&=2336;60&nbsp;or more</strong>=2E</td>
+                          </tr>
+                          <tr>
+                            <td class=3D=22text16=22 align=3D=22center=22 v=
+align=3D=22top=22 style=3D=22font-family:Arial, Helvetica, sans-serif; font=
+-size:18px; color:=23666666; -webkit-text-size-adjust:none; padding:0 15px =
+15px 15px;=22><strong style=3D=22color:=23333333;=22>HURRY=21</strong> Thes=
+e points are valid through <span class=3D=22appleLinksGrey=22>5/3/2015</spa=
+n>=2E</td>
+                          </tr>
+                          <tr>
+                            <td class=3D=22text16=22 align=3D=22center=22 v=
+align=3D=22top=22 style=3D=22font-family:Arial, Helvetica, sans-serif; font=
+-size:18px; color:=23666666; -webkit-text-size-adjust:none; padding:0 50px =
+15px 50px;=22>Redeemable in store or online at Sears=2E</td>
+                          </tr>
+                        </table>
+                        <table border=3D=220=22 cellspacing=3D=220=22 cellp=
+adding=3D=220=22>
+                          <tr>
+                            <td align=3D=22center=22 valign=3D=22top=22><a =
+href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGn=
+nD5AiUC9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCDCT&_ei_=3DEolaGGF4SNMvx=
+FF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVNw=
+2CjJ_FarzkfeR_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87l1Cv=
+Aa2K9khU5fm56fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUznzF_sd_3VBuVn-P8HdxV-VR=
+ANt2QHjZoem3GWeRHTL18PaRKgDxjN_M-5A2-mmSsULropnDdHRznjDvMPY3fGMqWmXbYggrcQe=
+hf0DGtXXuZAo718X_O2-wQlBTL0Mjq45bJchiIRpnAOKa7CxdB0mRyKjEd-Q12nNj4qouno9RvK=
+OHn0a36ceNb4M3jdO3fJiIhXoX8I_KaeW9RsO5torqOQ6cI=2E=22><img src=3D=22https:/=
+/responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/contentlibrary/trigge=
+red/triggered_liq/LIQStoreClawBack_Content2/images/03102015_SYW_RUSH-Trigge=
+red-LIG-Store-Claw_SRS_FINAL_layered_03_02=2Ejpg=22 width=3D=22163=22 heigh=
+t=3D=2237=22 alt=3D=22SHOP NOW=22 border=3D=220=22 style=3D=22display:block=
+;=22 /></a></td>
+                          </tr>
+                        </table>
+                        <table class=3D=22mobi-hero-TRLYLIQClawBack=22 widt=
+h=3D=22555=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                          <tr>
+                            <td class=3D=22Bpad20=22 align=3D=22center=22 v=
+align=3D=22top=22 style=3D=22font-family:Arial, Helvetica, sans-serif; font=
+-size:14px; color:=23666666; -webkit-text-size-adjust:none; padding:20px 0 =
+0 0;=22>Exclusions apply=2E*</td>
+                          </tr>
+                        </table>
+                      </td>
+                      <td class=3D=22hide=22 align=3D=22center=22 valign=3D=
+=22top=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysim=
+ages/sywr/contentlibrary/triggered/triggered_liq/LIQStoreClawBack_Content2/=
+images/03102015_SYW_RUSH-Triggered-LIG-Store-Claw_KM_FINAL_layered_03_02_03=
+=2Ejpg=22 width=3D=2261=22 height=3D=22380=22 border=3D=220=22 style=3D=22d=
+isplay:block;=22 /></td>
+                    </tr>
+                  </table>
+  =20
+		<table class=3D=22mobi-trolley=22 width=3D=22678=22 border=3D=220=22 cell=
+spacing=3D=220=22 cellpadding=3D=220=22>
+                    <tr>
+                      <td class=3D=22block Tborder=22 align=3D=22center=22 =
+valign=3D=22top=22><a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0=
+Gzc2X%3DWQpglLjHJlTQGnnD5AiUC9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCUR=
+T&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-d=
+CdgGzbxpp1hqAYTfUrmVNw2CjJ_FarzkfeR_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey=
+7SiaitriGvsz28rw87l1CvAa2K9khU5fm56fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUwC=
+vPyjZ4OreuSfd757QMxT73GblplP2l21aeBw_rr1Ge_4wLRaoI6rPH2TXIhs8-YT8RNivLi_2rV=
+zLJFho7WH0JJ1KzudnKv6yQzzdBLsoPK66t6vILYUdtt98n8dIDnenHgVX91jCMXX-CMuHwyqMy=
+hEZEE0rp8FXHOEFMczROCD6BmLfWok1kn1R0Ji1YYg5QDSfVG8Dzj_xdkGqgHkBl5x_vM8al2mH=
+U1wNhDZog=2E=22 rilt=3D=22srs_trolley_layaway=22><img src=3D=22https://resp=
+onsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/contentlibrary/triggered/t=
+riggered_templates/images/srs_trolley_layaway=2Ejpg=22 width=3D=22214=22 he=
+ight=3D=22185=22 alt=3D=22SEARS&reg; =7C LAYAWAY EVERY DAY =7C Available 36=
+5 days a year=2E In store or online=2E =7C LEARN MORE=22 border=3D=220=22 s=
+tyle=3D=22display:block;=22 /></a></td>
+                      <td class=3D=22hide=22 align=3D=22center=22 valign=3D=
+=22top=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysim=
+ages/sywr/contentlibrary/triggered/triggered_templates/images/trolley_fille=
+r1=2Ejpg=22 width=3D=2211=22 height=3D=22185=22 border=3D=220=22 style=3D=
+=22display:block;=22 /></td>
+                      <td class=3D=22block=22 align=3D=22center=22 valign=
+=3D=22top=22><a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%=
+3DWQpglLjHJlTQGnnD5AiUC9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCUTT&_ei_=
+=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzb=
+xpp1hqAYTfUrmVNw2CjJ_FarzkfeR_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7Siait=
+riGvsz28rw87l1CvAa2K9khU5fm56fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUwCvPyjZ4=
+OreuSfd757QMxT73GblplP2l21aeBw_rr1Gbxlg8oQebLO0_PLXVXK8rRejVCzOTqSfx5PQW9BT=
+BlJfqU91V4s6yf3EAEvVsq6U_bfZN4NOFAnarOA9kvZ_rA3iCNmlErzezweNywaSfl2sIDkxqfF=
+NVHEJ08RSKZwtRhUdwxwKMlizVuyNaZESRskxVtA0GEPaqceD3ge6k9QTPc7e84ZKmCRsYy_Vt9=
+9nVzp7kLKtfF8=2E=22 rilt=3D=22srs_trolley_storepickup=22><img src=3D=22http=
+s://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/contentlibrary/tri=
+ggered/triggered_templates/images/srs_trolley_storepickup=2Ejpg=22 width=3D=
+=22232=22 height=3D=22185=22 alt=3D=22FREE STORE PICKUP =7C Pick up your on=
+line purchase at your local Sears=21 =7C LEARN MORE=22 border=3D=220=22 sty=
+le=3D=22display:block;=22 /></a></td>
+                      <td class=3D=22hide=22 align=3D=22center=22 valign=3D=
+=22top=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysim=
+ages/sywr/contentlibrary/triggered/triggered_templates/images/trolley_fille=
+r2=2Ejpg=22 width=3D=226=22 height=3D=22185=22 border=3D=220=22 style=3D=22=
+display:block;=22 /></td>
+                      <td class=3D=22block=22 align=3D=22center=22 valign=
+=3D=22top=22><a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%=
+3DWQpglLjHJlTQGnnD5AiUC9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCUWT&_ei_=
+=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzb=
+xpp1hqAYTfUrmVNw2CjJ_FarzkfeR_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7Siait=
+riGvsz28rw87l1CvAa2K9khU5fm56fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUwCvPyjZ4=
+OreuSfd757QMxT73GblplP2l21aeBw_rr1G5DABiProUXgMYkkJdaMrd-9N3bvGUpDt4HD7c9ms=
+6UkKCgvNVRqoFT_Fzf3AlAwJ-Z73gEIY2PR6InWRnX4plLYB95zRxOvRUGFwcP3AfIV0hZ0t-m-=
+HW-mopdzVvtfzcnQj19zIioIY0BNlJSUzyD-gl73aA88LOs=2E=22 rilt=3D=22srs_trolley=
+_max=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimag=
+es/sywr/contentlibrary/triggered/triggered_templates/images/srs_trolley_max=
+=2Ejpg=22 width=3D=22215=22 height=3D=22185=22 alt=3D=22SHOP YOUR WAY MAX&r=
+eg; =7C FREE 2-DAY SHIPPING =7C Get what you need, fast + tons of points=2E=
+ =7C LEARN MORE=22 border=3D=220=22 style=3D=22display:block;=22 /></a></td>
+                    </tr>
+        </table>
+                  <table class=3D=22mobi-hero-TRLYLIQClawBack=22 width=3D=
+=22678=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                    <tr>
+                      <td class=3D=22hide=22 align=3D=22center=22 valign=3D=
+=22top=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysim=
+ages/sywr/contentlibrary/triggered/triggered_liq/LIQStoreClawBack_Content2/=
+images/03102015_SYW_RUSH-Triggered-LIG-Store-Claw_KM_FINAL_layered_03_06_01=
+_01=2Ejpg=22 width=3D=22190=22 height=3D=2247=22 border=3D=220=22 style=3D=
+=22display:block;=22 /></td>
+                      <td align=3D=22center=22 valign=3D=22top=22><img src=
+=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/contentl=
+ibrary/triggered/triggered_liq/LIQStoreClawBack_Content2/images/03102015_SY=
+W_RUSH-Triggered-LIG-Store-Claw_KM_FINAL_layered_03_06_01_02=2Ejpg=22 width=
+=3D=22298=22 height=3D=2247=22 border=3D=220=22 style=3D=22display:block;=
+=22 /></td>
+                      <td class=3D=22hide=22 align=3D=22center=22 valign=3D=
+=22top=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysim=
+ages/sywr/contentlibrary/triggered/triggered_liq/LIQStoreClawBack_Content2/=
+images/03102015_SYW_RUSH-Triggered-LIG-Store-Claw_KM_FINAL_layered_03_06_01=
+_03=2Ejpg=22 width=3D=22190=22 height=3D=2247=22 border=3D=220=22 style=3D=
+=22display:block;=22 /></td>
+                    </tr>
+                  </table>
+                  <table class=3D=22mobi-hero-TRLYLIQClawBack=22 width=3D=
+=22678=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                    <tr>
+                      <td align=3D=22center=22 valign=3D=22top=22 style=3D=
+=22font-family:Arial, Helvetica, sans-serif; font-size:29px; color:=2366666=
+6; -webkit-text-size-adjust:none; padding:0 10px 0 10px;=22><a href=3D=22ht=
+tps://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5AiUC9mOtK=
+GjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCUAT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHv=
+C_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVNw2CjJ_Farzkfe=
+R_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87l1CvAa2K9khU5fm5=
+6fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUznzF_sd_3VBuVn-P8HdxV-VRANt2QHjZoem3=
+GWeRHTL18PaRKgDxjN_M-5A2-mmSsULropnDdHRznjDvMPY3fGQwiYBRkhWnlVh_OY5kX4eI6KB=
+KO_446Pd3Aj=2E=22 style=3D=22color:=23666666; text-decoration:none;=22><str=
+ong>HOW TO REDEEM SURPRISE POINTS</strong></a></td>
+                    </tr>
+                    <tr>
+                      <td align=3D=22center=22 valign=3D=22top=22 style=3D=
+=22font-family:Arial, Helvetica, sans-serif; font-size:17px; color:=2366666=
+6; -webkit-text-size-adjust:none; padding:0 10px 20px 10px;=22><a href=3D=
+=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5AiUC=
+9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCUAT&_ei_=3DEolaGGF4SNMvxFF7KucK=
+uWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVNw2CjJ_Fa=
+rzkfeR_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87l1CvAa2K9kh=
+U5fm56fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUznzF_sd_3VBuVn-P8HdxV-VRANt2QHj=
+Zoem3GWeRHTL18PaRKgDxjN_M-5A2-mmSsULropnDdHRznjDvMPY3fGQwiYBRkhWnlVh_OY5kX4=
+eI6KBKO_446Pd3Aj=2E=22 style=3D=22color:=23666666; text-decoration:none;=22=
+>Your surprise points are pre-loaded=2E Just ask or click to redeem them=21=
+</a></td>
+                    </tr>
+                  </table>
+                  <table class=3D=22mobi-hero-TRLYLIQClawBack=22 width=3D=
+=22626=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                    <tr>
+                    	<td class=3D=22block=22 align=3D=22center=22 valign=3D=
+=22top=22>
+                      	<table width=3D=22298=22 border=3D=220=22 cellspacin=
+g=3D=220=22 cellpadding=3D=220=22>
+                          <tr>
+                            <td align=3D=22left=22 valign=3D=22top=22 style=
+=3D=22font-family:Arial, Helvetica, sans-serif; font-size:16px; color:=2366=
+6666; -webkit-text-size-adjust:none; padding:0 0 12px 10px;=22><a href=3D=
+=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5AiUC=
+9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCUAT&_ei_=3DEolaGGF4SNMvxFF7KucK=
+uWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVNw2CjJ_Fa=
+rzkfeR_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87l1CvAa2K9kh=
+U5fm56fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUznzF_sd_3VBuVn-P8HdxV-VRANt2QHj=
+Zoem3GWeRHTL18PaRKgDxjN_M-5A2-mmSsULropnDdHRznjDvMPY3fGQwiYBRkhWnlVh_OY5kX4=
+eI6KBKO_446Pd3Aj=2E=22 style=3D=22color:=23666666; text-decoration:none;=22=
+><strong>ONLINE</strong></a></td>
+                          </tr>
+                        </table>
+                        <table width=3D=22298=22 border=3D=220=22 cellspaci=
+ng=3D=220=22 cellpadding=3D=220=22>
+                          <tr>
+                            <td width=3D=2210=22 align=3D=22left=22 valign=
+=3D=22top=22 style=3D=22font-family:Arial, Helvetica, sans-serif; font-size=
+:12px; color:=23666666; -webkit-text-size-adjust:none; padding:0 0 10px 10p=
+x;=22>&=239658;&nbsp;</td>
+                            <td align=3D=22left=22 valign=3D=22top=22 style=
+=3D=22font-family:Arial, Helvetica, sans-serif; font-size:15px; color:=2366=
+6666; -webkit-text-size-adjust:none; padding:0 0 12px 0;=22><a href=3D=22ht=
+tps://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5AiUC9mOtK=
+GjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCUAT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHv=
+C_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVNw2CjJ_Farzkfe=
+R_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87l1CvAa2K9khU5fm5=
+6fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUznzF_sd_3VBuVn-P8HdxV-VRANt2QHjZoem3=
+GWeRHTL18PaRKgDxjN_M-5A2-mmSsULropnDdHRznjDvMPY3fGQwiYBRkhWnlVh_OY5kX4eI6KB=
+KO_446Pd3Aj=2E=22 style=3D=22color:=23666666; text-decoration:none;=22>Sign=
+ in to your online profile at<br />Sears=2Ecom</a></td>
+                          </tr>
+                          <tr>
+                            <td width=3D=2210=22 align=3D=22left=22 valign=
+=3D=22top=22 style=3D=22font-family:Arial, Helvetica, sans-serif; font-size=
+:12px; color:=23666666; -webkit-text-size-adjust:none; padding:0 0 10px 10p=
+x;=22>&=239658;&nbsp;</td>
+                            <td align=3D=22left=22 valign=3D=22top=22 style=
+=3D=22font-family:Arial, Helvetica, sans-serif; font-size:15px; color:=2366=
+6666; -webkit-text-size-adjust:none; padding:0 0 12px 0;=22><a href=3D=22ht=
+tps://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5AiUC9mOtK=
+GjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCUAT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHv=
+C_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVNw2CjJ_Farzkfe=
+R_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87l1CvAa2K9khU5fm5=
+6fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUznzF_sd_3VBuVn-P8HdxV-VRANt2QHjZoem3=
+GWeRHTL18PaRKgDxjN_M-5A2-mmSsULropnDdHRznjDvMPY3fGQwiYBRkhWnlVh_OY5kX4eI6KB=
+KO_446Pd3Aj=2E=22 style=3D=22color:=23666666; text-decoration:none;=22>Add =
+qualifying item(s) to your cart</a></td>
+                          </tr>
+                          <tr>
+                            <td width=3D=2210=22 align=3D=22left=22 valign=
+=3D=22top=22 style=3D=22font-family:Arial, Helvetica, sans-serif; font-size=
+:12px; color:=23666666; -webkit-text-size-adjust:none; padding:0 0 10px 10p=
+x;=22>&=239658;&nbsp;</td>
+                            <td align=3D=22left=22 valign=3D=22top=22 style=
+=3D=22font-family:Arial, Helvetica, sans-serif; font-size:15px; color:=2366=
+6666; -webkit-text-size-adjust:none; padding:0 0 12px 0;=22><a href=3D=22ht=
+tps://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5AiUC9mOtK=
+GjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCUAT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHv=
+C_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVNw2CjJ_Farzkfe=
+R_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87l1CvAa2K9khU5fm5=
+6fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUznzF_sd_3VBuVn-P8HdxV-VRANt2QHjZoem3=
+GWeRHTL18PaRKgDxjN_M-5A2-mmSsULropnDdHRznjDvMPY3fGQwiYBRkhWnlVh_OY5kX4eI6KB=
+KO_446Pd3Aj=2E=22 style=3D=22color:=23666666; text-decoration:none;=22>At c=
+heckout, click =22Redeem My Reward<br />Points=22 & your redemption amount =
+will<br />be subtracted from your total</a></td>
+                          </tr>
+                        </table>
+                      </td>
+                      <td class=3D=22block=22 align=3D=22center=22 valign=
+=3D=22top=22 width=3D=2230=22 height=3D=2215=22>&nbsp;</td>
+                      <td class=3D=22block=22 align=3D=22center=22 valign=
+=3D=22top=22>
+                      	<table width=3D=22298=22 border=3D=220=22 cellspacin=
+g=3D=220=22 cellpadding=3D=220=22>
+                          <tr>
+                            <td align=3D=22left=22 valign=3D=22top=22 style=
+=3D=22font-family:Arial, Helvetica, sans-serif; font-size:16px; color:=2366=
+6666; -webkit-text-size-adjust:none; padding:0 0 12px 10px;=22><a href=3D=
+=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5AiUC=
+9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCUAT&_ei_=3DEolaGGF4SNMvxFF7KucK=
+uWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVNw2CjJ_Fa=
+rzkfeR_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87l1CvAa2K9kh=
+U5fm56fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUznzF_sd_3VBuVn-P8HdxV-VRANt2QHj=
+Zoem3GWeRHTL18PaRKgDxjN_M-5A2-mmSsULropnDdHRznjDvMPY3fGQwiYBRkhWnlVh_OY5kX4=
+eI6KBKO_446Pd3Aj=2E=22 style=3D=22color:=23666666; text-decoration:none;=22=
+><strong>IN STORE</strong> (You'll need your PIN*=2E)</a></td>
+                          </tr>
+                        </table>
+                        <table width=3D=22298=22 border=3D=220=22 cellspaci=
+ng=3D=220=22 cellpadding=3D=220=22>
+                          <tr>
+                            <td width=3D=2210=22 align=3D=22left=22 valign=
+=3D=22top=22 style=3D=22font-family:Arial, Helvetica, sans-serif; font-size=
+:12px; color:=23666666; -webkit-text-size-adjust:none; padding:0 0 10px 10p=
+x;=22>&=239658;&nbsp;</td>
+                            <td align=3D=22left=22 valign=3D=22top=22 style=
+=3D=22font-family:Arial, Helvetica, sans-serif; font-size:15px; color:=2366=
+6666; -webkit-text-size-adjust:none; padding:0 0 12px 0;=22><a href=3D=22ht=
+tps://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5AiUC9mOtK=
+GjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCUAT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHv=
+C_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVNw2CjJ_Farzkfe=
+R_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87l1CvAa2K9khU5fm5=
+6fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUznzF_sd_3VBuVn-P8HdxV-VRANt2QHjZoem3=
+GWeRHTL18PaRKgDxjN_M-5A2-mmSsULropnDdHRznjDvMPY3fGQwiYBRkhWnlVh_OY5kX4eI6KB=
+KO_446Pd3Aj=2E=22 style=3D=22color:=23666666; text-decoration:none;=22>Prov=
+ide your member number, email<br />or phone number at checkout</a></td>
+                          </tr>
+                          <tr>
+                            <td width=3D=2210=22 align=3D=22left=22 valign=
+=3D=22top=22 style=3D=22font-family:Arial, Helvetica, sans-serif; font-size=
+:12px; color:=23666666; -webkit-text-size-adjust:none; padding:0 0 10px 10p=
+x;=22>&=239658;&nbsp;</td>
+                            <td align=3D=22left=22 valign=3D=22top=22 style=
+=3D=22font-family:Arial, Helvetica, sans-serif; font-size:15px; color:=2366=
+6666; -webkit-text-size-adjust:none; padding:0 0 12px 0;=22><a href=3D=22ht=
+tps://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5AiUC9mOtK=
+GjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCUAT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHv=
+C_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVNw2CjJ_Farzkfe=
+R_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87l1CvAa2K9khU5fm5=
+6fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUznzF_sd_3VBuVn-P8HdxV-VRANt2QHjZoem3=
+GWeRHTL18PaRKgDxjN_M-5A2-mmSsULropnDdHRznjDvMPY3fGQwiYBRkhWnlVh_OY5kX4eI6KB=
+KO_446Pd3Aj=2E=22 style=3D=22color:=23666666; text-decoration:none;=22>Tell=
+ the associate how many points you'd<br />like to use, including surprise p=
+oints</a></td>
+                          </tr>
+                          <tr>
+                            <td width=3D=2210=22 align=3D=22left=22 valign=
+=3D=22top=22 style=3D=22font-family:Arial, Helvetica, sans-serif; font-size=
+:12px; color:=23666666; -webkit-text-size-adjust:none; padding:0 0 10px 10p=
+x;=22>&=239658;&nbsp;</td>
+                            <td align=3D=22left=22 valign=3D=22top=22 style=
+=3D=22font-family:Arial, Helvetica, sans-serif; font-size:15px; color:=2366=
+6666; -webkit-text-size-adjust:none; padding:0 0 12px 0;=22><a href=3D=22ht=
+tps://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5AiUC9mOtK=
+GjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCUAT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHv=
+C_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVNw2CjJ_Farzkfe=
+R_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87l1CvAa2K9khU5fm5=
+6fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUznzF_sd_3VBuVn-P8HdxV-VRANt2QHjZoem3=
+GWeRHTL18PaRKgDxjN_M-5A2-mmSsULropnDdHRznjDvMPY3fGQwiYBRkhWnlVh_OY5kX4eI6KB=
+KO_446Pd3Aj=2E=22 style=3D=22color:=23666666; text-decoration:none;=22>Ente=
+r your PIN on the keypad & your<br />redemption amount will be subtracted<b=
+r />from your total</a></td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                  <table class=3D=22mobi-hero-TRLYLIQClawBack=22 width=3D=
+=22678=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                    <tr>
+                      <td align=3D=22center=22 valign=3D=22top=22 style=3D=
+=22font-family:Arial, Helvetica, sans-serif; font-size:10px; color:=2366666=
+6; -webkit-text-size-adjust:none; padding:20px 10px 0 10px;=22><a href=3D=
+=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5AiUC=
+9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCUCT&_ei_=3DEolaGGF4SNMvxFF7KucK=
+uWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVNw2CjJ_Fa=
+rzkfeR_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87l1CvAa2K9kh=
+U5fm56fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUznzF_sd_3VBuVn-P8HdxV-VRANt2QHj=
+Zoem3GWeRHTL18PaRKgDxjN_M-5A2-mmSsULropnDdHRznjDvMPY3fGQwiYBRkhWnlVh_OY5kX4=
+eI6KBKO_446Pd3Aj=2E=22 style=3D=22color:=23666666; text-decoration:none;=22=
+><span class=3D=22block=22>*To see your member number and PIN,</span> log i=
+n <u>here</u> and click <strong>=22Print your membership card=2E=22</strong=
+></a><br />No PIN required to redeem =2410 in points <span class=3D=22block=
+=22>(10,000 points) or less=2E</span></td>
+                    </tr>
+                  </table>
+                  <table class=3D=22mobi-hero-TRLYLIQClawBack=22 width=3D=
+=22678=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                    <tr>
+                      <td class=3D=22hide=22 align=3D=22center=22 valign=3D=
+=22top=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysim=
+ages/sywr/contentlibrary/triggered/triggered_liq/LIQStoreClawBack_Content2/=
+images/03102015_SYW_RUSH-Triggered-LIG-Store-Claw_KM_FINAL_layered_03_06_03=
+_01=2Ejpg=22 width=3D=22190=22 height=3D=2243=22 border=3D=220=22 style=3D=
+=22display:block;=22 /></td>
+                      <td align=3D=22center=22 valign=3D=22top=22><img src=
+=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/contentl=
+ibrary/triggered/triggered_liq/LIQStoreClawBack_Content2/images/03102015_SY=
+W_RUSH-Triggered-LIG-Store-Claw_KM_FINAL_layered_03_06_03_02=2Ejpg=22 width=
+=3D=22298=22 height=3D=2243=22 border=3D=220=22 style=3D=22display:block;=
+=22 /></td>
+                      <td class=3D=22hide=22 align=3D=22center=22 valign=3D=
+=22top=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysim=
+ages/sywr/contentlibrary/triggered/triggered_liq/LIQStoreClawBack_Content2/=
+images/03102015_SYW_RUSH-Triggered-LIG-Store-Claw_KM_FINAL_layered_03_06_03=
+_03=2Ejpg=22 width=3D=22190=22 height=3D=2243=22 border=3D=220=22 style=3D=
+=22display:block;=22 /></td>
+                    </tr>
+                  </table>
+                  <=21-- hero ends -->
+			 =20
+              <=21-- body content dynamic insertion -->
+              =20
+       =20
+              <=21-- //////////////////// END CONTENT //////////////////// =
+-->
+          </td>
+        </tr>
+      </table>
+      <=21-- main content wrapper ends -->
+
+      <=21-- begin footer container -->
+=20
+
+
+=09
+
+<=21--=20
+Parameters for additional legal display:
+isAdditionalLegal =3D true/false
+AdditionalLegal_folderName =3D RI folder Name
+AdditionalLegal_fileName =3D RI file Name
+-->
+
+=09
+
+
+
+<=21-- begin footer container -->
+      <table class=3D=22footer-resize=22 align=3D=22center=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22 width=3D=22670=22 border=3D=220=22>
+        <tr>
+          <td align=3D=22center=22 valign=3D=22top=22 style=3D=22padding:0;=
+=22>
+            <table class=3D=22mobi-hide=22 border=3D=220=22 cellspacing=3D=
+=220=22 cellpadding=3D=220=22>
+                          <tr>
+                            <td align=3D=22center=22 valign=3D=22top=22 sty=
+le=3D=22padding:15px 15px 5px 15px;=22><a href=3D=22https://sywr=2Ersys2=2E=
+net/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5AiUC9mOtKGjsFSSKmhizdiF16YwsXf=
+pLL9RVXtpKX%3DTTYCRWT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6F=
+P3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVNw2CjJ_FarzkfeR_s-vzksh7GjXM3L6degw=
+AuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87l1CvAa2K9khU5fm56fx4wyX1Eag4d9Bxfs5Kj=
+-h_mMKlQAN2s-Ok5ZUwCvPyjZ4OreuSfd757QMxT73GblplP2l21aeBw_rr1GecQLQlhHPWUf0a=
+inceGPiaX3Rh48tmKn6LGb0G_QjJvkQOdy2DAy2ttJHzhnxcut1TbfUhRGkE5akZh9oPO9gclI8=
+6ge1vI-vaBMSh71TP9x_a3vq4PW0gcithGKHHhUM0SYZd-QTA=2E=22 rilt=3D=22sears=22>=
+<img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/=
+contentlibrary/triggered/triggered_templates/TriggeredTemplate_footer/image=
+s/00-footer-branding-sears=2Egif=22 alt=3D=22Sears&reg;=22 width=3D=2284=22=
+ height=3D=2245=22 border=3D=220=22 style=3D=22display:block;=22 /></a></td>
+                            <td align=3D=22center=22 valign=3D=22top=22 sty=
+le=3D=22padding:15px 15px 5px 15px;=22><a href=3D=22https://sywr=2Ersys2=2E=
+net/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5AiUC9mOtKGjsFSSKmhizdiF16YwsXf=
+pLL9RVXtpKX%3DTTYCRAT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6F=
+P3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVNw2CjJ_FarzkfeR_s-vzksh7GjXM3L6degw=
+AuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87l1CvAa2K9khU5fm56fx4wyX1Eag4d9Bxfs5Kj=
+-h_mMKlQAN2s-Ok5ZUwCvPyjZ4OreuSfd757QMxTzdV4n_J4dpnmhsRhrQ3v_6pB9o_ozin01aN=
+fNqPF68gHn9Ne6uOO1r38bkG1qWa3CiFJHbXZBgF8k_ygHu7YC8CajiEut6qhFtwMx1Sd3GNh5W=
+0uA7KkMwSSCGRC3X3_xElwp_QsTtlO9zg3X97W-QdLGnBfrbI=2E=22 rilt=3D=22kmart=22>=
+<img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/=
+contentlibrary/triggered/triggered_templates/TriggeredTemplate_footer/image=
+s/00-footer-branding-kmart=2Egif=22 alt=3D=22Kmart=22 width=3D=2281=22 heig=
+ht=3D=2245=22 border=3D=220=22 style=3D=22display:block;=22 /></a></td>
+                              <td align=3D=22center=22 valign=3D=22top=22 s=
+tyle=3D=22padding:15px 15px 5px 15px;=22><a href=3D=22https://sywr=2Ersys2=
+=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5AiUC9mOtKGjsFSSKmhizdiF16Yw=
+sXfpLL9RVXtpKX%3DTTYCRCT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqg=
+T6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVNw2CjJ_FarzkfeR_s-vzksh7GjXM3L6d=
+egwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87l1CvAa2K9khU5fm56fx4wyX1Eag4d9Bxfs=
+5Kj-h_mMKlQAN2s-Ok5ZUwCvPyjZ4OreuSfd757QMxThvjwU7THIa4KFCDOB3hGZ2T7Fn06kbs8=
+iKkrqfUKNdSJ23vLrPZ_IsZKM7ub9HXh3-UbJzoNQqZeE07CYUKlnCnqG--cZkkCE8vhRuDoQLM=
+046VtmniuyWCezaufdulljQyfsELJM14vSOoFMrvdShRnZ3Ck5tZw4aSE=2E=22 rilt=3D=22m=
+ygofer=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysim=
+ages/sywr/contentlibrary/triggered/triggered_templates/TriggeredTemplate_fo=
+oter/images/00-footer-branding-mygofer=2Egif=22 alt=3D=22mygofer=22 width=
+=3D=2282=22 height=3D=2245=22 border=3D=220=22 style=3D=22display:block;=22=
+ /></a></td>
+                          </tr>
+                        </table>
+           <=21-- footer links -->
+           <table class=3D=22footer-resize=22 width=3D=22670=22 border=3D=
+=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+             <tr>
+               <td class=3D=22legal-links=22 align=3D=22center=22 valign=3D=
+=22top=22 style=3D=22font-family:Arial, Helvetica, sans-serif; color:=23aca=
+cac; font-size:11px; -webkit-text-size-adjust:none; padding:12px 0; text-tr=
+ansform:uppercase;=22><a style=3D=22color:=23acacac; text-decoration:none;=
+=22 href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJl=
+TQGnnD5AiUC9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCSRT&_ei_=3DEolaGGF4S=
+NMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUr=
+mVNw2CjJ_FarzkfeR_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87=
+l1CvAa2K9khU5fm56fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUwCvPyjZ4OreuSfd757QM=
+xTwg3XztTy6UKCgHb9qnMQRXSHSgX61B9-suPOn_0-eIIMc2BkMhOuGFjBd6i_m5ICTJAlSDEhr=
+PIBBqtJr7nn00hAJV7axUAuY3IVtvMQygm1LAyYN5ibeBCrZ7ZW-ZNua9H5wVjnidoB7TDcuBBM=
+MW81U5t98DgHWhv7SdRYEe873nC96ki4XTXnVmY5ZYSZ1CC8F8kF4mw21Sug5mUH5GrHNdUew4Z=
+iZWwOa6vKUVh4nh6UfFue8cZzVFaTpPg8_ZrqtoydkChmuRicx42Hn0im27oIRSJsNnprXovm_o=
+OOjB9OVidxFolJ19pSRMdDaci6pTHGMXtXB19Fot70WMq1z3J2RK8zKirCHhX9HnIzr-pBphbCr=
+tXyG9Jz9thc6UP0xNlIxlIcbZaAwACilLMOvFCqD7A9_425NDXAC6aswoQp0sUK=2E=22 rilt=
+=3D=22unsubscribe=22>UNSUBSCRIBE</a> &nbsp;&nbsp;=7C&nbsp;&nbsp; <a style=
+=3D=22color:=23acacac; text-decoration:none;=22 href=3D=22https://sywr=2Ers=
+ys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5AiUC9mOtKGjsFSSKmhizdiF1=
+6YwsXfpLL9RVXtpKX%3DTTYCSTT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_=
+tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVNw2CjJ_FarzkfeR_s-vzksh7GjXM3=
+L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87l1CvAa2K9khU5fm56fx4wyX1Eag4d9B=
+xfs5Kj-h_mMKlQAN2s-Ok5ZUwCvPyjZ4OreuSfd757QMxT73GblplP2l21aeBw_rr1G2IPWe2ac=
+i_jtg5YHeIVwyDwomgGtUhhYOc1B48t4G9jSwF4IXmdXgDzw2RSx60Y3wrQ0a4dR2BRK5ccPnVy=
+0El7lzCAGgXykt9U4QQyr5kESU0oboN0gNZpoYItKh438vTh9r5F5MVSk8cQq3IykD93IPFz=2E=
+=22>ABOUT SHC</a> &nbsp;&nbsp;=7C&nbsp;&nbsp; <a href=3D=22https://sywr=2Er=
+sys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5AiUC9mOtKGjsFSSKmhizdiF=
+16YwsXfpLL9RVXtpKX%3DTTYCSWT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x=
+_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVNw2CjJ_FarzkfeR_s-vzksh7GjXM=
+3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87l1CvAa2K9khU5fm56fx4wyX1Eag4d9=
+Bxfs5Kj-h_mMKlQAN2s-Ok5ZUwCvPyjZ4OreuSfd757QMxTpfZYZq46IPDGP3dF8KZ-TfXFOwnn=
+fBGnE8DwnPcCIo70lobaHHAxmS_-A8HwP9P_ngBenV0t2k81wIhqGf3Cud2nQ4DnDgKDAtUhwiD=
+eDCPUkxNLZFLESQ7_2LnKx9yptXqtWsC578trw3_SX8jgkk7jNoPAiflNykL42UA1QVaXLprcPb=
+9nYgg6pEcerve0jAaYOUMwZSpNjKzuf0=2E=22 style=3D=22color:=23acacac; text-dec=
+oration:none;=22>PROGRAM TERMS AND CONDITIONS</a> &nbsp;&nbsp;=7C&nbsp;&nbs=
+p; <a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjH=
+JlTQGnnD5AiUC9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCSAT&_ei_=3DEolaGGF=
+4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTf=
+UrmVNw2CjJ_FarzkfeR_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw=
+87l1CvAa2K9khU5fm56fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUwCvPyjZ4OreuSfd757=
+QMxTpfZYZq46IPDGP3dF8KZ-T2eA5TlaPV93MIGRA4JUHXVwWXKjeRxKkoxk2UUFJw1AXt-wKHx=
+gICQNWonKeQGcUDoZIHaZ7CNyZxQIQMKPVxpaP6p7qD-wezrsRmRoVvDnh0p5ZcHThYUlWItebB=
+MmsJjmiLt6P7r6ydwSazLvGXMq4fNgXkRL0MBfnqhEPPS16M=2E=22 style=3D=22color:=23=
+acacac; text-decoration:none;=22>TERMS OF USE</a></td>
+             </tr>
+             <tr>
+               <td class=3D=22legal-links=22 align=3D=22center=22 valign=3D=
+=22top=22 style=3D=22font-family:Arial, Helvetica, sans-serif; color:=23aca=
+cac; font-size:11px; -webkit-text-size-adjust:none; padding:0 0 12px 0;=22>=
+<a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlT=
+QGnnD5AiUC9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCSCT&_ei_=3DEolaGGF4SN=
+MvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrm=
+VNw2CjJ_FarzkfeR_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87l=
+1CvAa2K9khU5fm56fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUwCvPyjZ4OreuSfd757QMx=
+TpfZYZq46IPDGP3dF8KZ-T8yKb3ruTov0z8eW2IcwGqb9EnB8r_ZBCftBg8kbVkmfsyVJ6HlWrU=
+iKXzgJ1N1orxtdKAo7mxjA4dsnvv706DkDrSPkmxdsgVNpG5xkZscB08CUykvHQ-5hWY5nvoKS7=
+5sNeoVFcYueJhFnwfNo4RX1Tde1vN5IWq6rYZC1=2E=22 style=3D=22color:=23acacac; t=
+ext-decoration:none;=22>PRIVACY POLICY</a> &nbsp;&nbsp;=7C&nbsp;&nbsp; <a h=
+ref=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnn=
+D5AiUC9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCTRT&_ei_=3DEolaGGF4SNMvxF=
+F7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVNw2=
+CjJ_FarzkfeR_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87l1CvA=
+a2K9khU5fm56fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUwCvPyjZ4OreuSfd757QMxTpfZ=
+YZq46IPDGP3dF8KZ-T8yKb3ruTov0z8eW2IcwGq9BOWqAb9TXQw8z8gVWjUGnxh3sLbl7ywgzT_=
+mb4ILKoWThjWnloaRYmjk-yVHjTcG-tGBvmgAgyxW7-FuA2xi6BObpaEdcnvZLqdJu3W6gb1Nu8=
+IIBJyDVn68g1ViAM32RSJBhk6jnbLeSuV7GnFf8lcaersXMwoM4tzU=2E=22 style=3D=22col=
+or:=23acacac; text-decoration:none;=22>CALIFORNIA PRIVACY POLICY</a> &nbsp;=
+&nbsp;=7C&nbsp;&nbsp; <a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5AiUC9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DT=
+TYCTTT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7=
+bro-dCdgGzbxpp1hqAYTfUrmVNw2CjJ_FarzkfeR_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mG=
+vb5Ey7SiaitriGvsz28rw87l1CvAa2K9khU5fm56fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok=
+5ZUwCvPyjZ4OreuSfd757QMxTpfZYZq46IPDGP3dF8KZ-Tcvwka5en7K7XDjt0SmbBARMLDfBfI=
+Se7YxVleeuYNXCQGi3wXTYF8UeB-e9kBqxZKEsk-U3ZVK28zqc7wLPHuuC1rqH39zuLyPlRilMU=
+rbUg0EJHUMwk1LLz4tW7GAGF2u1ItrOsQI0jn6YgeNTCdiYJY_0kN8zyufpA0gdySx7=2E=22 r=
+ilt=3D=22gift_cards=22 style=3D=22color:=23acacac; text-decoration:none;=22=
+>CONTACT US</a></td>
+             </tr>
+           </table>
+           <=21-- footer links ends -->
+           <=21-- social media -->
+           <table class=3D=22footer-resize=22 width=3D=22670=22 border=3D=
+=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+             <tr>
+               <td align=3D=22center=22 valign=3D=22top=22 style=3D=22font-=
+family:Arial, Helvetica, sans-serif; color:=23acacac; font-size:10px; -webk=
+it-text-size-adjust:none; padding:12px 0 0 0;=22>
+               <=21-- SYW Icon <a style=3D=22color:=23acacac;=22 href=3D=22=
+https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5AiUC9mO=
+tKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCTCT&_ei_=3DEolaGGF4SNMvxFF7KucKuWN=
+HvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVNw2CjJ_Farzk=
+feR_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87l1CvAa2K9khU5f=
+m56fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUwCvPyjZ4OreuSfd757QMxT3Z3Yuo7y6Ec5=
+VB16qgs5Xj5Cga2m91b4tszXq1vW0KkMcCsOHQxPdZ--OmViBPCtN1Aq2sWIajoYcRVpAex1rYh=
+j86GhDoWqHRNLlXmElVudt4OQuiCUSdN-UiafxEQ3zXZtjwm6pf4mn-RAj929FO8Lpcb2qJxJb4=
+WuU_MQ-c69E7E=2E=22><img src=3D=22images/FOOTER_SYW_ICON=2Ejpg=22 style=3D=
+=22display:inline;=22 border=3D=220=22 alt=3D=22SYW=22/></a> -->
+               <a style=3D=22color:=23acacac;=22 href=3D=22https://sywr=2Er=
+sys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5AiUC9mOtKGjsFSSKmhizdiF=
+16YwsXfpLL9RVXtpKX%3DTTYCTWT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x=
+_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVNw2CjJ_FarzkfeR_s-vzksh7GjXM=
+3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87l1CvAa2K9khU5fm56fx4wyX1Eag4d9=
+Bxfs5Kj-h_mMKlQAN2s-Ok5ZUwCvPyjZ4OreuSfd757QMxTj0yGUsTDOG44j65Nw_KlB15hpFND=
+mtTCbVOl6_QHxWqC4U3z8p3uQ8cb2Kz-WIpGtr67rYGTr__0Nv-i4yzKtC97TgkB5kDwVX4et8J=
+g7HC3c1Ls7w_enQgGKjc0cBnYZ_neuEmZG7DT_eVDkewCI1xsk2_S5xp0SBZy7N0LaZLQyTgXAL=
+MzYoasiN5d=2E=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/resp=
+onsysimages/sywr/contentlibrary/triggered/triggered_templates/TriggeredTemp=
+late_footer/images/facebook=2Egif=22 style=3D=22display:inline;=22 border=
+=3D=220=22 alt=3D=22Facebook=22/></a><a style=3D=22color:=23acacac;=22 href=
+=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5A=
+iUC9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCTAT&_ei_=3DEolaGGF4SNMvxFF7K=
+ucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVNw2CjJ=
+_FarzkfeR_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87l1CvAa2K=
+9khU5fm56fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUwCvPyjZ4OreuSfd757QMxTaM5Clu=
+uCWKLYLMt2rBzckbTKngJ8khSi0yguoySndrDZBlb2ajZ_zqbqFOgsh6JWDQlrXCMSiddJAM---=
+Mm6XB4V-8QA7zTjRRyLtEi2oUu9dH_fWG95PkACS7unyNknmM-9DjS4WuVdvhHFJ6FMvhCTyyJF=
+8wZJAZNGnr6giGMFn4LVqyFC=2E=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=
+=2Enet/i2/responsysimages/sywr/contentlibrary/triggered/triggered_templates=
+/TriggeredTemplate_footer/images/twitter=2Egif=22 style=3D=22display:inline=
+;=22 border=3D=220=22 alt=3D=22Twitter=22 /></a></td>
+             </tr>
+           </table>
+	       <=21-- social media ends -->
+            <=21-- legal begins -->
+            <table class=3D=22footer-resize=22 width=3D=22670=22 border=3D=
+=220=22 align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+              <tr>
+                <td class=3D=22mobi-legal-text=22 valign=3D=22top=22 align=
+=3D=22center=22 style=3D=22font-family:Arial, Helvetica, sans-serif; color:=
+=23acacac; font-size:10px; line-height:12px; -webkit-text-size-adjust:none;=
+ padding-top:12px; border-top:1px solid =23FFFFFF;=22>
+
+
+                Shop with help from your friends=2E Join <a style=3D=22colo=
+r:=23acacac;=22 href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%=
+3DWQpglLjHJlTQGnnD5AiUC9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCTCT&_ei_=
+=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzb=
+xpp1hqAYTfUrmVNw2CjJ_FarzkfeR_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7Siait=
+riGvsz28rw87l1CvAa2K9khU5fm56fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUwCvPyjZ4=
+OreuSfd757QMxTpfZYZq46IPDGP3dF8KZ-TaFLVazHrFKYSXI-lTpKoUaEoWfwEWo_ciy0E9epR=
+YC4RxnMoU9z6fA48QfLU0cFCg49UyuR_wqkpYJJQgMxEmq2bwsNZtRCbIfTgjEH8KUhOefypmAS=
+_PhS08WUyTBjLfAlX6JKueUW1_CI=2E=22 rilt=3D=22SYW_legal=22><span style=3D=22=
+text-decoration:underline;=22>Shop Your Way</span></a>&reg; and explore a v=
+ast interactive shopping community=21<br />
+<br />
+By accepting Shop Your Way member benefits and offers, you agree to the Sho=
+p Your Way terms and conditions, available at <span style=3D=22text-decorat=
+ion:underline;=22><a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0G=
+zc2X%3DWQpglLjHJlTQGnnD5AiUC9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCSWT=
+&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dC=
+dgGzbxpp1hqAYTfUrmVNw2CjJ_FarzkfeR_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7=
+SiaitriGvsz28rw87l1CvAa2K9khU5fm56fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUwCv=
+PyjZ4OreuSfd757QMxTpfZYZq46IPDGP3dF8KZ-TfXFOwnnfBGnE8DwnPcCIo70lobaHHAxmS_-=
+A8HwP9P_ngBenV0t2k81wIhqGf3Cud2nQ4DnDgKDAtUhwiDeDCPUkxNLZFLESQ7_2LnKx9yptXq=
+tWsC578trw3_SX8jgkk7jNoPAiflNykL42UA1QVaXLprcPb9nYgg6pEcerve0jAaYOUMwZSpNjK=
+zuf0=2E=22 style=3D=22color:=23acacac; text-decoration:underline;=22>www=2E=
+shopyourway=2Ecom/terms</a></span>=2E<br /><br />
+If you believe you received this email in error, contact us at Shop Your Wa=
+y, 1-800-991-8708, where our helpful staff will verify your enrollment in o=
+ur program=2E<br /><br />
+Base points are earned on everyday qualifying purchases: 10 points for ever=
+y &=2336;1 spent, valid for 12 months once received=2E Bonus points are pro=
+motional points earned in addition to base points on specified promotional =
+offers, valid for 90 days once received unless otherwise specified=2E Point=
+s expiration may vary=2E For the most up-to-date points status please visit=
+ <a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJl=
+TQGnnD5AiUC9mOtKGjsFSSKmhizdiF16YwsXfpLL9RVXtpKX%3DTTYCTCT&_ei_=3DEolaGGF4S=
+NMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUr=
+mVNw2CjJ_FarzkfeR_s-vzksh7GjXM3L6degwAuUpnayhYUvo6mGvb5Ey7SiaitriGvsz28rw87=
+l1CvAa2K9khU5fm56fx4wyX1Eag4d9Bxfs5Kj-h_mMKlQAN2s-Ok5ZUwCvPyjZ4OreuSfd757QM=
+xTpfZYZq46IPDGP3dF8KZ-TaFLVazHrFKYSXI-lTpKoUaEoWfwEWo_ciy0E9epRYC4RxnMoU9z6=
+fA48QfLU0cFCg49UyuR_wqkpYJJQgMxEmq2bwsNZtRCbIfTgjEH8KUhOefypmAS_PhS08WUyTBj=
+LfAlX6JKueUW1_CI=2E=22 rilt=3D=22SYW_legal=22 style=3D=22color:=23acacac;=
+=22><span style=3D=22text-decoration:underline;=22>shopyourway=2Ecom</span>=
+</a>=2E<br /><br />
+Any use of the term =22partner=22 in this material is intended to convey a =
+valued business relationship, and does not indicate the existence of a lega=
+l partnership, joint agency or other relationship involving shared ownershi=
+p or shared liability with Sears Holdings Corp=2E or any of its affiliates=
+=2E<br/><br/>
+
+				 			<=21-- START ADDITIONAL LEGAL -->
+				*Shop Your Way points granted in this offer that are not redeemed on or=
+ before their expiration date will expire on that date=2E Use and redemptio=
+n of Shop Your Way points are subject to full Shop Your Way Terms and Condi=
+tions that are available at www=2Eshopyourway=2Ecom/terms=2E Points can be =
+applied at checkout upon purchase of qualifying item(s) meeting any specifi=
+ed purchase requirements=2E Limit one offer per transaction=2E Offer points=
+ cannot be used on Food, Household Cleaning, Beauty and Health Care, Fragra=
+nces, Cosmetics, Office and School Supplies, Batteries, Party Supplies sold=
+ in the Greeting Card department, Books and Magazines, Prescriptions, Pharm=
+acy, Alcohol and Tobacco items=2E  Excludes Lands End&reg; merchandise, Sea=
+rs Hometown, Outlet, Appliance Showroom and Hardware stores=2E Excludes myg=
+ofer=2Ecom, landsend=2Ecom and Lands' End stores=2E If you have multiple el=
+igible offers on an item or transaction, the most valuable offer will be au=
+tomatically applied=2E  Offers cannot be combined with other points offers =
+or discounts unless otherwise stated=2E Purchase requirement calculated bef=
+ore taxes and after other discounts have been applied and must be made in a=
+ single transaction=2E Offer is not transferable=2E
+
+<br/><br/>
+					<=21-- END ADDITIONAL LEGAL -->
+				=20
+Products and assortments may vary by store=2E<br /><br />
+<strong>This is an advertisement=2E</strong> Sears Holdings Corporation sha=
+ll not be held liable for errors or omissions in pricing=2E
+In the event of an error, we will make every effort to accommodate our cust=
+omers=2E<br /><br />=20
+&copy; 2015 Sears Brands, LLC, 3333 Beverly Road, Hoffman Estates, IL 60179=
+=2E All Rights Reserved=2E
+<br />
+
+</td>
+              </tr>
+            </table>
+            <=21-- legal ends -->
+          </td>
+        </tr>
+      </table>
+      <=21-- footer container ends -->
+<br />
+<br />
+<=21-- Start Responsys Display Pixel -->
+<img src=3D=22http://ib=2Eadnxs=2Ecom/getuid?http://a=2Eadrsp=2Enet/dsp/ce/=
+1/EdYr9HYomKFOhxAQRxxPHJ4/%24UID/ X/E4udjeGDjpvD9fq7hn0y8X8jY2LpKbYs5RI/_?h=
+ttp://tag=2Eyieldoptimizer=2Ecom/ps/ps?t=3Di&p=3D1222&u=3D261753595=22 widt=
+h=3D=221=22 height=3D=221=22/>
+<=21-- End Responsys Display Pixel -->=20
+      <=21-- footer container ends --> =20
+    </td>
+  </tr>
+</table>
+     =20
+<=21-- body wrapper ends -->
+
+</body>
+</html>
+<br>
+<br><img border=3D=220=22 width=3D=221=22 height=3D=221=22 src=3D=22https:/=
+/sywr=2Ersys2=2Enet/pub/as?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGnnD5AiUC9mOtKGjsFS=
+SKmhizdiF16YwsXfpLL9RVXHkMX%3Dw&_ei_=3DEvT_BKMCxq5rxc6uAmd0U_rVZYcRJdIjqc80=
+Vvjl8NG-fD_4I5srGJ87P8sAliwFs4LDPbpb0ZO5XONPcrlOZZeQgXLewLa-tUwi9hyNnvm9faT=
+3q1JdHQadrJfnsxnqB7NLiBIyPraVmdREYN6NYZlSo2e4By54st4VeuLPRKKo_YgQBvI9s9wwTI=
+c1rPJO-tqcNBdJDXE42RNcOxHQCWYhdmsTjndEwrgREvUfn5q3mUoJDAURGwVo89vFSheXSwLnf=
+iD-R23cAhG3UuENUWCJBwNqar9F1t0xbYEGrbgpHQ5uYcY8jZaYRulpU9SY1KZaD6oK81NMFSPf=
+=2E=22>
+<br><img border=3D=220=22 width=3D=223=22 height=3D=223=22 src=3D=22http://=
+ib=2Eadnxs=2Ecom/getuid?http://a=2Eadrsp=2Enet/dsp/ci/2/E70QzBMZFV4IolyjQGD=
+s1Qip7StAmB7WrfITVjptgRJ-9sCaMBaS5N2GxDkt3XY70XOw1aV-j3LoWqHQPjagELYFjbqJqj=
+I/%24UID=22>
+
+

@@ -1,0 +1,37 @@
+
+		       <LINK rel="STYLESHEET" type="text/css" href="https://www.hthstudents.com/style.css">
+		     <table border="0" align="center" width="600">
+             <tr><td class="reg" style="text-align:left">
+           <p><strong>Greetings from HTH Students!</strong></p>
+           <p>By registering with us you've taken a great step towards healthy and safe international education. </p> 
+           <p>Be sure to store your password in a safe place.  If you can't remember it, go to 
+<a href="https://www.hthstudents.com/login/help_step1.cfm">Lost Password Assistance</a>.</p> 
+          <p>
+		  <span class="bold">Here are some of the services you can access through HTH:</span>
+	      <UL>
+		  <LI style="padding-bottom:5">Review your <a href="https://www.hthstudents.com/my_benefits/cov_benefits.cfm">insurance plan benefits</a>
+             <LI style="padding-bottom:5"><a href="https://www.hthstudents.com/my_benefits/cov_benefits.cfm">Print your ID Card</a>
+         <LI style="padding-bottom:5">Check the <a href="https://www.hthstudents.com/my_benefits/claims/index.cfm">status of a claim</a>
+          <LI style="padding-bottom:5"><a href="https://www.hthstudents.com/doctor_search/by_location.cfm">Search for a doctor</a>
+	      <LI style="padding-bottom:5">Review critical healthcare information about your destination, 
+using <a href="https://www.hthstudents.com/tp2_cityhealth/index1.cfm">CityHealth Profiles</a>
+          <LI style="padding-bottom:5"><a href="https://www.hthstudents.com/drug/index1.cfm">Find out</a> the names of your prescription drugs in your destination country
+         <LI style="padding-bottom:5">Review important <a href="https://www.hthstudents.com/drug/translationGuides.cfm">medical terms and phrases</a> in a foreign language
+       </UL>
+      </p>
+	  
+	  <p>To access mPassport from your mobile device go to  <a href="http://www.mpassport.com/mobile/index.cfm?a=2605efc0" style="font-weight:normal;text-decoration:underline">http://www.mpassport.com/mobile/index.cfm?a=2103efcb48f9c34e86</a>.</p>
+       <p>You have to enter your password the first time you login into  mPassport.</p>
+       
+       <p>Please visit your <a href="https://www.hthstudents.com/myprofile/mobile_access/mobile_init.cfm">Mobile Profile</a> online to update your information.</p>
+<p>If you have any questions, don't hesitate to call HTH Customer Service at 1.888.350.2002.</p>
+<hr noshade color="FF9933" size="1">
+<div>
+<span class="nav1">As a valued HTH Worldwide member, you are also eligible for terrific savings on travel and other great deals. No fees, no obligation at <a href="http://www.rewardsworldwide.com/hth/">rewardsworldwide.com</a>.</span>
+<div align="center" style="margin-top:10">
+<a href="http://www.rewardsworldwide.com/hth/"><img src="https://www.hthtravelinsurance.com/images/start_saving.gif" alt="Start Saving" border="0"></a>
+<a href="http://www.rewardsworldwide.com/hth/"><img src="https://www.hthtravelinsurance.com/images/rw_logo_tagline.gif" alt="Rewards Worldwide" border="0" hspace="20"></a>
+</div>
+
+</td></tr></table>
+

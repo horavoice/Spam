@@ -1,0 +1,2170 @@
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Transitional//EN=22 =22h=
+ttp://www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd=22>
+<html xmlns=3D=22http://www=2Ew3=2Eorg/1999/xhtml=22>
+<head>
+<meta http-equiv=3D=22Content-Type=22 content=3D=22text/html; charset=3DUTF=
+-8=22>
+<meta name=3D=22viewport=22 content=3D=22width=3Ddevice-width, initial-scal=
+e=3D1, maximum-scale=3D1, user-scalable=3D0=22>
+<title>ASOS</title>
+</head>
+<head>
+<style type=3D=22text/css=22>
+img =7B
+	color: =23000000;
+	font-family: Arial;
+	font-size: 12px;
+=7D
+=2EmobileOnly =7B
+	display: none;
+	font-size: 0px;
+	margin: 0;
+	max-height: 0;
+	line-height: 0;
+	mso-hide: all;
+=7D
+=2EmobileNav =7B
+	display: none;
+	font-size: 0px;
+	margin: 0;
+	max-height: 0;
+	line-height: 0;
+	mso-hide: all;
+=7D
+=2EmobileCopy =7B
+	display: none;
+	font-size: 0px;
+	margin: 0;
+	max-height: 0;
+	line-height: 0;
+	mso-hide: all;
+=7D
+=2EmobileContent =7B
+	display: none;
+	font-size: 0px;
+	margin: 0;
+	max-height: 0;
+	line-height: 0;
+	mso-hide: all;
+=7D
+=2EExternalClass =7B
+	width: 100%;
+=7D
+=2EExternalClass, =2EExternalClass p, =2EExternalClass span, =2EExternalCla=
+ss font, =2EExternalClass td, =2EExternalClass div =7B
+	line-height: 100%;
+=7D
+body =7B
+	-webkit-text-size-adjust: none;
+	-ms-text-size-adjust: none;
+	margin: 0;
+	padding: 0;
+	font-family:Arial,sans-serif;
+=7D
+table =7B
+	border-spacing: 0;
+=7D
+table, th, td =7B
+	border-collapse: collapse;
+=7D
+p =7B
+	margin: 0;
+	padding: 0;
+	margin-bottom: 0;
+font-family:Arial,sans-serif;
+=7D
+body, =23body_style =7B
+	width: 100% =21important;
+	min-height: 1000px;
+=7D
+a =7B
+		color: =23000000;
+	text-decoration: none;
+=7D
+a:link =7B
+	color: =23000000;
+	text-decoration: none;
+=7D
+a:visited =7B
+		color: =23000000;
+	text-decoration: none;
+=7D
+a:focus =7B
+	font-family:Arial,sans-serif;
+	color: =23000000 =21important;
+=7D
+a=5Bhref=5E=3Dtel=5D, a=5Bhref=5E=3Dsms=5D =7B
+	text-decoration: none;
+	color: =23333333;
+	cursor: default;
+=7D
+=2Emobile_link a=5Bhref=5E=3Dtel=5D, =2Emobile_link a=5Bhref=5E=3Dsms=5D =7B
+	text-decoration: default;
+	color: =236e5c4f =21important;
+	pointer-events: auto;
+	cursor: default;
+=7D
+a=5Bx-apple-data-detectors=5D =7B
+	color: inherit =21important;
+	text-decoration: none =21important;
+	font-size: inherit =21important;
+	font-family: inherit =21important;
+	font-weight: inherit =21important;
+	line-height: inherit =21important;
+=7D
+
+=40media only screen and (min-device-width: 768px) and (max-device-width: 1=
+024px) =7B
+body=5Byahoo=5D =2Eipad-only =7B
+	overflow: visible =21important;
+	width: auto =21important;
+	display: block =21important;
+=7D
+table=5Bclass=3Dnoipad=5D =7B
+	display: none =21important;
+=7D
+=7D
+
+=40media only screen and (max-width:480px) =7B
+=2EmobileOnly =7B
+	display: block =21important;
+	max-height: none =21important;
+	padding-bottom: 3px =21important;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+=7D
+=2EmobileNav =7B
+	display: block =21important;
+	font-family: Arial, sans-serif =21important;
+	font-size: 14px =21important;
+	font-weight: normal =21important;
+	letter-spacing: 1px =21important;
+	max-height: none =21important;
+	padding-bottom: 3px =21important;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+=7D
+=2EmobileContent =7B
+	display: table-cell;
+=7D
+=2EmobileNavCell =7B
+	display: block =21important;
+	font-family: Arial, sans-serif =21important;
+	font-size: 14px =21important;
+	font-weight: bold =21important;
+	letter-spacing: 1px =21important;
+	border: solid 1px =23000000 =21important;
+	max-height: none =21important;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	padding-top: 15px;
+	padding-bottom: 14px;
+	height: auto;
+	vertical-align: middle;
+=7D
+=2EmobileNavCopy =7B
+	display: block =21important;
+	font-family: Arial, sans-serif =21important;
+	font-size: 14px =21important;
+	font-weight: normal =21important;
+	letter-spacing: 1px =21important;
+	border: none =21important;
+	max-height: none =21important;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	padding-top: 27px;
+	padding-bottom: 12px;
+	height: auto;
+	vertical-align: middle;
+=7D
+=2EmobileNavSpan =7B
+	font-family: Arial, sans-serif =21important;
+	font-size: 20px =21important;
+	font-weight: normal =21important;
+=7D
+=2EmobileCopy =7B
+	display: block =21important;
+	font-family: Arial, sans-serif =21important;
+	font-size: 10px =21important;
+	font-weight: normal =21important;
+	letter-spacing: 0=2E5px =21important;
+	text-align: center =21important;
+	line-height: 11px =21important;
+	max-height: none =21important;
+	width: 100%;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 2px;
+	padding-right: 2px;
+	height: auto;
+	vertical-align: middle;
+=7D
+*=5Bclass=3Dnomob=5D =7B
+	display: none=21important;
+=7D
+*=5Bclass=3Dbrand1=5D =7B
+	border-bottom: 1px solid black =21important;
+	border-right: 1px solid black =21important;
+	border-left: none =21important;
+	border-top: none =21important;
+	border-collapse: collapse;
+=7D
+*=5Bclass=3Dbrand2=5D =7B
+	border-bottom: 1px solid black =21important;
+	border-right: none =21important;
+	border-left: none =21important;
+	border-top: none =21important;
+	border-collapse: collapse;
+=7D
+*=5Bclass=3Dbrand5=5D =7B
+	border-bottom: none =21important;
+	border-right: 1px solid black =21important;
+	border-left: none =21important;
+	border-top: none =21important;
+	border-collapse: collapse;
+=7D
+*=5Bclass=3Dbrand6=5D =7B
+	border-bottom: none =21important;
+	border-right: none =21important;
+	border-left: none =21important;
+	border-top: none =21important;
+	border-collapse: collapse;
+=7D
+*=5Bclass=3Dbrand7=5D =7B
+	width: 150px =21important;
+	height: 45px =21important;
+	border-bottom: 1px solid black =21important;
+	border-right: 1px solid black =21important;
+	border-left: 1px solid black =21important;
+	border-top: none =21important;
+	border-collapse: collapse;
+=7D
+*=5Bclass=3Dbrand8=5D =7B
+	width: 150px =21important;
+	height: 45px =21important;
+	border-bottom: 1px solid black =21important;
+	border-right: 1px solid black=21important;
+	border-left: none =21important;
+	border-top: none =21important;
+	border-collapse: collapse;
+=7D
+*=5Bclass=3DShippingBannerCopyLarge=5D =7B
+	width: 150px =21important;
+	font-family: Arial, sans-serif =21important;
+	font-size: 10px =21important;
+	font-weight: 100 =21important;
+	letter-spacing: 1px =21important;
+	max-height: none =21important;
+	line-height: 1=2E3 =21important;
+	margin-left: auto;
+	margin-right: auto;
+=7D
+*=5Bclass=3DShippingBannerCopySmall=5D =7B
+	width: 150px =21important;
+	font-family: Arial, sans-serif =21important;
+	font-size: 9px =21important;
+	font-weight: 100 =21important;
+	letter-spacing: 1px =21important;
+	max-height: none =21important;
+	line-height: 1=2E3 =21important;
+	margin-left: auto;
+	margin-right: auto;
+=7D
+*=5Bclass=3DNavItem=5D =7B
+	width: auto =21important;
+	font-family: Arial, sans-serif =21important;
+	font-size: 12px =21important;
+	font-weight: 100 =21important;
+	letter-spacing: 1px =21important;
+	max-height: none =21important;
+	line-height: 1=2E3 =21important;
+	padding-top: 6px =21important;
+	padding-bottom: 6px =21important;
+	padding-left: 10px =21important;
+	padding-right: 10px =21important;
+	margin-left: auto;
+	margin-right: auto;
+=7D
+*=5Bclass=3DFooterItem=5D =7B
+	width: 150px =21important;
+	font-family: Arial, sans-serif =21important;
+	font-weight: 100 =21important;
+	font-size: 12px =21important;
+	letter-spacing: 1px =21important;
+	max-height: none =21important;
+	line-height: 1=2E3 =21important;
+	padding-top: 6px =21important;
+	padding-bottom: 6px =21important;
+	margin-left: auto;
+	margin-right: auto;
+=7D
+td=5Bclass=3DmobileTableSpacer=5D, table=5Bclass=3DmobileTableSpacer=5D, tr=
+=5Bclass=3DmobileTableSpacer=5D =7B
+	width: 100% =21important;
+	float: left =21important;
+	height: 0px =21important;
+=7D
+*=5Bclass=3Dmob-only300=5D =7B
+	width: 300px =21important;
+	height: auto =21important;
+	overflow: visible =21important;
+	display: block =21important;
+=7D
+body=5Byahoo=5D =2Emob-only300 =7B
+	width: 300px =21important;
+	height: auto =21important;
+	overflow: visible =21important;
+	display: block =21important;
+=7D
+body=5Byahoo=5D =2Emob-only =7B
+	width: auto =21important;
+	height: auto =21important;
+	overflow: visible =21important;
+	display: block =21important;
+=7D
+body=5Byahoo=5D =2Ehide, td=5Bclass=3Dhide=5D =7B
+	display: none =21important;
+=7D
+body=5Byahoo=5D =2Etable, table=5Bclass=3Dtable=5D =7B
+	width: 300px =21important;
+=7D
+
+=40media only screen and (max-width:480px) =7B
+td=5Bclass=3Dfloat240=5D =7B
+                                float: left;
+                display: block;
+                width: 100% =21important;
+                height: auto =21important;
+                max-width: 744px =21important;
+
+=7D
+=7D
+
+td=5Bclass=3Dfloat300=5D =7B
+	width: 300px=21important;
+	float: left;
+	display: block;
+=7D
+td=5Bclass=3Dresize300=5D, table=5Bclass=3Dresize300=5D =7B
+	width: 300px=21important;
+	display: block =21important;
+=7D
+img=5Bclass=3Dresize300=5D =7B
+	width: 300px=21important;
+	height: auto=21important;
+=7D
+
+td=5Bclass=3Dresize300=5D =7B
+	width: 300px=21important;
+	height: auto=21important;
+=7D
+img=5Bclass=3Dresize150=5D =7B
+	width: 150px=21important;
+	height: auto=21important;
+=7D
+img=5Bclass=3Dresize200=5D =7B
+	width: 200px=21important;
+	height: auto=21important;
+=7D
+img=5Bclass=3Dresize120=5D =7B
+	width: 120px=21important;
+	height: auto=21important;
+=7D
+img=5Bclass=3Dresizemob=5D, td=5Bclass=3Dresizemob=5D =7B
+	width: auto=21important;
+	height: auto=21important;
+	display: block =21important;
+=7D
+td=5Bclass=3DmobSpacer35=5D =7B
+	height: 35px=21important;
+=7D
+td=5Bclass=3DmobSpacer30=5D =7B
+	height: 30px=21important;
+=7D
+td=5Bclass=3DmobSpacer25=5D =7B
+	height: 25px=21important;
+=7D
+td=5Bclass=3DmobSpacer20=5D =7B
+	height: 20px=21important;
+=7D
+td=5Bclass=3DmobSpacer15=5D =7B
+	height: 15px=21important;
+=7D
+td=5Bclass=3DmobSpacer10=5D =7B
+	height: 10px=21important;
+=7D
+td=5Bclass=3DmobSpacer5=5D =7B
+	height: 5px=21important;
+=7D
+td=5Bclass=3DmobSpacer3=5D =7B
+	height: 3px=21important;
+=7D
+td=5Bclass=3Dinnerspacer20=5D, tr=5Bclass=3Dinnerspacer20=5D =7B
+	padding-bottom: 20px=21important;
+	display: block =21important;
+=7D
+img =7B
+	display: block;
+	border: none;
+	outline: none;
+	text-decoration: none;
+=7D
+table =7B
+	border-collapse: collapse;
+	mso-table-lspace: 0pt;
+	mso-table-rspace: 0pt;
+=7D
+td=5Bclass=3DemailMobileHide=5D, table td=5Bclass=3DemailMobileHide=5D, tab=
+le=5Bclass=3DemailMobileHide=5D, td=5Bclass=3DemailMobileHide=5D, tr=5Bclas=
+s=3DemailMobileHide=5D, img=5Bclass=3DemailMobileHide=5D, span=5Bclass=3Dem=
+ailMobileHide=5D =7B
+	display: none =21important;
+=7D
+table=5Bclass=3DemailMobileMaxWidth=5D, img=5Bclass=3DemailMobileMaxWidth=
+=5D =7B
+	width: 100% =21important;
+	height: auto =21important;
+	max-width: 744px =21important;
+=7D
+table=5Bclass=3DemailMobilePaddedTable=5D =7B
+	width: 100% =21important;
+	height: auto =21important;
+	max-width: 744px =21important;
+	padding: 10px;
+=7D
+td=5Bclass=3DemailMobileColumnSplit=5D =7B
+	width: 100% =21important;
+	float: left =21important;
+=7D
+table=5Bclass=3DemailLTB=5D =7B
+	width: 98% =21important;
+	padding: 4px 0px;
+=7D
+td=5Bclass=3DemailFullWidthFloat=5D, table=5Bclass=3DemailFullWidthFloat=5D=
+, tr=5Bclass=3DemailFullWidthFloat=5D =7B
+	width: 100% =21important;
+	float: left =21important;
+=7D
+td=5Bclass=3DemailFullWidthHeightFloat=5D =7B
+	width: 100% =21important;
+	height: 100% =21important;
+	float: left =21important;
+=7D
+td=5Bclass=3DemailTableSpacer=5D, table=5Bclass=3DemailTableSpacer=5D, tr=
+=5Bclass=3DemailTableSpacer=5D =7B
+	width: 100% =21important;
+	float: left =21important;
+	height: 8px =21important;
+=7D
+tr=5Bclass=3DcollapsedHeaderBorder=5D>td =7B
+	display: block =21important;
+	border-top: 1px solid =23000;
+	height: 1px;
+=7D
+table=5Bclass=3DemailMobileStyledContentCell=5D =7B
+	padding: 0px 5px;
+=7D
+td=5Bclass=3DemailMobileDoubleColTwoSingleCell=5D =7B
+	width: 49%;
+=7D
+tr=5Bclass=3DemailRowCellToRowColumn=5D =7B
+	float: left =21important;
+	width: 49% =21important;
+=7D
+tr=5Bclass=3DemailRowToColumn=5D =7B
+	float: left =21important;
+	width: 2% =21important;
+=7D
+td=5Bclass=3DemailPadLargeCell=5D =7B
+	margin-top: 0px;
+	margin-bottom: 8px;
+	width: 100% =21important;
+	float: left =21important;
+	height: 100% =21important;
+=7D
+td=5Bclass=3DemailRowToColumnSpacer=5D =7B
+	width: 8px;
+=7D
+table=5Bclass=3DemailMobileMaxHeight=5D =7B
+	height: 100% =21important;
+=7D
+td=5Bclass=3DemailMobile49Width=5D =7B
+	width: 49% =21important;
+=7D
+=7D</style>
+</head>
+
+<body yahoo=3D=22fix=22 bgcolor=3D=22=23ffffff=22 marginheight=3D=220=22 ma=
+rginwidth=3D=220=22 topmargin=3D=220=22 leftmargin=3D=220=22 style=3D=22min=
+-width:100%;=22 >
+<table width=3D=22728=22 class=3D=22resize300=22 border=3D=220=22 cellpaddi=
+ng=3D=220=22 cellspacing=3D=220=22 bgcolor=3D=22=23ffffff=22 align=3D=22cen=
+ter=22>
+  <tr>
+    <td height=3D=222=22></td>
+  </tr>
+  <tr>
+    <td align=3D=22center=22><table align=3D=22center=22 border=3D=220=22 c=
+ellspacing=3D=220=22 cellpadding=3D=220=22>
+  <tr>
+    <td><font align=3D=22left=22 style=3D=22font-size: 1px; line-height: 1p=
+x =21important; font-family: Arial; color: =23ffffff;=22>
+It's been a while since you got any=2E</font></td>
+   </tr>    =20
+   <tr>
+    <td align=3D=22center=22><table align=3D=22center=22 border=3D=220=22 c=
+ellspacing=3D=220=22 cellpadding=3D=220=22>    =20
+      =20
+                        =20
+       =20
+
+<=21--NEW LIVE TEXT BANNER STARTS-->
+
+<tr>
+  <td><table class=3D=22resizemob=22 width=3D=22100%=22 align=3D=22center=
+=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 style=3D=
+=22background-color: =23ee6ca8;=22 bgcolor=3D=22=23ee6ca8=22>
+      <tr>
+        <td><table class=3D=22resizemob=22 width=3D=22100%=22 align=3D=22ce=
+nter=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 style=
+=3D=22background-color: =23da3241;=22 bgcolor=3D=22=23da3241=22>
+            <tr>
+              <td width=3D=22728=22 align=3D=22center=22 class=3D=22Shippin=
+gBannerCopyLarge=22 style=3D=22font-size:12px;font-family: Arial, sans-seri=
+f; font-weight:100; line-height:15px;letter-spacing:0=2E5pt =21important;co=
+lor:=23000001; padding-top:5px; text-transform:uppercase;=22><a href=3D=22h=
+ttps://fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6S=
+zcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCAYDTY&_ei_=3DEolaGGF4SNMvxFF7KucKu=
+WNHvC_sZZO0M_aUq6x_tqgTUqux1jjWCH8F90CNusa2wZBsTGaGLqQygGY=2E=22 style=3D=
+=22color:=23ffffff; text-decoration:none;=22>BOOM=21 GET AN EXTRA 10% OFF T=
+HE UP-TO-70%-OFF SALE=21</a></td>
+            </tr>
+            <tr>
+              <td style=3D=22border-right: solid =23158964 1px;=22 height=
+=3D=221=22></td>
+            </tr>
+            <tr>
+              <td class=3D=22ShippingBannerCopySmall=22 align=3D=22center=
+=22 style=3D=22font-size:10px;font-family: Arial, sans-serif; font-weight:1=
+00; line-height:13px;letter-spacing:0=2E1pt =21important;color:=235b5b5b; p=
+adding-bottom:5px; text-transform:uppercase; =22><a href=3D=22https://fashi=
+on=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqE=
+egYoEzcqHjGikBwNbhVXtpKX%3DBCAYDTY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M=
+_aUq6x_tqgTUqux1jjWCH8F90CNusa2wZBsTGaGLqQygGY=2E=22 style=3D=22color:=23ff=
+ffff; text-decoration:none;=22>ENTER PROMO CODE <strong>ADD10</strong> AT C=
+HECKOUT*</a></td>
+            </tr>
+
+          </table></td>
+      </tr>
+    </table></td>
+</tr>
+<tr>
+  <td width=3D=22728=22 class=3D=22resizemob=22 align=3D=22center=22 style=
+=3D=22 border-top: solid =23d0d0d0 1px; font-size:1px;=22>&nbsp;</td>
+</tr>
+
+<=21--NEW LIVE TEXT BANNER ENDS-->
+       =20
+=20
+
+<=21--LOGO STARTS-->
+
+<tr>
+  <td><table align=3D=22center=22 class=3D=22resize300=22 border=3D=220=22 =
+cellspacing=3D=220=22 cellpadding=3D=220=22>
+      <tr>
+        <td width=3D=22300=22 align=3D=22center=22><a href=3D=22https://fas=
+hion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJ=
+qEegYoEzcqHjGikBwNbhVXtpKX%3DBCAYTCY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwa=
+lz45MkESeg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc9bgqEmbKM=2E=22><img src=3D=22https:=
+//gallery=2Emailchimp=2Ecom/febe49dc5e6ff6dff3dd05d80/images/88fb161e-3844-=
+4bdd-a423-1a3fdb10e0b5=2Ejpg=22 alt=3D=22Discover fashion online - ASOS=22 =
+width=3D=22300=22 height=3D=2258=22 border=3D=220=22 style=3D=22display:blo=
+ck; color:=23000001;font: 16px Arial, Helvetica, sans-serif; text-decoratio=
+n:none;=22 class=3D=22resize300=22/> </a></td>
+      </tr>
+    </table></td>
+</tr>
+
+<=21--LOGO ENDS-->
+       =20
+       =20
+
+<=21--TOP NAV WITH 4 ITEMS STARTS-->
+
+<tr>
+  <td><table class=3D=22resizemob=22 align=3D=22center=22 border=3D=220=22 =
+cellspacing=3D=220=22 cellpadding=3D=220=22 >
+      <tr>
+        <td align=3D=22center=22 class=3D=22NavItem=22 style=3D=22font-size=
+:12px;font-family:Futura, Arial, sans-serif;  letter-spacing:0=2E5pt =21imp=
+ortant;color:=23000001;=22><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc=
+?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtp=
+KX%3DBCAYCAY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwalz45MkESeg7sFcYG3cLmgy_V=
+eMN5rY8ug3BBrpc9bgqEmbKM=2E=22 style=3D=22color:=23000001; text-decoration:=
+none;=22>New In</a></td>
+        <td width=3D=2210=22 class=3D=22nomob=22></td>
+        <td width=3D=2210=22 class=3D=22nomob=22></td>
+        <td align=3D=22center=22 class=3D=22NavItem=22 style=3D=22font-size=
+:12px;font-family:Futura, Arial, sans-serif;  letter-spacing:0=2E5pt =21imp=
+ortant;color:=23000001;=22><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc=
+?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtp=
+KX%3DBCAYDRY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwalz45MkESeg7sFcYG3cLmgy_V=
+eMN5rY8ug3BBrpc9bgqEmbKM=2E=22 style=3D=22color:=23000001; text-decoration:=
+none;=22>Dresses</a></td>
+        <td width=3D=2210=22 class=3D=22nomob=22></td>
+        <td width=3D=2210=22 class=3D=22nomob=22></td>
+        <td align=3D=22center=22 class=3D=22NavItem=22 style=3D=22font-size=
+:12px;font-family:Futura, Arial, sans-serif;  letter-spacing:0=2E5pt =21imp=
+ortant;color:=23000001;=22><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc=
+?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtp=
+KX%3DBCAYDTY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwalz45MkESeg7sFcYG3cLmgy_V=
+eMN5rY8ug3BBrpc9bgqEmbKM=2E=22 style=3D=22color:=23F63B46; text-decoration:=
+none;=22>Sale</a></td>
+        <td width=3D=2210=22 class=3D=22nomob=22></td>
+        <td width=3D=2210=22 class=3D=22nomob=22></td>
+        <td align=3D=22center=22 class=3D=22nomob=22 style=3D=22font-size:1=
+2px;font-family:Futura, Arial, sans-serif;  letter-spacing:0=2E5pt =21impor=
+tant;color:=23000001;=22><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_=
+ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX=
+%3DBCAYDWY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwalz45MkESeg7sFcYG3cLmgy_VeM=
+N5rY8ug3BBrpc9bgqEmbKM=2E=22 style=3D=22color:=23000001; text-decoration:no=
+ne;=22>Coats & Jackets</a></td>
+      </tr>
+    </table></td>
+</tr>
+<tr>
+  <td class=3D=22mobSpacer5=22 height=3D=2210=22></td>
+</tr>
+<=21--TOP NAV WITH 4 ITEMS ENDS-->=20
+
+<=21--SOLID LINE STARTS-->
+
+<tr>
+  <td><table align=3D=22center=22 cellspacing=3D=220=22 cellpadding=3D=220=
+=22>
+      <tr>
+        <td width=3D=22728=22 class=3D=22resize300=22 align=3D=22center=22 =
+style=3D=22 border-top: solid =23000000 1px; font-size:1px;=22>&nbsp;</td>
+      </tr>
+    </table></td>
+</tr>
+
+<=21--SOLID LINE ENDS-->
+       =20
+    <tr><td height=3D=228=22></td></tr>   =20
+       =20
+
+        <=21-- BODY CONTENT HERE -->=20
+      =20
+ =20
+       =20
+     <=21--LARGE COPY SECTION STARTS-->
+
+<tr>
+  <td><table align=3D=22center=22 cellspacing=3D=220=22 cellpadding=3D=220=
+=22 width=3D=22100%=22 class=3D=22emailMobileMaxWidth=22>
+      <tr>
+        <td class=3D=22mobSpacer25=22 height=3D=2225=22></td>
+      </tr>
+     =20
+    =20
+      <=21--HEADER STARTS-->
+      <tr>
+        <td mc:edit=3D=22largecopy1header=22 align=3D=22center=22 style=3D=
+=22font-size:30px;font-family:Arial;line-height:36px;font-weight:bold;text-=
+align:center;text-transform:uppercase;color:=23000001; padding-left:2px; pa=
+dding-right:2px;=22><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3D=
+BCAYDAY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgTUqux1jjWCH8F90CN=
+usa2wZBsTGaGLqQygGY=2E=22 style=3D=22color:=23000001; text-decoration:none=
+=22 target=3D=22_blank=22>Just keep swimming</a></td>
+      </tr>
+      <tr>
+        <td height=3D=228=22></td>
+      </tr>
+      <=21--HEADER ENDS-->=20
+      <=21--BODY COPY STARTS-->
+      <tr>
+        <td mc:edit=3D=22largecopy1copy=22 align=3D=22center=22 style=3D=22=
+font-size:12px;font-family: Arial;line-height:16px;letter-spacing:0pt;color=
+:=23000001; padding-left:2px; padding-right:2px;=22><a href=3D=22https://fa=
+shion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPo=
+JqEegYoEzcqHjGikBwNbhVXtpKX%3DBCAYDAY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZ=
+O0M_aUq6x_tqgTUqux1jjWCH8F90CNusa2wZBsTGaGLqQygGY=2E=22 style=3D=22color:=
+=23000001; text-decoration:none=22 target=3D=22_blank=22>One if by pool, tw=
+o if by beach, and three if you darn well please=2E With a sea of swimsuit =
+options like this, you won&=2339;t have to stress about being a fashion rep=
+eat offender=2E</a></td>
+      </tr>
+      <tr>
+        <td height=3D=2215=22></td>
+      </tr>
+      <=21--BODY COPY ENDS-->=20
+      <=21--CTA STARTS-->
+     =20
+      <tr>
+        <td mc:edit=3D=22largecopy1cta=22 align=3D=22center=22><table align=
+=3D=22center=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=
+=22>
+            <tr>
+              <td align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=
+=220=22 style=3D=22font-size:12px;line-height:12px; border:3px solid =23000=
+000; font-family:Arial; letter-spacing:1px; color:=23000000; background-col=
+or:=23ffffff; text-decoration:none; text-transform:uppercase;padding-bottom=
+:7px; padding-top:7px; padding-left:10px; padding-right:10px;font-weight:bo=
+ld;=22><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQ=
+pglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCAYDAY&_ei_=3D=
+EolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgTUqux1jjWCH8F90CNusa2wZBsTGaGLqQ=
+ygGY=2E=22 target=3D=22_blank=22 style=3D=22color:=23000001; text-decoratio=
+n:none=22>SHOP SWIMWEAR&nbsp;<span style=3D=22font-size:15px;=22>&rsaquo;</=
+span></a></td>
+            </tr>
+          </table></td>
+      </tr>
+      <tr>
+        <td height=3D=2220=22></td>
+      </tr>
+      <=21--CTA ENDS-->
+    </table></td>
+</tr>
+
+<=21--LARGE COPY SECTION ENDS-->=20
+=20
+   <=21--EDIT GRID STARTS-->
+        <tr><td><table align=3D=22center=22>
+        <tr>
+          <td><table align=3D=22center=22 cellpadding=3D=220=22 cellspacing=
+=3D=220=22 border=3D=220=22 bgcolor=3D=22=23FFFFFF=22 class=3D=22emailMobil=
+eMaxWidth=22 width=3D=22728=22>
+              <tr>
+                <td valign=3D=22top=22 align=3D=22center=22 bgcolor=3D=22=
+=23ffffff=22 width=3D=22176=22 colspan=3D=221=22 class=3D=22emailMobileHide=
+=22><table cellpadding=3D=220=22 cellspacing=3D=220=22 border=3D=220=22 bgc=
+olor=3D=22=23FFFFFF=22 class=3D=22emailMobileHide=22 width=3D=22176=22>
+                   =20
+                    <=21--PRODUCT 1 DESKTOP ONLY STARTS-->
+                    <tr>
+                      <td><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?=
+_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpK=
+X%3DBCAYDCY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgTUqux1jjWCH8F=
+90CNusa2wZBsTGaGLqQygGY=2E=22 target=3D=22_blank=22 style=3D=22color:=23000=
+001; text-decoration:none=22><img mc:edit=3D=22editimage11=22 src=3D=22http=
+s://gallery=2Emailchimp=2Ecom/febe49dc5e6ff6dff3dd05d80/images/3837cbc9-6f8=
+1-490d-9227-354e5d5dc3de=2Ejpg=22 border=3D=220=22 class=3D=22emailMobileMa=
+xWidth=22 alt=3D=22Shop Bikinis=22 width=3D=22176=22 height=3D=22225=22 sty=
+le=3D=22display:block; color:=23000001;font: 14px Arial; text-decoration:no=
+ne; width:176; height:225;=22></a></td>
+                    </tr>
+                    <tr>
+                      <td mc:edit=3D=22editcopy11=22 height=3D=2224=22 alig=
+n=3D=22center=22 valign=3D=22middle=22 style=3D=22font-family: Arial; font-=
+size: 10px; color: =23001; font-weight: normal; text-transform: none; line-=
+height: 11px; padding-left:3px; padding-right:3px; padding-top:3px;=22><a h=
+ref=3D=22https://fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQG=
+ryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCAYDCY&_ei_=3DEolaGGF4SNM=
+vxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgTUqux1jjWCH8F90CNusa2wZBsTGaGLqQygGY=2E=22 =
+style=3D=22color:=23000001; text-decoration:none=22 target=3D=22_blank=22><=
+strong>Shop Bikinis &rsaquo;</strong></a></td>
+                    </tr>
+                    <=21--PRODUCT 1 DESKTOP ONLY ENDS-->
+                   =20
+                    <tr class=3D=22emailMobileHide=22>
+                      <td width=3D=22176=22 height=3D=225=22 colspan=3D=221=
+=22 class=3D=22emailMobileHide=22></td>
+                    </tr>
+                   =20
+                    <=21--PRODUCT 2 DESKTOP ONLY STARTS-->
+                    <tr>
+                      <td><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?=
+_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpK=
+X%3DBCAARRY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgTUqux1jjWCH8F=
+90CNusa2wZBsTGaGLqQygGY=2E=22 target=3D=22_blank=22 style=3D=22color:=23000=
+001; text-decoration:none=22><img mc:edit=3D=22editimage22=22 src=3D=22http=
+s://gallery=2Emailchimp=2Ecom/febe49dc5e6ff6dff3dd05d80/images/7e6634b4-62e=
+2-4836-af06-499352a7b051=2Ejpg=22 border=3D=220=22 class=3D=22emailMobileMa=
+xWidth=22 alt=3D=22Shop High Waisted Bikinis=22 width=3D=22176=22 height=3D=
+=22225=22 style=3D=22display:block; color:=23000001;font: 14px Arial; text-=
+decoration:none; width:176; height:225;=22></a></td>
+                    </tr>
+                    <tr>
+                      <td mc:edit=3D=22editcopy22=22 height=3D=2224=22 alig=
+n=3D=22center=22 valign=3D=22middle=22 style=3D=22font-family: Arial; font-=
+size: 10px; color: =23001; font-weight: normal; text-transform: none; line-=
+height: 11px; padding-left:3px; padding-right:3px; padding-top:3px;=22><a h=
+ref=3D=22https://fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQG=
+ryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCAARRY&_ei_=3DEolaGGF4SNM=
+vxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgTUqux1jjWCH8F90CNusa2wZBsTGaGLqQygGY=2E=22 =
+style=3D=22color:=23000001; text-decoration:none=22 target=3D=22_blank=22><=
+strong>Shop High-Waisted Bikinis &rsaquo;</strong></a></td>
+                    </tr>
+                    <=21--PRODUCT 2 DESKTOP ONLY ENDS-->
+                   =20
+                  </table></td>
+                <td width=3D=228=22 height=3D=228=22 style=3D=22border-coll=
+apse: collapse;=22 class=3D=22emailMobileHide=22></td>
+                <td valign=3D=22top=22 align=3D=22center=22 bgcolor=3D=22=
+=23ffffff=22 width=3D=22360=22 colspan=3D=221=22 class=3D=22emailPadLargeCe=
+ll=22><table class=3D=22emailMobileMaxWidth=22 cellpadding=3D=220=22 cellsp=
+acing=3D=220=22 border=3D=220=22>
+                    <=21--MAIN IMAGE STARTS-->
+                    <tr>
+                      <td><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?=
+_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpK=
+X%3DBCAYDAY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgTUqux1jjWCH8F=
+90CNusa2wZBsTGaGLqQygGY=2E=22 target=3D=22_blank=22 style=3D=22color:=23000=
+001; text-decoration:none=22><img mc:edit=3D=22editmainimage=22 src=3D=22ht=
+tps://gallery=2Emailchimp=2Ecom/febe49dc5e6ff6dff3dd05d80/images/02f8fff5-0=
+f58-4a2a-9ad8-98386dbbb012=2Ejpg=22 border=3D=220=22 class=3D=22emailMobile=
+MaxWidth=22 alt=3D=22Shop Swimwear=22 width=3D=22360=22 height=3D=22482=22 =
+style=3D=22display:block; color:=23000001;font: 14px Arial; text-decoration=
+:none;=22></a></td>
+                    </tr>
+                    <=21--MAIN IMAGE ENDS-->
+                  </table></td>
+                <td width=3D=228=22 height=3D=228=22 style=3D=22border-coll=
+apse: collapse;=22 class=3D=22emailMobileHide=22></td>
+                <td valign=3D=22top=22 align=3D=22center=22 bgcolor=3D=22=
+=23ffffff=22 width=3D=22176=22 height=3D=228=22 colspan=3D=221=22 class=3D=
+=22emailFullWidthHeightFloat=22><table cellpadding=3D=220=22 cellspacing=3D=
+=220=22 border=3D=220=22 bgcolor=3D=22=23FFFFFF=22 class=3D=22emailMobileMa=
+xWidth=22 width=3D=22176=22>
+                    <tr class=3D=22emailRowCellToRowColumn=22>
+                      <td valign=3D=22top=22 align=3D=22center=22 bgcolor=
+=3D=22=23ffffff=22 width=3D=22176=22 colspan=3D=221=22 class=3D=22emailFull=
+WidthFloat=22><table class=3D=22emailMobileMaxWidth=22 cellpadding=3D=220=
+=22 cellspacing=3D=220=22 border=3D=220=22>
+                          <=21--PRODUCT 3 STARTS-->
+                          <tr>
+                            <td><a href=3D=22https://fashion=2Easos=2Ecom/p=
+ub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNb=
+hVXtpKX%3DBCAARTY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgTUqux1j=
+jWCH8F90CNusa2wZBsTGaGLqQygGY=2E=22 target=3D=22_blank=22 style=3D=22color:=
+=23000001; text-decoration:none=22><img mc:edit=3D=22editimage33=22 src=3D=
+=22https://gallery=2Emailchimp=2Ecom/febe49dc5e6ff6dff3dd05d80/images/d121b=
+d9c-8e64-4b11-af9f-cc81b3876d94=2Ejpg=22 border=3D=220=22 class=3D=22emailM=
+obileMaxWidth=22 alt=3D=22Shop Swimsuits=22 width=3D=22176=22 height=3D=222=
+25=22 style=3D=22display:block; color:=23000001;font: 14px Arial; text-deco=
+ration:none; width:176; height:225;=22></a></td>
+                          </tr>
+                          <tr>
+                            <td mc:edit=3D=22editcopy33=22 height=3D=2224=
+=22 align=3D=22center=22 valign=3D=22middle=22 style=3D=22font-family: Aria=
+l; font-size: 10px; color: =23001; font-weight: normal; text-transform: non=
+e; line-height: 11px; padding-left:3px; padding-right:3px; padding-top:3px;=
+=22><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpgl=
+LjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCAARTY&_ei_=3DEol=
+aGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgTUqux1jjWCH8F90CNusa2wZBsTGaGLqQygG=
+Y=2E=22 style=3D=22color:=23000001; text-decoration:none=22 target=3D=22_bl=
+ank=22><strong>Shop One-Piece Swimsuits &rsaquo;</strong></a></td>
+                          </tr>
+                          <=21--PRODUCT 3 ENDS-->
+                        </table></td>
+                    </tr>
+                    <tr class=3D=22emailRowToColumn=22>
+                      <td width=3D=22176=22 height=3D=225=22 colspan=3D=221=
+=22 class=3D=22emailRowToColumnSpacer=22></td>
+                    </tr>
+                    <tr class=3D=22emailRowCellToRowColumn=22>
+                      <td valign=3D=22top=22 align=3D=22center=22 bgcolor=
+=3D=22=23ffffff=22 width=3D=22176=22 colspan=3D=221=22 class=3D=22emailFull=
+WidthFloat=22><table class=3D=22emailMobileMaxWidth=22 cellpadding=3D=220=
+=22 cellspacing=3D=220=22 border=3D=220=22>
+                          <=21--PRODUCT 4 STARTS-->
+                          <tr>
+                            <td><a href=3D=22https://fashion=2Easos=2Ecom/p=
+ub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNb=
+hVXtpKX%3DBCAARWY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgTUqux1j=
+jWCH8F90CNusa2wZBsTGaGLqQygGY=2E=22 target=3D=22_blank=22 style=3D=22color:=
+=23000001; text-decoration:none=22><img mc:edit=3D=22editimage44=22 src=3D=
+=22https://gallery=2Emailchimp=2Ecom/febe49dc5e6ff6dff3dd05d80/images/42ffe=
+9a0-d5f9-40b9-885b-1e41bc6e25f3=2Ejpg=22 border=3D=220=22 class=3D=22emailM=
+obileMaxWidth=22 alt=3D=22Shop Mix and Match=22 width=3D=22176=22 height=3D=
+=22225=22 style=3D=22display:block; color:=23000001;font: 14px Arial; text-=
+decoration:none; width:176; height:225;=22></a></td>
+                          </tr>
+                          <tr>
+                            <td mc:edit=3D=22editcopy44=22 height=3D=2224=
+=22 align=3D=22center=22 valign=3D=22middle=22 style=3D=22font-family: Aria=
+l; font-size: 10px; color: =23001; font-weight: normal; text-transform: non=
+e; line-height: 11px; padding-left:3px; padding-right:3px; padding-top:3px;=
+=22><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpgl=
+LjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCAARWY&_ei_=3DEol=
+aGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgTUqux1jjWCH8F90CNusa2wZBsTGaGLqQygG=
+Y=2E=22 style=3D=22color:=23000001; text-decoration:none=22 target=3D=22_bl=
+ank=22><strong>Shop Mix &amp; Match &rsaquo;</strong></a></td>
+                          </tr>
+                          <=21--PRODUCT 4 ENDS-->
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+       =20
+        <=21--MOBILE ONLY SECTION STARTS-->
+       =20
+        <tr>
+          <td class=3D=22mobSpacer5=22 height=3D=220=22></td>
+        </tr>
+        <tr class=3D=22mobileOnly=22>
+          <td class=3D=22emailFullWidthFloat=22><table cellpadding=3D=220=
+=22 cellspacing=3D=220=22 border=3D=220=22 bgcolor=3D=22=23FFFFFF=22 class=
+=3D=22emailMobileMaxWidth=22 width=3D=22360=22>
+              <tr>
+                <td valign=3D=22top=22 align=3D=22center=22 bgcolor=3D=22=
+=23ffffff=22 width=3D=22176=22 colspan=3D=221=22 class=3D=22emailMobileDoub=
+leColTwoSingleCell=22><table align=3D=22center=22 class=3D=22emailMobileMax=
+Width=22 cellpadding=3D=220=22 cellspacing=3D=220=22 border=3D=220=22>
+                   =20
+                    <=21--PRODUCT 1 MOBILE STARTS-->
+                    <tr>
+                      <td>
+                      <a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3D=
+BCAYDCY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgTUqux1jjWCH8F90CN=
+usa2wZBsTGaGLqQygGY=2E=22 target=3D=22_blank=22 style=3D=22color:=23000001;=
+ text-decoration:none=22>
+                      <div class=3D=22mob-only=22 style=3D=22display:none; =
+width:0px; overflow:hidden;=22><img mc:edit=3D=22editimage55=22 src=3D=22ht=
+tps://gallery=2Emailchimp=2Ecom/febe49dc5e6ff6dff3dd05d80/images/3837cbc9-6=
+f81-490d-9227-354e5d5dc3de=2Ejpg=22 border=3D=220=22 class=3D=22emailMobile=
+MaxWidth=22 alt=3D=22Shop Bikinis=22 width=3D=220=22 height=3D=220=22 style=
+=3D=22display:block; color:=23000001;font: 14px Arial; text-decoration:none=
+;=22></div></a></td>
+                    </tr>
+                   =20
+                    <tr align=3D=22center=22 class=3D=22mobileOnly=22>
+                      <td mc:edit=3D=22editcopy55=22 class=3D=22mobileCopy=
+=22 align=3D=22center=22 valign=3D=22middle=22 style=3D=22font-family: Aria=
+l; font-size: 0px; letter-spacing:0px; color: =23001; font-weight: normal; =
+text-transform: none; line-height: 0px;=22>
+                      <a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3D=
+BCAYDCY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgTUqux1jjWCH8F90CN=
+usa2wZBsTGaGLqQygGY=2E=22 target=3D=22_blank=22 style=3D=22color:=23000001;=
+ text-decoration:none=22><div class=3D=22mob-only=22 style=3D=22display:non=
+e; width:0px; overflow:hidden;=22>
+                      <strong>Shop Bikinis &rsaquo;</strong></div></a>
+                      </td>
+                    </tr>
+                    <=21--PRODUCT 1 MOBILE ENDS-->
+                   =20
+                  </table></td>
+                <td width=3D=228=22 style=3D=22border-collapse: collapse;=
+=22></td>
+                <td valign=3D=22top=22 align=3D=22center=22 bgcolor=3D=22=
+=23ffffff=22 width=3D=22176=22 colspan=3D=221=22 class=3D=22emailMobileDoub=
+leColTwoSingleCell=22><table class=3D=22emailMobileMaxWidth=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22 border=3D=220=22>
+                   =20
+                    <=21--PRODUCT 2 MOBILE STARTS-->
+                    <tr>
+                      <td>
+                      <a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3D=
+BCAARRY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgTUqux1jjWCH8F90CN=
+usa2wZBsTGaGLqQygGY=2E=22 target=3D=22_blank=22 style=3D=22color:=23000001;=
+ text-decoration:none=22>
+                      <div class=3D=22mob-only=22 style=3D=22display:none; =
+width:0px; overflow:hidden;=22><img mc:edit=3D=22editimage66=22 src=3D=22ht=
+tps://gallery=2Emailchimp=2Ecom/febe49dc5e6ff6dff3dd05d80/images/7e6634b4-6=
+2e2-4836-af06-499352a7b051=2Ejpg=22 border=3D=220=22 class=3D=22emailMobile=
+MaxWidth=22 alt=3D=22Shop High Waisted Bikinis=22 width=3D=220=22 height=3D=
+=220=22 style=3D=22display:block; color:=23000001;font: 14px Arial; text-de=
+coration:none;=22></div></a></td>
+                    </tr>
+                   =20
+                    <tr align=3D=22center=22 class=3D=22mobileOnly=22>
+                      <td mc:edit=3D=22editcopy66=22 class=3D=22mobileCopy=
+=22 align=3D=22center=22 valign=3D=22middle=22 style=3D=22font-family: Aria=
+l; font-size: 0px; letter-spacing:0px; color: =23001; font-weight: normal; =
+text-transform: none; line-height: 0px;=22>
+                      <a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3D=
+BCAARRY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgTUqux1jjWCH8F90CN=
+usa2wZBsTGaGLqQygGY=2E=22 target=3D=22_blank=22 style=3D=22color:=23000001;=
+ text-decoration:none=22>
+                      <div class=3D=22mob-only=22 style=3D=22display:none; =
+width:0px; overflow:hidden;=22>
+                      <strong>Shop High-Waisted Bikinis &rsaquo;</strong></=
+div></a>
+                      </td>
+                    </tr>
+                    <=21--PRODUCT 2 MOBILE ENDS-->
+                   =20
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+        <=21--MOBILE ONLY SECTION ENDS-->=20
+       =20
+        <=21--EDIT GRID ENDS-->=20
+        </table></td></tr>
+
+
+
+<=21--SOLID LINE STARTS-->
+
+
+<tr>
+  <td class=3D=22mobSpacer10=22 height=3D=2215=22></td>
+</tr>
+<tr>
+  <td><table align=3D=22center=22 cellspacing=3D=220=22 cellpadding=3D=220=
+=22>
+      <tr>
+        <td width=3D=22728=22 class=3D=22resize300=22 align=3D=22center=22 =
+style=3D=22 border-top: solid =23d0d0d0 1px; font-size:1px;=22>&nbsp;</td>
+      </tr>
+    </table></td>
+</tr>
+<tr>
+  <td class=3D=22mobSpacer10=22 height=3D=2220=22></td>
+</tr>
+<=21--SOLID LINE ENDS-->=20
+
+ <=21--360X360 SQUARES STARTS-->
+
+<tr>
+  <td><table align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=
+=22 border=3D=220=22 width=3D=22728=22 class=3D=22emailMobileMaxWidth=22>
+      <tr>
+        <td valign=3D=22top=22 class=3D=22emailFullWidthFloat=22><table cel=
+lpadding=3D=220=22 cellspacing=3D=220=22 border=3D=220=22 bgcolor=3D=22=23F=
+FFFFF=22 class=3D=22emailMobileMaxWidth=22 width=3D=22360=22>
+            <tr valign=3D=22top=22>
+              <td valign=3D=22top=22 align=3D=22center=22 bgcolor=3D=22=23f=
+fffff=22 width=3D=22360=22 height=3D=228=22 colspan=3D=221=22><table class=
+=3D=22emailMobileMaxWidth=22 cellpadding=3D=220=22 cellspacing=3D=220=22 bo=
+rder=3D=220=22>
+                  <=21--IMAGE 1 STARTS-->
+                  <tr>
+                    <td><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_r=
+i_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%=
+3DBCDWWWY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgTUqux1jjWCH8F90=
+CNusa2wZBsTGaGLqQygGY=2E=22 target=3D=22_blank=22 style=3D=22color:=2300000=
+1; text-decoration:none=22><img mc:edit=3D=222squaresimage1=22 src=3D=22htt=
+ps://gallery=2Emailchimp=2Ecom/febe49dc5e6ff6dff3dd05d80/images/39eba34f-ef=
+70-4807-91a0-f9f4578be956=2Ejpg=22 border=3D=220=22 class=3D=22emailMobileM=
+axWidth=22 alt=3D=22Solar Flare=22 width=3D=22360=22 height=3D=22360=22 sty=
+le=3D=22display:block; color:=23000001;font: 14px Arial; text-decoration:no=
+ne;=22></a></td>
+                  </tr>
+                </table></td>
+            </tr>
+            <=21--IMAGE 1 ENDS-->
+           =20
+            <tr>
+              <td width=3D=22360=22 height=3D=228=22 colspan=3D=221=22></td>
+            </tr>
+            <tr>
+              <td valign=3D=22top=22 align=3D=22center=22 bgcolor=3D=22ffff=
+ff=22 width=3D=22360=22 height=3D=22100=22 colspan=3D=221=22><table cellpad=
+ding=3D=220=22 cellspacing=3D=220=22 border=3D=220=22 class=3D=22emailMobil=
+eMaxHeight=22>
+                  <tr>
+                    <td><table cellpadding=3D=220=22 cellspacing=3D=220=22 =
+border=3D=220=22 class=3D=22emailMobileStyledContentCell=22>
+                        <tr>
+                          <td height=3D=2215=22></td>
+                        </tr>
+                      =20
+                        <=21--HEADER STARTS-->
+                        <tr>
+                          <td mc:edit=3D=222squaresheader1=22 align=3D=22ce=
+nter=22 width=3D=22330=22 style=3D=22font-size:20px;font-family:Arial;line-=
+height:22px;font-weight:bold;text-align:center;text-transform:uppercase;col=
+or:=23000001; padding-left:2px; padding-right:2px;=22><a href=3D=22https://=
+fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiX=
+PoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCDWWWY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_s=
+ZZO0M_aUq6x_tqgTUqux1jjWCH8F90CNusa2wZBsTGaGLqQygGY=2E=22 style=3D=22color:=
+=23000001; text-decoration:none=22 target=3D=22_blank=22>Solar Flare</a></t=
+d>
+                        </tr>
+                        <tr>
+                          <td height=3D=228=22></td>
+                        </tr>
+                        <=21--HEADER ENDS-->=20
+                        <=21--BODY COPY STARTS-->
+                        <tr>
+                          <td mc:edit=3D=222squarescopy1=22 align=3D=22cent=
+er=22 width=3D=22330=22 style=3D=22font-size:12px;font-family: Arial;line-h=
+eight:16px;letter-spacing:0pt;color:=23000001; padding-left:2px; padding-ri=
+ght:2px;=22>Beat the gleam in a pair of statement sunnies &mdash; It&=2339;=
+s all the eye makeup you&=2339;ll need this summer=2E</td>
+                        </tr>
+                        <tr>
+                          <td height=3D=2215=22></td>
+                        </tr>
+                        <=21--BODY COPY ENDS-->=20
+                        <=21--CTA STARTS-->
+                       =20
+                        <tr>
+                          <td align=3D=22center=22><table align=3D=22center=
+=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                              <tr>
+                                <td mc:edit=3D=221squarescta1=22 align=3D=
+=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22font-si=
+ze:12px;line-height:12px; border:3px solid =23000000; font-family:Arial; le=
+tter-spacing:1px; color:=23000000; background-color:=23ffffff; text-decorat=
+ion:none; text-transform:uppercase;padding-bottom:7px; padding-top:7px; pad=
+ding-left:10px; padding-right:10px;font-weight:bold;=22><a href=3D=22https:=
+//fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMP=
+iXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCDWWWY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC=
+_sZZO0M_aUq6x_tqgTUqux1jjWCH8F90CNusa2wZBsTGaGLqQygGY=2E=22 target=3D=22_bl=
+ank=22 style=3D=22color:=23000001; text-decoration:none=22>SHOP SUNGLASSES&=
+nbsp;<span style=3D=22font-size:15px;=22>&rsaquo;</span></a></td>
+                              </tr>
+                            </table></td>
+                        </tr>
+                       =20
+                        <=21--CTA ENDS-->
+                        <tr>
+                          <td height=3D=2215=22></td>
+                        </tr>
+                      </table></td>
+                  </tr>
+                </table></td>
+            </tr>
+          </table></td>
+        <td width=3D=228=22 style=3D=22border-collapse: collapse;=22 class=
+=3D=22emailTableSpacer=22></td>
+        <td valign=3D=22top=22 class=3D=22emailFullWidthFloat=22><table cel=
+lpadding=3D=220=22 cellspacing=3D=220=22 border=3D=220=22 bgcolor=3D=22=23F=
+FFFFF=22 class=3D=22emailMobileMaxWidth=22 width=3D=22360=22>
+           =20
+            <=21--IMAGE 2 STARTS-->
+            <tr>
+              <td valign=3D=22top=22 align=3D=22center=22 bgcolor=3D=22=23f=
+fffff=22 width=3D=22360=22 height=3D=228=22 colspan=3D=221=22><table class=
+=3D=22emailMobileMaxWidth=22 cellpadding=3D=220=22 cellspacing=3D=220=22 bo=
+rder=3D=220=22>
+                  <tr>
+                    <td><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_r=
+i_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%=
+3DBCDWWAY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgTUqux1jjWCH8F90=
+CNusa2wZBsTGaGLqQygGY=2E=22 target=3D=22_blank=22 style=3D=22color:=2300000=
+1; text-decoration:none=22><img mc:edit=3D=222squaresimage2=22 src=3D=22htt=
+ps://gallery=2Emailchimp=2Ecom/febe49dc5e6ff6dff3dd05d80/images/c4b7bee0-39=
+62-482d-bf06-30e2cf651c85=2Ejpg=22 border=3D=220=22 class=3D=22emailMobileM=
+axWidth=22 alt=3D=22Espadrilles=22 width=3D=22360=22 height=3D=22360=22 sty=
+le=3D=22display:block; color:=23000001;font: 14px Arial; text-decoration:no=
+ne;=22></a></td>
+                  </tr>
+                </table></td>
+            </tr>
+            <=21--IMAGE 2 ENDS-->
+           =20
+           <tr>
+              <td width=3D=22360=22 height=3D=228=22 colspan=3D=221=22></td>
+            </tr>
+            <tr>
+              <td valign=3D=22top=22 align=3D=22center=22 bgcolor=3D=22ffff=
+ff=22 width=3D=22360=22 colspan=3D=221=22><table cellpadding=3D=220=22 cell=
+spacing=3D=220=22 border=3D=220=22 class=3D=22emailMobileMaxHeight=22>
+                  <tr>
+                    <td><table cellpadding=3D=220=22 cellspacing=3D=220=22 =
+border=3D=220=22 class=3D=22emailMobileStyledContentCell=22>
+                        <tr>
+                          <td height=3D=2215=22></td>
+                        </tr>
+                     =20
+                        <=21--HEADER STARTS-->
+                        <tr>
+                          <td mc:edit=3D=222squaresheader2=22 align=3D=22ce=
+nter=22 width=3D=22330=22 style=3D=22font-size:20px;font-family:Arial; line=
+-height:22px;font-weight:bold;text-align:center;text-transform:uppercase;co=
+lor:=23000001; padding-left:2px; padding-right:2px;=22><a href=3D=22https:/=
+/fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPi=
+XPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCDWWAY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_=
+sZZO0M_aUq6x_tqgTUqux1jjWCH8F90CNusa2wZBsTGaGLqQygGY=2E=22 style=3D=22color=
+:=23000001; text-decoration:none=22 target=3D=22_blank=22>ESPAD-Realness</a=
+></td>
+                        </tr>
+                        <tr>
+                          <td height=3D=228=22></td>
+                        </tr>
+                        <=21--HEADER ENDS-->=20
+                        <=21--BODY COPY STARTS-->
+                        <tr>
+                          <td mc:edit=3D=222squarescopy2=22 align=3D=22cent=
+er=22 width=3D=22330=22 style=3D=22font-size:12px;font-family: Arial;line-h=
+eight:16px;letter-spacing:0pt;color:=23000001; padding-left:2px; padding-ri=
+ght:2px;=22><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X=
+%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCDWWAY&_e=
+i_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgTUqux1jjWCH8F90CNusa2wZBsTG=
+aGLqQygGY=2E=22 style=3D=22color:=23000001; text-decoration:none=22 target=
+=3D=22_blank=22>Meet your does-it-all shoe for the beach, music festival, t=
+he boardwalk and beyond=2E Plays well with every warm-weather outfit you dr=
+eam up=2E Promise=2E</a></td>
+                        </tr>
+                        <tr>
+                          <td height=3D=2215=22></td>
+                        </tr>
+                        <=21--BODY COPY ENDS-->=20
+                        <=21--CTA STARTS-->
+                       =20
+                        <tr>
+                          <td mc:edit=3D=222squarescta1=22 align=3D=22cente=
+r=22><table align=3D=22center=22 border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22>
+                              <tr>
+                                <td align=3D=22center=22 cellpadding=3D=220=
+=22 cellspacing=3D=220=22 style=3D=22font-size:12px;line-height:12px; borde=
+r:3px solid =23000000; font-family:Arial; letter-spacing:1px; color:=230000=
+00; background-color:=23ffffff; text-decoration:none; text-transform:upperc=
+ase;padding-bottom:7px; padding-top:7px; padding-left:10px; padding-right:1=
+0px;font-weight:bold;=22><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_=
+ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX=
+%3DBCDWWAY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgTUqux1jjWCH8F9=
+0CNusa2wZBsTGaGLqQygGY=2E=22 target=3D=22_blank=22 style=3D=22color:=230000=
+01; text-decoration:none=22>Get Inspired&nbsp;<span style=3D=22font-size:15=
+px;=22>&rsaquo;</span></a></td>
+                              </tr>
+                            </table></td>
+                        </tr>
+                       =20
+                        <=21--CTA ENDS-->
+                        <tr>
+                          <td height=3D=2210=22></td>
+                        </tr>
+                        <=21--CTA STARTS-->
+                       =20
+                        <tr>
+                          <td mc:edit=3D=222squarescta100=22 align=3D=22cen=
+ter=22><table align=3D=22center=22 border=3D=220=22 cellspacing=3D=220=22 c=
+ellpadding=3D=220=22>
+                              <tr>
+                                <td align=3D=22center=22 cellpadding=3D=220=
+=22 cellspacing=3D=220=22 style=3D=22font-size:12px;line-height:12px; borde=
+r:3px solid =23000000; font-family:Arial; letter-spacing:1px; color:=230000=
+00; background-color:=23ffffff; text-decoration:none; text-transform:upperc=
+ase;padding-bottom:7px; padding-top:7px; padding-left:10px; padding-right:1=
+0px;font-weight:bold;=22><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_=
+ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX=
+%3DBCAASRY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgTUqux1jjWCH8F9=
+0CNusa2wZBsTGaGLqQygGY=2E=22 target=3D=22_blank=22 style=3D=22color:=230000=
+01; text-decoration:none=22>SHOP ALL SHOES&nbsp;<span style=3D=22font-size:=
+15px;=22>&rsaquo;</span></a></td>
+                              </tr>
+                            </table></td>
+                        </tr>
+                       =20
+                        <=21--CTA ENDS-->
+                        <tr>
+                          <td height=3D=2215=22></td>
+                        </tr>
+                      </table></td>
+                  </tr>
+                </table></td>
+            </tr>
+          </table></td>
+      </tr>
+    </table></td>
+</tr>
+<=21--360X360 SQUARES ENDS-->=20
+
+
+
+
+
+
+
+
+
+=20
+       =20
+     <=21--SPACER STARTS-->
+<tr>
+  <td class=3D=22mobSpacer25=22 height=3D=2225=22></td>
+</tr>
+<=21--SPACER ENDS-->   =20
+ =20
+=20
+      =20
+    <=21--BODY CONTENT ENDS HERE-->
+       =20
+       =20
+
+<=21--SOLID LINE STARTS-->
+
+<tr>
+  <td><table align=3D=22center=22 cellspacing=3D=220=22 cellpadding=3D=220=
+=22>
+      <tr>
+        <td width=3D=22728=22 class=3D=22resize300=22 align=3D=22center=22 =
+style=3D=22 border-top: solid =23000000 1px; font-size:1px;=22>&nbsp;</td>
+      </tr>
+    </table></td>
+</tr>
+
+<=21--SOLID LINE ENDS-->=20
+
+<=21-- MOB NAV WITH 4 ITEMS starts -->
+
+<tr class=3D=22mobileNav=22>
+  <td class=3D=22mobileNav=22><table width=3D=22300=22 align=3D=22center=22=
+ border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+      <tr class=3D=22mobileNav=22>
+        <td class=3D=22mobileNavCopy=22 valign=3D=22middle=22 align=3D=22ce=
+nter=22 style=3D=22font-size:0px;font-family:Arial, sans-serif; line-height=
+:0px;letter-spacing:0;color:=23ffffff;=22><div class=3D=22mob-only=22 style=
+=3D=22display:none; width:0px; overflow:hidden;=22><a href=3D=22https://fas=
+hion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJ=
+qEegYoEzcqHjGikBwNbhVXtpKX%3DBCAYCCY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwa=
+lz45MkESeg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc9bgqEmbKM=2E=22 style=3D=22color:=23=
+000001; text-decoration:none;=22>Watcha looking for?</a></div></td>
+      </tr>
+    </table></td>
+</tr>
+<tr class=3D=22mobileNav=22>
+  <td class=3D=22mobileNav=22><table width=3D=22300=22 align=3D=22center=22=
+ border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+      <tr class=3D=22mobileNav=22>
+        <td class=3D=22mobileNavCell=22 valign=3D=22middle=22 align=3D=22ce=
+nter=22 style=3D=22font-size:0px;font-family:Arial, sans-serif; line-height=
+:0px;letter-spacing:0;color:=23ffffff;=22><div class=3D=22mob-only=22 style=
+=3D=22display:none; width:0px; overflow:hidden;=22><a href=3D=22https://fas=
+hion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJ=
+qEegYoEzcqHjGikBwNbhVXtpKX%3DBCAYCAY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwa=
+lz45MkESeg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc9bgqEmbKM=2E=22 style=3D=22color:=23=
+000001; text-decoration:none; text-transform:uppercase;=22>NEW IN&nbsp;<spa=
+n class=3D=22mobileNavSpan=22>&rsaquo;</span></a></div></td>
+      </tr>
+    </table></td>
+</tr>
+<tr class=3D=22mobileNav=22>
+  <td class=3D=22mobileNav=22><table width=3D=22300=22 align=3D=22center=22=
+ border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+      <tr class=3D=22mobileNav=22>
+        <td class=3D=22mobileNavCell=22 valign=3D=22middle=22 align=3D=22ce=
+nter=22 style=3D=22font-size:0px;font-family:Arial, sans-serif; line-height=
+:0px;letter-spacing:0;color:=23ffffff;=22><div class=3D=22mob-only=22 style=
+=3D=22display:none; width:0px; overflow:hidden;=22><a href=3D=22https://fas=
+hion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJ=
+qEegYoEzcqHjGikBwNbhVXtpKX%3DBCAYDRY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwa=
+lz45MkESeg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc9bgqEmbKM=2E=22 style=3D=22color:=23=
+000001; text-decoration:none;text-transform:uppercase;=22>DRESSES&nbsp;<spa=
+n class=3D=22mobileNavSpan=22>&rsaquo;</span></a></div></td>
+      </tr>
+    </table></td>
+</tr>
+<tr class=3D=22mobileNav=22>
+  <td class=3D=22mobileNav=22><table width=3D=22300=22 align=3D=22center=22=
+ border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+      <tr class=3D=22mobileNav=22>
+        <td class=3D=22mobileNavCell=22 valign=3D=22middle=22 align=3D=22ce=
+nter=22 style=3D=22font-size:0px;font-family:Arial, sans-serif; line-height=
+:0px;letter-spacing:0;color:=23ffffff;=22><div class=3D=22mob-only=22 style=
+=3D=22display:none; width:0px; overflow:hidden;=22><a href=3D=22https://fas=
+hion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJ=
+qEegYoEzcqHjGikBwNbhVXtpKX%3DBCAYDTY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwa=
+lz45MkESeg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc9bgqEmbKM=2E=22 style=3D=22color:=23=
+000001; text-decoration:none; text-transform:uppercase;=22>SALE&nbsp;<span =
+class=3D=22mobileNavSpan=22>&rsaquo;</span></a></div></td>
+      </tr>
+    </table></td>
+</tr>
+<tr class=3D=22mobileNav=22>
+  <td class=3D=22mobileNav=22><table width=3D=22300=22 align=3D=22center=22=
+ border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+      <tr class=3D=22mobileNav=22>
+        <td class=3D=22mobileNavCell=22 valign=3D=22middle=22 align=3D=22ce=
+nter=22 style=3D=22font-size:0px;font-family:Arial, sans-serif; line-height=
+:0px;letter-spacing:0;color:=23ffffff;=22><div class=3D=22mob-only=22 style=
+=3D=22display:none; width:0px; overflow:hidden;=22><a href=3D=22https://fas=
+hion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJ=
+qEegYoEzcqHjGikBwNbhVXtpKX%3DBCAYDWY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwa=
+lz45MkESeg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc9bgqEmbKM=2E=22 style=3D=22color:=23=
+000001; text-decoration:none; text-transform:uppercase;=22>COATS & JACKETS =
+&nbsp;<span class=3D=22mobileNavSpan=22>&rsaquo;</span></a></div></td>
+      </tr>
+    </table></td>
+</tr>
+
+<=21-- MOB NAV WITH 4 ITEMS ENDS -->
+       =20
+       =20
+
+<=21-- BRANDS SECTION STARTS-->
+<tr>
+  <td height=3D=2220=22></td>
+</tr>
+<tr>
+  <td><table align=3D=22center=22 class=3D=22resize300=22 border=3D=220=22 =
+cellspacing=3D=220=22 cellpadding=3D=220=22>
+      <tr>
+        <td class=3D=22resize300=22 align=3D=22center=22 style=3D=22font-fa=
+mily: Futura,Arial,Helvetica,sans-serif;color:=23000000; letter-spacing:1px=
+; text-decoration:none; text-transform:none; font-size:14px;color:=23000011=
+;margin-top:0;margin-bottom:0;line-height:14px;=22><a href=3D=22https://fas=
+hion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJ=
+qEegYoEzcqHjGikBwNbhVXtpKX%3DBCAASTY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwa=
+lz45MkESeg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc9bgqEmbKM=2E=22 style=3D=22color:=23=
+000001; text-decoration:none;=22>Labels we love </a></td>
+      </tr>
+    </table></td>
+</tr>
+<tr>
+  <td height=3D=2220=22></td>
+</tr>
+
+<=21--LOGOS STARTS-->
+
+<tr>
+  <td><table style=3D=22border:1px solid =23000000; border-collapse:collaps=
+e;=22 border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=22 cellspaci=
+ng=3D=220=22 class=3D=22resize300=22 >
+      <tr>
+        <td align=3D=22center=22 valign=3D=22top=22 class=3D=22float300=22>=
+<table align=3D=22center=22 border=3D=220=22 cellspacing=3D=220=22 cellpadd=
+ing=3D=220=22 width=3D=22100%=22>
+            <=21-- logos1 start -->
+            <tr>
+              <td height=3D=2245=22 class=3D=22brand1=22 style=3D=22border-=
+right:1px solid =23000000; border-collapse:collapse;=22 align=3D=22center=
+=22 valign=3D=22middle=22><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?=
+_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpK=
+X%3DBCAASWY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwalz45MkESeg7sFcYG3cLmgy_Ve=
+MN5rY8ug3BBrpc9bgqEmbKM=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsy=
+s=2Enet/i5/responsysimages/asos/contentlibrary//BAU_HeadersFooters/06_Brand=
+s/=21International/Brands_WW_US/images/BRANDS_WW_RIVER_ISLAND=2Ejpg=22 bord=
+er=3D=220=22 alt=3D=22River Island=22  width=3D=22120=22 height=3D=2235=22 =
+style=3D=22display:block; color:=23000001;font: 20px Arial, Helvetica, sans=
+-serif; text-decoration:none;=22/></a></td>
+              <td height=3D=2245=22 class=3D=22brand2=22 style=3D=22border-=
+right:1px solid =23000000; border-collapse:collapse;=22 align=3D=22center=
+=22 valign=3D=22middle=22><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?=
+_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpK=
+X%3DBCAASAY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwalz45MkESeg7sFcYG3cLmgy_Ve=
+MN5rY8ug3BBrpc9bgqEmbKM=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsy=
+s=2Enet/i5/responsysimages/asos/contentlibrary//BAU_HeadersFooters/06_Brand=
+s/=21International/Brands_WW_US/images/BRANDS_WW_WAREHOUSE=2Ejpg=22 border=
+=3D=220=22 alt=3D=22Warehouse=22 width=3D=22120=22 height=3D=2235=22 style=
+=3D=22display:block; color:=23000001;font: 20px Arial, Helvetica, sans-seri=
+f; text-decoration:none;=22/></a></td>
+            </tr>
+            <=21-- logos1 end -->
+          </table></td>
+        <td valign=3D=22top=22 class=3D=22float300=22><table border=3D=220=
+=22 cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=22100%=22>
+            <=21-- logos2 start -->
+            <tr>
+              <td height=3D=2245=22 class=3D=22brand1=22 style=3D=22border-=
+right:1px solid =23000000; border-collapse:collapse;=22 align=3D=22center=
+=22 valign=3D=22middle=22><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?=
+_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpK=
+X%3DBCAASCY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwalz45MkESeg7sFcYG3cLmgy_Ve=
+MN5rY8ug3BBrpc9bgqEmbKM=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsy=
+s=2Enet/i5/responsysimages/asos/contentlibrary//BAU_HeadersFooters/06_Brand=
+s/=21International/Brands_WW_US/images/BRANDS_WW_MONKI=2Ejpg=22 border=3D=
+=220=22 alt=3D=22Monki=22 width=3D=22120=22 height=3D=2235=22 style=3D=22di=
+splay:block; color:=23000001;font: 20px Arial, Helvetica, sans-serif; text-=
+decoration:none;=22/></a></td>
+              <td height=3D=2245=22 valign=3D=22middle=22 class=3D=22brand2=
+=22 style=3D=22border-right:1px solid =23000000; border-collapse:collapse;=
+=22 align=3D=22center=22><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_=
+ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX=
+%3DBCAATRY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwalz45MkESeg7sFcYG3cLmgy_VeM=
+N5rY8ug3BBrpc9bgqEmbKM=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=
+=2Enet/i5/responsysimages/asos/contentlibrary//BAU_HeadersFooters/06_Brands=
+/=21International/Brands_WW_US/images/BRANDS_WW_GLAMOROUS=2Ejpg=22 border=
+=3D=220=22 alt=3D=22Glamorous=22 width=3D=22120=22 height=3D=2235=22 style=
+=3D=22display:block; color:=23000001;font: 20px Arial, Helvetica, sans-seri=
+f; text-decoration:none;=22/></a></td>
+            </tr>
+            <=21-- logos2 end -->
+          </table></td>
+        <td valign=3D=22top=22 class=3D=22float300=22><table border=3D=220=
+=22 cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=22100%=22>
+            <=21-- logos3 start -->
+            <tr>
+              <td height=3D=2245=22 valign=3D=22middle=22 class=3D=22brand5=
+=22 style=3D=22border-right:1px solid =23000000; border-collapse:collapse;=
+=22 align=3D=22center=22><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_=
+ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX=
+%3DBCAATTY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwalz45MkESeg7sFcYG3cLmgy_VeM=
+N5rY8ug3BBrpc9bgqEmbKM=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=
+=2Enet/i5/responsysimages/asos/contentlibrary//BAU_HeadersFooters/06_Brands=
+/=21International/Brands_WW_US/images/BRANDS_WW_NOISY_MAY=2Ejpg=22 border=
+=3D=220=22 alt=3D=22Noisy May=22 width=3D=22120=22 height=3D=2235=22 style=
+=3D=22display:block; color:=23000001;font: 20px Arial, Helvetica, sans-seri=
+f; text-decoration:none;=22 /></a></td>
+              <td height=3D=2245=22 valign=3D=22middle=22 class=3D=22brand6=
+=22 style=3D=22border-collapse:collapse;=22 align=3D=22center=22><a href=3D=
+=22https://fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk=
+6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCAATWY&_ei_=3DEig32aNkWChOXjgYN=
+Fb3eKPKPDCjHwalz45MkESeg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc9bgqEmbKM=2E=22><img s=
+rc=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/asos/cont=
+entlibrary//BAU_HeadersFooters/06_Brands/=21International/Brands_WW_US/imag=
+es/BRANDS_WW_ASOS=2Ejpg=22 border=3D=220=22 alt=3D=22ASOS=22 width=3D=22120=
+=22 height=3D=2235=22 style=3D=22display:block; color:=23000001;font: 20px =
+Arial, Helvetica, sans-serif; text-decoration:none;=22 /></a></td>
+            </tr>
+            <=21-- logos3 end -->
+          </table></td>
+      </tr>
+    </table></td>
+</tr>
+<tr>
+  <td valign=3D=22top=22><table border=3D=220=22 cellspacing=3D=220=22 cell=
+padding=3D=220=22 >
+      <=21-- logos3 start
+      <tr>
+        <td height=3D=220=22 valign=3D=22middle=22 class=3D=22brand7=22 sty=
+le=3D=22border-collapse:collapse;=22 align=3D=22center=22><div class=3D=22m=
+ob-only=22 style=3D=22display:none; width:0px; overflow:hidden;=22><a href=
+=3D=22https://fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryX=
+Mkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCAATAY&_ei_=3DEig32aNkWChOXj=
+gYNFb3eKPKPDCjHwalz45MkESeg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc9bgqEmbKM=2E=22><im=
+g src=3D=22images/BRANDS_WW_NIKE=2Ejpg=22 border=3D=220=22 alt=3D=22Nike=22=
+ class=3D=22resize120=22 width=3D=220=22 height=3D=220=22 style=3D=22displa=
+y:block=22 /></a></div></td>
+        <td height=3D=220=22 valign=3D=22middle=22 class=3D=22brand8=22 sty=
+le=3D=22border-collapse:collapse;=22 align=3D=22center=22><div class=3D=22m=
+ob-only=22 style=3D=22display:none; width:0px; overflow:hidden;=22><a href=
+=3D=22https://fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryX=
+Mkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCAATCY&_ei_=3DEig32aNkWChOXj=
+gYNFb3eKPKPDCjHwalz45MkESeg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc9bgqEmbKM=2E=22><im=
+g src=3D=22images/BRANDS_WW_ADIDAS=2Ejpg=22 border=3D=220=22 alt=3D=22adida=
+s=22 class=3D=22resize120=22 width=3D=220=22 height=3D=220=22  style=3D=22d=
+isplay:block=22 /></a></div></td>
+      </tr>
+       logos3 end -->
+    </table></td>
+</tr>
+
+<=21--LOGOS ENDS-->=20
+
+<=21-- BRANDS SECTION ENDS-->
+
+<tr>
+  <td height=3D=2225=22></td>
+</tr>
+       =20
+        <=21-- BENEFITS STARTS -->
+
+<tr bgcolor=3D=22=23eaeaea=22 style=3D=22background-color:=23eaeaea;=22>
+  <td><table cellpadding=3D=220=22 cellspacing=3D=220=22 border=3D=220=22 w=
+idth=3D=22728=22 class=3D=22emailMobileMaxWidth=22 align=3D=22center=22 bgc=
+olor=3D=22=23eaeaea=22 style=3D=22background-color:=23eaeaea;=22>
+      <tr>
+        <td height=3D=225=22></td>
+      </tr>
+      <tr>
+        <td valign=3D=22top=22 class=3D=22float300=22><table align=3D=22cen=
+ter=22 border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+            <tr>=20
+              <td class=3D=22nomob=22 width=3D=2249=22></td>
+              <=21--THE GOOD STUFF STARTS-->
+              <td align=3D=22center=22 valign=3D=22top=22><table width=3D=
+=22150=22 border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=22 cells=
+pacing=3D=220=22>
+                  <tr>
+                    <td align=3D=22center=22 valign=3D=22top=22><table widt=
+h=3D=22150=22 border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=22 c=
+ellspacing=3D=220=22>
+                        <tr>
+                          <td height=3D=2215=22></td>
+                        </tr>
+                        <=21-- TEXT SECTION STARTS -->=20
+                        <=21--IMAGE STARTS-->
+                        <tr>
+                          <td align=3D=22center=22 valign=3D=22top=22><tabl=
+e width=3D=2236=22 border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=
+=22 cellspacing=3D=220=22>
+                              <tr>
+                                <td align=3D=22center=22><a href=3D=22https=
+://fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjM=
+PiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCAAURY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKP=
+DCjHwalz45MkESeg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc9bgqEmbKM=2E=22><img src=3D=22=
+https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/asos/contentlibra=
+ry//BAU_HeadersFooters/07_Benefits/=21International/Benefits_WW_US/images/B=
+ENEFITS_GOODSTUFF_ICON_UK=2Ejpg=22 alt=3D=22=22 width=3D=2240=22 height=3D=
+=2240=22 border=3D=220=22 style=3D=22display:block;=22/></a></td>
+                              </tr>
+                            </table></td>
+                        </tr>
+                        <tr>
+                          <td height=3D=225=22></td>
+                        </tr>
+                        <=21--IMAGE ENDS-->=20
+                        <=21--HEADER STARTS-->
+                        <tr>
+                          <td align=3D=22center=22 width=3D=22150=22 style=
+=3D=22font-size:12px;font-family:Arial;line-height:13px;font-weight:bold;te=
+xt-align:center;text-transform:uppercase;color:=23000001; padding-left:2px;=
+ padding-right:2px;=22><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_ri=
+_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3=
+DBCAAURY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwalz45MkESeg7sFcYG3cLmgy_VeMN5=
+rY8ug3BBrpc9bgqEmbKM=2E=22 style=3D=22text-decoration:none; color:=23000000=
+;=22>THE GOOD STUFF</a></td>
+                        </tr>
+                        <tr>
+                          <td height=3D=222=22></td>
+                        </tr>
+                        <=21--HEADER ENDS-->=20
+                        <=21--BODY COPY STARTS-->
+                        <tr>
+                          <td align=3D=22center=22 width=3D=22150=22 style=
+=3D=22font-size:10px;font-family: Arial;line-height:12px;letter-spacing:0pt=
+;color:=23000001; padding-left:5px; padding-right:5px;=22><a href=3D=22http=
+s://fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6Szcj=
+MPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCAAURY&_ei_=3DEig32aNkWChOXjgYNFb3eKPK=
+PDCjHwalz45MkESeg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc9bgqEmbKM=2E=22 style=3D=22te=
+xt-decoration:none; color:=23000000;=22>2,500+ new styles weekly=2E</a></td>
+                        </tr>
+                       =20
+                        <=21--BODY COPY ENDS-->=20
+                       =20
+                        <=21-- TEXT SECTION ENDS -->
+                       =20
+                        <tr>
+                          <td height=3D=2215=22></td>
+                        </tr>
+                      </table></td>
+                  </tr>
+                </table></td>
+             =20
+              <=21--THE GOOD STUFF ENDS-->
+             =20
+              <td class=3D=22nomob=22 width=3D=2210=22></td>
+             =20
+              <=21--FREE RETURNS STARTS-->
+              <td align=3D=22center=22 valign=3D=22top=22><table bgcolor=3D=
+=22=23eaeaea=22 style=3D=22background-color:=23eaeaea;=22 width=3D=22150=22=
+ border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=
+=220=22>
+                  <tr>
+                    <td align=3D=22center=22 valign=3D=22top=22><table widt=
+h=3D=22150=22 border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=22 c=
+ellspacing=3D=220=22>
+                        <tr>
+                          <td height=3D=2215=22></td>
+                        </tr>
+                        <=21-- TEXT SECTION STARTS -->=20
+                        <=21--IMAGE STARTS-->
+                        <tr>
+                          <td align=3D=22center=22 valign=3D=22top=22><tabl=
+e width=3D=2236=22 border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=
+=22 cellspacing=3D=220=22>
+                              <tr>
+                                <td align=3D=22center=22><a href=3D=22https=
+://fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjM=
+PiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCAYYCY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKP=
+DCjHwalz45MkESeg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc9bgqEmbKM=2E=22><img src=3D=22=
+https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/asos/contentlibra=
+ry//BAU_HeadersFooters/07_Benefits/=21International/Benefits_WW_US/images/B=
+ENEFITS_DELIVERY_ICON_UK=2Ejpg=22 alt=3D=22=22 width=3D=2240=22 height=3D=
+=2240=22 border=3D=220=22 style=3D=22display:block;=22/></a></td>
+                              </tr>
+                            </table></td>
+                        </tr>
+                        <tr>
+                          <td height=3D=225=22></td>
+                        </tr>
+                        <=21--IMAGE ENDS-->=20
+                        <=21--HEADER STARTS-->
+                        <tr>
+                          <td align=3D=22center=22 width=3D=22150=22 style=
+=3D=22font-size:12px;font-family:Arial;line-height:13px;font-weight:bold;te=
+xt-align:center;text-transform:uppercase;color:=23000001; padding-left:2px;=
+ padding-right:2px;=22><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_ri=
+_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3=
+DBCAYYCY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwalz45MkESeg7sFcYG3cLmgy_VeMN5=
+rY8ug3BBrpc9bgqEmbKM=2E=22 style=3D=22text-decoration:none; color:=23000000=
+;=22>FREE DELIVERY*</a></td>
+                        </tr>
+                        <tr>
+                          <td height=3D=222=22></td>
+                        </tr>
+                        <=21--HEADER ENDS-->=20
+                        <=21--BODY COPY STARTS-->
+                        <tr>
+                          <td align=3D=22center=22 width=3D=22150=22 style=
+=3D=22font-size:10px;font-family: Arial;line-height:12px;letter-spacing:0pt=
+;color:=23000001; padding-left:5px; padding-right:5px;=22><a href=3D=22http=
+s://fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6Szcj=
+MPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCAYYCY&_ei_=3DEig32aNkWChOXjgYNFb3eKPK=
+PDCjHwalz45MkESeg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc9bgqEmbKM=2E=22 style=3D=22te=
+xt-decoration:none; color:=23000000;=22>*On orders over =2440=2E</a></td>
+                        </tr>
+                       =20
+                        <=21--BODY COPY ENDS-->=20
+                       =20
+                        <=21-- TEXT SECTION ENDS -->
+                        <tr>
+                          <td height=3D=2215=22></td>
+                        </tr>
+                      </table></td>
+                  </tr>
+                </table></td>
+             =20
+              <=21--FREE REUTRNS ENDS-->=20
+            </tr>
+          </table></td>
+        <td class=3D=22nomob=22 width=3D=2210=22></td>
+        <td valign=3D=22top=22 class=3D=22float300=22><table border=3D=220=
+=22 align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+            <tr>=20
+              <=21--FREE DELIVERY STARTS-->
+              <td align=3D=22center=22 valign=3D=22top=22><table bgcolor=3D=
+=22=23eaeaea=22 style=3D=22background-color:=23eaeaea;=22 width=3D=22150=22=
+ border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=
+=220=22 >
+                  <tr>
+                    <td align=3D=22center=22 valign=3D=22top=22><table widt=
+h=3D=22150=22 border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=22 c=
+ellspacing=3D=220=22>
+                        <tr>
+                          <td class=3D=22nomob=22 height=3D=2215=22></td>
+                        </tr>
+                        <=21-- TEXT SECTION STARTS -->=20
+                        <=21--IMAGE STARTS-->
+                        <tr>
+                          <td align=3D=22center=22 valign=3D=22top=22><tabl=
+e width=3D=2236=22 border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=
+=22 cellspacing=3D=220=22>
+                              <tr>
+                                <td align=3D=22center=22><a href=3D=22https=
+://fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjM=
+PiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCAYARY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKP=
+DCjHwalz45MkESeg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc9bgqEmbKM=2E=22><img src=3D=22=
+https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/asos/contentlibra=
+ry//BAU_HeadersFooters/07_Benefits/=21International/Benefits_WW_US/images/B=
+ENEFITS_RETURNS_ICON_UK=2Ejpg=22 alt=3D=22=22 width=3D=2240=22 height=3D=22=
+40=22 border=3D=220=22 style=3D=22display:block;=22/></a></td>
+                              </tr>
+                            </table></td>
+                        </tr>
+                        <tr>
+                          <td height=3D=225=22></td>
+                        </tr>
+                        <=21--IMAGE ENDS-->=20
+                        <=21--HEADER STARTS-->
+                        <tr>
+                          <td align=3D=22center=22 width=3D=22150=22 style=
+=3D=22font-size:12px;font-family:Arial;line-height:13px;font-weight:bold;te=
+xt-align:center;text-transform:uppercase;color:=23000001; padding-left:2px;=
+ padding-right:2px;=22><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_ri=
+_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3=
+DBCAYARY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwalz45MkESeg7sFcYG3cLmgy_VeMN5=
+rY8ug3BBrpc9bgqEmbKM=2E=22 style=3D=22text-decoration:none; color:=23000000=
+;=22>FREE RETURNS</a></td>
+                        </tr>
+                        <tr>
+                          <td height=3D=222=22></td>
+                        </tr>
+                        <=21--HEADER ENDS-->=20
+                        <=21--BODY COPY STARTS-->
+                        <tr>
+                          <td align=3D=22center=22 width=3D=22150=22 style=
+=3D=22font-size:10px;font-family: Arial;line-height:12px;letter-spacing:0pt=
+;color:=23000001; padding-left:5px; padding-right:5px;=22><a href=3D=22http=
+s://fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6Szcj=
+MPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCAYARY&_ei_=3DEig32aNkWChOXjgYNFb3eKPK=
+PDCjHwalz45MkESeg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc9bgqEmbKM=2E=22 style=3D=22te=
+xt-decoration:none; color:=23000000;=22>Not right? No problem=2E</a></td>
+                        </tr>
+                       =20
+                        <=21--BODY COPY ENDS-->=20
+                       =20
+                        <=21-- TEXT SECTION ENDS -->
+                        <tr>
+                          <td height=3D=2215=22></td>
+                        </tr>
+                      </table></td>
+                  </tr>
+                </table></td>
+              <=21--FREE DELIVERY ENDS-->
+              <td class=3D=22nomob=22 width=3D=2210=22></td>
+              <=21--NEXT DAY DELIVERY STARTS-->
+              <td align=3D=22center=22 valign=3D=22top=22><table bgcolor=3D=
+=22=23eaeaea=22 style=3D=22background-color:=23eaeaea;=22 width=3D=22150=22=
+ border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=
+=220=22 >
+                  <tr>
+                    <td align=3D=22center=22 valign=3D=22top=22><table widt=
+h=3D=22150=22 border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=22 c=
+ellspacing=3D=220=22>
+                        <tr>
+                          <td class=3D=22nomob=22 height=3D=2215=22></td>
+                        </tr>
+                        <=21-- TEXT SECTION STARTS -->=20
+                        <=21--IMAGE STARTS-->
+                        <tr>
+                          <td align=3D=22center=22 valign=3D=22top=22><tabl=
+e width=3D=2236=22 border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=
+=22 cellspacing=3D=220=22>
+                              <tr>
+                                <td align=3D=22center=22><a href=3D=22https=
+://fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjM=
+PiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCAYAWY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKP=
+DCjHwalz45MkESeg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc9bgqEmbKM=2E=22 style=3D=22tex=
+t-decoration:none; color:=23000000;=22><img src=3D=22https://static=2Ecdn=
+=2Eresponsys=2Enet/i5/responsysimages/asos/contentlibrary//BAU_HeadersFoote=
+rs/07_Benefits/=21International/Benefits_WW_US/images/BENEFITS_APP_ICON_UK=
+=2Ejpg=22 alt=3D=22=22 width=3D=2240=22 height=3D=2240=22 border=3D=220=22 =
+style=3D=22display:block;=22/></a></td>
+                              </tr>
+                            </table></td>
+                        </tr>
+                        <tr>
+                          <td height=3D=225=22></td>
+                        </tr>
+                        <=21--IMAGE ENDS-->=20
+                        <=21--HEADER STARTS-->
+                        <tr>
+                          <td align=3D=22center=22 width=3D=22150=22 style=
+=3D=22font-size:12px;font-family:Arial;line-height:13px;font-weight:bold; t=
+ext-align:center;text-transform:uppercase;color:=23000001; padding-left:2px=
+; padding-right:2px;=22><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_r=
+i_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%=
+3DBCAYAWY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwalz45MkESeg7sFcYG3cLmgy_VeMN=
+5rY8ug3BBrpc9bgqEmbKM=2E=22 style=3D=22text-decoration:none; color:=2300000=
+0;=22>GET THE APP</a></td>
+                        </tr>
+                        <tr>
+                          <td height=3D=222=22></td>
+                        </tr>
+                        <=21--HEADER ENDS-->=20
+                        <=21--BODY COPY STARTS-->
+                        <tr>
+                          <td align=3D=22center=22 width=3D=22150=22 style=
+=3D=22font-size:10px;font-family: Arial;line-height:12px;letter-spacing:0pt=
+;color:=23000001; padding-left:5px; padding-right:5px;=22><a href=3D=22http=
+s://fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6Szcj=
+MPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCAYAWY&_ei_=3DEig32aNkWChOXjgYNFb3eKPK=
+PDCjHwalz45MkESeg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc9bgqEmbKM=2E=22 style=3D=22te=
+xt-decoration:none; color:=23000000;=22>Shop on the go=2E</a></td>
+                        </tr>
+                       =20
+                        <=21--BODY COPY ENDS-->=20
+                       =20
+                        <=21-- TEXT SECTION ENDS -->
+                        <tr>
+                          <td height=3D=2215=22></td>
+                        </tr>
+                      </table></td>
+                  </tr>
+                </table></td>
+              <=21--NEXT DAY DELIVERY ENDS-->=20
+<td class=3D=22nomob=22 width=3D=2249=22></td>
+            </tr>
+          </table></td>
+      </tr>
+    </table></td>
+</tr>
+<=21-- BENEFITS ENDS -->
+               =20
+       =20
+        <=21--TERMS AND CONDITIONS STARTS-->
+        <tr bgcolor=3D=22=23eaeaea=22 style=3D=22background-color:=23eaeaea=
+;=22>
+          <td><table cellpadding=3D=220=22 cellspacing=3D=220=22 border=3D=
+=220=22 width=3D=22728=22 class=3D=22emailMobileMaxWidth=22 align=3D=22cent=
+er=22 bgcolor=3D=22=23eaeaea=22 style=3D=22background-color:=23eaeaea;=22>
+              <tr>
+                <td height=3D=2210=22></td>
+              </tr>
+             =20
+           =20
+              <tr bgcolor=3D=22=23eaeaea=22 style=3D=22background-color:=23=
+eaeaea;=22>
+                <td><table cellpadding=3D=220=22 cellspacing=3D=220=22 bord=
+er=3D=220=22 width=3D=22728=22 class=3D=22emailMobileMaxWidth=22 align=3D=
+=22center=22 bgcolor=3D=22=23eaeaea=22 style=3D=22background-color:=23eaeae=
+a;=22>
+                    <tr>
+                      <td><table class=3D=22resize300=22 width=3D=22500=22 =
+align=3D=22center=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22 >
+                          <tr>
+                            <td align=3D=22center=22 class=3D=22resize300=
+=22 style=3D=22font-family: Arial,Helvetica,sans-serif;color:=23000000;text=
+-decoration:none; text-transform:none;font-weight:normal;font-size:10px;col=
+or:=23000000;margin-top:0;margin-bottom:0;line-height:14px;=22><=21--PULL I=
+N T & CS HERE-->=20
+                            =20
+                            =20
+*Enter promo code ADD10 at checkout for 10% off=2E Offer ends 3am EST Monda=
+y April 27, 2015=2E Valid on one order per customer with a maximum order va=
+lue of =24905 before discount=2E Valid on full price items only and exclude=
+s delivery charges, gift vouchers and subscription to ASOS Premier=2E Promo=
+ code cannot be used in conjunction with any other promo code=2E Code can o=
+nly be used once per customer, when logged into the ASOS=2Ecom account this=
+ email was sent to=2E <br>Up to 70% off ends 3am EST Monday April 27, 2015=
+=2E Valid on selected items only=2E Excludes certain brands, delivery charg=
+es, gift vouchers and subscription to ASOS Premier=2E Prices marked down on=
+ site=2E While stocks last=2E For full terms and conditions, click <a href=
+=3D=22http://us=2Easos=2Ecom/infopages/pgetandc=2Easpx=22>here=2E</a>
+                            =20
+                           </td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr>
+                <td height=3D=2210=22></td>
+              </tr>
+              <=21--TERMS AND CONDITIONS ENDS-->=20
+             =20
+           =20
+                       =20
+              <=21--ASOS ADDRESS STARTS-->
+              <tr>
+                <td><table class=3D=22resize300=22 width=3D=22480=22 align=
+=3D=22center=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=
+=22 >
+                    <tr>
+                      <td align=3D=22center=22 style=3D=22font-family: Aria=
+l,Helvetica,sans-serif;color:=23000000;text-decoration:none; text-transform=
+:none;font-weight:normal;font-size:10px;color:=23000000;margin-top:0;margin=
+-bottom:0;line-height:14px; padding-left:10px; padding-right:10px;=22><=21-=
+-PULL IN ASOS ADDRESS HERE-->=20
+             =20
+
+    <=21--ASOS ADDRESS STARTS-->
+              <tr>
+                <td><table class=3D=22resize300=22 width=3D=22480=22 align=
+=3D=22center=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=
+=22 >
+                    <tr>
+                      <td align=3D=22center=22 style=3D=22font-family: Aria=
+l,Helvetica,sans-serif;color:=23000000;text-decoration:none; text-transform=
+:none;font-weight:normal;font-size:10px;color:=23000000;margin-top:0;margin=
+-bottom:0;line-height:14px; padding-left:10px; padding-right:10px;=22><=21-=
+-PULL IN ASOS ADDRESS HERE-->=20
+              ASOS, 2nd Floor, Greater London House, Hampstead Road, London=
+ NW1 7FB, United Kingdom=2E <br>ASOS=2Ecom is a wholly owned subsidiary of =
+ASOS plc=2E Registered in England =E2=80=93 3584121=2E </td>
+                    </tr>
+                  </table></td>
+              </tr>
+              </table></td></tr>
+             =20
+              <=21--ASOS ADDRESS ENDS--></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              </table></td></tr>
+             =20
+              <=21--ASOS ADDRESS ENDS-->
+            =20
+        =20
+       =20
+        =20
+
+
+<=21--BOTTOM NAV WITH 4 ITEMS STARTS-->
+        <tr bgcolor=3D=22=23eaeaea=22 style=3D=22background-color:=23eaeaea=
+;=22>
+          <td><table cellpadding=3D=220=22 cellspacing=3D=220=22 border=3D=
+=220=22 width=3D=22728=22 class=3D=22emailMobileMaxWidth=22 align=3D=22cent=
+er=22 bgcolor=3D=22=23eaeaea=22 style=3D=22background-color:=23eaeaea;=22>
+              <tr>
+                <td height=3D=2220=22></td>
+              </tr>
+              <tr>
+                <td><table align=3D=22center=22 border=3D=220=22 cellpaddin=
+g=3D=220=22 cellspacing=3D=220=22 class=3D=22resize300=22>
+                    <tr>
+                      <td valign=3D=22top=22 class=3D=22float300=22><table =
+align=3D=22center=22 border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=
+=220=22>
+                          <tr>=20
+                            <=21-- item 1 start -->
+                            <td width=3D=228=22 class=3D=22nomob=22></td>
+                            <td align=3D=22center=22 class=3D=22FooterItem=
+=22 style=3D=22font-size:12px;font-family: Arial, sans-serif;  letter-spaci=
+ng:0=2E5pt =21important;color:=23000001;=22><a href=3D=22https://fashion=2E=
+asos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoE=
+zcqHjGikBwNbhVXtpKX%3DBCAYATY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwalz45MkE=
+Seg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc9bgqEmbKM=2E=22 style=3D=22color:=23000001;=
+ text-decoration:none;=22>Help & Contact</a></td>
+                            <td width=3D=228=22 class=3D=22nomob=22></td>
+                            <=21-- item 1 end -->=20
+                          </tr>
+                        </table></td>
+                      <td valign=3D=22top=22 class=3D=22nomob=22><table bor=
+der=3D=220=22 align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=
+=22>
+                          <tr>=20
+                            <=21-- item 2 start -->
+                            <td width=3D=228=22 class=3D=22nomob=22></td>
+                            <td align=3D=22center=22 class=3D=22FooterItem=
+=22 style=3D=22font-size:12px;font-family: Arial, sans-serif;  letter-spaci=
+ng:0=2E5pt =21important;color:=23000001;=22><a href=3D=22https://fashion=2E=
+asos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoE=
+zcqHjGikBwNbhVXtpKX%3DBCAYACY&_ei_=3DEvO37Hu5DM21HJPQ3ujJaU-hpZBfHD6aKTpXCX=
+tM0YfuOf_1CYN77srWS1OAVx6frhHjY0ngVVEuOEJ2kskpZ9h_99DtTDOnLzz7fD5hKOtzhLTg9=
+dSPoXgBWANxNFhSt9OeHecShQxvguwZwMTMGIWSX28vHW8CQCRq_G-4vJlZab_jh89q4QN5DF2T=
+f7NS0kZE3ordB-2mOIYNhR9AkLq1iuUT_8tgJDNe0cU=2E=22 style=3D=22color:=2300000=
+1; text-decoration:none;=22>View In Browser</a></td>
+                            <td width=3D=228=22 class=3D=22nomob=22></td>
+                            <=21-- item 2 end -->=20
+                          </tr>
+                        </table></td>
+                      <td valign=3D=22top=22 class=3D=22float300=22><table =
+border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=
+=220=22>
+                          <tr>=20
+                            <=21-- item 3 start=20
+                            <td width=3D=228=22 class=3D=22nomob=22></td>
+                            <td align=3D=22center=22 class=3D=22FooterItem=
+=22 style=3D=22font-size:12px;font-family: Arial, sans-serif;  letter-spaci=
+ng:0=2E5pt =21important;color:=23000001;=22><a href=3D=22https://fashion=2E=
+asos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoE=
+zcqHjGikBwNbhVXtpKX%3DBCAYBRY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwalz45MkE=
+Seg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc9bgqEmbKM=2E=22 style=3D=22color:=23000001;=
+ text-decoration:none;=22>Email Preferences</a></td>
+                            <td width=3D=228=22 class=3D=22nomob=22></td>
+                             item 3 end -->=20
+                          </tr>
+                        </table></td>
+                      <td valign=3D=22top=22 class=3D=22float300=22><table =
+border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=
+=220=22>
+                          <tr>=20
+                            <=21-- item 4 start -->
+                            <td width=3D=228=22 class=3D=22nomob=22></td>
+                            <td align=3D=22center=22 class=3D=22FooterItem=
+=22 style=3D=22font-size:12px;font-family: Arial, sans-serif; letter-spacin=
+g:0=2E5pt =21important;color:=23000001;=22><a href=3D=22https://fashion=2Ea=
+sos=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEz=
+cqHjGikBwNbhVXtpKX%3DBCAYAAY&_ei_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwalz45MkES=
+eg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc9bgqEmbKM=2E=22 style=3D=22color:=23000001; =
+text-decoration:none;=22>Unsubscribe</a></td>
+                            <td width=3D=228=22 class=3D=22nomob=22></td>
+                            <=21-- item 4 end -->=20
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+             =20
+             =20
+             =20
+              <tr>
+                <td height=3D=2220=22></td>
+              </tr>
+            </table></td>
+        </tr>
+       =20
+      <=21--BOTTOM NAV WITH 4 ITEMS ENDS-->
+   =20
+        =20
+       =20
+       =20
+<tr>
+  <td height=3D=2225=22></td>
+</tr>
+<=21--SOCIAL NAV STARTS-->
+
+<tr>
+  <td><table align=3D=22center=22 width=3D=22300=22 class=3D=22resize300=22=
+ border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+      <tr>
+        <td class=3D=22resize300=22 align=3D=22center=22 style=3D=22font-fa=
+mily: Arial,Helvetica,sans-serif;color:=23000000; letter-spacing:1px; text-=
+decoration:none; text-transform:none; font-size:14px;color:=23000011;margin=
+-top:0;margin-bottom:0;line-height:14px;=22>Give us a shout=2E Or shout abo=
+ut us=2E </td>
+      </tr>
+    </table></td>
+</tr>
+<tr>
+  <td height=3D=2215=22></td>
+</tr>
+
+<=21--SOCIAL ICONS STARTS-->
+
+<tr>
+  <td><table class=3D=22resizemob=22 align=3D=22center=22 border=3D=220=22 =
+cellspacing=3D=220=22 cellpadding=3D=220=22>
+      <tr>
+        <td width=3D=2230=22>&nbsp;</td>
+        <td><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X=
+%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCAYBTY&_e=
+i_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwalz45MkESeg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc=
+9bgqEmbKM=2E=22><img src=3D=22http://images=2Easos=2Ecom/htmlpages/Transact=
+ionalEmails/INSTAGRAM=2Ejpg=22 border=3D=220=22 alt=3D=22Instagram=22 width=
+=3D=2224=22 height=3D=2224=22 style=3D=22display: block;=22 /></a></td>
+        <td width=3D=2210=22>&nbsp;</td>
+        <td><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X=
+%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCAYBWY&_e=
+i_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwalz45MkESeg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc=
+9bgqEmbKM=2E=22><img src=3D=22http://images=2Easos=2Ecom/htmlpages/Transact=
+ionalEmails/FACEBOOK=2Ejpg=22 border=3D=220=22 alt=3D=22Facebook=22 width=
+=3D=2224=22 height=3D=2224=22 style=3D=22display: block;=22 /></a></td>
+        <td width=3D=2210=22>&nbsp;</td>
+        <td><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X=
+%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCAYBAY&_e=
+i_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwalz45MkESeg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc=
+9bgqEmbKM=2E=22><img src=3D=22http://images=2Easos=2Ecom/htmlpages/Transact=
+ionalEmails/TWITTER=2Ejpg=22 border=3D=220=22 alt=3D=22Twitter=22 width=3D=
+=2224=22 height=3D=2224=22 style=3D=22display: block;=22 /></a></td>
+        <td width=3D=2210=22>&nbsp;</td>
+        <td><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X=
+%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCAYBCY&_e=
+i_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwalz45MkESeg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc=
+9bgqEmbKM=2E=22><img src=3D=22http://images=2Easos=2Ecom/htmlpages/Transact=
+ionalEmails/PINTEREST=2Ejpg=22 border=3D=220=22 alt=3D=22Pinterest=22 width=
+=3D=2224=22 height=3D=2224=22 style=3D=22display: block;=22 /></a></td>
+        <td width=3D=2210=22>&nbsp;</td>
+        <td><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X=
+%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCAYCRY&_e=
+i_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwalz45MkESeg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc=
+9bgqEmbKM=2E=22><img src=3D=22http://images=2Easos=2Ecom/htmlpages/Transact=
+ionalEmails/GOOGLEPLUS=2Ejpg=22 border=3D=220=22 alt=3D=22Google+=22 width=
+=3D=2224=22 height=3D=2224=22 style=3D=22display: block;=22 /></a></td>
+        <td width=3D=2210=22>&nbsp;</td>
+        <td><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X=
+%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCAYCTY&_e=
+i_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwalz45MkESeg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc=
+9bgqEmbKM=2E=22><img src=3D=22http://images=2Easos=2Ecom/htmlpages/Transact=
+ionalEmails/YOUTUBE=2Ejpg=22 alt=3D=22YouTube=22 border=3D=220=22 width=3D=
+=2224=22 height=3D=2224=22 style=3D=22display: block;=22 /></a></td>
+        <td width=3D=2210=22>&nbsp;</td>
+        <td><a href=3D=22https://fashion=2Easos=2Ecom/pub/cc?_ri_=3DX0Gzc2X=
+%3DWQpglLjHJlYQGryXMkk6i6SzcjMPiXPoJqEegYoEzcqHjGikBwNbhVXtpKX%3DBCAYCWY&_e=
+i_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwalz45MkESeg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc=
+9bgqEmbKM=2E=22><img src=3D=22http://images=2Easos=2Ecom/htmlpages/Transact=
+ionalEmails/TUMBLR=2Ejpg=22 border=3D=220=22 alt=3D=22Tumblr=22 width=3D=22=
+24=22 height=3D=2224=22 style=3D=22display: block;=22 /></a></td>
+        <td width=3D=2230=22>&nbsp;</td>
+      </tr>
+    </table></td>
+</tr>
+
+<=21--SOCIAL ICONS ENDS-->
+
+<tr>
+  <td height=3D=2230=22></td>
+</tr>
+
+      </table></td>
+  </tr>
+</table>
+
+
+&nbsp;</body>
+</html>
+<br>
+<br><img border=3D=220=22 width=3D=221=22 height=3D=221=22 src=3D=22https:/=
+/fashion=2Easos=2Ecom/pub/as?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGryXMkk6i6SzcjMPi=
+XPoJqEegYoEzcqHjGikBwNbhVXHkMX%3Dw&_ei_=3DEig32aNkWChOXjgYNFb3eKPKPDCjHwalz=
+45MkESeg7sFcYG3cLmgy_VeMN5rY8ug3BBrpc9bgqEmbKM=2E=22>
+<br><img border=3D=220=22 width=3D=223=22 height=3D=223=22 src=3D=22http://=
+ib=2Eadnxs=2Ecom/getuid?http://a=2Eadrsp=2Enet/dsp/ci/2/E8-FU15WJtLLpQnNaKP=
+ud8KuosbjkobTvqDlh_SE8UsckPhsEQDh6I_Ao2tMyfbA-O3-UXVVlJzr-GRuGTgTq35lvmcfgM=
+/%24UID=22>
+
+

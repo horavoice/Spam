@@ -1,0 +1,30 @@
+Here's the last HW#3.
+
+Regards
+Prof M
+
+*PROJECT MANAGEMENT  EMP518   HW#3*
+
+
+         1- A house builder has carpenters working on installing trim in
+the rooms of the homes.  The builder has 30 homes with 5 rooms each to
+complete.  Give that the learning curve of this process is 85%, and the
+first room takes 6 hours to complete what is the steady state time to
+finish a room?    Yx = aXb
+
+
+
+
+
+
+
+
+
+
+
+
+
+        2-     The same House Builder has a schedule for one of the homes
+of 8 weeks, with a budgeted cost of $175,000.  The customer wants to move
+in in 5 weeks.  The cost to crash this project of $250,000.  What is the
+weekly crash cost of this home?

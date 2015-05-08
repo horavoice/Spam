@@ -1,0 +1,1197 @@
+<=21DOCTYPE HTML PUBLIC =22-//W3C//DTD HTML 4=2E01 Transitional//EN=22 =22h=
+ttp://www=2Ew3=2Eorg/TR/html4/loose=2Edtd=22>
+<html>
+<head>
+	<title>NORDSTROM</title>
+	<meta http-equiv=3D=22Content-Type=22 content=3D=22text/html; charset=3Dis=
+o-8859-1=22 />
+    <meta name=3D=22viewport=22 content=3D=22width=3Ddevice-width=22>
+	<link href=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/co=
+ntent/nordstrom/Nordstrom_Master_CSS_20141120=2Ecss=22 rel=3D=22stylesheet=
+=22 type=3D=22text/css=22 />
+</head>
+<body><img border=3D=220=22 width=3D=221=22 height=3D=221=22 src=3D=22https=
+://em=2Enordstrom=2Ecom/pub/as?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgj=
+Yd3aiCS9KKzdHYlscEzdK5TF2YozekVXHkMX%3Dw&_ei_=3DEkGRMG0U0djKUppXEsgWQFPwWU_=
+kCGoDINS_dIiYEPfft_PLLBsqg-1RC4ILfg-VOxEIuKzsjX5t5i9VuYDp3oExx_MJz1TPrkMuTv=
+x9movXiK5aZEt5EJ26EbzBgK_9k2kDGw=2E=22>
+
+
+<style>
+	html =7B -webkit-text-size-adjust:none; -ms-text-size-adjust:none;=7D
+	body =7B width:100%; margin:0 auto; padding:0; =7D
+	=40media all and (max-width: 600px)=7B =2Emargina =7B margin: auto; =7D =7D
+</style>
+<=21--=5Bif gte mso 9=5D>
+<style type=3D=22text/css=22>
+=2Emb8=7B padding-bottom:0 =21important; margin-bottom:8px =21important; =7D
+=2Emb10=7B padding-bottom:0 =21important; margin-bottom:10px =21important; =
+=7D
+=2Emb12=7B padding-bottom:0 =21important; margin-bottom:12px =21important; =
+=7D
+=2Emb14=7B padding-bottom:0 =21important; margin-bottom:14px =21important; =
+=7D
+=2Emb16=7B padding-bottom:0 =21important; margin-bottom:16px =21important; =
+=7D
+=2Emb18=7B padding-bottom:0 =21important; margin-bottom:18px =21important; =
+=7D
+=2Elhfix=7B mso-line-height-rule: exactly; =7D
+</style>
+<=21=5Bendif=5D-->
+<center>
+
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22100%=22 align=
+=3D=22center=22 style=3D=22table-layout:fixed;=22>
+<tr>
+<td align=3D=22center=22 valign=3D=22top=22>
+
+<=21-- Start Preheader -->
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22598=22 class=
+=3D=22width292=22>
+<tr>
+    <td width=3D=22598=22 height=3D=2257=22 class=3D=22width292=22 align=3D=
+=22center=22 valign=3D=22middle=22>
+        <=21-- WATSON assetID: 105105=5E=5E division: Womens=5E=5E story: S=
+pring New Arrivals Dresses=5E=5E subject: New Arrivals for Sunny Spring Day=
+s=5E=5E -->
+        <div style=3D=22font-size:11px; font-family:Arial, Helvetica, sans-=
+serif; color:=23787878; line-height:12px;=22>
+            <span >=20
+            <a href=3D=22https://em=2Enordstrom=2Ecom/pub/cc?_ri_=3DX0Gzc2X=
+%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2YozekVXtpKX%3DWSYUUU=
+Y&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMheEBIotw6Jt8qXZ=
+hPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41Rsvxw65wF3Cgy3Cp-6579=
+faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9IWxcz01USMsXkTWPguWxxsK=
+umUg5kiRcCPRX12JW8qFILRFZSPXR0HKVM0=2E=22 style=3D=22color:=23787878; line-=
+height:12px; text-decoration:none;=22>Fresh dresses, tops, shorts, jackets =
+<span class=3D=22block=22 style=3D=22line-height:12px;=22>and more=2E <span=
+ style=3D=22line-height:12px; text-decoration:underline;=22>Shop new arriva=
+ls</span>=2E</span></a><br class=3D=22hide=22 style=3D=22line-height:12px;=
+=22 />
+            </span>
+          	<=21--BEGIN HEADLINE CONDITION=2E THIS CONDITION ADDS AN OPEN CO=
+MMENT TAG=2E DO NOT CODE AFTER ANY UNCLOSED COMMENT TAG-->
+                       =20
+            <span >
+            View this email <a href=3D=22https://em=2Enordstrom=2Ecom/pub/c=
+c?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2Yoze=
+kVXtpKX%3DWSYUUYY&_ei_=3DEkGRMG0U0djKUppXEsgWQFPwWU_kCGoDINS_dIiYEPfft_PLLB=
+sqg-1RC4ILfg-VOxEIuKzsjX5t5i9VuYDp3oFgIYo7cl6zb6aHvhijSrMm3g0i7GIwtQf-asry5=
+pWsP4tiHFa4JR1czMbYuFean8J91N8zE-Mvx_rzdDEjqvvziIjX=2E=22 style=3D=22color:=
+=23787878; line-height:12px; text-decoration:underline;=22>in web browser</=
+a>=2E
+           =09
+            </span>=20
+            <=21--END HEADLNE CONDITION=2E THIS CONDITION ADDS A CLOSED COM=
+MENT TAG=2E DO NOT CODE AFTER ANY UNCLOSED COMMENT TAG-->
+        </div>
+    </td>
+</tr>
+</table>
+<=21-- End Preheader -->
+
+<=21-- Start Navigation -->
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22598=22 class=
+=3D=22width292=22>
+<tr>
+    <td width=3D=22598=22 height=3D=2259=22 class=3D=22width292=22 align=3D=
+=22center=22 valign=3D=22middle=22><a href=3D=22https://em=2Enordstrom=2Eco=
+m/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5=
+TF2YozekVXtpKX%3DWSYUUDY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNa=
+YbHJfCsMheEBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o=
+41Rsvxw65wF3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9=
+xPz4NUmjGWqzS64W420DP3xpQhemOx1ujwJCVLTXeolbhFKc12GwhI=2E=22><img src=3D=22=
+https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/content=
+library/fls/2015/04/21/20150421_apr_wk_3_2015_tuesday_email_5_301769/201504=
+21_Apr_WK_3_2015_Tuesday_Email_5_301769/images/logo=2Egif=22 width=3D=22200=
+=22 height=3D=2259=22 alt=3D=22NORDSTROM=22 border=3D=220=22 style=3D=22dis=
+play:block;=22/></a></td>
+</tr>
+</table>
+
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22598=22 class=
+=3D=22hide=22>
+<tr>
+    <td width=3D=225=22 class=3D=22width23=22></td>
+    <td width=3D=2261=22 height=3D=2232=22 align=3D=22center=22 valign=3D=
+=22middle=22><div style=3D=22font-size: 12px; font-family:Arial, Helvetica,=
+ sans-serif; color:=23646464; line-height:14px;=22><a href=3D=22https://em=
+=2Enordstrom=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3ai=
+CS9KKzdHYlscEzdK5TF2YozekVXtpKX%3DWSYUWUY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBb=
+DZW4wWMnDnYROXSNaYbHJfCsMheEBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4Ibm=
+sVsBNyilBTha_0_5o41Rsvxw65wF3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHaYGAR58=
+T5lPlMu9-L3wcWIR9LuSnZ_iHBW-st8dlFbBmfNpNZA-HkET0kQzH0t3LSicK1oG9g6_lIZn=2E=
+=22 style=3D=22color:=23646464; line-height:14px; text-decoration:none;=22>=
+Women</a></div></td>
+    <td width=3D=2242=22 height=3D=2232=22 align=3D=22center=22 valign=3D=
+=22middle=22><div style=3D=22font-size: 12px; font-family:Arial, Helvetica,=
+ sans-serif; color:=23646464; line-height:14px;=22><a href=3D=22https://em=
+=2Enordstrom=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3ai=
+CS9KKzdHYlscEzdK5TF2YozekVXtpKX%3DWSYUWBY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBb=
+DZW4wWMnDnYROXSNaYbHJfCsMheEBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4Ibm=
+sVsBNyilBTha_0_5o41Rsvxw65wF3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHaYGAR58=
+T5lPlMu9-L3wcWIR9GaY_1Cohi4KJCw2EHHC51nK2kmwOjhiy_Fv0_L3rantP1OoDKercg=2E=
+=22 style=3D=22color:=23646464; line-height:14px; text-decoration:none;=22>=
+Men</a></div></td>
+    <td width=3D=2254=22 height=3D=2232=22 class=3D=22hide=22 align=3D=22ce=
+nter=22 valign=3D=22middle=22><div style=3D=22font-size: 12px; font-family:=
+Arial, Helvetica, sans-serif; color:=23646464; line-height:14px;=22><a href=
+=3D=22https://em=2Enordstrom=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcd=
+zeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2YozekVXtpKX%3DWSYUYSY&_ei_=3DEqlj3kf4SO=
+TOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMheEBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9=
+fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41Rsvxw65wF3Cgy3Cp-6579faarnMYerzOoDpg-7el=
+ZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9x3Kg5ei4ZA5DGORXK4bKjsJG6edT9nfASvf2hnE7_H=
+Tz_DrdlP-IOj7=2E=22 style=3D=22color:=23646464; line-height:14px; text-deco=
+ration:none;=22>Shoes</a></div></td>
+    <td width=3D=2273=22 height=3D=2232=22 class=3D=22hide=22 align=3D=22ce=
+nter=22 valign=3D=22middle=22><div style=3D=22font-size: 12px; font-family:=
+Arial, Helvetica, sans-serif; color:=23646464; line-height:14px;=22><a href=
+=3D=22https://em=2Enordstrom=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcd=
+zeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2YozekVXtpKX%3DWSYUYYY&_ei_=3DEqlj3kf4SO=
+TOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMheEBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9=
+fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41Rsvxw65wF3Cgy3Cp-6579faarnMYerzOoDpg-7el=
+ZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9yIac4IA7Eipxgr_aIUfUd7CQXT-zw01xdTT8AhtL-Y=
+OPXg3t_289oBeEmH_=2E=22 style=3D=22color:=23646464; line-height:14px; text-=
+decoration:none;=22>Handbags</a></div></td>
+    <td width=3D=2284=22 height=3D=2232=22 class=3D=22hide=22 align=3D=22ce=
+nter=22 valign=3D=22middle=22><div style=3D=22font-size: 12px; font-family:=
+Arial, Helvetica, sans-serif; color:=23646464; line-height:14px;=22><a href=
+=3D=22https://em=2Enordstrom=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcd=
+zeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2YozekVXtpKX%3DWSYUYDY&_ei_=3DEqlj3kf4SO=
+TOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMheEBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9=
+fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41Rsvxw65wF3Cgy3Cp-6579faarnMYerzOoDpg-7el=
+ZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9L2ma-mHQ0lV9MiIvKZzOfl8CmivS1ST8nPYQisLXh1=
+BX5eaI8kIP1s=2E=22 style=3D=22color:=23646464; line-height:14px; text-decor=
+ation:none;=22>Accessories</a></div></td>
+    <td width=3D=2257=22 height=3D=2232=22 class=3D=22hide=22 align=3D=22ce=
+nter=22 valign=3D=22middle=22><div style=3D=22font-size: 12px; font-family:=
+Arial, Helvetica, sans-serif; color:=23646464; line-height:14px;=22><a href=
+=3D=22https://em=2Enordstrom=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcd=
+zeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2YozekVXtpKX%3DWSYUAUY&_ei_=3DEqlj3kf4SO=
+TOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMheEBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9=
+fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41Rsvxw65wF3Cgy3Cp-6579faarnMYerzOoDpg-7el=
+ZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9IKpdl7eg-yLjWj0PqfjA56GQ03pMdcpfrGi8L7k9GD=
+XUwE0VMKvlJOFKg=2E=22 style=3D=22color:=23646464; line-height:14px; text-de=
+coration:none;=22>Beauty</a></div></td>
+    <td width=3D=2273=22 height=3D=2232=22 class=3D=22hide=22 align=3D=22ce=
+nter=22 valign=3D=22middle=22><div style=3D=22font-size: 12px; font-family:=
+Arial, Helvetica, sans-serif; color:=23646464; line-height:14px;=22><a href=
+=3D=22https://em=2Enordstrom=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcd=
+zeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2YozekVXtpKX%3DWSYUABY&_ei_=3DEqlj3kf4SO=
+TOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMheEBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9=
+fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41Rsvxw65wF3Cgy3Cp-6579faarnMYerzOoDpg-7el=
+ZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9K7BUz9MVPkvgMOkaPrKbPj_Nyt5u5jNlIPscoXKV_R=
+O7DV87OqNwlX7dp5G_w=2E=22 style=3D=22color:=23646464; line-height:14px; tex=
+t-decoration:none;=22>Designers</a></div></td>
+    <td width=3D=2259=22 height=3D=2232=22 align=3D=22center=22 valign=3D=
+=22middle=22><div style=3D=22font-size: 12px; font-family:Arial, Helvetica,=
+ sans-serif; color:=23646464; line-height:14px;=22><a href=3D=22https://em=
+=2Enordstrom=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3ai=
+CS9KKzdHYlscEzdK5TF2YozekVXtpKX%3DWSYUBSY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBb=
+DZW4wWMnDnYROXSNaYbHJfCsMheEBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4Ibm=
+sVsBNyilBTha_0_5o41Rsvxw65wF3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHaYGAR58=
+T5lPlMu9-L3wcWIR9xGiUV9bAvMMw4qJKDB1LBBLUATlRz85eKV0pF_vI-2KZDKFHLRFTpMh=2E=
+=22 style=3D=22color:=23646464; line-height:14px; text-decoration:none;=22>=
+Trend</a></div></td>
+    <td width=3D=2242=22 height=3D=2232=22 align=3D=22center=22 valign=3D=
+=22middle=22><div style=3D=22font-size: 12px; font-family:Arial, Helvetica,=
+ sans-serif; color:=23646464; line-height:14px;=22><a href=3D=22https://em=
+=2Enordstrom=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3ai=
+CS9KKzdHYlscEzdK5TF2YozekVXtpKX%3DWSYUBYY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBb=
+DZW4wWMnDnYROXSNaYbHJfCsMheEBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4Ibm=
+sVsBNyilBTha_0_5o41Rsvxw65wF3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHaYGAR58=
+T5lPlMu9-L3wcWIR9CcHhkKt_5luT3UR8dPaN_rspuEGQDlz-iX3rZENNXoVfDHCjQM-vIA=2E=
+=22 style=3D=22color:=23646464; line-height:14px; text-decoration:none;=22>=
+Kids</a></div></td>
+    <td width=3D=2242=22 height=3D=2232=22 align=3D=22center=22 valign=3D=
+=22middle=22><div style=3D=22font-size: 12px; font-family:Arial, Helvetica,=
+ sans-serif; color:=23646464; line-height:14px;=22><a href=3D=22https://em=
+=2Enordstrom=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3ai=
+CS9KKzdHYlscEzdK5TF2YozekVXtpKX%3DWSYUBDY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBb=
+DZW4wWMnDnYROXSNaYbHJfCsMheEBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4Ibm=
+sVsBNyilBTha_0_5o41Rsvxw65wF3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHaYGAR58=
+T5lPlMu9-L3wcWIR9LHOj4kFg0nVwXXZxTdvq9yCA8sWufb0EeFFACLWmdegtUoHE_3Ve8Q=2E=
+=22 style=3D=22color:=23646464; line-height:14px; text-decoration:none;=22>=
+Sale</a></div></td>
+    <td width=3D=226=22 class=3D=22width23=22></td>
+</tr>
+</table>
+<=21-- End Navigation -->
+
+<=21-- BANNER 1 -->
+<=21--=5Bif =21mso=5D><=21-->
+<div class=3D=22show=22 style=3D=22display:none; float:left; overflow:hidde=
+n; width:0; max-height:0; line-height:0;=22>
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=221=22 class=3D=
+=22width292=22>
+<tr>
+    <td width=3D=221=22 height=3D=220=22 class=3D=22width292 hauto=22 align=
+=3D=22center=22 valign=3D=22middle=22 style=3D=22line-height:0px;=22><a hre=
+f=3D=22https://em=2Enordstrom=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpc=
+dzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2YozekVXtpKX%3DWSYUCUY&_ei_=3DEqlj3kf4S=
+OTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMheEBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt=
+9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41Rsvxw65wF3Cgy3Cp-6579faarnMYerzOoDpg-7e=
+lZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9zEQ40E3yvYKIl8WDqSPFcbUQx548KS8FT3Eigscg3=
+ZyTn0mm5KPEo4ay9xr=2E=22><img class=3D=22width292 hauto=22 src=3D=22https:/=
+/static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/contentlibrary=
+/fls/2015/04/21/20150421_apr_wk_3_2015_tuesday_email_5_301769/20150421_Apr_=
+WK_3_2015_Tuesday_Email_5_301769/images/105105_bnr1_bg=2Egif=22 width=3D=22=
+1=22 height=3D=220=22 alt=3D=22New Arrivals You Need for Spring - SHOP NEW =
+ARRIVALS=22 border=3D=220=22 style=3D=22display:block;=22/></a></td>
+</tr>
+</table>
+</div>
+<=21--<=21=5Bendif=5D-->
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22598=22 class=
+=3D=22hide=22>
+<tr>
+    <td width=3D=22598=22 class=3D=22hide=22 align=3D=22center=22 valign=3D=
+=22middle=22><a href=3D=22https://em=2Enordstrom=2Ecom/pub/cc?_ri_=3DX0Gzc2=
+X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2YozekVXtpKX%3DWSYUC=
+UY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMheEBIotw6Jt8qX=
+ZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41Rsvxw65wF3Cgy3Cp-657=
+9faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9zEQ40E3yvYKIl8WDqSPFcb=
+UQx548KS8FT3Eigscg3ZyTn0mm5KPEo4ay9xr=2E=22><img src=3D=22https://static=2E=
+cdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/contentlibrary/fls/2015/=
+04/21/20150421_apr_wk_3_2015_tuesday_email_5_301769/20150421_Apr_WK_3_2015_=
+Tuesday_Email_5_301769/images/105105_bnr1_1=2Egif=22 width=3D=22598=22 heig=
+ht=3D=22133=22 alt=3D=22New Arrivals You Need for Spring - SHOP NEW ARRIVAL=
+S=22 border=3D=220=22 style=3D=22display:block;=22/></a></td>
+</tr>
+</table>
+<=21-- BANNER 1 -->
+
+
+<=21-- HERO 3 -->
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22598=22 class=
+=3D=22width292=22>
+<tr>
+    <td width=3D=22598=22 class=3D=22width292=22><div style=3D=22padding-bo=
+ttom:16px;=22 class=3D=22mb16=22><a href=3D=22https://em=2Enordstrom=2Ecom/=
+pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF=
+2YozekVXtpKX%3DWSYUCYY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYb=
+HJfCsMheEBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41=
+Rsvxw65wF3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9zo=
+dL_qz6jUTdk5zD2Oq8_Bqd3LcWMJHt7ao0kHN27v3vN_I65QQGXywPHu3Ng=2E=22><img clas=
+s=3D=22width292 hauto=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5=
+/responsysimages/nordstrom/contentlibrary/fls/2015/04/21/20150421_apr_wk_3_=
+2015_tuesday_email_5_301769/20150421_Apr_WK_3_2015_Tuesday_Email_5_301769/i=
+mages/105105_hero3_1=2Ejpg=22 width=3D=22598=22 height=3D=22489=22 alt=3D=
+=22Sunshine, Meet Shoulders=22 border=3D=220=22 style=3D=22display:block;=
+=22/></a></div></td>
+</tr>
+<tr>
+    <th style=3D=22font-weight: normal=22 width=3D=22598=22 class=3D=22 wid=
+th292 block=22 valign=3D=22top=22 align=3D=22center=22>
+    =20
+        <=21-- Container for AOL FIX -->=20
+        <table cellpadding=3D=220=22 cellspacing=3D=220=22 class=3D=22width=
+292=22 align=3D=22center=22 ><tr>
+
+            <=21-- BORDERED CTA -->
+            <th align=3D=22center=22 class=3D=22block=22 style=3D=22font-we=
+ight: normal=22>
+                <table cellpadding=3D=220=22 cellspacing=3D=220=22>
+                <tr><td colspan=3D=223=22 height=3D=222=22 style=3D=22line-=
+height:2px;=22 bgcolor=3D=22=23000000=22><img src=3D=22https://static=2Ecdn=
+=2Eresponsys=2Enet/i5/responsysimages/nordstrom/ContentLibrary/OldContent/=
+=21Campaign_Templates/Template_Footers/Store_Info/No_Store_Info/images/spcr=
+=2Egif=22 width=3D=221=22 height=3D=221=22 border=3D=220=22 style=3D=22disp=
+lay:block;=22 /></td></tr>
+                <tr>
+                    <td width=3D=222=22 bgcolor=3D=22=23000000=22><img src=
+=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/C=
+ontentLibrary/OldContent/=21Campaign_Templates/Template_Footers/Store_Info/=
+No_Store_Info/images/spcr=2Egif=22 width=3D=222=22 height=3D=221=22 style=
+=3D=22display:block=22/></td>
+                    <td align=3D=22center=22 valign=3D=22middle=22>
+                        <table cellpadding=3D=220=22 cellspacing=3D=220=22>=
+<tr><td height=3D=229=22 style=3D=22line-height:9px; height:9px;=22><img sr=
+c=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/=
+ContentLibrary/OldContent/=21Campaign_Templates/Template_Footers/Store_Info=
+/No_Store_Info/images/spcr=2Egif=22 width=3D=221=22 height=3D=221=22 border=
+=3D=220=22 style=3D=22display:block;=22 /></td></tr></table>
+                        <table cellpadding=3D=220=22 cellspacing=3D=220=22>
+                        <tr>
+                            <td width=3D=2210=22></td>
+                            <td align=3D=22center=22><div style=3D=22font-s=
+ize:14px; font-family:Arial, Helvetica, sans-serif; color:=23000001; line-h=
+eight:16px; font-weight:bold;=22><a href=3D=22https://em=2Enordstrom=2Ecom/=
+pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF=
+2YozekVXtpKX%3DWSYUCBY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYb=
+HJfCsMheEBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41=
+Rsvxw65wF3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9Kl=
+0qmmK6CcmSru_5pZwhBOdSPwLy8YZnMyxeWpRcmVD1hau1WKBQTX37MJ620=2E=22 style=3D=
+=22color:=23000001; line-height:16px; text-decoration:none;=22 class=3D=22b=
+lock=22>SHOP&nbsp;DRESSES</a></div></td>
+                            <td width=3D=2210=22></td>
+                        </tr>
+                        </table>
+                        <table cellpadding=3D=220=22 cellspacing=3D=220=22>=
+<tr><td height=3D=229=22 style=3D=22line-height:9px; height:9px;=22><img sr=
+c=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/=
+ContentLibrary/OldContent/=21Campaign_Templates/Template_Footers/Store_Info=
+/No_Store_Info/images/spcr=2Egif=22 width=3D=221=22 height=3D=221=22 border=
+=3D=220=22 style=3D=22display:block;=22 /></td></tr></table>
+                    </td>
+                    <td width=3D=222=22 bgcolor=3D=22=23000000=22><img src=
+=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/C=
+ontentLibrary/OldContent/=21Campaign_Templates/Template_Footers/Store_Info/=
+No_Store_Info/images/spcr=2Egif=22 width=3D=222=22 height=3D=221=22 style=
+=3D=22display:block=22/></td>
+                </tr>
+                <tr><td colspan=3D=223=22 height=3D=222=22 style=3D=22line-=
+height:2px;=22 bgcolor=3D=22=23000000=22><img src=3D=22https://static=2Ecdn=
+=2Eresponsys=2Enet/i5/responsysimages/nordstrom/ContentLibrary/OldContent/=
+=21Campaign_Templates/Template_Footers/Store_Info/No_Store_Info/images/spcr=
+=2Egif=22 width=3D=221=22 height=3D=221=22 border=3D=220=22 style=3D=22disp=
+lay:block;=22 /></td></tr>
+                <tr><td colspan=3D=223=22 height=3D=2216=22 style=3D=22line=
+-height:16px;=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/re=
+sponsysimages/nordstrom/ContentLibrary/OldContent/=21Campaign_Templates/Tem=
+plate_Footers/Store_Info/No_Store_Info/images/spcr=2Egif=22 width=3D=221=22=
+ height=3D=221=22 border=3D=220=22 style=3D=22display:block;=22 /></td></tr>
+                </table>
+            </th>
+            <=21-- /BORDERED CTA -->
+
+
+        </tr></table>
+        <=21-- /Container for AOL FIX -->=20
+    </th>
+</tr>
+</table>
+<=21-- /HERO 3 -->
+<table cellpadding=3D=220=22 cellspacing=3D=220=22><tr><td height=3D=2214=
+=22 style=3D=22line-height:14px; height:14px;=22><img src=3D=22https://stat=
+ic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/ContentLibrary/OldC=
+ontent/=21Campaign_Templates/Template_Footers/Store_Info/No_Store_Info/imag=
+es/spcr=2Egif=22 width=3D=221=22 height=3D=221=22 border=3D=220=22 style=3D=
+=22display:block;=22 /></td></tr></table>
+
+<=21-- HERO 3 -->
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22598=22 class=
+=3D=22width292=22>
+<tr>
+    <td width=3D=22598=22 class=3D=22width292=22><div style=3D=22padding-bo=
+ttom:16px;=22 class=3D=22mb16=22><a href=3D=22https://em=2Enordstrom=2Ecom/=
+pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF=
+2YozekVXtpKX%3DWSYUCDY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYb=
+HJfCsMheEBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41=
+Rsvxw65wF3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9AC=
+rSh9qT_lscQ_aG4r0QNoiE2L_oCjjgfRIkd5BsaFghnKjbgl2LZBDtbnOUw=2E=22><img clas=
+s=3D=22width292 hauto=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5=
+/responsysimages/nordstrom/contentlibrary/fls/2015/04/21/20150421_apr_wk_3_=
+2015_tuesday_email_5_301769/20150421_Apr_WK_3_2015_Tuesday_Email_5_301769/i=
+mages/106545_hero3_1=2Ejpg=22 width=3D=22598=22 height=3D=22444=22 alt=3D=
+=22The Lace Life + Distressed Denim=22 border=3D=220=22 style=3D=22display:=
+block;=22/></a></div></td>
+</tr>
+<tr>
+    <th style=3D=22font-weight: normal=22 width=3D=22598=22 class=3D=22 wid=
+th292 block=22 valign=3D=22top=22 align=3D=22center=22>
+       =20
+        <=21-- Container for AOL FIX -->=20
+        <table cellpadding=3D=220=22 cellspacing=3D=220=22 class=3D=22width=
+292=22 align=3D=22center=22 ><tr>
+
+            <=21-- BORDERED CTA -->
+            <th align=3D=22center=22 class=3D=22block=22 style=3D=22font-we=
+ight: normal=22>
+                <table cellpadding=3D=220=22 cellspacing=3D=220=22>
+                <tr><td colspan=3D=223=22 height=3D=222=22 style=3D=22line-=
+height:2px;=22 bgcolor=3D=22=23000000=22><img src=3D=22https://static=2Ecdn=
+=2Eresponsys=2Enet/i5/responsysimages/nordstrom/ContentLibrary/OldContent/=
+=21Campaign_Templates/Template_Footers/Store_Info/No_Store_Info/images/spcr=
+=2Egif=22 width=3D=221=22 height=3D=221=22 border=3D=220=22 style=3D=22disp=
+lay:block;=22 /></td></tr>
+                <tr>
+                    <td width=3D=222=22 bgcolor=3D=22=23000000=22><img src=
+=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/C=
+ontentLibrary/OldContent/=21Campaign_Templates/Template_Footers/Store_Info/=
+No_Store_Info/images/spcr=2Egif=22 width=3D=222=22 height=3D=221=22 style=
+=3D=22display:block=22/></td>
+                    <td align=3D=22center=22 valign=3D=22middle=22>
+                        <table cellpadding=3D=220=22 cellspacing=3D=220=22>=
+<tr><td height=3D=229=22 style=3D=22line-height:9px; height:9px;=22><img sr=
+c=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/=
+ContentLibrary/OldContent/=21Campaign_Templates/Template_Footers/Store_Info=
+/No_Store_Info/images/spcr=2Egif=22 width=3D=221=22 height=3D=221=22 border=
+=3D=220=22 style=3D=22display:block;=22 /></td></tr></table>
+                        <table cellpadding=3D=220=22 cellspacing=3D=220=22>
+                        <tr>
+                            <td width=3D=2210=22></td>
+                            <td><div style=3D=22font-size:14px; font-family=
+:Arial, Helvetica, sans-serif; color:=23000001; line-height:16px; font-weig=
+ht:bold;=22><a href=3D=22https://em=2Enordstrom=2Ecom/pub/cc?_ri_=3DX0Gzc2X=
+%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2YozekVXtpKX%3DWSYUDS=
+Y&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMheEBIotw6Jt8qXZ=
+hPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41Rsvxw65wF3Cgy3Cp-6579=
+faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9E4ZQ3R2-mXxcFSrd_k9o_4x=
+fwlNyLB39r3hENnV7aTxJB4B9lk87GIibbEqz0=2E=22 style=3D=22color:=23000001; li=
+ne-height:16px; text-decoration:none;=22 class=3D=22block=22>SHOP&nbsp;TOPS=
+</a></div></td>
+                            <td width=3D=2210=22></td>
+                        </tr>
+                        </table>
+                        <table cellpadding=3D=220=22 cellspacing=3D=220=22>=
+<tr><td height=3D=229=22 style=3D=22line-height:9px; height:9px;=22><img sr=
+c=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/=
+ContentLibrary/OldContent/=21Campaign_Templates/Template_Footers/Store_Info=
+/No_Store_Info/images/spcr=2Egif=22 width=3D=221=22 height=3D=221=22 border=
+=3D=220=22 style=3D=22display:block;=22 /></td></tr></table>
+                    </td>
+                    <td width=3D=222=22 bgcolor=3D=22=23000000=22><img src=
+=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/C=
+ontentLibrary/OldContent/=21Campaign_Templates/Template_Footers/Store_Info/=
+No_Store_Info/images/spcr=2Egif=22 width=3D=222=22 height=3D=221=22 style=
+=3D=22display:block=22/></td>
+                </tr>
+                <tr><td colspan=3D=223=22 height=3D=222=22 style=3D=22line-=
+height:2px;=22 bgcolor=3D=22=23000000=22><img src=3D=22https://static=2Ecdn=
+=2Eresponsys=2Enet/i5/responsysimages/nordstrom/ContentLibrary/OldContent/=
+=21Campaign_Templates/Template_Footers/Store_Info/No_Store_Info/images/spcr=
+=2Egif=22 width=3D=221=22 height=3D=221=22 border=3D=220=22 style=3D=22disp=
+lay:block;=22 /></td></tr>
+                <tr><td colspan=3D=223=22 height=3D=2216=22 style=3D=22line=
+-height:3px;=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/res=
+ponsysimages/nordstrom/ContentLibrary/OldContent/=21Campaign_Templates/Temp=
+late_Footers/Store_Info/No_Store_Info/images/spcr=2Egif=22 width=3D=221=22 =
+height=3D=221=22 border=3D=220=22 style=3D=22display:block;=22 /></td></tr>
+                </table>
+            </th>
+            <=21-- /BORDERED CTA -->
+
+            <=21-- SPACER BETWEEN CTAS -->
+            <th width=3D=2220=22 align=3D=22left=22 class=3D=22hide=22 styl=
+e=3D=22font-weight: normal=22></th> =20
+
+           <=21-- BORDERED CTA -->
+            <th align=3D=22center=22 class=3D=22block=22 style=3D=22font-we=
+ight: normal=22>
+                <table cellpadding=3D=220=22 cellspacing=3D=220=22>
+                <tr><td colspan=3D=223=22 height=3D=222=22 style=3D=22line-=
+height:2px;=22 bgcolor=3D=22=23000000=22><img src=3D=22https://static=2Ecdn=
+=2Eresponsys=2Enet/i5/responsysimages/nordstrom/ContentLibrary/OldContent/=
+=21Campaign_Templates/Template_Footers/Store_Info/No_Store_Info/images/spcr=
+=2Egif=22 width=3D=221=22 height=3D=221=22 border=3D=220=22 style=3D=22disp=
+lay:block;=22 /></td></tr>
+                <tr>
+                    <td width=3D=222=22 bgcolor=3D=22=23000000=22><img src=
+=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/C=
+ontentLibrary/OldContent/=21Campaign_Templates/Template_Footers/Store_Info/=
+No_Store_Info/images/spcr=2Egif=22 width=3D=222=22 height=3D=221=22 style=
+=3D=22display:block=22/></td>
+                    <td align=3D=22center=22 valign=3D=22middle=22>
+                        <table cellpadding=3D=220=22 cellspacing=3D=220=22>=
+<tr><td height=3D=229=22 style=3D=22line-height:9px; height:9px;=22><img sr=
+c=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/=
+ContentLibrary/OldContent/=21Campaign_Templates/Template_Footers/Store_Info=
+/No_Store_Info/images/spcr=2Egif=22 width=3D=221=22 height=3D=221=22 border=
+=3D=220=22 style=3D=22display:block;=22 /></td></tr></table>
+                        <table cellpadding=3D=220=22 cellspacing=3D=220=22>
+                        <tr>
+                            <td width=3D=2210=22></td>
+                            <td><div style=3D=22font-size:14px; font-family=
+:Arial, Helvetica, sans-serif; color:=23000001; line-height:16px; font-weig=
+ht:bold;=22><a href=3D=22https://em=2Enordstrom=2Ecom/pub/cc?_ri_=3DX0Gzc2X=
+%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2YozekVXtpKX%3DWSYUDU=
+Y&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMheEBIotw6Jt8qXZ=
+hPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41Rsvxw65wF3Cgy3Cp-6579=
+faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9GuW0FtOn6cRH_fuagN7pUo0=
+Zg86I1Wg3g0k85a5R8HoF33AoBIoA0nKZVhKZg=2E=22 style=3D=22color:=23000001; li=
+ne-height:16px; text-decoration:none;=22 class=3D=22block=22>SHOP&nbsp;DENI=
+M </a></div></td>
+                            <td width=3D=2210=22></td>
+                        </tr>
+                        </table>
+                        <table cellpadding=3D=220=22 cellspacing=3D=220=22>=
+<tr><td height=3D=229=22 style=3D=22line-height:9px; height:9px;=22><img sr=
+c=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/=
+ContentLibrary/OldContent/=21Campaign_Templates/Template_Footers/Store_Info=
+/No_Store_Info/images/spcr=2Egif=22 width=3D=221=22 height=3D=221=22 border=
+=3D=220=22 style=3D=22display:block;=22 /></td></tr></table>
+                    </td>
+                    <td width=3D=222=22 bgcolor=3D=22=23000000=22><img src=
+=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/C=
+ontentLibrary/OldContent/=21Campaign_Templates/Template_Footers/Store_Info/=
+No_Store_Info/images/spcr=2Egif=22 width=3D=222=22 height=3D=221=22 style=
+=3D=22display:block=22/></td>
+                </tr>
+                <tr><td colspan=3D=223=22 height=3D=222=22 style=3D=22line-=
+height:2px;=22 bgcolor=3D=22=23000000=22><img src=3D=22https://static=2Ecdn=
+=2Eresponsys=2Enet/i5/responsysimages/nordstrom/ContentLibrary/OldContent/=
+=21Campaign_Templates/Template_Footers/Store_Info/No_Store_Info/images/spcr=
+=2Egif=22 width=3D=221=22 height=3D=221=22 border=3D=220=22 style=3D=22disp=
+lay:block;=22 /></td></tr>
+                <tr><td colspan=3D=223=22 height=3D=2216=22 style=3D=22line=
+-height:3px;=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/res=
+ponsysimages/nordstrom/ContentLibrary/OldContent/=21Campaign_Templates/Temp=
+late_Footers/Store_Info/No_Store_Info/images/spcr=2Egif=22 width=3D=221=22 =
+height=3D=221=22 border=3D=220=22 style=3D=22display:block;=22 /></td></tr>
+                </table>
+            </th>      =20
+            <=21-- /BORDERED CTA -->
+
+        </tr></table>
+        <=21-- /Container for AOL FIX -->=20
+    </th>
+</tr>
+</table>
+<=21-- /HERO 3 -->
+<table cellpadding=3D=220=22 cellspacing=3D=220=22><tr><td height=3D=2214=
+=22 style=3D=22line-height:14px; height:14px;=22><img src=3D=22https://stat=
+ic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/ContentLibrary/OldC=
+ontent/=21Campaign_Templates/Template_Footers/Store_Info/No_Store_Info/imag=
+es/spcr=2Egif=22 width=3D=221=22 height=3D=221=22 border=3D=220=22 style=3D=
+=22display:block;=22 /></td></tr></table>
+
+<=21-- HERO 3 -->
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22598=22 class=
+=3D=22width292=22>
+<tr>
+    <td width=3D=22598=22 class=3D=22width292=22><div style=3D=22padding-bo=
+ttom:16px;=22 class=3D=22mb16=22><a href=3D=22https://em=2Enordstrom=2Ecom/=
+pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF=
+2YozekVXtpKX%3DWSYUDYY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYb=
+HJfCsMheEBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41=
+Rsvxw65wF3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9zk=
+3YeIVR8sVSQcioWaJfsvcJcZg7CyqlK9uoaIVsJQBsAPQtqMQ2-i_Gu3fM0=2E=22><img clas=
+s=3D=22width292 hauto=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5=
+/responsysimages/nordstrom/contentlibrary/fls/2015/04/21/20150421_apr_wk_3_=
+2015_tuesday_email_5_301769/20150421_Apr_WK_3_2015_Tuesday_Email_5_301769/i=
+mages/106547_hero3_1=2Ejpg=22 width=3D=22598=22 height=3D=22449=22 alt=3D=
+=22Light + Bright=22 border=3D=220=22 style=3D=22display:block;=22/></a></d=
+iv></td>
+</tr>
+<tr>
+    <th style=3D=22font-weight: normal=22 width=3D=22598=22 class=3D=22 wid=
+th292 block=22 valign=3D=22top=22 align=3D=22center=22>
+    =20
+        <=21-- Container for AOL FIX -->=20
+        <table cellpadding=3D=220=22 cellspacing=3D=220=22 class=3D=22width=
+292=22 align=3D=22center=22 ><tr>
+
+            <=21-- BORDERED CTA -->
+            <th align=3D=22center=22 class=3D=22block=22 style=3D=22font-we=
+ight: normal=22>
+                <table cellpadding=3D=220=22 cellspacing=3D=220=22>
+                <tr><td colspan=3D=223=22 height=3D=222=22 style=3D=22line-=
+height:2px;=22 bgcolor=3D=22=23000000=22><img src=3D=22https://static=2Ecdn=
+=2Eresponsys=2Enet/i5/responsysimages/nordstrom/ContentLibrary/OldContent/=
+=21Campaign_Templates/Template_Footers/Store_Info/No_Store_Info/images/spcr=
+=2Egif=22 width=3D=221=22 height=3D=221=22 border=3D=220=22 style=3D=22disp=
+lay:block;=22 /></td></tr>
+                <tr>
+                    <td width=3D=222=22 bgcolor=3D=22=23000000=22><img src=
+=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/C=
+ontentLibrary/OldContent/=21Campaign_Templates/Template_Footers/Store_Info/=
+No_Store_Info/images/spcr=2Egif=22 width=3D=222=22 height=3D=221=22 style=
+=3D=22display:block=22/></td>
+                    <td align=3D=22center=22 valign=3D=22middle=22>
+                        <table cellpadding=3D=220=22 cellspacing=3D=220=22>=
+<tr><td height=3D=229=22 style=3D=22line-height:9px; height:9px;=22><img sr=
+c=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/=
+ContentLibrary/OldContent/=21Campaign_Templates/Template_Footers/Store_Info=
+/No_Store_Info/images/spcr=2Egif=22 width=3D=221=22 height=3D=221=22 border=
+=3D=220=22 style=3D=22display:block;=22 /></td></tr></table>
+                        <table cellpadding=3D=220=22 cellspacing=3D=220=22>
+                        <tr>
+                            <td width=3D=2210=22></td>
+                            <td><div style=3D=22font-size:14px; font-family=
+:Arial, Helvetica, sans-serif; color:=23000001; line-height:16px; font-weig=
+ht:bold;=22><a href=3D=22https://em=2Enordstrom=2Ecom/pub/cc?_ri_=3DX0Gzc2X=
+%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2YozekVXtpKX%3DWSYUDB=
+Y&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMheEBIotw6Jt8qXZ=
+hPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41Rsvxw65wF3Cgy3Cp-6579=
+faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9BfmCNeFUokd9hCZssglplaL=
+YyDzqQmMJOfGC2VtAHE4LiahwzBCNw_uRc_Nmg=2E=22 style=3D=22color:=23000001; li=
+ne-height:16px; text-decoration:none;=22 class=3D=22block=22>SHOP&nbsp;JACK=
+ETS</a></div></td>
+                            <td width=3D=2210=22></td>
+                        </tr>
+                        </table>
+                        <table cellpadding=3D=220=22 cellspacing=3D=220=22>=
+<tr><td height=3D=229=22 style=3D=22line-height:9px; height:9px;=22><img sr=
+c=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/=
+ContentLibrary/OldContent/=21Campaign_Templates/Template_Footers/Store_Info=
+/No_Store_Info/images/spcr=2Egif=22 width=3D=221=22 height=3D=221=22 border=
+=3D=220=22 style=3D=22display:block;=22 /></td></tr></table>
+                    </td>
+                    <td width=3D=222=22 bgcolor=3D=22=23000000=22><img src=
+=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/C=
+ontentLibrary/OldContent/=21Campaign_Templates/Template_Footers/Store_Info/=
+No_Store_Info/images/spcr=2Egif=22 width=3D=222=22 height=3D=221=22 style=
+=3D=22display:block=22/></td>
+                </tr>
+                <tr><td colspan=3D=223=22 height=3D=222=22 style=3D=22line-=
+height:2px;=22 bgcolor=3D=22=23000000=22><img src=3D=22https://static=2Ecdn=
+=2Eresponsys=2Enet/i5/responsysimages/nordstrom/ContentLibrary/OldContent/=
+=21Campaign_Templates/Template_Footers/Store_Info/No_Store_Info/images/spcr=
+=2Egif=22 width=3D=221=22 height=3D=221=22 border=3D=220=22 style=3D=22disp=
+lay:block;=22 /></td></tr>
+                <tr><td colspan=3D=223=22 height=3D=2216=22 style=3D=22line=
+-height:3px;=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/res=
+ponsysimages/nordstrom/ContentLibrary/OldContent/=21Campaign_Templates/Temp=
+late_Footers/Store_Info/No_Store_Info/images/spcr=2Egif=22 width=3D=221=22 =
+height=3D=221=22 border=3D=220=22 style=3D=22display:block;=22 /></td></tr>
+                </table>
+            </th>
+            <=21-- /BORDERED CTA -->
+
+            <=21-- SPACER BETWEEN CTAS -->
+            <th width=3D=2220=22 align=3D=22left=22 class=3D=22hide=22 styl=
+e=3D=22font-weight: normal=22></th> =20
+
+           <=21-- BORDERED CTA -->
+            <th align=3D=22center=22 class=3D=22block=22 style=3D=22font-we=
+ight: normal=22>
+                <table cellpadding=3D=220=22 cellspacing=3D=220=22>
+                <tr><td colspan=3D=223=22 height=3D=222=22 style=3D=22line-=
+height:2px;=22 bgcolor=3D=22=23000000=22><img src=3D=22https://static=2Ecdn=
+=2Eresponsys=2Enet/i5/responsysimages/nordstrom/ContentLibrary/OldContent/=
+=21Campaign_Templates/Template_Footers/Store_Info/No_Store_Info/images/spcr=
+=2Egif=22 width=3D=221=22 height=3D=221=22 border=3D=220=22 style=3D=22disp=
+lay:block;=22 /></td></tr>
+                <tr>
+                    <td width=3D=222=22 bgcolor=3D=22=23000000=22><img src=
+=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/C=
+ontentLibrary/OldContent/=21Campaign_Templates/Template_Footers/Store_Info/=
+No_Store_Info/images/spcr=2Egif=22 width=3D=222=22 height=3D=221=22 style=
+=3D=22display:block=22/></td>
+                    <td align=3D=22center=22 valign=3D=22middle=22>
+                        <table cellpadding=3D=220=22 cellspacing=3D=220=22>=
+<tr><td height=3D=229=22 style=3D=22line-height:9px; height:9px;=22><img sr=
+c=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/=
+ContentLibrary/OldContent/=21Campaign_Templates/Template_Footers/Store_Info=
+/No_Store_Info/images/spcr=2Egif=22 width=3D=221=22 height=3D=221=22 border=
+=3D=220=22 style=3D=22display:block;=22 /></td></tr></table>
+                        <table cellpadding=3D=220=22 cellspacing=3D=220=22>
+                        <tr>
+                            <td width=3D=2210=22></td>
+                            <td><div style=3D=22font-size:14px; font-family=
+:Arial, Helvetica, sans-serif; color:=23000001; line-height:16px; font-weig=
+ht:bold;=22><a href=3D=22https://em=2Enordstrom=2Ecom/pub/cc?_ri_=3DX0Gzc2X=
+%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2YozekVXtpKX%3DWSYUDD=
+Y&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMheEBIotw6Jt8qXZ=
+hPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41Rsvxw65wF3Cgy3Cp-6579=
+faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9yvvb0BTX5-CEY0x7YqQrhMV=
+Kyq9QeHMz9n4QSqNK2kBgyVIV1hcwPwPjZeM_0=2E=22 style=3D=22color:=23000001; li=
+ne-height:16px; text-decoration:none;=22 class=3D=22block=22>SHOP&nbsp;SHOR=
+TS</a></div></td>
+                            <td width=3D=2210=22></td>
+                        </tr>
+                        </table>
+                        <table cellpadding=3D=220=22 cellspacing=3D=220=22>=
+<tr><td height=3D=229=22 style=3D=22line-height:9px; height:9px;=22><img sr=
+c=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/=
+ContentLibrary/OldContent/=21Campaign_Templates/Template_Footers/Store_Info=
+/No_Store_Info/images/spcr=2Egif=22 width=3D=221=22 height=3D=221=22 border=
+=3D=220=22 style=3D=22display:block;=22 /></td></tr></table>
+                    </td>
+                    <td width=3D=222=22 bgcolor=3D=22=23000000=22><img src=
+=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/C=
+ontentLibrary/OldContent/=21Campaign_Templates/Template_Footers/Store_Info/=
+No_Store_Info/images/spcr=2Egif=22 width=3D=222=22 height=3D=221=22 style=
+=3D=22display:block=22/></td>
+                </tr>
+                <tr><td colspan=3D=223=22 height=3D=222=22 style=3D=22line-=
+height:2px;=22 bgcolor=3D=22=23000000=22><img src=3D=22https://static=2Ecdn=
+=2Eresponsys=2Enet/i5/responsysimages/nordstrom/ContentLibrary/OldContent/=
+=21Campaign_Templates/Template_Footers/Store_Info/No_Store_Info/images/spcr=
+=2Egif=22 width=3D=221=22 height=3D=221=22 border=3D=220=22 style=3D=22disp=
+lay:block;=22 /></td></tr>
+                <tr><td colspan=3D=223=22 height=3D=2216=22 style=3D=22line=
+-height:3px;=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/res=
+ponsysimages/nordstrom/ContentLibrary/OldContent/=21Campaign_Templates/Temp=
+late_Footers/Store_Info/No_Store_Info/images/spcr=2Egif=22 width=3D=221=22 =
+height=3D=221=22 border=3D=220=22 style=3D=22display:block;=22 /></td></tr>
+                </table>
+            </th>      =20
+            <=21-- /BORDERED CTA -->
+
+        </tr></table>
+        <=21-- /Container for AOL FIX -->=20
+    </th>
+</tr>
+</table>
+<=21-- /HERO 3 -->
+<table cellpadding=3D=220=22 cellspacing=3D=220=22><tr><td height=3D=2214=
+=22 style=3D=22line-height:14px; height:14px;=22><img src=3D=22https://stat=
+ic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/ContentLibrary/OldC=
+ontent/=21Campaign_Templates/Template_Footers/Store_Info/No_Store_Info/imag=
+es/spcr=2Egif=22 width=3D=221=22 height=3D=221=22 border=3D=220=22 style=3D=
+=22display:block;=22 /></td></tr></table>
+
+
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22598=22 class=
+=3D=22width292=22>
+<tr><td width=3D=22598=22 align=3D=22center=22 valign=3D=22top=22 class=3D=
+=22width292=22>
+
+
+       =20
+<=21-- RESCUE 1 -->
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22598=22 class=
+=3D=22width292 height140=22>
+<tr>=20
+    <td width=3D=22598=22 valign=3D=22top=22 height=3D=2270=22 class=3D=22w=
+idth292=22>
+
+        <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22598=
+=22 class=3D=22width292 rel=22>
+        <tr>=20
+            <td width=3D=22292=22 valign=3D=22top=22 height=3D=2270=22 clas=
+s=3D=22abs top0=22><div><a href=3D=22https://em=2Enordstrom=2Ecom/pub/cc?_r=
+i_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2YozekVXt=
+pKX%3DWSYWRSY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMheE=
+BIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41Rsvxw65wF=
+3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9x_MM5VLF2dY=
+jxCLKY54QQMgkTnIkqvyhAv6hf_FDqkv_z-Tt_CV646IK0=2E=22><img src=3D=22https://=
+static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/contentlibrary/=
+fls/2015/04/21/20150421_apr_wk_3_2015_tuesday_email_5_301769/20150421_Apr_W=
+K_3_2015_Tuesday_Email_5_301769/images/100148_rescue1=2Egif=22 width=3D=222=
+92=22 height=3D=2270=22 alt=3D=22your own PERSONAL stylist - LEARN MORE=22 =
+border=3D=220=22 style=3D=22display:block;=22/></a></div></td>
+            <td width=3D=2214=22 class=3D=22hide=22></td>
+            <td width=3D=22292=22 height=3D=2270=22 valign=3D=22top=22 clas=
+s=3D=22abs top71=22><div><a href=3D=22https://em=2Enordstrom=2Ecom/pub/cc?_=
+ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2YozekVX=
+tpKX%3DWSYWRYY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMhe=
+EBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41Rsvxw65w=
+F3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9HF2TZyVzh-=
+MYvX54T_w9eXrOiy3FiuJjvxwodqpKimKKR8Stq6YmeQI9w=2E=22><img src=3D=22https:/=
+/static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/contentlibrary=
+/fls/2015/04/21/20150421_apr_wk_3_2015_tuesday_email_5_301769/20150421_Apr_=
+WK_3_2015_Tuesday_Email_5_301769/images/100671_rescue1=2Egif=22 width=3D=22=
+292=22 height=3D=2270=22 alt=3D=22FREE SHIPPING=2E FREE RETURNS=2E ALL THE =
+TIME=2E Details below=2E=22 border=3D=220=22 style=3D=22display:block;=22/>=
+</a></div></td>
+        </tr>
+        </table>
+       =20
+    </td>
+ </tr>
+ </table>
+<=21-- RESCUE 1 -->
+
+
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 class=3D=22hide=22><tr><=
+td height=3D=2220=22 style=3D=22line-height:20px; height:20px;=22><img src=
+=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/c=
+ontentlibrary/fls/2015/04/21/20150421_apr_wk_3_2015_tuesday_email_5_301769/=
+20150421_Apr_WK_3_2015_Tuesday_Email_5_301769/images/spcr=2Egif=22 width=3D=
+=221=22 height=3D=221=22 border=3D=220=22 style=3D=22display:block;=22/></t=
+d></tr></table>
+
+
+<=21--Start Footer -->=20
+<=21-- Start Mobile Nav -->
+
+<=21--=5Bif =21mso=5D><=21-->
+<div class=3D=22show=22 style=3D=22display:none; float:left; overflow:hidde=
+n; width:0; max-height:0; line-height:0; padding-bottom:0px;=22>
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22292=22 align=
+=3D=22center=22 valign=3D=22top=22>
+<tr>
+	<td valign=3D=22top=22><a href=3D=22https://em=2Enordstrom=2Ecom/pub/cc?_r=
+i_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2YozekVXt=
+pKX%3DWSYUWUY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMheE=
+BIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41Rsvxw65wF=
+3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9LuSnZ_iHBW-=
+st8dlFbBmfNpNZA-HkET0kQzH0t3LSicK1oG9g6_lIZn=2E=22 style=3D=22border:none;=
+=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages=
+/nordstrom/contentlibrary/fls/2015/04/21/20150421_apr_wk_3_2015_tuesday_ema=
+il_5_301769/20150421_Apr_WK_3_2015_Tuesday_Email_5_301769/images/vnav_women=
+=2Egif=22 alt=3D=22WOMEN=22 width=3D=22292=22 height=3D=2261=22 border=3D=
+=220=22 style=3D=22display:block;=22 /></a></td>
+</tr>
+<tr>
+	<td valign=3D=22top=22><a href=3D=22https://em=2Enordstrom=2Ecom/pub/cc?_r=
+i_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2YozekVXt=
+pKX%3DWSYUWBY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMheE=
+BIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41Rsvxw65wF=
+3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9GaY_1Cohi4K=
+JCw2EHHC51nK2kmwOjhiy_Fv0_L3rantP1OoDKercg=2E=22 style=3D=22border:none;=22=
+><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/no=
+rdstrom/contentlibrary/fls/2015/04/21/20150421_apr_wk_3_2015_tuesday_email_=
+5_301769/20150421_Apr_WK_3_2015_Tuesday_Email_5_301769/images/vnav_men=2Egi=
+f=22 alt=3D=22MEN=22 width=3D=22292=22 height=3D=2263=22 border=3D=220=22 s=
+tyle=3D=22display:block;=22 /></a></td>
+</tr>
+<tr>
+	<td valign=3D=22top=22><a href=3D=22https://em=2Enordstrom=2Ecom/pub/cc?_r=
+i_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2YozekVXt=
+pKX%3DWSYUBSY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMheE=
+BIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41Rsvxw65wF=
+3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9xGiUV9bAvMM=
+w4qJKDB1LBBLUATlRz85eKV0pF_vI-2KZDKFHLRFTpMh=2E=22 style=3D=22border:none;=
+=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages=
+/nordstrom/contentlibrary/fls/2015/04/21/20150421_apr_wk_3_2015_tuesday_ema=
+il_5_301769/20150421_Apr_WK_3_2015_Tuesday_Email_5_301769/images/vnav_trend=
+=2Egif=22 alt=3D=22TREND=22 width=3D=22292=22 height=3D=2260=22 border=3D=
+=220=22 style=3D=22display:block;=22 /></a></td>
+</tr>
+<tr>
+	<td valign=3D=22top=22><a href=3D=22https://em=2Enordstrom=2Ecom/pub/cc?_r=
+i_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2YozekVXt=
+pKX%3DWSYUBYY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMheE=
+BIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41Rsvxw65wF=
+3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9CcHhkKt_5lu=
+T3UR8dPaN_rspuEGQDlz-iX3rZENNXoVfDHCjQM-vIA=2E=22 style=3D=22border:none;=
+=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages=
+/nordstrom/contentlibrary/fls/2015/04/21/20150421_apr_wk_3_2015_tuesday_ema=
+il_5_301769/20150421_Apr_WK_3_2015_Tuesday_Email_5_301769/images/vnav_kids=
+=2Egif=22 alt=3D=22KIDS=22 width=3D=22292=22 height=3D=2262=22 border=3D=22=
+0=22 style=3D=22display:block;=22 /></a></td>=09
+</tr>
+<tr>
+	<td valign=3D=22top=22><a href=3D=22https://em=2Enordstrom=2Ecom/pub/cc?_r=
+i_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2YozekVXt=
+pKX%3DWSYUBDY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMheE=
+BIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41Rsvxw65wF=
+3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9LHOj4kFg0nV=
+wXXZxTdvq9yCA8sWufb0EeFFACLWmdegtUoHE_3Ve8Q=2E=22 style=3D=22border:none;=
+=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages=
+/nordstrom/contentlibrary/fls/2015/04/21/20150421_apr_wk_3_2015_tuesday_ema=
+il_5_301769/20150421_Apr_WK_3_2015_Tuesday_Email_5_301769/images/vnav_sale=
+=2Egif=22 alt=3D=22SALE=22 width=3D=22292=22 height=3D=2265=22 border=3D=22=
+0=22 style=3D=22display:block;=22 /></a></td>
+</tr>
+</table>
+</div>
+<=21--<=21=5Bendif=5D-->
+<=21--End Mobile Nav--> =20
+  =20
+<=21--Start Social Footer -->
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 class=3D=22hide=22><tr><=
+td width=3D=22598=22 height=3D=221=22 bgcolor=3D=22=23d7d7d7=22 style=3D=22=
+line-height:1px;=22 class=3D=22width292=22><img src=3D=22https://static=2Ec=
+dn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/contentlibrary/fls/2015/0=
+4/21/20150421_apr_wk_3_2015_tuesday_email_5_301769/20150421_Apr_WK_3_2015_T=
+uesday_Email_5_301769/images/spcr=2Egif=22 width=3D=221=22 height=3D=221=22=
+ border=3D=220=22 style=3D=22display:block;=22 /></td></tr></table>
+<table cellpadding=3D=220=22 cellspacing=3D=220=22><tr><td height=3D=2210=
+=22 style=3D=22line-height:10px;=22><img src=3D=22https://static=2Ecdn=2Ere=
+sponsys=2Enet/i5/responsysimages/nordstrom/contentlibrary/fls/2015/04/21/20=
+150421_apr_wk_3_2015_tuesday_email_5_301769/20150421_Apr_WK_3_2015_Tuesday_=
+Email_5_301769/images/spcr=2Egif=22 width=3D=221=22 height=3D=221=22 border=
+=3D=220=22 style=3D=22display:block;=22/></td></tr></table>
+
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 class=3D=22hide=22><tr><=
+td height=3D=2210=22 style=3D=22line-height:10px; height:10px;=22><img src=
+=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/C=
+ontentLibrary/OldContent/=21Campaign_Templates/Template_Footers/Store_Info/=
+No_Store_Info/images/spcr=2Egif=22 width=3D=221=22 height=3D=221=22 border=
+=3D=220=22 style=3D=22display:block;=22/></td></tr></table>
+<=21--=5Bif =21mso=5D><=21-->
+<div class=3D=22show=22 style=3D=22display:none; float:left; overflow:hidde=
+n; width:0; max-height:0; line-height:0; padding-bottom:0px;=22>
+<table cellpadding=3D=220=22 cellspacing=3D=220=22><tr><td height=3D=2210=
+=22 style=3D=22line-height:10px; height:10px;=22><img src=3D=22https://stat=
+ic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/ContentLibrary/OldC=
+ontent/=21Campaign_Templates/Template_Footers/Store_Info/No_Store_Info/imag=
+es/spcr=2Egif=22 width=3D=221=22 height=3D=221=22 border=3D=220=22 style=3D=
+=22display:block;=22/></td></tr></table>
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22292=22>
+<tr>
+    <td width=3D=2231=22></td>
+    <td align=3D=22center=22 valign=3D=22top=22 >
+        <div><a href=3D=22https://em=2Enordstrom=2Ecom/pub/cc?_ri_=3DX0Gzc2=
+X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2YozekVXtpKX%3DWSYWR=
+BY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMheEBIotw6Jt8qX=
+ZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41Rsvxw65wF3Cgy3Cp-657=
+9faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9IdSC9k6kCyZzuUEAZPOZBt=
+tCUzXPwPO4nDws1gGE14pAR9FxxJPN81jWQJF=2E=22><img src=3D=22https://static=2E=
+cdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/ContentLibrary/OldConten=
+t/=21Campaign_Templates/Template_Footers/Store_Info/No_Store_Info/images/fi=
+nd_nordstrom_m=2Ejpg=22 width=3D=22235=22 height=3D=2213=22 border=3D=220=
+=22 style=3D=22display:block;=22 alt=3D=22FIND A NORDSTROM NEAR YOU=22 /></=
+a></div>
+        <table cellpadding=3D=220=22 cellspacing=3D=220=22 ><tr><td height=
+=3D=2210=22 style=3D=22line-height:10px; height:10px=22><img src=3D=22https=
+://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/ContentLibra=
+ry/OldContent/=21Campaign_Templates/Template_Footers/Store_Info/No_Store_In=
+fo/images/spcr=2Egif=22 width=3D=221=22 height=3D=221=22 border=3D=220=22 s=
+tyle=3D=22display:block;=22/></td></tr></table>
+        <div style=3D=22font-family:Arial, Helvetica, sans-serif; font-size=
+:11px; color:=23a6a6a6; line-height:12px;=22>
+        Come visit one of our stores in the<br style=3D=22line-height:12px;=
+=22/>U=2ES=2E and Canada=2E<br style=3D=22line-height:12px;=22/><br style=
+=3D=22line-height:12px;=22/>
+        <a href=3D=22https://em=2Enordstrom=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DW=
+QpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2YozekVXtpKX%3DWSYWRBY&_e=
+i_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMheEBIotw6Jt8qXZhPJT=
+wPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41Rsvxw65wF3Cgy3Cp-6579faar=
+nMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9IdSC9k6kCyZzuUEAZPOZBttCUzX=
+PwPO4nDws1gGE14pAR9FxxJPN81jWQJF=2E=22 style=3D=22text-decoration:underline=
+; line-height:12px; color:=23a6a6a6;=22>Store Locations &amp; Events</a>
+        </div>
+    </td>
+    <td width=3D=2226=22></td>
+</tr>=09
+</table>
+</div>
+<=21--<=21=5Bendif=5D-->
+
+<=21--Start Find a Store-->
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22598=22 class=
+=3D=22hide=22>
+<tr>
+    <td width=3D=2248=22></td>
+    <td width=3D=22111=22 align=3D=22left=22 valign=3D=22top=22><a href=3D=
+=22https://em=2Enordstrom=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeO=
+uyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2YozekVXtpKX%3DWSYWRBY&_ei_=3DEqlj3kf4SOTOW=
+ldP0YI9VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMheEBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzw=
+DQY3FmpkW4IbmsVsBNyilBTha_0_5o41Rsvxw65wF3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS=
+0YaekHaYGAR58T5lPlMu9-L3wcWIR9IdSC9k6kCyZzuUEAZPOZBttCUzXPwPO4nDws1gGE14pAR=
+9FxxJPN81jWQJF=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i=
+5/responsysimages/nordstrom/ContentLibrary/OldContent/=21Campaign_Templates=
+/Template_Footers/Store_Info/No_Store_Info/images/find_nordstrom=2Ejpg=22 a=
+lt=3D=22FIND A NORDSTROM NEAR YOU=22 width=3D=22111=22 height=3D=2246=22 bo=
+rder=3D=220=22 style=3D=22display:block;=22 /></a></td>
+    <td width=3D=22110=22></td>
+    <td align=3D=22left=22 valign=3D=22top=22>
+    	<div><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsys=
+images/nordstrom/ContentLibrary/OldContent/=21Campaign_Templates/Template_F=
+ooters/Store_Info/No_Store_Info/images/come_visit=2Egif=22 alt=3D=22COME VI=
+SIT ONE OF OUR STORES IN THE U=2ES=2E, CANADA AND PUERTO RICO=2E=22 width=
+=3D=22281=22 height=3D=2234=22 border=3D=220=22 style=3D=22display:block;=
+=22 /></div>
+        <div style=3D=22font-family:Arial, Helvetica, sans-serif; font-size=
+:11px; color:=23000000; line-height:12px;=22><a href=3D=22https://em=2Enord=
+strom=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzd=
+HYlscEzdK5TF2YozekVXtpKX%3DWSYWRBY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWM=
+nDnYROXSNaYbHJfCsMheEBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyi=
+lBTha_0_5o41Rsvxw65wF3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu=
+9-L3wcWIR9IdSC9k6kCyZzuUEAZPOZBttCUzXPwPO4nDws1gGE14pAR9FxxJPN81jWQJF=2E=22=
+ style=3D=22text-decoration:underline; line-height:12px; color:=23000000;=
+=22>Store Locations &amp; Events</a></div>
+    </td>
+</tr>=09
+</table>
+<table cellpadding=3D=220=22 cellspacing=3D=220=22><tr><td height=3D=2219=
+=22 style=3D=22height:19px; line-height:19px;=22 class=3D=22height25=22><im=
+g src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordst=
+rom/ContentLibrary/OldContent/=21Campaign_Templates/Template_Footers/Store_=
+Info/No_Store_Info/images/spcr=2Egif=22 width=3D=221=22 height=3D=221=22 bo=
+rder=3D=220=22 style=3D=22display:block;=22/></td></tr></table>
+<=21--End Find a Store-->
+
+<=21-- Start Rack/Haute Logos-->
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22598=22 class=
+=3D=22width292=22>
+<tr>
+    <td class=3D=22floatleft=22>
+        <table cellpadding=3D=220=22 cellspacing=3D=220=22 class=3D=22width=
+292 paddingb16=22 align=3D=22center=22>
+        <tr>
+            <td width=3D=2228=22 class=3D=22paddingl34=22><a href=3D=22http=
+s://em=2Enordstrom=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzg=
+jYd3aiCS9KKzdHYlscEzdK5TF2YozekVXtpKX%3DWSYWSSY&_ei_=3DEqlj3kf4SOTOWldP0YI9=
+VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMheEBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3Fmp=
+kW4IbmsVsBNyilBTha_0_5o41Rsvxw65wF3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHa=
+YGAR58T5lPlMu9-L3wcWIR9AGswblNQkeH6gUjAqO0Xo4K09TNgB1ZhV1Nti5aKuXIeP1WV9Qq=
+=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysima=
+ges/nordstrom/contentlibrary/fls/2015/04/21/20150421_apr_wk_3_2015_tuesday_=
+email_5_301769/20150421_Apr_WK_3_2015_Tuesday_Email_5_301769/images/icon_fb=
+=2Epng=22 width=3D=2228=22 height=3D=2228=22 alt=3D=22Facebook=22 border=3D=
+=220=22 style=3D=22display:block;=22/></a></td>
+            <td width=3D=227=22></td>
+            <td width=3D=2228=22><a href=3D=22https://em=2Enordstrom=2Ecom/=
+pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF=
+2YozekVXtpKX%3DWSYWSYY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYb=
+HJfCsMheEBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41=
+Rsvxw65wF3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9Cb=
+-zyrgKv6lcDcMEjVGq4N5u_8nrg_U3mAIFp0UKyDz5cWAANOA=2E=22><img src=3D=22https=
+://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/contentlibra=
+ry/fls/2015/04/21/20150421_apr_wk_3_2015_tuesday_email_5_301769/20150421_Ap=
+r_WK_3_2015_Tuesday_Email_5_301769/images/icon_tw=2Epng=22 width=3D=2228=22=
+ height=3D=2228=22 alt=3D=22Twitter=22 border=3D=220=22 style=3D=22display:=
+block;=22/></a></td>
+            <td width=3D=227=22></td>
+            <td width=3D=2228=22><a href=3D=22https://em=2Enordstrom=2Ecom/=
+pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF=
+2YozekVXtpKX%3DWSYWSDY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYb=
+HJfCsMheEBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41=
+Rsvxw65wF3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9FA=
+fYvWsi9I4W6sQI4EHG1MRa1vFyEjAdU7qCQmpRv5-qLvvEMHGUM=2E=22><img src=3D=22htt=
+ps://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/contentlib=
+rary/fls/2015/04/21/20150421_apr_wk_3_2015_tuesday_email_5_301769/20150421_=
+Apr_WK_3_2015_Tuesday_Email_5_301769/images/icon_pin=2Epng=22 width=3D=2228=
+=22 height=3D=2228=22 alt=3D=22Pinterest=22 border=3D=220=22 style=3D=22dis=
+play:block;=22/></a></td>
+            <td width=3D=227=22></td>
+            <td width=3D=2228=22><a href=3D=22https://em=2Enordstrom=2Ecom/=
+pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF=
+2YozekVXtpKX%3DWSYWTUY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYb=
+HJfCsMheEBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41=
+Rsvxw65wF3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9Bc=
+qB_uLEviGn30DZ5KqVai36QY9Xuqz8lHps0eWuoLIAfQQWr3Y=2E=22><img src=3D=22https=
+://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/contentlibra=
+ry/fls/2015/04/21/20150421_apr_wk_3_2015_tuesday_email_5_301769/20150421_Ap=
+r_WK_3_2015_Tuesday_Email_5_301769/images/icon_insta=2Epng=22 width=3D=2228=
+=22 height=3D=2228=22 alt=3D=22Instagram=22 border=3D=220=22 style=3D=22dis=
+play:block;=22/></a></td>
+            <td width=3D=227=22></td>
+            <td width=3D=2228=22><a href=3D=22https://em=2Enordstrom=2Ecom/=
+pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF=
+2YozekVXtpKX%3DWSYWTBY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYb=
+HJfCsMheEBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41=
+Rsvxw65wF3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9D_=
+MFxuHdeLuBrsrWSeVNyUzFyiItw8hG2fIjC7oZR-ujs_bE1jykM=2E=22><img src=3D=22htt=
+ps://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/contentlib=
+rary/fls/2015/04/21/20150421_apr_wk_3_2015_tuesday_email_5_301769/20150421_=
+Apr_WK_3_2015_Tuesday_Email_5_301769/images/icon_wanelo=2Epng=22 width=3D=
+=2228=22 height=3D=2228=22 alt=3D=22WANELO=22 border=3D=220=22 style=3D=22d=
+isplay:block;=22/></a></td>
+            <td width=3D=227=22></td>
+            <td width=3D=2228=22 class=3D=22paddingr34=22><a href=3D=22http=
+s://em=2Enordstrom=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzg=
+jYd3aiCS9KKzdHYlscEzdK5TF2YozekVXtpKX%3DWSYWUSY&_ei_=3DEqlj3kf4SOTOWldP0YI9=
+VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMheEBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3Fmp=
+kW4IbmsVsBNyilBTha_0_5o41Rsvxw65wF3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHa=
+YGAR58T5lPlMu9-L3wcWIR9K4_dsIoPkEwlGh4R-DTNdOLjxJw6lkBueS1DQKFSl51EoCjFR6jY=
+vM=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysi=
+mages/nordstrom/contentlibrary/fls/2015/04/21/20150421_apr_wk_3_2015_tuesda=
+y_email_5_301769/20150421_Apr_WK_3_2015_Tuesday_Email_5_301769/images/icon_=
+tblr=2Epng=22 width=3D=2228=22 height=3D=2228=22 alt=3D=22Tumblr=22 border=
+=3D=220=22 style=3D=22display:block;=22/></a></td>
+        </tr>
+        </table>
+    </td>
+    <td class=3D=22hide=22 width=3D=2234=22></td>
+    <td class=3D=22width292 floatleft=22>
+        <table cellpadding=3D=220=22 cellspacing=3D=220=22 class=3D=22width=
+292=22>
+        <tr>
+            <td width=3D=2271=22 valign=3D=22top=22 class=3D=22paddingl41=
+=22 align=3D=22center=22><a href=3D=22https://em=2Enordstrom=2Ecom/pub/cc?_=
+ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2YozekVX=
+tpKX%3DWSYWUYY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMhe=
+EBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41Rsvxw65w=
+F3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9KqzBH4RBab=
+gkC9cTosYyQ-tuUhgUrZsbM-WHMgPZa260r6yKrJHzM=2E=22><img src=3D=22https://sta=
+tic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/contentlibrary/fls=
+/2015/04/21/20150421_apr_wk_3_2015_tuesday_email_5_301769/20150421_Apr_WK_3=
+_2015_Tuesday_Email_5_301769/images/logo_rack=2Epng=22 width=3D=2271=22 hei=
+ght=3D=2241=22 alt=3D=22NORDSTROM rack=22  border=3D=220=22 style=3D=22disp=
+lay:block;=22/></a></td>
+            <td width=3D=22106=22 valign=3D=22top=22 align=3D=22center=22 c=
+lass=3D=22paddingr52=22><a href=3D=22https://em=2Enordstrom=2Ecom/pub/cc?_r=
+i_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2YozekVXt=
+pKX%3DWSYWUDY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMheE=
+BIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41Rsvxw65wF=
+3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9LKgerFdoFNs=
+Rm1ZPSgVpgQnX-qz4_kpmFQTnUnxVZxRObCY9fKRg_zOYaz1=2E=22><img src=3D=22https:=
+//static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/nordstrom/contentlibrar=
+y/fls/2015/04/21/20150421_apr_wk_3_2015_tuesday_email_5_301769/20150421_Apr=
+_WK_3_2015_Tuesday_Email_5_301769/images/logo_haute=2Epng=22 width=3D=22106=
+=22 height=3D=2241=22 alt=3D=22HAUTELOOK - A NORDSTROM COMPANY=22 border=3D=
+=220=22 style=3D=22display:block;=22/></a></td>
+        </tr>
+        </table>
+    </td>
+    <td width=3D=2234=22 class=3D=22hide=22></td>
+    <td  align=3D=22left=22 valign=3D=22middle=22 class=3D=22hide=22>
+        <div style=3D=22font-family:Arial, Helvetica, sans-serif; font-size=
+:11px; letter-spacing:normal; word-spacing:normal; color:=23939393; line-he=
+ight:16px;=22><a href=3D=22https://em=2Enordstrom=2Ecom/pub/cc?_ri_=3DX0Gzc=
+2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2YozekVXtpKX%3DWSYW=
+WUY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMheEBIotw6Jt8q=
+XZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41Rsvxw65wF3Cgy3Cp-65=
+79faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9FBGI-VmCIZ1n0NXpPctdK=
+Fh8vyL1qj48H6SMnURAmRBRdVoL0aUA6Y=2E=22 style=3D=22color:=23939393; font-si=
+ze:11px; line-height:16px; text-decoration:underline;=22>GET OUR APPS</a></=
+div>
+        <div style=3D=22font-family:Arial, Helvetica, sans-serif; font-size=
+:11px; color:=23939393; letter-spacing:normal; word-spacing:normal; line-he=
+ight:16px;=22 class=3D=22paddingl10=22><a href=3D=22https://em=2Enordstrom=
+=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlsc=
+EzdK5TF2YozekVXtpKX%3DWSYWWBY&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYR=
+OXSNaYbHJfCsMheEBIotw6Jt8qXZhPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha=
+_0_5o41Rsvxw65wF3Cgy3Cp-6579faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3w=
+cWIR9JnXfER7UuMEtvDv7lfhMzVpzt3CuNA4d9LTVfAjEoDJBCAUoy-j2xMDNXA=2E=22 style=
+=3D=22color:=23939393; font-size:11px; line-height:16px; text-decoration:no=
+ne;=22><span style=3D=22text-decoration:underline;=22>NORDSTROM REWARDS</sp=
+an>&trade;</a></div>
+    </td>
+</tr>
+</table>
+<=21-- /End Rack/Haute Logos-->
+<=21-- End Social Footer -->
+
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22598=22 class=
+=3D=22width292=22><tr><td height=3D=2218=22 style=3D=22line-height:18px;=22=
+><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/no=
+rdstrom/contentlibrary/fls/2015/04/21/20150421_apr_wk_3_2015_tuesday_email_=
+5_301769/20150421_Apr_WK_3_2015_Tuesday_Email_5_301769/images/spcr=2Egif=22=
+ width=3D=221=22 height=3D=221=22 border=3D=220=22 style=3D=22display:block=
+;=22 /></td></tr></table>
+
+</td></tr>
+</table>
+
+<=21-- Start Disclaimer -->
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22598=22 class=
+=3D=22width292=22>
+<tr>
+    <td width=3D=22598=22 class=3D=22width292=22 align=3D=22left=22 valign=
+=3D=22top=22>
+        <div style=3D=22font-family:Arial, Helvetica, sans-serif; font-size=
+:11px; color:=23a6a6a6; line-height:12px;=22>
+            FREE SHIPPING=2E FREE RETURNS=2E ALL THE TIME=2E This offer is =
+only available for Standard Shipping on Nordstrom=2Ecom, and is not availab=
+le in Nordstrom Rack stores or for international orders=2E Please visit nor=
+dstromrack=2Ecom or HauteLook=2Ecom for details about their shipping and re=
+turn policies=2E<br style=3D=22line-height:12px;=22 /><br style=3D=22line-h=
+eight:12px;=22 />
+             <=21--BEGIN FOOTER CONDITION=2E THIS CONDITION ADDS AN OPEN CO=
+MMENT TAG=2E DO NOT CODE AFTER ANY UNCLOSED COMMENT TAG-->
+            Add <span class=3D=22flagship_address=22 style=3D=22line-height=
+:12px;=22>nordstrom=40em=2Enordstrom=2Ecom</span> to your address book to e=
+nsure that you receive our emails in your inbox=2E<br style=3D=22line-heigh=
+t:12px;=22 /><br style=3D=22line-height:12px;=22 />
+            This is an advertising message from Nordstrom, <span class=3D=
+=22flagship_address=22 style=3D=22line-height:12px;=22>1600 Seventh Avenue,=
+ Suite 2600, Seattle, WA 98101</span>=2E<br style=3D=22line-height:12px;=22=
+ />
+            <a href=3D=22https://em=2Enordstrom=2Ecom/pub/cc?_ri_=3DX0Gzc2X=
+%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlscEzdK5TF2YozekVXtpKX%3DWSYWYS=
+Y&_ei_=3DEqlj3kf4SOTOWldP0YI9VEnyBbDZW4wWMnDnYROXSNaYbHJfCsMheEBIotw6Jt8qXZ=
+hPJTwPCxkFv-ttvYjt9fzwDQY3FmpkW4IbmsVsBNyilBTha_0_5o41Rsvxw65wF3Cgy3Cp-6579=
+faarnMYerzOoDpg-7elZwS0YaekHaYGAR58T5lPlMu9-L3wcWIR9Klv_CVyyGW5zyjwKINkEtK7=
+BeO2n_nohTuObQ--2G9dmJ52AkylHxyF20=2E=22 style=3D=22color:=23a6a6a6; line-h=
+eight:12px; text-decoration:underline;=22>Nordstrom Privacy Policy</a><br s=
+tyle=3D=22line-height:12px;=22 /><br style=3D=22line-height:12px;=22 />
+           =20
+            TO OPT-DOWN OR UNSUBSCRIBE: This email was sent to you because =
+you are a valued Nordstrom customer=2E To receive fewer updates or remove y=
+ourself from our email program, please <a href=3D=22https://em=2Enordstrom=
+=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpcdzeOuyzeuzgjYd3aiCS9KKzdHYlsc=
+EzdK5TF2YozekVXtpKX%3DWSYWYYY&_ei_=3DEkGRMG0U0djKUppXEsgWQFPwWU_kCGoDINS_dI=
+iYEPfft_PLLBsqg-1RC4ILfg-VOxEIuKzsjX5t5i9VuYDp3oExx_MJz1TPrkMuTvx9movXiK5aZ=
+Et5EJ26EbzBgK_9k2kDGw=2E=22 style=3D=22color:=23a6a6a6; line-height:12px; t=
+ext-decoration:underline;=22>change your email preferences=2E</a>
+           =20
+            <=21--END FOOTER CONDITION=2E THIS CONDITION ADDS AN OPEN COMME=
+NT TAG=2E DO NOT CODE AFTER ANY UNCLOSED COMMENT TAG-->
+        </div>
+    </td>
+</tr>
+</table>
+<=21-- End Disclaimer -->
+<=21--End Footer-->
+
+
+</td>
+</tr>
+</table>
+
+</center></body>
+</html>
+<br><br><img border=3D=220=22 width=3D=223=22 height=3D=223=22 src=3D=22htt=
+p://ib=2Eadnxs=2Ecom/getuid?http://a=2Eadrsp=2Enet/dsp/ci/2/Ec4jkzdIRe978E1=
+7EcTelCQIh-ElMtfi3b8WdDjfN5zvPeCTLLouK4tgfCbIozl17cSyxFnY5o8KbsA/%24UID=22>
+
+

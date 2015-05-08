@@ -1,0 +1,1722 @@
+<!DOCTYPE html>=0A<html>=0A<head>=0A=09<title>Walmart.com</title>=0A=09<m=
+eta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DISO-8859-=
+1" />=0A=09<style type=3D"text/css">=0A=0A=09=09@media only screen and (m=
+ax-width: 480px) {=0A=0A=09=09=09body { background-color: #FFFFFF; margin=
+:0px auto; padding:0px; margin-left: auto !important; margin-right: auto =
+!important; }=0A=09=09=09table td { border-collapse: collapse; }=0A =09=09=
+=09td[class=3DblueLine] { height: 2px !important; }=0A=0A=09=09=09/** glo=
+bal **/=0A=09=09=09[class=3DassetOff] { display: none !important; width: =
+0px !important; }=0A=09=09=09[class=3DsetDisplayWidth] { width: 303px !im=
+portant; }=0A=09=09=09[class=3DmakeBlock] { display: block !important; cl=
+ear: both !important; }=0A=09=09=09[class=3DmakeInlineBlock] { display: i=
+nline-block !important; }=0A=09=09=09[class=3DmoduleBreak] { height: 25px=
+ !important; }=0A=09=09=09[class=3DmoduleBreakPOV] { height: 0px !importa=
+nt; }=0A=09=09=09[class=3DmakeOneZeroOne] { width: 101px !important; }=0A=
+=09=09=09[class=3DmakeOneFiftyOne] { width: 151px !important; }=0A =09=09=
+=09[class=3DpovCtaOne], [class=3DpovCtaTwo] { width: 260px !important; ma=
+rgin-top: 20px !important; }=0A=0A=09=09=09/** header **/=0A=09=09=09img[=
+id=3Dlogo] { width: 110px !important; }=0A=09=09=09img[id=3Dvoh] { displa=
+y: none; }=0A=09=09=09td[class=3DvohImageSwap] { =0A=09=09=09=09width: 12=
+4px !important; =0A=09=09=09=09height: 71px !important; =0A=09=09=09=09di=
+splay: block !important;=0A=09=09=09=09margin-left: 60px !important;=0A=09=
+=09=09=09background-repeat:no-repeat;=0A=09=09=09=09background-position:4=
+0px 17px;=0A=09=09=09=09background-color:transparent;=0A=09=09=09=09backg=
+round-image:url("http://i.walmartimages.com/i/email/13/10/252/28744-51826=
+_VOD_s.gif") !important; =0A=09=09=09=09}=0A=0A=09=09=09td[class=3DvohIma=
+geSwap] a { display: block !important; width: 124px; height: 71px; }=0A=09=
+=09=09td[class=3Dtrigger_pn-msg] { =0A=09=09=09=09width: 300px !important=
+; =0A=09=09=09=09height: 40px !important; =0A=09=09=09=09display: block !=
+important;=0A=09=09=09=09margin: -17px 0 0 0 !important;=0A=09=09=09=09ba=
+ckground-repeat:no-repeat;=0A=09=09=09=09background-position: 7px 0;=0A=09=
+=09=09=09background-color:transparent;=0A=09=09=09=09background-image:url=
+("http://i.walmartimages.com/i/email/13/10/252/32656_89129_text_message_3=
+00x40.jpg") !important; =0A=09=09=09}=0A=09=09=09=09td[class=3Dtrigger_pn=
+-msg] img { =0A=09=09=09=09margin: 0 0 0 7px !important;=0A=09=09=09}=0A=09=
+=09=09img[id=3Dmessage], td[class=3Dtrigger_pn-msg] a { display: block !i=
+mportant; width: 300px; height: 40px; }=0A=0A=09=09=09/** 4-ups **/=0A=09=
+=09=09font[class=3DmoduleHeading] { font-size: 15px !important; font-weig=
+ht: bold !important; line-height: 14px !important; }=0A=09=09=09[class=3D=
+makeOneFortySix] { width: 146px !important; } /* 165px */=0A=09=09=09td[c=
+lass=3DfourUpHeightBottom] { height: 10px !important; } /* 20px */=0A=09=09=
+=09div[class=3DpriceFont] :first-child:first-letter { display: block; fon=
+t-size: 11px !important; margin-top: -20px !important; }=0A=0A=09=09=09/*=
+* awareness **/=0A=09=09=09td[class=3DawarenessRightSideWidth] { width: 1=
+90px !important; } /* 212px */=0A=0A=09=09=09/** social banner **/=0A=09=09=
+=09img[class=3DstayConnected] { width: 172px !important; } /* 200px */=0A=
+=09=09=09img[class=3DwalmartApp] { width: 129px !important; } /* 150px */=
+=0A=0A=09=09}=0A=0A=09</style>=0A</head>=0A<body bgcolor=3D"#FFFFFF" alig=
+n=3D"center" style=3D"margin:0px;padding:0px;-webkit-text-size-adjust: no=
+ne;"><IMG SRC=3D"http://tracking01.walmart.com/t/cbfbaCWFBtBABRHnLXAbKVUj=
+aR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3D" WIDTH=3D=
+"1" HEIGHT=3D"1" STYLE=3D"border-width:0; border-style:hidden;" ALT=3D""/=
+>=0A=09<!-- begin wrapper -->=0A=09<table id=3D"wrapper" class=3D"setDisp=
+layWidth" width=3D"700" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+align=3D"center">=0A=09=09<tr>=0A=09=09=09<td align=3D"center">=0A=09=09=09=
+=09<!-- begin header -->=0A=09=09=09=09<table id=3D"header" class=3D"setD=
+isplayWidth" width=3D"700" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" align=3D"center">=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td align=3D=
+"center">=0A=09=09=09=09=09=09=09<table width=3D"100%" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" align=3D"center">=0A=09=09=09=09=09=09=09=09=
+<!-- begin preheader -->=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=
+=09=09=09=09<td width=3D"100%" height=3D"30" align=3D"left" valign=3D"mid=
+dle">=0A=09=09=09=09=09=09=09=09=09=09<table width=3D"100%" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" align=3D"center">=0A=09=09=09=09=09=09=
+=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"ma=
+keBlock" align=3D"left" valign=3D"middle" style=3D"line-height:11px;">=0A=
+=09=09=09                                    =09<font face=3D"verdana,san=
+s-serif" color=3D"#999999" style=3D"font-size:9px;">=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09Last chance to save on thousands of items.=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</font>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"makeBlock"=
+ align=3D"right" valign=3D"middle">=0A                        =09=09=09  =
+          =09<font face=3D"verdana,sans-serif" color=3D"#999999" style=3D=
+"font-size: 9px;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D=
+"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DD=
+w,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGyv&s=3D&w=3Dcyoun://1r1.=
+rfgrVwo.hjr/VhXtpso/qjlds?Vidi=3Dw-v5v5v5v5v5v5yC2C1Cx5&qjc=3Djhq&njiy@on=
+hj=3Dw9y5x6xBxAv5v&hVrkfdli@nY=3DrWg5737y7wC@v5v5v&j@di=3DZ9vCY7280~Yk2-W=
+iZ8vkYiw81gV83Caf" title=3D"My account" target=3D"_blank" style=3D"color:=
+#1a75cf;text-decoration:none;"><font face=3D"Verdana,sans-serif" color=3D=
+"#1a75cf">My account</font></a>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</font>=0A=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=
+=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=
+=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=
+=09=09=09<!-- end preheader -->=0A=09=09=09=09=09=09=09=09<!-- begin divi=
+ding line -->=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=
+<td width=3D"100%" align=3D"center" valign=3D"top">=0A=09=09=09=09=09=09=09=
+=09=09=09<div style=3D"width: 100%; height: 1px; border-top: 1px solid #E=
+EEEEE;"></div>=0A=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=
+=09</tr>=0A=09=09=09=09=09=09=09=09<!-- end dividing line -->=0A=09=09=09=
+=09=09=09=09=09<!-- begin top -->=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=
+=09=09=09=09=09=09=09<td width=3D"100%" align=3D"center" valign=3D"top">=0A=
+=09=09=09=09=09=09=09=09=09=09<table width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0">=0A=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" valign=3D"middle">=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://tracking01.walma=
+rt.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DW=
+qVhf3Vtw7_brVng.hjr&g=3DGyw&s=3D&w=3Dcyou://r1r.1Vqhfmy.Xth/?fYnY=3D605v5=
+v5v5v5v5v84A4~3Av&0Zm=3DZrg&xZso@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgWDx=
+Bx8x64@5v5v5&Z@nY=3Djz54ixAy-1iaA0gYjy5aiY6y~WfyB4kV" title=3D"Walmart - =
+Save Money Live Better" target=3D"_blank">=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<img id=3D"logo" src=3D"http://i.walmartimages.com/i/email/13=
+/10/252/27916_46139_h-01.gif" width=3D"170" border=3D"0" style=3D"display=
+:block;" alt=3D"Walmart - Save Money Live Better" />=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</a>=0A=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09<td class=3D"assetOff" align=3D"left" va=
+lign=3D"bottom">=0A=09=09=09=09=09=09=09=09=09=09=09=09    <a href=3D"htt=
+p://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw=
+,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGyx&s=3D&w=3Dcyou://r1r.1Vqhf=
+my.Xth/hk/KmjZDNmduknil/w53B4B4?fYnY=3D605v5v5v5v5v5v84A4~38v&0Zm=3DZrg&x=
+Zso@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54ixAy-=
+1iaA0gYjy5aiY6y~WfyB4kV" target=3D"_blank" title=3D"">=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<img id=3D"message" src=3D"http://i.walmartimages=
+.com/i/email/13/10/252/32656_89129_text_message_300x40.jpg" width=3D"300"=
+ border=3D"0" alt=3D"" />=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</a>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09<td class=3D"vohImageSwap" height=3D"71" align=3D"right" valign=3D"=
+bottom">=0A=09=09=09=09=09=09=09=09=09=09=09=09    <a linkname=3D"VOH" hr=
+ef=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?=
+p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGyy&s=3D&w=3Dcyou://=
+r1r.1Vqhfmy.Xth/aVqpj5taDomZD-ft?fYnY=3D605v5v5v5v5v5v84A4~39v&0Zm=3DZrg&=
+xZso@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54ixAy=
+-1iaA0gYjy5aiY6y~WfyB4kV" target=3D"_blank" title=3D"">=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<img id=3D"voh" src=3D"http://i.walmartimages.=
+com/i/email/13/10/252/28744-51826_VOD.gif" width=3D"144" border=3D"0" alt=
+=3D"" />=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</a>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=
+=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09</td>=0A=09=
+=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09<!-- end top -->=0A=09=
+=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td class=3D"trigg=
+er_pn-msg" height=3D"1" align=3D"center" valign=3D"top">=0A=09=09=09=09=09=
+=09=09=09=09    <a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBABR=
+HnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3D=
+Gyz&s=3D&w=3Dcyou://r1r.1Vqhfmy.Xth/hk/KmjZDNmduknil/w53B4B4?fYnY=3D605v5=
+v5v5v5v5v84A4Av8v&0Zm=3DZrg&xZso@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgWDx=
+Bx8x64@5v5v5&Z@nY=3Djz54ixAy-1iaA0gYjy5aiY6y~WfyB4kV" target=3D"_blank" t=
+itle=3D"Free Shipping For All">=0A=09=09=09=09=09=09=09=09=09=09=09<img i=
+d=3D"message" src=3D"http://i.walmartimages.com/i/email/13/04/16z/shim.gi=
+f" width=3D"300" height=3D"1" border=3D"0" alt=3D"" style=3D"height: 1px =
+!important; display: none;" />=0A=09=09=09=09=09=09=09=09=09=09</a>=0A=09=
+=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=
+=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td width=3D"100%" heigh=
+t=3D"2" align=3D"center" valign=3D"top">=0A=09=09=09=09=09=09=09=09=09=09=
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A=
+=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09<td height=3D"2" align=3D"right" valign=3D"middle">=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<img id=3D"" src=3D"http://i.walmartimages.com/i/ema=
+il/13/10/252/26760_38951_dots_303x2.jpg" width=3D"303" border=3D"0" style=
+=3D"display:block;" alt=3D"" />=0A=09=09=09=09=09=09=09=09=09=09=09=09</t=
+d>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"assetOff" height=3D=
+"2" align=3D"left" valign=3D"middle">=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<img id=3D"" src=3D"http://i.walmartimages.com/i/email/13/10/252/26=
+760_38951_dots_373x2.jpg" width=3D"397" border=3D"0" style=3D"display:blo=
+ck;" alt=3D"" />=0A=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=
+=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09</table>=0A=09=
+=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=
+=09=09=09=09=09<!-- begin primary nav -->=0A=09=09=09=09=09=09=09=09<tr>=0A=
+=09=09=09=09=09=09=09=09=09<td width=3D"100%" height=3D"35" align=3D"cent=
+er" valign=3D"top">=0A=09=09=09=09=09=09=09=09=09=09<table id=3D"topNav" =
+class=3D"setDisplayWidth"width=3D"100%" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0">=0A=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09<td width=3D"9" height=3D"33" align=3D"center" valig=
+n=3D"middle"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"67"=
+ height=3D"33" align=3D"center" valign=3D"middle"><a href=3D"http://track=
+ing01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yA=
+v~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGy0&s=3D&w=3Dcyou://r1r.1Vqhfmy.Xth/hk=
+/JgjXymtinXx/yCz9?Vidi=3Dw-v5v5v5v5v5v5yC2C1Aw5&qjc=3Djhq&njiy@onhj=3Dw9y=
+5x6xBxAv5v&hVrkfdli@nY=3DrWg5737y7wC@v5v5v&j@di=3DZ9vCY7280~Yk2-WiZ8vkYiw=
+81gV83Caf" title=3D"Electronics" target=3D"_blank"><img src=3D"http://i.w=
+almartimages.com/i/email/13/10/252/26760_38951_pn-01.gif" width=3D"67" he=
+ight=3D"33" border=3D"0" style=3D"display: block;" alt=3D"Electronics" />=
+</a></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"14" height=3D=
+"33" align=3D"center" valign=3D"middle"></td>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09<td width=3D"44" height=3D"33" align=3D"center" valign=3D"middle=
+"><a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1W=
+eaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGy1&s=3D&w=3D=
+cyou://r1r.1Vqhfmy.Xth/hk/Rj0djnDOa/z54~?Vidi=3Dw-v5v5v5v5v5v5yC2C2735&qj=
+c=3Djhq&njiy@onhj=3Dw9y5x6xBxAv5v&hVrkfdli@nY=3DrWg5737y7wC@v5v5v&j@di=3D=
+Z9vCY7280~Yk2-WiZ8vkYiw81gV83Caf" title=3D"Movies" target=3D"_blank"><img=
+ src=3D"http://i.walmartimages.com/i/email/13/10/252/26760_38951_pn-02.gi=
+f" width=3D"44" height=3D"33" border=3D"0" style=3D"display: block;" alt=3D=
+"Movies" /></a></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"1=
+4" height=3D"33" align=3D"center" valign=3D"middle"></td>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09<td width=3D"37" height=3D"33" align=3D"center" vali=
+gn=3D"middle"><a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHn=
+LXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DG=
+y2&s=3D&w=3Dcyou://r1r.1Vqhfmy.Xth/hk/MjrZ/9v9z?fYnY=3D605v5v5v5v5v5v84A4=
+Av9v&0Zm=3DZrg&xZso@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&=
+Z@nY=3Djz54ixAy-1iaA0gYjy5aiY6y~WfyB4kV" title=3D"Home" target=3D"_blank"=
+><img src=3D"http://i.walmartimages.com/i/email/13/10/252/26760_38951_pn-=
+03.gif" width=3D"37" height=3D"33" border=3D"0" style=3D"display: block;"=
+ alt=3D"Home" /></a></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td width=
+=3D"14" height=3D"33" align=3D"center" valign=3D"middle"></td>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09<td width=3D"53" height=3D"33" align=3D"center=
+" valign=3D"middle"><a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBt=
+BABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr=
+&g=3DGy3&s=3D&w=3Dcyou://r1r.1Vqhfmy.Xth/hk/FkuVwZq/09yB?Vidi=3Dw-v5v5v5v=
+5v5v5yC2C2605&qjc=3Djhq&njiy@onhj=3Dw9y5x6xBxAv5v&hVrkfdli@nY=3DrWg5737y7=
+wC@v5v5v&j@di=3DZ9vCY7280~Yk2-WiZ8vkYiw81gV83Caf" title=3D"Clothing" targ=
+et=3D"_blank"><img src=3D"http://i.walmartimages.com/i/email/13/10/252/26=
+760_38951_pn-04b.gif" width=3D"49" height=3D"33" border=3D"0" style=3D"di=
+splay: block;" alt=3D"Clothing" /></a></td>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09<td width=3D"14" height=3D"33" align=3D"center" valign=3D"middle=
+"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"31" height=3D"=
+33" align=3D"center" valign=3D"middle"><a href=3D"http://tracking01.walma=
+rt.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DW=
+qVhf3Vtw7_brVng.hjr&g=3DGy4&s=3D&w=3Dcyou://r1r.1Vqhfmy.Xth/hk/GVgt/-z72?=
+fYnY=3D605v5v5v5v5v5v84A4Av6v&0Zm=3DZrg&xZso@ydrZ=3D6z8v7w73725v5&XfhuVnb=
+s@di=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54ixAy-1iaA0gYjy5aiY6y~WfyB4kV" title=3D=
+"Baby" target=3D"_blank"><img src=3D"http://i.walmartimages.com/i/email/1=
+3/10/252/26760_38951_pn-05.gif" width=3D"31" height=3D"33" border=3D"0" s=
+tyle=3D"display: block;" alt=3D"Baby" /></a></td>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09<td class=3D"assetOff" width=3D"14" height=3D"33" align=3D=
+"center" valign=3D"middle"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<t=
+d class=3D"assetOff" width=3D"27" height=3D"33" align=3D"center" valign=3D=
+"middle"><a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbK=
+VUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGyE&s=3D=
+&w=3Dcyou://r1r.1Vqhfmy.Xth/hk/Yj3n/9wAw?fYnY=3D605v5v5v5v5v5v84A4~3-v&0Z=
+m=3DZrg&xZso@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3D=
+jz54ixAy-1iaA0gYjy5aiY6y~WfyB4kV" title=3D"Toys" target=3D"_blank"><img s=
+rc=3D"http://i.walmartimages.com/i/email/13/10/252/26760_38951_pn-06.gif"=
+ width=3D"27" height=3D"33" border=3D"0" style=3D"display: block;" alt=3D=
+"Toys" /></a></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"ass=
+etOff" width=3D"14" height=3D"33" align=3D"center" valign=3D"middle"></td=
+>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"assetOff" width=3D"4=
+1" height=3D"33" align=3D"center" valign=3D"middle"><a href=3D"http://tra=
+cking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7=
+yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGy-&s=3D&w=3Dcyou://r1r.1Vqhfmy.Xth/=
+hk/xktmynDjzoijtmx/z6x-?Vidi=3Dw-v5v5v5v5v5v5yC2C26z5&qjc=3Djhq&njiy@onhj=
+=3Dw9y5x6xBxAv5v&hVrkfdli@nY=3DrWg5737y7wC@v5v5v&j@di=3DZ9vCY7280~Yk2-WiZ=
+8vkYiw81gV83Caf" title=3D"Sports" target=3D"_blank"><img src=3D"http://i.=
+walmartimages.com/i/email/13/10/252/28744-51826_pn-12.gif" width=3D"41" h=
+eight=3D"33" border=3D"0" style=3D"display: block;" alt=3D"Sports" /></a>=
+</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"assetOff" width=3D=
+"14" height=3D"33" align=3D"center" valign=3D"middle"></td>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09<td class=3D"assetOff" width=3D"32" height=3D"33"=
+ align=3D"center" valign=3D"middle"><a href=3D"http://tracking01.walmart.=
+com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVh=
+f3Vtw7_brVng.hjr&g=3DGy~&s=3D&w=3Dcyou://r1r.1Vqhfmy.Xth/hk/Cw538?Vidi=3D=
+w-v5v5v5v5v5v5yC2C27v5&qjc=3Djhq&njiy@onhj=3Dw9y5x6xBxAv5v&hVrkfdli@nY=3D=
+rWg5737y7wC@v5v5v&j@di=3DZ9vCY7280~Yk2-WiZ8vkYiw81gV83Caf" title=3D"Auto"=
+ target=3D"_blank"><img src=3D"http://i.walmartimages.com/i/email/13/10/2=
+52/28744-51826_pn-13.gif" width=3D"32" height=3D"33" border=3D"0" style=3D=
+"display: block;" alt=3D"Auto" /></a></td>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09<td class=3D"assetOff" width=3D"14" height=3D"33" align=3D"center" =
+valign=3D"middle"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D=
+"assetOff" width=3D"38" height=3D"33" align=3D"center" valign=3D"middle">=
+<a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Wea=
+aaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGyA&s=3D&w=3Dcy=
+ou://kmjyjx.rfgrVwo.hjr/rfgrVwo/1ZqXthj?Vidi=3Dw-v5v5v5v5v5v5yC2C1A15&qjc=
+=3Djhq&njiy@onhj=3Dw9y5x6xBxAv5v&hVrkfdli@nY=3DrWg5737y7wC@v5v5v&j@di=3DZ=
+9vCY7280~Yk2-WiZ8vkYiw81gV83Caf" title=3D"Photo" target=3D"_blank"><img s=
+rc=3D"http://i.walmartimages.com/i/email/13/10/252/28744-51826_pn-14.gif"=
+ width=3D"38" height=3D"33" border=3D"0" style=3D"display: block;" alt=3D=
+"Photo" /></a></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"as=
+setOff" width=3D"14" height=3D"33" align=3D"center" valign=3D"middle"></t=
+d>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"assetOff" width=3D"=
+134" height=3D"33" align=3D"center" valign=3D"middle"><a href=3D"http://t=
+racking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6=
+v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGyB&s=3D&w=3Dcyou://r1r.1Vqhfmy.Xt=
+h/hk/Fgq5IZuVworZsox/w7wBxB?Vidi=3Dw-v5v5v5v5v5v5yC2C1B15&qjc=3Djhq&njiy@=
+onhj=3Dw9y5x6xBxAv5v&hVrkfdli@nY=3DrWg5737y7wC@v5v5v&j@di=3DZ9vCY7280~Yk2=
+-WiZ8vkYiw81gV83Caf" title=3D"Shop All Departments" target=3D"_blank"><im=
+g src=3D"http://i.walmartimages.com/i/email/13/10/252/28744-51826_pn-15.g=
+if" width=3D"136" height=3D"33" border=3D"0" style=3D"display: block;" al=
+t=3D"Shop All Departments" /></a></td>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09<td width=3D"10" height=3D"33" align=3D"center" valign=3D"middle"></td=
+>=0A=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=
+</table>=0A=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09</t=
+r>=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td class=3D=
+"blueLine" height=3D"2" bgcolor=3D"#1a75ce" style=3D"width: 700px; height=
+: 2px; background-color: #1a75ce;">=0A=09=09=09=09=09=09=09=09=09</td>=0A=
+=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09<!-- end primary =
+nav -->=0A=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09</td>=0A=09=09=
+=09=09=09</tr>=0A=09=09=09=09</table>=0A=09=09=09=09<!-- end header -->=0A=
+=0A=09=09=09=09<!-- begin zone 1 banner -->=0A=09=09=09=09<table class=3D=
+"setDisplayWidth" width=3D"700" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" align=3D"center">=0A=09=09=09=09=09<tr><td height=3D"3" align=3D"=
+left" valign=3D"top" bgcolor=3D"#E4E5E4"></td></tr>=0A=09=09=09=09=09<tr>=
+=0A=09=09=09=09=09=09<td align=3D"left" valign=3D"top">=0A=09=09=09=09=09=
+=09=09<table class=3D"setDisplayWidth" width=3D"100%" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" align=3D"center">=0A=09=09=09=09=09=09=09=09=
+<tr>=0A=09=09=09=09=09=09=09=09=09<td class=3D"makeBlock" align=3D"center=
+" valign=3D"top">=0A=09=09=09=09=09=09=09=09=09=09<a href=3D"http://track=
+ing01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yA=
+v~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGyC&s=3D&w=3Dcyou://r1r.1Vqhfmy.Xth/gm=
+trxZ/gVgt/xotXp5zkDnfqj5jqjiy/09xA@w7wB3-3?fYnY=3D605v5v5v5v5v5v84A4AwAv&=
+0Zm=3DZrg&xZso@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3D=
+jz54ixAy-1iaA0gYjy5aiY6y~WfyB4kV" title=3D"View the Ad" target=3D"_blank"=
+>=0A=09=09=09=09=09=09=09=09=09=09=09<img class=3D"setDisplayWidth" width=
+=3D"350" src=3D"http://i.walmartimages.com/i/email/15/03/30A/2_12_ELS_ZON=
+E1_A.jpg" border=3D"0" style=3D"display:block;" alt=3D"View the Ad" />=0A=
+=09=09=09=09=09=09=09=09=09=09</a>=0A=09=09=09=09=09=09=09=09=09</td>=0A=09=
+=09=09=09=09=09=09=09=09<td class=3D"makeBlock" align=3D"left" valign=3D"=
+top">=0A=09=09=09=09=09=09=09=09=09=09<a href=3D"http://tracking01.walmar=
+t.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWq=
+Vhf3Vtw7_brVng.hjr&g=3DGzf&s=3D&w=3Dcyou://r1r.1Vqhfmy.Xth/gmtrxZ/gVgt/xo=
+tXp5zkDnfqj5jqjiy/09xA@w7wB3-3?fYnY=3D605v5v5v5v5v5v84A4AwAv&0Zm=3DZrg&xZ=
+so@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54ixAy-1=
+iaA0gYjy5aiY6y~WfyB4kV=09" title=3D"View the Ad" target=3D"_blank">=0A=09=
+=09=09=09=09=09=09=09=09=09=09<img class=3D"setDisplayWidth" width=3D"350=
+" src=3D"http://i.walmartimages.com/i/email/15/03/30A/2_12_ELS_ZONE1_B.jp=
+g" border=3D"0" style=3D"display:block;" alt=3D"View the Ad" />=0A=09=09=09=
+=09=09=09=09=09=09=09</a>=0A=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=
+=09=09=09=09</tr>=0A=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09</t=
+d>=0A=09=09=09=09=09</tr>=0A=09=09=09=09=09<tr><td height=3D"3" align=3D"=
+left" valign=3D"top" bgcolor=3D"#E4E5E4"></td></tr>=0A=09=09=09=09=09<tr>=
+=0A=09=09=09=09=09=09<td class=3D"moduleBreak" width=3D"100%" height=3D"2=
+5">=0A=09=09=09=09=09=09</td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09</tabl=
+e>=0A=09=09=09=09<!-- end zone 1 banner -->=0A=0A=09=09=09=09<!-- begin P=
+OV -->=0A=09=09=09=09<style type=3D"text/css">=0A=0A=09=09=09=09=09/* for=
+ 480px or less */=0A=09=09=09=09=09@media only screen and (max-width: 480=
+px) {=0A=0A=09=09=09=09=09=09/***** POV *****/=0A=09=09=09=09=09=09img[cl=
+ass=3DPOVNavWidth] { width: 101px !important; height: 46px !important; }=0A=
+=09=09=09=09=09=09td[class=3DpovMessageSwap] { =0A=09=09=09=09=09=09=09wi=
+dth: 303px !important; =0A=09=09=09=09=09=09=09height: 151px !important; =
+=0A=09=09=09=09=09=09=09display: block !important;=0A=09=09=09=09=09=09=09=
+margin: 0 !important;=0A=09=09=09=09=09=09=09background-repeat:no-repeat;=
+=0A=09=09=09=09=09=09=09background-position: 0 0;=0A=09=09=09=09=09=09=09=
+background-color:transparent;=0A=09=09=09=09=09=09=09background-image:url=
+("http://i.walmartimages.com/i/email/15/01/26F/32902-91207-Email-POV-Clea=
+rance-700_A2.gif") !important; =0A=09=09=09=09=09=09}=0A=09=09=09=09=09=09=
+img[id=3DpovMessage] { =0A=09=09=09=09=09=09=09display: none !important;=0A=
+=09=09=09=09=09=09}=0A=09=09=09=09=09=09td[class=3DpovMessageSwap] a { di=
+splay: block !important; width: 303px; height: 150px; }=0A=0A=09=09=09=09=
+=09}=0A=0A=09=09=09=09</style>=0A=09=09=09=09<table class=3D"setDisplayWi=
+dth" width=3D"700" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" valign=3D"top">=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td=
+ class=3D"povMessageSwap" valign=3D"top" colspan=3D"3">=0A=09=09=09=09=09=
+=09=09<a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUj=
+aR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGzg&s=3D&=
+w=3Dcyou://r1r.1Vqhfmy.Xth/gmtrxZ/5/v/?hVyIfqNY=3D6v-3B19&afXjo=3DxkjXnVq=
+@jkajmx%25yF9qZfmfihZ&nX=3D93@5&kfom=3Dv%25876z-v8%25yFw50B3~z&wZk@qfgzZx=
+=3D05v-35+05vAv7+05v~38&ofW@0Vqpj=3Dy71Av6@7qg&fYnY=3D605v5v5v5v5v5v84A4A=
+xCv&0Zm=3DZrg&xZso@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z=
+@nY=3Djz54ixAy-1iaA0gYjy5aiY6y~WfyB4kV" title=3D"All Clearance" target=3D=
+"_blank">=0A=09=09=09=09=09=09=09=09<img id=3D"povMessage" width=3D"700" =
+src=3D"http://i.walmartimages.com/i/email/15/01/26F/32902-91207-Email-POV=
+-Clearance-700_A.gif" border=3D"0" style=3D"display: block;" alt=3D"All C=
+learance" />=0A=09=09=09=09=09=09=09</a>=0A=09=09=09=09=09=09</td>=0A=09=09=
+=09=09=09</tr>=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td valign=3D"to=
+p">=0A=09=09=09=09=09=09=09<table class=3D"setDisplayWidth" width=3D"100%=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" valig=
+n=3D"top">=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<t=
+d class=3D"makeBlock" valign=3D"top" bgcolor=3D"#FFC300">=0A=09=09=09=09=09=
+=09=09=09=09=09<table class=3D"setDisplayWidth" width=3D"349" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0">=0A=09=09=09=09=09=09=09=09=09=09=09=
+<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top">=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<a href=3D"http://tracking01.walmart.com/t/=
+ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7=
+_brVng.hjr&g=3DGzh&s=3D&w=3Dcyou://r1r.1Vqhfmy.Xth/gmtrxZ/jgjXymtinXx/yCz=
+9/?@mjanijmjnzgy=3Dowpj&XfoSV0Di=3Dw50B3~z&kVhZy=3DnuZhdfg@takZwn%2587Hgj=
+VwVsXj&dh=3DzB@v&uVyc=3D5%25yFw905y%25876v-3B19&mja@0Vqpjn=3D-v50Bv+-v525=
+x+-v51By&yVg@qfgzZ=3D8x~25w@Fgq&Vidi=3Dw-v5v5v5v5v5v5yC2C1Ay5&qjc=3Djhq&n=
+jiy@onhj=3Dw9y5x6xBxAv5v&hVrkfdli@nY=3DrWg5737y7wC@v5v5v&j@di=3DZ9vCY7280=
+~Yk2-WiZ8vkYiw81gV83Caf" title=3D"Electronics" target=3D"_blank">=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<img class=3D"POVNavWidth" width=3D"1=
+17" src=3D"http://i.walmartimages.com/i/email/15/01/26F/32902-91207-Email=
+-POV-Clearance-700_B.gif" border=3D"0" style=3D"display: block;" alt=3D"E=
+lectronics" />=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</a>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td v=
+align=3D"top">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http:/=
+/tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw=
+,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGzi&s=3D&w=3Dcyou://r1r.1Vqhfmy.=
+Xth/gmtrxZ/mjrZ/9v9z/?@wZkdsZwZxpqo=3DymzZ&hVyIfqNY=3D6v-3B19&afXjo=3Dxkj=
+XnVq@jkajmx%25yF9qZfmfihZ&nX=3D93@5&kfom=3Dv%25876z-v8%25yFw50B3~z&wZk@qf=
+gzZx=3D05v-35+05vAv7+05v~38&ofW@0Vqpj=3Dy71Av6@7qg&fYnY=3D605v5v5v5v5v5v8=
+4A4Aw7v&0Zm=3DZrg&xZso@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5=
+v5&Z@nY=3Djz54ixAy-1iaA0gYjy5aiY6y~WfyB4kV" title=3D"Home" target=3D"_bla=
+nk">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<img class=3D"POVNavWidt=
+h" width=3D"117" src=3D"http://i.walmartimages.com/i/email/15/01/26F/3290=
+2-91207-Email-POV-Clearance-700_C.gif" border=3D"0" style=3D"display: blo=
+ck;" alt=3D"Home" />=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</a>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+<td valign=3D"top">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"h=
+ttp://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,=
+Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGzj&s=3D&w=3Dcyou://r1r.1Vq=
+hfmy.Xth/gmtrxZ/fkuVwZq/09yB/?@mjanijmjnzgy=3Dowpj&XfoSV0Di=3Dw50B3~z&kVh=
+Zy=3DnuZhdfg@takZwn%2587HgjVwVsXj&dh=3DzB@v&uVyc=3D5%25yFw905y%25876v-3B1=
+9&mja@0Vqpjn=3D-v50Bv+-v525x+-v51By&yVg@qfgzZ=3D8x~25w@Fgq&Vidi=3Dw-v5v5v=
+5v5v5v5yC2C1A25&qjc=3Djhq&njiy@onhj=3Dw9y5x6xBxAv5v&hVrkfdli@nY=3DrWg5737=
+y7wC@v5v5v&j@di=3DZ9vCY7280~Yk2-WiZ8vkYiw81gV83Caf" title=3D"Clothing" ta=
+rget=3D"_blank">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<img class=3D=
+"POVNavWidth" width=3D"115" src=3D"http://i.walmartimages.com/i/email/15/=
+01/26F/32902-91207-Email-POV-Clearance-700_D.gif" border=3D"0" style=3D"d=
+isplay: block;" alt=3D"Clothing" />=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</a>=0A=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=
+=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=
+=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09<td class=3D"assetOff" =
+valign=3D"top" bgcolor=3D"#FFC300">=0A=09=09=09=09=09=09=09=09=09=09<img =
+width=3D"2" src=3D"http://i.walmartimages.com/i/email/15/01/26F/32902-912=
+07-Email-POV-Clearance-700_E.gif" border=3D"0" style=3D"display: block;" =
+alt=3D"" />=0A=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=
+=09<td class=3D"makeBlock" valign=3D"top" bgcolor=3D"#FFC300">=0A=09=09=09=
+=09=09=09=09=09=09=09<table class=3D"setDisplayWidth" width=3D"349" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A=09=09=09=09=09=09=09=09=09=
+=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top">=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://tracking01.walmart.=
+com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVh=
+f3Vtw7_brVng.hjr&g=3DGzk&s=3D&w=3Dcyou://r1r.1Vqhfmy.Xth/gmtrxZ/gVgt/-z72=
+/?@wZkdsZwZxpqo=3DymzZ&kVhZy=3DnuZhdfg@takZwn%2587HgjVwVsXj&Vidi=3Dw-v5v5=
+v5v5v5v5yC2C1Az5&qjc=3Djhq&njiy@onhj=3Dw9y5x6xBxAv5v&hVrkfdli@nY=3DrWg573=
+7y7wC@v5v5v&j@di=3DZ9vCY7280~Yk2-WiZ8vkYiw81gV83Caf" title=3D"Baby" targe=
+t=3D"_blank">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<img class=3D"P=
+OVNavWidth" width=3D"117" src=3D"http://i.walmartimages.com/i/email/15/01=
+/26F/32902-91207-Email-POV-Clearance-700_F.gif" border=3D"0" style=3D"dis=
+play: block;" alt=3D"Baby" />=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</=
+a>=0A=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09<td valign=3D"top">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Wea=
+aaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGzl&s=3D&w=3Dcy=
+ou://r1r.1Vqhfmy.Xth/gmtrxZ/yj3n/9wAw?kVhZy=3DnuZhdfg@takZwn:HgjVwVsXj&Vi=
+di=3Dw-v5v5v5v5v5v5yC2C1A05&qjc=3Djhq&njiy@onhj=3Dw9y5x6xBxAv5v&hVrkfdli@=
+nY=3DrWg5737y7wC@v5v5v&j@di=3DZ9vCY7280~Yk2-WiZ8vkYiw81gV83Caf" title=3D"=
+Beauty" target=3D"_blank">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<i=
+mg class=3D"POVNavWidth" width=3D"117" src=3D"http://i.walmartimages.com/=
+i/email/15/01/26F/32902-91207-Email-POV-Clearance-700_G.gif" border=3D"0"=
+ style=3D"display: block;" alt=3D"Beauty" />=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</a>=0A=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09<td valign=3D"top">=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLX=
+AbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGzm=
+&s=3D&w=3Dcyou://r1r.1Vqhfmy.Xth/gmtrxZ/xktmynDjzoijtmx/z6x-?afXjo=3DxkjX=
+nVq@jkajmx:9qZfmfihZ&fYnY=3D605v5v5v5v5v5v84A4AwCv&0Zm=3DZrg&xZso@ydrZ=3D=
+6z8v7w73725v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54ixAy-1iaA0gYjy5a=
+iY6y~WfyB4kV" title=3D"All Clearance" target=3D"_blank">=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<img class=3D"POVNavWidth" width=3D"115" src=3D=
+"http://i.walmartimages.com/i/email/15/01/26F/32902-91207-Email-POV-Clear=
+ance-700_H.gif" border=3D"0" style=3D"display: block;" alt=3D"All Clearan=
+ce" />=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</a>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=
+=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09</td>=0A=09=
+=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09</table>=0A=09=09=09=09=
+=09=09</td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=
+=09<td valign=3D"top">=0A=09=09=09=09=09=09=09<img class=3D"setDisplayWid=
+th" width=3D"700" src=3D"http://i.walmartimages.com/i/email/15/01/26F/329=
+02-91207-Email-POV-Clearance-700_I.gif" border=3D"0" style=3D"display: bl=
+ock;" alt=3D"" />=0A=09=09=09=09=09=09</td>=0A=09=09=09=09=09</tr>=0A=09=09=
+=09=09=09<tr>=0A=09=09=09=09=09=09<td height=3D"30">=0A=09=09=09=09=09=09=
+</td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09</table>=0A=09=09=09=09<!-- en=
+d POV -->=0A                =0A                <!-- end zone 2 banner -->=
+=0A               <table class=3D"setDisplayWidth" width=3D"700" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center">=0A=09=09=09=09=09=
+<tr>=0A=09=09=09=09=09=09<td>=0A=09=09=09=09=09=09=09<table width=3D"100%=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A=09=09=09=09=09=09=09=
+=09<tr>=0A=09=09=09=09=09=09=09=09=09<td class=3D"ompBannerTop" align=3D"=
+center" valign=3D"top">=0A=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=
+=09=09=09=09</tr>=0A=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09</t=
+d>=0A=09=09=09=09=09</tr>=0A=09=09=09=09=09<tr>=0A=09=09=09  =09=09=09<td=
+ align=3D"left" valign=3D"top">=0A=09=09=09=09=09=09=09<table class=3D"se=
+tDisplayWidth" width=3D"700" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" align=3D"center">=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=
+=09=09=09<td height=3D"10" align=3D"right" valign=3D"top">=0A=09=09=09=09=
+=09=09=09=09=09=09<table class=3D"setDisplayWidth" width=3D"700" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"5" align=3D"center">=0A=09=09=09=09=09=
+=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D=
+"right">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<img width=3D"66" heigh=
+t=3D"10" src=3D"http://i.walmartimages.com/i/email/13/07/10EBI/advertisem=
+ent.gif" border=3D"0" style=3D"display:block;" alt=3D"" />=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td><=
+/td>=0A=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=
+=09</table>=0A=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=
+</tr>=0A=09=09=09=09=09=09=09=09<tr><td height=3D"3" align=3D"left" valig=
+n=3D"top" bgcolor=3D"#E4E5E4"></td></tr>=0A=09=09=09=09=09=09=09=09<tr>=0A=
+=09=09=09  =09=09=09=09=09=09<td align=3D"left" valign=3D"top">=0A=09=09=09=
+=09=09=09=09=09=09=09<table class=3D"setDisplayWidth" width=3D"100%" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center">=0A=09=09=09=
+=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td cl=
+ass=3D"makeBlock" align=3D"center" valign=3D"top">=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBA=
+BRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=
+=3DGzn&s=3D&w=3Dcyou://rr1.1Vqhfmy.Xth/ujnnj5nhumjnxV.fnus?hjsqjmlZ=3D5w@=
+P9P@28y7z&fYnY=3D605v5v5v5v5v5v84A4AxAv&0Zm=3DZrg&xZso@ydrZ=3D6z8v7w73725=
+v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54ixAy-1iaA0gYjy5aiY6y~WfyB4k=
+V" title=3D"Buy Now" target=3D"_blank">=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<img class=3D"setDisplayWidth" width=3D"350" src=3D"http://i.wal=
+martimages.com/i/email/15/03/26A/01_KCK_73324_RONENImpress_B_EMB_Z1_A_ENG=
+_01.jpg" border=3D"0" style=3D"display:block;" alt=3D"Buy Now" />=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</a>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09</td>=0A=09=09=09=09=09=09  =09=09=09=09=09=09<td class=3D"makeBlock" =
+align=3D"left" valign=3D"top">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<=
+a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaa=
+aaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGzo&s=3D&w=3Dcyo=
+u://rr1.1Vqhfmy.Xth/ujnnj5nhumjnxV.fnus?hjsqjmlZ=3D5w@P9P@28y7z&fYnY=3D60=
+5v5v5v5v5v5v84A4AxAv&0Zm=3DZrg&xZso@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3Dhg=
+WDxBx8x64@5v5v5&Z@nY=3Djz54ixAy-1iaA0gYjy5aiY6y~WfyB4kV" title=3D"Buy Now=
+" target=3D"_blank">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<img cla=
+ss=3D"setDisplayWidth" width=3D"350" src=3D"http://i.walmartimages.com/i/=
+email/15/03/26A/01_KCK_73324_RONENImpress_B_EMB_Z1_B_ENG_01.jpg" border=3D=
+"0" style=3D"display:block;" alt=3D"Buy Now" />=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</a>=0A=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=
+=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09</table>=0A=
+=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=
+=09=09=09=09=09=09<tr><td height=3D"3" align=3D"left" valign=3D"top" bgco=
+lor=3D"#E4E5E4"></td></tr>=0A=09=09=09=09=09=09=09</table>               =
+=0A=09=09=09=09=09=09</td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09=09<tr>=0A=
+=09=09=09=09=09=09<td class=3D"moduleBreak" width=3D"100%" height=3D"25">=
+=0A=09=09=09=09=09=09=09<table width=3D"100%" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0"><tr><td class=3D"assetOff" align=3D"left" valign=3D=
+"top"></td></tr></table>=0A=09=09=09=09=09=09</td>=0A=09=09=09=09=09</tr>=
+=0A=09=09=09=09</table>=0A=09=09=09=09<!-- end zone 2 banner -->=0A      =
+          =0A                =0A=09=09=09=09<!-- begin 4-ups -->=0A=09=09=
+=09=09<!-- begin 4-up -->=0A=09=09=09=09<!-- begin module heading -->=0A=09=
+=09=09=09<table class=3D"setDisplayWidth" width=3D"700" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" align=3D"center">=0A=09=09=09=09=09<tr>=0A=
+=09=09=09=09=09=09<td class=3D"setDisplayWidth" width=3D"700" align=3D"le=
+ft" valign=3D"top">=0A=09=09=09=09=09=09=09<table width=3D"100%" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0">=0A=09=09=09=09=09=09=09=09<tr>=0A=
+=09=09=09=09=09=09=09=09=09<td width=3D"15" height=3D"7"></td>=0A=09=09=09=
+=09=09=09=09=09=09<td align=3D"left" valign=3D"middle">=0A=09=09=09=09=09=
+=09=09=09=09=09<font class=3D"moduleHeading" face=3D"'Myriad Pro',Arial,S=
+erif" size=3D"3" color=3D"#000000" style=3D"line-height:28px; font-size:2=
+4px; margin:0; padding:0;">=0A=09=09=09=09=09=09=09=09=09=09=09<b>Stay on=
+ budget with super values</b>=0A=09=09=09=09=09=09=09=09=09=09</font>=0A=09=
+=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=
+=09=09=09=09</table>=0A=09=09=09=09=09=09</td>=0A=09=09=09=09=09</tr>=0A=09=
+=09=09=09=09<tr>=0A=09=09=09=09=09=09<td width=3D"100%" height=3D"7"></td=
+>=0A=09=09=09=09=09</tr>=0A=09=09=09=09</table>=0A=09=09=09=09<!-- end mo=
+dule heading -->=0A=0A=09=09=09=09<!-- begin 4-up cat -->=0A=09=09=09=09<=
+table class=3D"setDisplayWidth" width=3D"700" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" align=3D"center">=0A=09=09=09=09=09<tr>=0A=09=09=09=
+=09=09=09<td class=3D"assetOff" width=3D"5" height=3D"20"></td>=0A=09=09=09=
+=09=09=09<td valign=3D"top">=0A=09=09=09=09=09=09=09<table class=3D"setDi=
+splayWidth" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" align=3D"center">=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=
+=09=09<td class=3D"makeBlock" valign=3D"top">=0A=09=09=09=09=09=09=09=09=09=
+=09<!-- begin 4-up first two products left -->=0A=09=09=09=09=09=09=09=09=
+=09=09<table class=3D"setDisplayWidth" width=3D"340" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" align=3D"left">=0A=09=09=09=09=09=09=09=09=09=
+=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09<!-- begin 4-up product 01 =
+-->=0A=09=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top">=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<table class=3D"makeOneFortySix" width=3D"1=
+65" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" val=
+ign=3D"top">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr><td height=3D=
+"1" colspan=3D"3" bgcolor=3D"#FFFFFF" style=3D"width: 165px; height: 1px;=
+ background-color: #FFFFFF;"></td></tr>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D=
+"1" bgcolor=3D"#FFFFFF" style=3D"width: 1px; height: 100%; background-col=
+or: #FFFFFF;"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td al=
+ign=3D"center" valign=3D"top">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<table width=3D"140" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- begin 4-up =
+image assets 01 -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td height=3D=
+"140" align=3D"center" valign=3D"top">=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<a href=3D"http://tracking01.walmart.com/t/ccfbaC=
+WFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng=
+.hjr&g=3DGzp&s=3D&w=3Dcyou://r1r.1Vqhfmy.Xth/hk/6v9150C?Vidi=3Dw-v5v5v5v5=
+v5v5yC2C1C35&qjc=3Djhq&njiy@onhj=3Dw9y5x6xBxAv5v&hVrkfdli@nY=3DrWg5737y7w=
+C@v5v5v&j@di=3DZ9vCY7280~Yk2-WiZ8vkYiw81gV83Caf&qjc=3Djhq" title=3D"Offic=
+e Supplies" target=3D"_blank">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<img src=3D"http://i.walmartimages.com/i/mp/MP/10/00/60=
+/15/MP10006015017_P290619_180X180.jpg" width=3D"140" height=3D"140" borde=
+r=3D"0" style=3D"display:block;" alt=3D"Office Supplies" />=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</a>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<!-- end 4-up image assets 01 -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tr><td height=3D"10"></td></tr>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<!-- begin 4-up shop now cta 01 -->=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<td align=3D"center" valign=3D"top" style=3D=
+"line-height: 22px;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUj=
+aR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGzq&s=3D&=
+w=3Dcyou://r1r.1Vqhfmy.Xth/hk/6v9150C?Vidi=3Dw-v5v5v5v5v5v5yC2C1C35&qjc=3D=
+jhq&njiy@onhj=3Dw9y5x6xBxAv5v&hVrkfdli@nY=3DrWg5737y7wC@v5v5v&j@di=3DZ9vC=
+Y7280~Yk2-WiZ8vkYiw81gV83Caf&qjc=3Djhq" title=3D"Office Supplies" style=3D=
+"color:#FFB535;text-decoration:none;" target=3D"_blank">=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<font face=3D"'Myriad Pro',A=
+rial,serif" size=3D"1" color=3D"#F47B20" style=3D"font-size:17px;">=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<b style=3D"font=
+-weight:600;">Office Supplies</b></font>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</a>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- end 4-up =
+shop now cta 01 -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</t=
+able>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<td width=3D"1" bgcolor=3D"#FFFFFF" styl=
+e=3D"width: 1px; height: 100%; background-color: #FFFFFF;"></td>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td heigh=
+t=3D"1" colspan=3D"3" bgcolor=3D"#FFFFFF" style=3D"width: 165px; height: =
+1px; background-color: #FFFFFF;"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr><td class=3D=
+"fourUpHeightBottom" colspan=3D"3" height=3D"20"></td></tr>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<!-- end 4-up product 01 -->=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"10"></td>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09<!-- begin 4-up product 02 -->=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09<td valign=3D"top">=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<table class=3D"makeOneFortySix" width=3D"165" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" align=3D"center" valign=3D"top">=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tr><td height=3D"1" colspan=3D"3" bgcol=
+or=3D"#FFFFFF" style=3D"width: 165px; height: 1px; background-color: #FFF=
+FFF;"></td></tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"1" bgcolor=3D"#FFFFFF=
+" style=3D"width: 1px; height: 100%; background-color: #FFFFFF;"></td>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" valign=3D=
+"top">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table width=3D"=
+140" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<!-- begin 4-up image assets 02 -->=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<td height=3D"140" align=3D"center" v=
+align=3D"top">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Wea=
+aaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGzr&s=3D&w=3Dcy=
+ou://r1r.1Vqhfmy.Xth/hk/6w60648?Vidi=3Dw-v5v5v5v5v5v5yC2C1C35&qjc=3Djhq&n=
+jiy@onhj=3Dw9y5x6xBxAv5v&hVrkfdli@nY=3DrWg5737y7wC@v5v5v&j@di=3DZ9vCY7280=
+~Yk2-WiZ8vkYiw81gV83Caf&qjc=3Djhq" title=3D"Household Essentials" target=3D=
+"_blank">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<=
+img src=3D"http://i.walmartimages.com/i/p/00/03/70/00/81/0003700081438_18=
+0X180.jpg" width=3D"140" height=3D"140" border=3D"0" style=3D"display:blo=
+ck;" alt=3D"Household Essentials" />=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</a>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- end 4-up image=
+ assets 02 -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr><=
+td height=3D"10"></td></tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<!-- begin 4-up shop now cta 02 -->=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<td align=3D"center" valign=3D"top" style=3D"line-height: 22px;"=
+>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"h=
+ttp://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,=
+Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGzs&s=3D&w=3Dcyou://r1r.1Vq=
+hfmy.Xth/hk/6w60648?Vidi=3Dw-v5v5v5v5v5v5yC2C1C35&qjc=3Djhq&njiy@onhj=3Dw=
+9y5x6xBxAv5v&hVrkfdli@nY=3DrWg5737y7wC@v5v5v&j@di=3DZ9vCY7280~Yk2-WiZ8vkY=
+iw81gV83Caf&qjc=3Djhq" title=3D"Household Essentials" style=3D"color:#FFB=
+535;text-decoration:none;" target=3D"_blank">=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<font face=3D"'Myriad Pro',Arial,serif" =
+size=3D"1" color=3D"#F47B20" style=3D"font-size:17px;">=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<b style=3D"font-weight:6=
+00;">Household Essentials</b></font>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</a>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- end 4-up shop =
+now cta 02 -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<td width=3D"1" bgcolor=3D"#FFFFFF" style=3D"w=
+idth: 1px; height: 100%; background-color: #FFFFFF;"></td>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td height=3D"1=
+" colspan=3D"3" bgcolor=3D"#FFFFFF" style=3D"width: 165px; height: 1px; b=
+ackground-color: #FFFFFF;"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr><td class=3D"fou=
+rUpHeightBottom" colspan=3D"3" height=3D"20"></td></tr>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09</=
+td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<!-- end 4-up product 02 -->=0A=
+=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09</=
+table>=0A=09=09=09=09=09=09=09=09=09=09<!-- end 4-up first two products l=
+eft -->=0A=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09<=
+td class=3D"assetOff" width=3D"10"></td>=0A=09=09=09=09=09=09=09=09=09<td=
+ class=3D"makeBlock" valign=3D"top">=0A=09=09=09=09=09=09=09=09=09=09<!--=
+ begin 4-up second two products right -->=0A=09=09=09=09=09=09=09=09=09=09=
+<table class=3D"setDisplayWidth" width=3D"340" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" align=3D"left">=0A=09=09=09=09=09=09=09=09=09=09=09=
+<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<!-- begin 4-up product 03 -->=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top">=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<table class=3D"makeOneFortySix" width=3D"165"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" valign=
+=3D"top">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr><td height=3D"1=
+" colspan=3D"3" bgcolor=3D"#FFFFFF" style=3D"width: 165px; height: 1px; b=
+ackground-color: #FFFFFF;"></td></tr>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D=
+"1" bgcolor=3D"#FFFFFF" style=3D"width: 1px; height: 100%; background-col=
+or: #FFFFFF;"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td al=
+ign=3D"center" valign=3D"top">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<table width=3D"140" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- begin 4-up =
+image assets 03 -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td height=3D=
+"140" align=3D"center" valign=3D"top">=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<a href=3D"http://tracking01.walmart.com/t/ccfbaC=
+WFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng=
+.hjr&g=3DGzt&s=3D&w=3Dcyou://r1r.1Vqhfmy.Xth/hk/Cv-z~?Vidi=3Dw-v5v5v5v5v5=
+v5yC2C1C35&qjc=3Djhq&njiy@onhj=3Dw9y5x6xBxAv5v&hVrkfdli@nY=3DrWg5737y7wC@=
+v5v5v&j@di=3DZ9vCY7280~Yk2-WiZ8vkYiw81gV83Caf&qjc=3Djhq" title=3D"Small K=
+itchen Appliances" target=3D"_blank">=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<img src=3D"http://i.walmartimages.com/i/p/00/=
+64/96/45/20/0064964520091_180X180.jpg" width=3D"140" height=3D"140" borde=
+r=3D"0" style=3D"display:block;" alt=3D"Small Kitchen Appliances" />=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</a>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<!-- end 4-up image assets 03 -->=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<tr><td height=3D"10"></td></tr>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<!-- begin 4-up shop now cta 03 -->=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" valign=3D"top=
+" style=3D"line-height: 22px;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBA=
+BRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=
+=3DGzu&s=3D&w=3Dcyou://r1r.1Vqhfmy.Xth/hk/Cv-z~?Vidi=3Dw-v5v5v5v5v5v5yC2C=
+1C35&qjc=3Djhq&njiy@onhj=3Dw9y5x6xBxAv5v&hVrkfdli@nY=3DrWg5737y7wC@v5v5v&=
+j@di=3DZ9vCY7280~Yk2-WiZ8vkYiw81gV83Caf&qjc=3Djhq" title=3D"Small Kitchen=
+ Appliances" style=3D"color:#FFB535;text-decoration:none;" target=3D"_bla=
+nk">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<font =
+face=3D"'Myriad Pro',Arial,serif" size=3D"1" color=3D"#F47B20" style=3D"f=
+ont-size:17px;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<b style=3D"font-weight:600;">Small Kitchen Appliances</b></font=
+>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</a>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<!-- end 4-up shop now cta 03 -->=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D=
+"1" bgcolor=3D"#FFFFFF" style=3D"width: 1px; height: 100%; background-col=
+or: #FFFFFF;"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<td height=3D"1" colspan=3D"3" bgcolor=3D"#FFFFFF" styl=
+e=3D"width: 165px; height: 1px; background-color: #FFFFFF;"></td>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<tr><td colspan=3D"3" height=3D"20"></td></tr>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<!-- end 4-up product 03 -->=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"10"></td>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09<!-- begin 4-up product 04 -->=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09<td valign=3D"top">=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<table class=3D"makeOneFortySix" width=3D"165" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" align=3D"center" valign=3D"top">=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tr><td height=3D"1" colspan=3D"3" bgcol=
+or=3D"#FFFFFF" style=3D"width: 165px; height: 1px; background-color: #FFF=
+FFF;"></td></tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"1" bgcolor=3D"#FFFFFF=
+" style=3D"width: 1px; height: 100%; background-color: #FFFFFF;"></td>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" valign=3D=
+"top">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table width=3D"=
+140" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<!-- begin 4-up image assets 04 -->=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<td height=3D"100" align=3D"center" v=
+align=3D"top">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Wea=
+aaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGzv&s=3D&w=3Dcy=
+ou://r1r.1Vqhfmy.Xth/hk/C2~2B2?fYnY=3D605v5v5v5v5v5v84A4~4Bv&0Zm=3DZrg&xZ=
+so@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54ixAy-1=
+iaA0gYjy5aiY6y~WfyB4kV&0Zm=3DZrg" title=3D"Snacks&#44; Cookies & Chips" t=
+arget=3D"_blank">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<img src=3D"http://i.walmartimages.com/i/p/00/02/41/00/44/000241004=
+4068_180X180.jpg" width=3D"140" height=3D"140" border=3D"0" style=3D"disp=
+lay:block;" alt=3D"Snacks&#44; Cookies & Chips" />=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</a>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- =
+end 4-up image assets 04 -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr><td height=3D"10"></td></tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<!-- begin 4-up shop now cta 04 -->=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<td align=3D"center" valign=3D"top" style=3D"line=
+-height: 22px;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1=
+Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGzw&s=3D&w=3D=
+cyou://r1r.1Vqhfmy.Xth/hk/C2~2B2?fYnY=3D605v5v5v5v5v5v84A4~4Bv&0Zm=3DZrg&=
+xZso@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54ixAy=
+-1iaA0gYjy5aiY6y~WfyB4kV&0Zm=3DZrg" title=3D"Snacks&#44; Cookies & Chips"=
+ style=3D"color:#FFB535;text-decoration:none;" target=3D"_blank">=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<font face=3D"'Myri=
+ad Pro',Arial,serif" size=3D"1" color=3D"#F47B20" style=3D"font-size:17px=
+;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<b s=
+tyle=3D"font-weight:600;">Snacks&#44; Cookies & Chips</b></font>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</a>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<!-- end 4-up shop now cta 04 -->=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"1" bgco=
+lor=3D"#FFFFFF" style=3D"width: 1px; height: 100%; background-color: #FFF=
+FFF;"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<td height=3D"1" colspan=3D"3" bgcolor=3D"#FFFFFF" style=3D"w=
+idth: 165px; height: 1px; background-color: #FFFFFF;"></td>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tr><td colspan=3D"3" height=3D"20"></td></tr>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09</td>=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09<!-- end 4-up product 04 -->=0A=09=
+=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09</tab=
+le>=0A=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09</tr>=0A=
+=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09<!-- end 4-up second=
+ two products right -->=0A=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09<td=
+ class=3D"assetOff" width=3D"5" height=3D"20"></td>=0A=09=09=09=09=09</tr=
+>=0A=09=09=09=09</table>=0A=09=09=09=09<!-- end 4-up cat -->=0A=0A=09=09=09=
+=09<!-- begin module heading -->=0A=09=09=09=09<table class=3D"setDisplay=
+Width" width=3D"700" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" ali=
+gn=3D"center">=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td class=3D"set=
+DisplayWidth" width=3D"700" align=3D"left" valign=3D"top">=0A=09=09=09=09=
+=09=09=09<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0">=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td w=
+idth=3D"15" height=3D"7"></td>=0A=09=09=09=09=09=09=09=09=09<td align=3D"=
+left" valign=3D"middle">=0A=09=09=09=09=09=09=09=09=09=09<font class=3D"m=
+oduleHeading" face=3D"'Myriad Pro',Arial,Serif" size=3D"3" color=3D"#0000=
+00" style=3D"line-height:28px; font-size:24px; margin:0; padding:0;">=0A=09=
+=09=09=09=09=09=09=09=09=09=09<b>Were you looking for these?</b>=0A=09=09=
+=09=09=09=09=09=09=09=09</font>=0A=09=09=09=09=09=09=09=09=09</td>=0A=09=09=
+=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=
+=09</td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=
+<td width=3D"100%" height=3D"7"></td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09=
+</table>=0A=09=09=09=09<!-- end module heading -->=0A=0A=09=09=09=09<!-- =
+begin 4-up item -->=0A=09=09=09=09<table class=3D"setDisplayWidth" width=3D=
+"700" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center">=0A=
+=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td class=3D"assetOff" width=3D"5=
+" height=3D"20"></td>=0A=09=09=09=09=09=09<td valign=3D"top">=0A=09=09=09=
+=09=09=09=09<table class=3D"setDisplayWidth" width=3D"100%" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" align=3D"center">=0A=09=09=09=09=09=09=
+=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td class=3D"makeBlock">=0A=09=09=
+=09=09=09=09=09=09=09=09<!-- begin 4-up first two products left -->=0A=09=
+=09=09=09=09=09=09=09=09=09<table class=3D"setDisplayWidth" width=3D"340"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"left">=0A=09=09=
+=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09<!-- b=
+egin 4-up product 01 -->=0A=09=09=09=09=09=09=09=09=09=09=09=09<td valign=
+=3D"top">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<table class=3D"makeOn=
+eFortySix" width=3D"165" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ align=3D"center" valign=3D"top">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<tr><td height=3D"1" colspan=3D"3" bgcolor=3D"#E5E5E5" style=3D"width:=
+ 165px; height: 1px; background-color: #E5E5E5;"></td></tr>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<td width=3D"1" bgcolor=3D"#E5E5E5" style=3D"width: 1px; height:=
+ 100%; background-color: #E5E5E5;"></td>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<td align=3D"center" valign=3D"top">=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<table width=3D"100" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=
+=3D"100" height=3D"20"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- =
+begin 4-up image assets 01 -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td=
+ width=3D"100" height=3D"100" align=3D"center" valign=3D"top" style=3D"li=
+ne-height: 14px;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1=
+Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGzx&s=3D&w=3D=
+cyou://r1r.1Vqhfmy.Xth/nk/8y548w5w?fYnY=3D605v5v5v5v5v5v84A4~4Bv&0Zm=3DZr=
+g&xZso@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54ix=
+Ay-1iaA0gYjy5aiY6y~WfyB4kV&0Zm=3DZrg" title=3D"Apple iPad mini 16GB Wi-Fi=
+" target=3D"_blank">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<img src=3D"http://i.walmartimages.com/i/p/00/88/59/09/84/008859=
+0984629_100X100.jpg" width=3D"100" height=3D"100" border=3D"0" style=3D"d=
+isplay:block;" alt=3D"Apple iPad mini 16GB Wi-Fi">=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</a>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- =
+end 4-up image assets 01 -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td=
+ width=3D"100" height=3D"10"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<!-- begin 4-up description 01 -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<td width=3D"100" height=3D"56" align=3D"left" valign=3D"top" style=3D=
+"line-height: 12px;" bgcolor=3D"#FFFFFF">=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<a href=3D"http://tracking01.walmart.com/t/ccf=
+baCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_br=
+Vng.hjr&g=3DGzy&s=3D&w=3Dcyou://r1r.1Vqhfmy.Xth/nk/8y548w5w?fYnY=3D605v5v=
+5v5v5v5v84A4~4Bv&0Zm=3DZrg&xZso@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgWDxB=
+x8x64@5v5v5&Z@nY=3Djz54ixAy-1iaA0gYjy5aiY6y~WfyB4kV&0Zm=3DZrg" title=3D"A=
+pple iPad mini 16GB Wi-Fi" style=3D"color:#646464;text-decoration:none;" =
+target=3D"_blank">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<font face=3D"'Myriad Pro',Arial,serif" size=3D"1" color=3D"#333333=
+" style=3D"font-size:12px;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09Apple iPad mini 16GB Wi-Fi...=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</font>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</a>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- end 4-=
+up description 01 -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D=
+"100" height=3D"15"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- beg=
+in 4-up shop now cta 01 -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td wi=
+dth=3D"100" align=3D"left" valign=3D"bottom" style=3D"line-height: 22px;"=
+>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<td align=3D"right" valign=3D"middle" heigh=
+t=3D"18">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1=
+Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGzz&s=3D&w=3D=
+cyou://r1r.1Vqhfmy.Xth/nk/8y548w5w?fYnY=3D605v5v5v5v5v5v84A4~4Bv&0Zm=3DZr=
+g&xZso@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54ix=
+Ay-1iaA0gYjy5aiY6y~WfyB4kV&0Zm=3DZrg" title=3D"Shop Now" style=3D"color:#=
+F47B20;text-decoration:none;" target=3D"_blank">=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<font face=3D"'Myriad Pro',A=
+rial,serif" size=3D"1" color=3D"#F47B20" style=3D"font-size:17px;">=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<b s=
+tyle=3D"font-weight:600;">Shop&nbsp;Now</b>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</font>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</a>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" valign=3D"middl=
+e" height=3D"18">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<img src=3D"http://i.walmartimages.com/i/email/13/07/10EBI/ca=
+rrot_orange.jpg" width=3D"11" height=3D"15" border=3D"0" style=3D"display=
+:inline-block;" alt=3D"" />=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</=
+table>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<!-- end 4-up shop now cta 01 -->=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<td width=3D"100" height=3D"15">=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>     =0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"1" b=
+gcolor=3D"#E5E5E5" style=3D"width: 1px; height: 100%; background-color: #=
+E5E5E5;"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<td height=3D"1" colspan=3D"3" bgcolor=3D"#E5E5E5" style=3D=
+"width: 165px; height: 1px; background-color: #E5E5E5;"></td>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr><td class=3D"fourUpHeightBottom" colspan=3D"3" height=3D"20"=
+></td></tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<!=
+-- end 4-up product 01 -->=0A=09=09=09=09=09=09=09=09=09=09=09=09<td widt=
+h=3D"10"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<!-- begin 4-up prod=
+uct 02 -->=0A=09=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top">=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<table class=3D"makeOneFortySix" widt=
+h=3D"165" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"cente=
+r" valign=3D"top">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr><td he=
+ight=3D"1" colspan=3D"3" bgcolor=3D"#E5E5E5" style=3D"width: 165px; heigh=
+t: 1px; background-color: #E5E5E5;"></td></tr>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td=
+ width=3D"1" bgcolor=3D"#E5E5E5" style=3D"width: 1px; height: 100%; backg=
+round-color: #E5E5E5;"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<td align=3D"center" valign=3D"top">=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<table width=3D"100" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"100" h=
+eight=3D"20"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<=
+/tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- begin 4-up=
+ image assets 02 -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D=
+"100" height=3D"100" align=3D"center" valign=3D"top" style=3D"line-height=
+: 14px;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a h=
+ref=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa=
+?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGz0&s=3D&w=3Dcyou:/=
+/r1r.1Vqhfmy.Xth/nk/9xCy-zC3?fYnY=3D605v5v5v5v5v5v84A4~4Bv&0Zm=3DZrg&xZso=
+@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54ixAy-1ia=
+A0gYjy5aiY6y~WfyB4kV&0Zm=3DZrg" title=3D"PS4 500GB Console Bundle with Th=
+e Last o" target=3D"_blank">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<img src=3D"http://i.walmartimages.com/i/p/00/71/17/19/=
+50/0071171950081_100X100.jpg" width=3D"100" height=3D"100" border=3D"0" s=
+tyle=3D"display:block;" alt=3D"PS4 500GB Console Bundle with The Last o">=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</a>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<!-- end 4-up image assets 02 -->=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<td width=3D"100" height=3D"10"></td>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<!-- begin 4-up description 02 -->=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<td width=3D"100" height=3D"56" align=3D"left" va=
+lign=3D"top" style=3D"line-height: 12px;" bgcolor=3D"#FFFFFF">=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://trackin=
+g01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~=
+y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGz1&s=3D&w=3Dcyou://r1r.1Vqhfmy.Xth/nk/9=
+xCy-zC3?fYnY=3D605v5v5v5v5v5v84A4~4Bv&0Zm=3DZrg&xZso@ydrZ=3D6z8v7w73725v5=
+&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54ixAy-1iaA0gYjy5aiY6y~WfyB4kV&=
+0Zm=3DZrg" title=3D"PS4 500GB Console Bundle with The Last o" style=3D"co=
+lor:#646464;text-decoration:none;" target=3D"_blank">=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<font face=3D"'Myriad Pro',Aria=
+l,serif" size=3D"1" color=3D"#333333" style=3D"font-size:12px;">=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09PS4 500GB Console B=
+undle with The Last o...=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</font>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</a>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<!-- end 4-up description 02 -->=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"100" height=3D"15"></td>=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- begin 4-up shop now cta 02 --=
+>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"100" align=3D"left=
+" valign=3D"bottom" style=3D"line-height: 22px;">=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<td align=3D"right" valign=3D"middle" height=3D"18">=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://t=
+racking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6=
+v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGz2&s=3D&w=3Dcyou://r1r.1Vqhfmy.Xt=
+h/nk/9xCy-zC3?fYnY=3D605v5v5v5v5v5v84A4~4Bv&0Zm=3DZrg&xZso@ydrZ=3D6z8v7w7=
+3725v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54ixAy-1iaA0gYjy5aiY6y~Wf=
+yB4kV&0Zm=3DZrg" title=3D"Shop Now" style=3D"color:#F47B20;text-decoratio=
+n:none;" target=3D"_blank">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<font face=3D"'Myriad Pro',Arial,serif" size=3D"1=
+" color=3D"#F47B20" style=3D"font-size:17px;">=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<b style=3D"font-weight:6=
+00;">Shop&nbsp;Now</b>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</font>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</a>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<td align=3D"left" valign=3D"middle" height=3D"18">=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<img src=3D=
+"http://i.walmartimages.com/i/email/13/07/10EBI/carrot_orange.jpg" width=3D=
+"11" height=3D"15" border=3D"0" style=3D"display:inline-block;" alt=3D"" =
+/>=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<!-- end 4-up shop now cta 02 -->=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<td width=3D"100" height=3D"15">=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</td>     =0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</=
+table>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<td width=3D"1" bgcolor=3D"#E5E5E5" styl=
+e=3D"width: 1px; height: 100%; background-color: #E5E5E5;"></td>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td heigh=
+t=3D"1" colspan=3D"3" bgcolor=3D"#E5E5E5" style=3D"width: 165px; height: =
+1px; background-color: #E5E5E5;"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr><td class=3D=
+"fourUpHeightBottom" colspan=3D"3" height=3D"20"></td></tr>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<!-- end 4-up product 02 -->=0A=
+=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09</=
+table>=0A=09=09=09=09=09=09=09=09=09=09<!-- end 4-up first two products l=
+eft -->=0A=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09<=
+td class=3D"assetOff" width=3D"10"></td>=0A=09=09=09=09=09=09=09=09=09<td=
+ class=3D"makeBlock" valign=3D"top">=0A=09=09=09=09=09=09=09=09=09=09<!--=
+ begin 4-up second two products right -->=0A=09=09=09=09=09=09=09=09=09=09=
+<table class=3D"setDisplayWidth" width=3D"340" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" align=3D"left">=0A=09=09=09=09=09=09=09=09=09=09=09=
+<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<!-- begin 4-up product 03 -->=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top">=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<table class=3D"makeOneFortySix" width=3D"165"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" valign=
+=3D"top">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr><td height=3D"1=
+" colspan=3D"3" bgcolor=3D"#E5E5E5" style=3D"width: 165px; height: 1px; b=
+ackground-color: #E5E5E5;"></td></tr>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D=
+"1" bgcolor=3D"#E5E5E5" style=3D"width: 1px; height: 100%; background-col=
+or: #E5E5E5;"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td al=
+ign=3D"center" valign=3D"top">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<table width=3D"100" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"100" height=3D"=
+20"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- begin 4-up image ass=
+ets 03 -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"100" heig=
+ht=3D"100" align=3D"center" valign=3D"top" style=3D"line-height: 14px;">=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http:=
+//tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,D=
+w,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGz3&s=3D&w=3Dcyou://r1r.1Vqhfmy=
+.Xth/nk/72~2B0~2?fYnY=3D605v5v5v5v5v5v84A4~4Bv&0Zm=3DZrg&xZso@ydrZ=3D6z8v=
+7w73725v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54ixAy-1iaA0gYjy5aiY6y=
+~WfyB4kV&0Zm=3DZrg" title=3D"Sceptre X505BV-FMQR 50" 1080p 60Hz LED H" ta=
+rget=3D"_blank">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<img src=3D"http://i.walmartimages.com/i/p/00/79/23/43/25/007923432=
+5053_100X100.jpg" width=3D"100" height=3D"100" border=3D"0" style=3D"disp=
+lay:block;" alt=3D"Sceptre X505BV-FMQR 50" 1080p 60Hz LED H">=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</a>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<!-- end 4-up image assets 03 -->=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<td width=3D"100" height=3D"10"></td>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<!-- begin 4-up description 03 -->=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<td width=3D"100" height=3D"56" align=3D"left" valign=3D"top"=
+ style=3D"line-height: 12px;" bgcolor=3D"#FFFFFF">=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://tracking01.walmart.=
+com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVh=
+f3Vtw7_brVng.hjr&g=3DGz4&s=3D&w=3Dcyou://r1r.1Vqhfmy.Xth/nk/72~2B0~2?fYnY=
+=3D605v5v5v5v5v5v84A4~4Bv&0Zm=3DZrg&xZso@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=
+=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54ixAy-1iaA0gYjy5aiY6y~WfyB4kV&0Zm=3DZrg" t=
+itle=3D"Sceptre X505BV-FMQR 50" 1080p 60Hz LED H" style=3D"color:#646464;=
+text-decoration:none;" target=3D"_blank">=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<font face=3D"'Myriad Pro',Arial,serif" siz=
+e=3D"1" color=3D"#333333" style=3D"font-size:12px;">=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09Sceptre X505BV-FMQR 50" 1080p 6=
+0Hz LED H...=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</font>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</a>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<!-- end 4-up description 03 -->=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<td width=3D"100" height=3D"15"></td>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<!-- begin 4-up shop now cta 03 -->=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<td width=3D"100" align=3D"left" valign=3D"=
+bottom" style=3D"line-height: 22px;">=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr=
+>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td al=
+ign=3D"right" valign=3D"middle" height=3D"18">=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://tracking01.wa=
+lmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3D=
+WqVhf3Vtw7_brVng.hjr&g=3DGzE&s=3D&w=3Dcyou://r1r.1Vqhfmy.Xth/nk/72~2B0~2?=
+fYnY=3D605v5v5v5v5v5v84A4~4Bv&0Zm=3DZrg&xZso@ydrZ=3D6z8v7w73725v5&XfhuVnb=
+s@di=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54ixAy-1iaA0gYjy5aiY6y~WfyB4kV&0Zm=3DZr=
+g" title=3D"Shop Now" style=3D"color:#F47B20;text-decoration:none;" targe=
+t=3D"_blank">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<font face=3D"'Myriad Pro',Arial,serif" size=3D"1" color=3D"#=
+F47B20" style=3D"font-size:17px;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<b style=3D"font-weight:600;">Shop&nb=
+sp;Now</b>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</font>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</a>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<td align=3D"left" valign=3D"middle" height=3D"18">=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<img src=3D"http://i.w=
+almartimages.com/i/email/13/07/10EBI/carrot_orange.jpg" width=3D"11" heig=
+ht=3D"15" border=3D"0" style=3D"display:inline-block;" alt=3D"" />=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!=
+-- end 4-up shop now cta 03 -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<td width=3D"100" height=3D"15">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</td>     =0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<td width=3D"1" bgcolor=3D"#E5E5E5" style=3D"widt=
+h: 1px; height: 100%; background-color: #E5E5E5;"></td>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td height=3D"1" c=
+olspan=3D"3" bgcolor=3D"#E5E5E5" style=3D"width: 165px; height: 1px; back=
+ground-color: #E5E5E5;"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr><td colspan=3D"3" h=
+eight=3D"20"></td></tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09<!-- end 4-up product 03 -->=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09<td width=3D"10"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<!-- begi=
+n 4-up product 04 -->=0A=09=09=09=09=09=09=09=09=09=09=09=09<td valign=3D=
+"top">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<table class=3D"makeOneFo=
+rtySix" width=3D"165" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" al=
+ign=3D"center" valign=3D"top">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<tr><td height=3D"1" colspan=3D"3" bgcolor=3D"#E5E5E5" style=3D"width: 16=
+5px; height: 1px; background-color: #E5E5E5;"></td></tr>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<td width=3D"1" bgcolor=3D"#E5E5E5" style=3D"width: 1px; height: 10=
+0%; background-color: #E5E5E5;"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<td align=3D"center" valign=3D"top">=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<table width=3D"100" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D=
+"100" height=3D"20"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- beg=
+in 4-up image assets 04 -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td wi=
+dth=3D"100" height=3D"100" align=3D"center" valign=3D"top" style=3D"line-=
+height: 14px;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Wea=
+aaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGz-&s=3D&w=3Dcy=
+ou://r1r.1Vqhfmy.Xth/nk/7w54AzAv?fYnY=3D605v5v5v5v5v5v84A4~4Bv&0Zm=3DZrg&=
+xZso@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54ixAy=
+-1iaA0gYjy5aiY6y~WfyB4kV&0Zm=3DZrg" title=3D"RCA 42"  LED42C45RQ Class LE=
+D 1080p 60Hz" target=3D"_blank">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<img src=3D"http://i.walmartimages.com/i/p/00/88/33/=
+93/00/0088339300298_100X100.jpg" width=3D"100" height=3D"100" border=3D"0=
+" style=3D"display:block;" alt=3D"RCA 42"  LED42C45RQ Class LED 1080p 60H=
+z">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</a>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<!-- end 4-up image assets 04 -->=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<td width=3D"100" height=3D"10"></td>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<!-- begin 4-up description 04 -->=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<td width=3D"100" height=3D"56" align=3D"left"=
+ valign=3D"top" style=3D"line-height: 12px;" bgcolor=3D"#FFFFFF">=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://trac=
+king01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7y=
+Av~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGz~&s=3D&w=3Dcyou://r1r.1Vqhfmy.Xth/n=
+k/7w54AzAv?fYnY=3D605v5v5v5v5v5v84A4~4Bv&0Zm=3DZrg&xZso@ydrZ=3D6z8v7w7372=
+5v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54ixAy-1iaA0gYjy5aiY6y~WfyB4=
+kV&0Zm=3DZrg" title=3D"RCA 42"  LED42C45RQ Class LED 1080p 60Hz" style=3D=
+"color:#646464;text-decoration:none;" target=3D"_blank">=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<font face=3D"'Myriad Pro',A=
+rial,serif" size=3D"1" color=3D"#333333" style=3D"font-size:12px;">=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09RCA 42"  LED42C4=
+5RQ Class LED 1080p 60Hz...=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</font>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</a>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</t=
+d>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- end 4-up description 04 --=
+>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"100" height=3D"15"=
+></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- begin 4-up shop now cta=
+ 04 -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"100" align=3D=
+"left" valign=3D"bottom" style=3D"line-height: 22px;">=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<td align=3D"right" valign=3D"middle" height=3D"18">=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http:=
+//tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,D=
+w,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGzA&s=3D&w=3Dcyou://r1r.1Vqhfmy=
+.Xth/nk/7w54AzAv?fYnY=3D605v5v5v5v5v5v84A4~4Bv&0Zm=3DZrg&xZso@ydrZ=3D6z8v=
+7w73725v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54ixAy-1iaA0gYjy5aiY6y=
+~WfyB4kV&0Zm=3DZrg" title=3D"Shop Now" style=3D"color:#F47B20;text-decora=
+tion:none;" target=3D"_blank">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<font face=3D"'Myriad Pro',Arial,serif" size=3D=
+"1" color=3D"#F47B20" style=3D"font-size:17px;">=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<b style=3D"font-weight:6=
+00;">Shop&nbsp;Now</b>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</font>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</a>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<td align=3D"left" valign=3D"middle" height=3D"18">=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<img src=3D=
+"http://i.walmartimages.com/i/email/13/07/10EBI/carrot_orange.jpg" width=3D=
+"11" height=3D"15" border=3D"0" style=3D"display:inline-block;" alt=3D"" =
+/>=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<!-- end 4-up shop now cta 04 -->=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<td width=3D"100" height=3D"15">=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</td>     =0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</=
+table>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<td width=3D"1" bgcolor=3D"#E5E5E5" styl=
+e=3D"width: 1px; height: 100%; background-color: #E5E5E5;"></td>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td heigh=
+t=3D"1" colspan=3D"3" bgcolor=3D"#E5E5E5" style=3D"width: 165px; height: =
+1px; background-color: #E5E5E5;"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr><td colspa=
+n=3D"3" height=3D"20"></td></tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09<!-- end 4-up product 04 -->=0A=09=09=09=09=09=09=09=09=
+=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=
+=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=
+</table>=0A=09=09=09=09=09=09=09<!-- end 4-up second two products right -=
+->=0A=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09<td class=3D"assetOff" w=
+idth=3D"5" height=3D"20"></td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09</tab=
+le>=0A=09=09=09=09<!-- end 4-up item -->=0A=09=09=09=09<!-- end 4-ups -->=
+=0A=0A=09=09=09=09<!-- begin adserve banners / 4 -->=0A=09=09=09=09<table=
+ class=3D"setDisplayWidth" width=3D"700" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" align=3D"center">=0A=09=09=09=09=09<tr>=0A=09=09=09  =09=
+=09=09<td align=3D"left" valign=3D"top">=0A=09=09=09=09=09=09=09<table cl=
+ass=3D"setDisplayWidth" width=3D"100%" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" align=3D"center" valign=3D"top">=0A=09=09=09=09=09=09=09=09=
+<tr>=0A=09=09=09=09=09=09=09=09=09<td class=3D"makeBlock" align=3D"center=
+" valign=3D"top">=0A=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" align=3D"center" valign=3D"top">=0A=09=09=
+=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td=
+ align=3D"center" valign=3D"top">=0A<!-- begin adserve banners / 4 -->=0A=
+<a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Wea=
+aaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGzB&s=3D&w=3Dcy=
+ou://r1r.1Vqhfmy.Xth/hk/6vAwC1~?Vidi=3Dw-v5v5v5v5v5v5yC2C2635&qjc=3Djhq&n=
+jiy@onhj=3Dw9y5x6xBxAv5v&hVrkfdli@nY=3DrWg5737y7wC@v5v5v&j@di=3DZ9vCY7280=
+~Yk2-WiZ8vkYiw81gV83Caf" title=3D"Shop Now" target=3D"_blank"><img class=3D=
+"setDisplayWidth" width=3D"300" src=3D"http://i.walmartimages.com/i/email=
+/15/04/16JTAS/33507-96144_HP-household_responsi.jpg" border=3D"0" style=3D=
+"display:block;" alt=3D"Shop Now" /></a>=0A<!-- End -->=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=
+=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+<td height=3D"25"></td>=0A=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=
+=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09    </td>=0A=09=09=
+=09=09=09=09  =09=09=09<td class=3D"makeBlock" align=3D"center" valign=3D=
+"top">=0A=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" align=3D"center" valign=3D"top">=0A=09=09=09=09=09=09=
+=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"ce=
+nter" valign=3D"top">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=
+=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3D=
+Dw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DGzC&s=3D&w=3Dcyou://r1r.=
+1Vqhfmy.Xth/gmtrxZ/kjtY/kjtYDnzkugnZx/4A1A0C@4A1A49@w549w9z?fYnY=3D605v5v=
+5v5v5v5v84A4Ax6v&0Zm=3DZrg&xZso@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgWDxB=
+x8x64@5v5v5&Z@nY=3Djz54ixAy-1iaA0gYjy5aiY6y~WfyB4kV" title=3D"Emergency F=
+ood" target=3D"_blank">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<img =
+class=3D"setDisplayWidth" width=3D"300" src=3D"http://i.walmartimages.com=
+/i/email/15/03/30A/33156-93733_HP-rback-emergencyfood_responsi.png" borde=
+r=3D"0" style=3D"display:block;" alt=3D"Emergency Food" />=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</a>=0A<!-- End -->=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=
+=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td heigh=
+t=3D"25"></td>=0A=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=
+=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=
+=09=09=09=09</tr>=0A=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09</t=
+d>=0A=09=09=09=09=09</tr>=0A=09=09=09=09</table>=0A=09=09=09=09<!-- end a=
+dserve banners / 4 -->=0A=0A=09=09=09=09<!-- begin awareness -->=0A=09=09=
+=09=09<table class=3D"setDisplayWidth" width=3D"700" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" align=3D"center">=0A=09=09=09=09=09<tr>=0A=09=
+=09=09=09=09=09<td class=3D"makeBlock" align=3D"center" valign=3D"top">=0A=
+=09=09=09=09=09=09=09<!-- begin awareness body 1 -->=0A=09=09=09=09=09=09=
+=09<table class=3D"setDisplayWidth" width=3D"325" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" align=3D"right">=0A=09=09=09=09=09=09=09=09<tr>=
+=0A=09=09=09=09=09=09=09=09=09<td valign=3D"top">=0A=09=09=09=09=09=09=09=
+=09=09=09<table class=3D"setDisplayWidth" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" align=3D"left">=0A=09=09=09=09=09=09=09=09=09=09=09<tr>=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"10"></td>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09<td width=3D"100" align=3D"center" valign=3D"t=
+op">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- begin awareness image =
+asset 1 -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://tr=
+acking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v=
+7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DH7f&s=3D&w=3Dcyou://r1r.1Vqhfmy.Xth=
+/hk/~y7z5x?fYnY=3D605v5v5v5v5v5v84A4~27v&0Zm=3DZrg&xZso@ydrZ=3D6z8v7w7372=
+5v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54ixAy-1iaA0gYjy5aiY6y~WfyB4=
+kV" title=3D"Dog & cat care 101" target=3D"_blank">=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<img src=3D"http://i.walmartimages.com/i/email/14/10=
+/27NE/CreditCard.jpg" width=3D"100" height=3D"100" border=3D"0" alt=3D"Do=
+g & cat care 101" />=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</a>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<!-- end awareness image asset 1 -->=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09<td width=3D"13"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td width=
+=3D"212" class=3D"awarenessRightSideWidth" valign=3D"top">=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<table width=3D"100%" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr=
+>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" style=
+=3D"line-height:22px;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<!-- begin awareness title 1 -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbK=
+VUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DH7g&s=3D=
+&w=3Dcyou://r1r.1Vqhfmy.Xth/hk/~y7z5x?fYnY=3D605v5v5v5v5v5v84A4~27v&0Zm=3D=
+Zrg&xZso@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54=
+ixAy-1iaA0gYjy5aiY6y~WfyB4kV" title=3D"Learn how to save $25=E2=80=A6" ta=
+rget=3D"_blank" style=3D"color:#0066CC; text-decoration:none;">=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<font font face=3D"'Myriad Pro'=
+,Arial,Serif" size=3D"3" color=3D"#1A75CF" style=3D"font-size:22px;">=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<b>Learn how to save $=
+25=E2=80=A6</b>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</fo=
+nt>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</a>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<!-- end awareness title 1 -->=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" valign=3D"to=
+p" style=3D"line-height:12px;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<!-- begin awareness copy 1 -->=0A                              =
+          =09=09=09            <font face=3D"'Myriad Pro',Arial,Serif" si=
+ze=3D"2" color=3D"#333333" style=3D"font-size:12px;">=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09when you open a Walmart Credit Card. Sub=
+ject to credit approval. Paid as a statement credit.=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</font>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<!-- end awareness copy 1 -->=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- begin 4-up cta 04 -->=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<td width=3D"100" align=3D"left" valign=3D"bottom" s=
+tyle=3D"line-height: 22px;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<td align=3D"left" valign=3D"middle" height=
+=3D"18">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<nobr=
+>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D=
+"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DD=
+w,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DH7h&s=3D&w=3Dcyou://r1r.1=
+Vqhfmy.Xth/hk/~y7z5x?fYnY=3D605v5v5v5v5v5v84A4~27v&0Zm=3DZrg&xZso@ydrZ=3D=
+6z8v7w73725v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54ixAy-1iaA0gYjy5a=
+iY6y~WfyB4kV" title=3D"Learn More" style=3D"color:#F47B20;text-decoration=
+:none;" target=3D"_blank">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<font face=3D"'Myriad Pro',Arial,serif" size=3D"1" colo=
+r=3D"#F47B20" style=3D"font-size:17px;">=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<b style=3D"font-weight:600;">Learn M=
+ore</b>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</font>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</a=
+>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</nobr>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" valign=3D"middl=
+e" height=3D"18">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<img src=3D"http://i.walmartimages.com/i/email/13/07/10EBI/carrot_oran=
+ge.jpg" width=3D"11" height=3D"15" border=3D"0" style=3D"display:inline-b=
+lock;" alt=3D"" />=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td=
+>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- end 4-up cta 04 -->=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=
+=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=
+=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=
+=09<td class=3D"moduleBreak" width=3D"100%" height=3D"20">=0A=09=09=09=09=
+=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=
+=09</table>=0A=09=09=09=09=09=09=09<!-- end awareness body 1 -->=0A=09=09=
+=09=09=09=09</td>=0A=09=09=09=09=09=09<td class=3D"assetOff" width=3D"24"=
+ valign=3D"top">=0A=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" align=3D"left">=0A=09=09=09=09=09=09=09=09<tr>=0A=09=
+=09=09=09=09=09=09=09=09<td width=3D"24" align=3D"center">=0A=09=09=09=09=
+=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=
+=09</table>=0A=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09<td class=3D"ma=
+keBlock" valign=3D"top">=0A=09=09=09=09=09=09=09<!-- begin awareness body=
+ 2 -->=0A=09=09=09=09=09=09=09<table class=3D"setDisplayWidth" width=3D"3=
+25" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"left">=0A=09=
+=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td valign=3D"top"=
+>=0A=09=09=09=09=09=09=09=09=09=09<table class=3D"setDisplayWidth awarene=
+ssContainer" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"le=
+ft">=0A=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09<td width=3D"10"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td=
+ width=3D"100" align=3D"center" valign=3D"top">=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<!-- begin awareness image asset 2 -->=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<a href=3D"http://tracking01.walmart.com/t/ccfbaCWFB=
+tBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hj=
+r&g=3DH7i&s=3D&w=3Dcyou://cjVqom.rfgrVwo.hjr/cjVqom51ZqgsZxnDXjiyZw/?Vidi=
+=3Dw-v5v5v5v5v5v5yC2C1Cw5&qjc=3Djhq&njiy@onhj=3Dw9y5x6xBxAv5v&hVrkfdli@nY=
+=3DrWg5737y7wC@v5v5v&j@di=3DZ9vCY7280~Yk2-WiZ8vkYiw81gV83Caf" title=3D"Ba=
+by gifts beyond the registry" target=3D"_blank">=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<img src=3D"http://i.walmartimages.com/i/if/hmp/fusion/=
+28693_51566_HealthMain_email_100x100.jpg" width=3D"100" height=3D"100" bo=
+rder=3D"0" alt=3D"Baby gifts beyond the registry" />=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</a>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- e=
+nd awareness image asset 2 -->=0A=09=09=09=09=09=09=09=09=09=09=09=09</td=
+>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"13"></td>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09<td width=3D"212" class=3D"awarenessRightSideW=
+idth" valign=3D"top">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<table wid=
+th=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<td align=3D"left" style=3D"line-height:22px;">=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<!-- begin awareness title 2 -->=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://tracking01=
+.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w=
+&j=3DWqVhf3Vtw7_brVng.hjr&g=3DH7j&s=3D&w=3Dcyou://cjVqom.rfgrVwo.hjr/cjVq=
+om51ZqgsZxnDXjiyZw/?Vidi=3Dw-v5v5v5v5v5v5yC2C1Cw5&qjc=3Djhq&njiy@onhj=3Dw=
+9y5x6xBxAv5v&hVrkfdli@nY=3DrWg5737y7wC@v5v5v&j@di=3DZ9vCY7280~Yk2-WiZ8vkY=
+iw81gV83Caf" title=3D"Trending personal care ingredients" target=3D"_blan=
+k" style=3D"color:#0066CC; text-decoration:none;">=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<font font face=3D"'Myriad Pro',Arial,Serif=
+" size=3D"3" color=3D"#1A75CF" style=3D"font-size:22px;">=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<b>Health questions? We have answe=
+rs!</b>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</font>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</a>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<!-- end awareness title 2 -->=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" style=3D"line-height:=
+12px;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- begin awar=
+eness copy 2 -->=0A                                        =09=09=09     =
+       <font face=3D"'Myriad Pro',Arial,Serif" size=3D"2" color=3D"#33333=
+3" style=3D"font-size:12px;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09Keep yourself and your family well with information and advice o=
+n common health conditions and remedies.=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</font>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<!-- end awareness copy 2 -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<!-- begin awareness cta 2 -->=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<td width=3D"100" align=3D"left" valign=3D"bottom" style=3D"l=
+ine-height: 22px;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<ta=
+ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<td align=3D"left" valign=3D"middle" height=3D"18">=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<nobr>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://trac=
+king01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7y=
+Av~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DH7k&s=3D&w=3Dcyou://cjVqom.rfgrVwo.hj=
+r/cjVqom51ZqgsZxnDXjiyZw/?Vidi=3Dw-v5v5v5v5v5v5yC2C1Cw5&qjc=3Djhq&njiy@on=
+hj=3Dw9y5x6xBxAv5v&hVrkfdli@nY=3DrWg5737y7wC@v5v5v&j@di=3DZ9vCY7280~Yk2-W=
+iZ8vkYiw81gV83Caf" title=3D"Learn More" style=3D"color:#F47B20;text-decor=
+ation:none;" target=3D"_blank">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<font face=3D"'Myriad Pro',Arial,serif" size=3D"1=
+" color=3D"#F47B20" style=3D"font-size:17px;">=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<b style=3D"font-weight:600;">L=
+earn More</b>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</font>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</a>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</nobr=
+>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" valign=3D=
+"middle" height=3D"18">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<img src=3D"http://i.walmartimages.com/i/email/13/07/10EBI/carro=
+t_orange.jpg" width=3D"11" height=3D"15" border=3D"0" style=3D"display:in=
+line-block;" alt=3D"" />=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- end awareness cta =
+2 -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=
+=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09</td>=0A=
+=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=
+=09=09=09=09=09<td class=3D"moduleBreak" width=3D"100%" height=3D"20">=0A=
+=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=
+=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09<!-- end awareness body 2 =
+-->=0A=09=09=09=09=09=09</td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09</tabl=
+e>=0A=09=09=09=09<!-- end awareness -->=0A                =0A=09=09=09=09=
+<!-- begin Keeping up with Walmart -->=0A=09=09=09=09<table class=3D"setD=
+isplayWidth" width=3D"700" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" align=3D"center" valign=3D"top">=0A=09=09=09=09=09<tr>=0A=09=09=09  =09=
+=09=09<td class=3D"makeBlock" align=3D"center" valign=3D"top">=0A=09=09=09=
+=09=09=09=09<table class=3D"setDisplayWidth" width=3D"350" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" align=3D"center" valign=3D"top">=0A=09=
+=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09  =09=09=09<td align=3D"cen=
+ter" valign=3D"top" bgcolor=3D"#EEF5FB">=0A=09=09=09=09=09=09=09=09=09=09=
+<a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Wea=
+aaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DH7l&s=3D&w=3Dcy=
+ou://Vi52.Xt.pp/7UD/hgnXp/RQHpeial3A2C-K/Vr0-z7X-3fViWBxB?Vidi=3Dw-v5v5v5=
+v5v5v5yC2C1Bx5&qjc=3Djhq&njiy@onhj=3Dw9y5x6xBxAv5v&hVrkfdli@nY=3DrWg5737y=
+7wC@v5v5v&j@di=3DZ9vCY7280~Yk2-WiZ8vkYiw81gV83Caf" title=3D"Stay connecte=
+d" target=3D"_blank">=0A=09=09=09=09=09=09=09=09=09=09=09=09<img class=3D=
+"stayConnected" src=3D"http://i.walmartimages.com/i/email/14/09/22OE/3048=
+5-61764_Email_SocialBanner_A.gif" width=3D"200" border=3D"0" align=3D"lef=
+t" style=3D"display:block;" alt=3D"Stay connected" />=0A=09=09=09=09=09=09=
+=09=09=09=09</a>=0A=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09 =
+ =09=09=09<td align=3D"center" valign=3D"top" bgcolor=3D"#EEF5FB">=0A=09=09=
+=09=09=09=09=09=09=09=09<a href=3D"http://tracking01.walmart.com/t/ccfbaC=
+WFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng=
+.hjr&g=3DH7m&s=3D&w=3Dcyou://Vi52.Xt.pp/7UD/hgnXp/RQHpeial3A2C-K/Vr0-z7X-=
+3fViWBxB?Vidi=3Dw-v5v5v5v5v5v5yC2C2505&qjc=3Djhq&njiy@onhj=3Dw9y5x6xBxAv5=
+v&hVrkfdli@nY=3DrWg5737y7wC@v5v5v&j@di=3DZ9vCY7280~Yk2-WiZ8vkYiw81gV83Caf=
+" title=3D"Download our App" target=3D"_blank">=0A=09=09=09=09=09=09=09=09=
+=09=09=09<img class=3D"walmartApp" src=3D"http://i.walmartimages.com/i/em=
+ail/14/09/22OE/30485-61764_Email_SocialBanner_B.gif" width=3D"150" border=
+=3D"0" align=3D"left" style=3D"display:block;" alt=3D"Download our App" /=
+>=0A=09=09=09=09=09=09=09=09=09=09</a>=0A=09=09=09=09=09=09=09=09=09</td>=
+=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09</table>=0A=09=09=
+=09=09=09=09</td>=0A=09=09=09  =09=09=09<td class=3D"makeBlock" align=3D"=
+center" valign=3D"top">=0A=09=09=09=09=09=09=09<table class=3D"setDisplay=
+Width" width=3D"350" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" ali=
+gn=3D"center" valign=3D"top">=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=
+=09=09  =09=09=09<td align=3D"center" valign=3D"top" bgcolor=3D"#EEF5FB">=
+=0A=09=09=09=09=09=09=09=09=09=09<a href=3D"http://tracking01.walmart.com=
+/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3V=
+tw7_brVng.hjr&g=3DH7n&s=3D&w=3Dcyou://r1r.kVhZgjtf.hjr/rfgrVwo?fYnY=3D605=
+v5v5v5v5v5v84A4~48v&0Zm=3DZrg&xZso@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgW=
+DxBx8x64@5v5v5&Z@nY=3Djz54ixAy-1iaA0gYjy5aiY6y~WfyB4kV" title=3D"Facebook=
+" target=3D"_blank">=0A=09=09=09=09=09=09=09=09=09=09=09=09<img class=3Ds=
+"" src=3D"http://i.walmartimages.com/i/email/14/09/22OE/30485-61764_Email=
+_SocialBanner_C.gif" width=3D"50" border=3D"0" align=3D"left" style=3D"di=
+splay:block;" alt=3D"Facebook" />=0A=09=09=09=09=09=09=09=09=09=09</a>=0A=
+=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09  =09=09=09<td class=
+=3D"socialSpacer" width=3D"20" bgcolor=3D"#EEF5FB"></td>=0A=09=09=09=09=09=
+=09  =09=09=09<td align=3D"center" valign=3D"top" bgcolor=3D"#EEF5FB">=0A=
+=09=09=09=09=09=09=09=09=09=09<a href=3D"http://tracking01.walmart.com/t/=
+ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7=
+_brVng.hjr&g=3DH7o&s=3D&w=3Dcyoun://yrnoyZw.Xth/bVqhfmy?Vidi=3Dw-v5v5v5v5=
+v5v5yC2C2515&qjc=3Djhq&njiy@onhj=3Dw9y5x6xBxAv5v&hVrkfdli@nY=3DrWg5737y7w=
+C@v5v5v&j@di=3DZ9vCY7280~Yk2-WiZ8vkYiw81gV83Caf" title=3D"Twitter" target=
+=3D"_blank">=0A=09=09=09=09=09=09=09=09=09=09=09=09<img class=3D"" src=3D=
+"http://i.walmartimages.com/i/email/14/09/22OE/30485-61764_Email_SocialBa=
+nner_D.gif" width=3D"50" border=3D"0" align=3D"left" style=3D"display:blo=
+ck;" alt=3D"Twitter" />=0A=09=09=09=09=09=09=09=09=09=09</a>=0A=09=09=09=09=
+=09=09=09=09=09</td>=0A=09=09=09=09=09=09  =09=09=09<td class=3D"socialSp=
+acer" width=3D"20" bgcolor=3D"#EEF5FB"></td>=0A=09=09=09=09=09=09  =09=09=
+=09<td align=3D"center" valign=3D"top" bgcolor=3D"#EEF5FB">=0A=09=09=09=09=
+=09=09=09=09=09=09<a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBA=
+BRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=
+=3DH7p&s=3D&w=3Dcyou://dsnyVlmfh.hjr/rfgrVwo?fYnY=3D605v5v5v5v5v5v84A4Ax-=
+v&0Zm=3DZrg&xZso@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@n=
+Y=3Djz54ixAy-1iaA0gYjy5aiY6y~WfyB4kV" title=3D"Instagram" target=3D"_blan=
+k">=0A=09=09=09=09=09=09=09=09=09=09=09=09<img class=3D"" src=3D"http://i=
+.walmartimages.com/i/email/14/09/22OE/30485-61764_Email_SocialBanner_E.gi=
+f" width=3D"50" border=3D"0" align=3D"left" style=3D"display:block;" alt=3D=
+"Instagram" />=0A=09=09=09=09=09=09=09=09=09=09</a>=0A=09=09=09=09=09=09=09=
+=09=09</td>=0A=09=09=09=09=09=09  =09=09=09<td class=3D"socialSpacer" wid=
+th=3D"20" bgcolor=3D"#EEF5FB"></td>=0A=09=09=09=09=09=09  =09=09=09<td al=
+ign=3D"center" valign=3D"top" bgcolor=3D"#EEF5FB">=0A=09=09=09=09=09=09=09=
+=09=09=09<a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbK=
+VUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DH7q&s=3D=
+&w=3Dcyou://r1r.udsojmjny.Xth/1Vqhfmy?Vidi=3Dw-v5v5v5v5v5v5yC2C1B35&qjc=3D=
+jhq&njiy@onhj=3Dw9y5x6xBxAv5v&hVrkfdli@nY=3DrWg5737y7wC@v5v5v&j@di=3DZ9vC=
+Y7280~Yk2-WiZ8vkYiw81gV83Caf" title=3D"Pinterest" target=3D"_blank">=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09<img class=3D"" src=3D"http://i.walmarti=
+mages.com/i/email/14/09/22OE/30485-61764_Email_SocialBanner_F.gif" width=3D=
+"50" border=3D"0" align=3D"left" style=3D"display:block;" alt=3D"Pinteres=
+t" />=0A=09=09=09=09=09=09=09=09=09=09</a>=0A=09=09=09=09=09=09=09=09=09<=
+/td>=0A=09=09=09=09=09=09  =09=09=09<td class=3D"socialSpacer" width=3D"2=
+0" bgcolor=3D"#EEF5FB"></td>=0A=09=09=09=09=09=09  =09=09=09<td align=3D"=
+center" valign=3D"top" bgcolor=3D"#EEF5FB">=0A=09=09=09=09=09=09=09=09=09=
+=09<a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1=
+Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DH7r&s=3D&w=3D=
+cyoun://1r1.ttpypgZ.hjr/rfgrVwo?fYnY=3D605v5v5v5v5v5v84A4AvAv&0Zm=3DZrg&x=
+Zso@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54ixAy-=
+1iaA0gYjy5aiY6y~WfyB4kV" title=3D"Youtube" target=3D"_blank">=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09<img class=3D"" src=3D"http://i.walmartimages.=
+com/i/email/14/09/22OE/30485-61764_Email_SocialBanner_G.gif" width=3D"50"=
+ border=3D"0" align=3D"left" style=3D"display:block;" alt=3D"Youtube" />=0A=
+=09=09=09=09=09=09=09=09=09=09</a>=0A=09=09=09=09=09=09=09=09=09</td>=0A=09=
+=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09</table>=0A=09=09=09=09=
+=09=09</td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09</table>=0A=09=09=09=09<=
+!-- end Keeping up with Walmart -->=0A=0A=09=09=09=09<!-- begin footer --=
+>=0A=09=09=09=09<table id=3D"footer" class=3D"setDisplayWidth" width=3D"7=
+00" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center">=0A=
+=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td class=3D"blueLine" height=3D"=
+2" bgcolor=3D"#1a75ce" style=3D"width: 700px; height: 2px; background-col=
+or: #1a75ce;">=0A=09=09=09=09=09=09</td>=0A=09=09=09=09=09</tr>=0A=09=09=09=
+=09=09<tr>=0A=09=09=09=09=09=09<td width=3D"100%" align=3D"center" valign=
+=3D"top">=0A=09=09=09=09=09=09=09<table width=3D"100%" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0">=0A=09=09=09=09=09=09=09=09<!-- begin foot=
+er nav -->=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<t=
+d width=3D"100%" align=3D"center" valign=3D"top">=0A=09=09=09=09=09=09=09=
+=09=09=09<table id=3D"bottomNav" class=3D"assetOff" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0">=0A=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09<td width=3D"5" height=3D"33" align=3D"c=
+enter" valign=3D"middle"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td =
+width=3D"125" height=3D"33" align=3D"center" valign=3D"middle"><a href=3D=
+"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DD=
+w,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DH7s&s=3D&w=3Dcyou://r1r.1=
+Vqhfmy.Xth/hnjm0dhZ/hV@xotmjaniiZw.bxk?fYnY=3D605v5v5v5v5v5v84A4Aw~v&0Zm=3D=
+Zrg&xZso@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54=
+ixAy-1iaA0gYjy5aiY6y~WfyB4kV" title=3D"Store Finder" target=3D"_blank"><i=
+mg src=3D"http://i.walmartimages.com/i/email/13/10/252/26760_38951_fn-01.=
+gif" width=3D"125" height=3D"33" border=3D"0" style=3D"display: block;" a=
+lt=3D"Store Finder" /></a></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td=
+ width=3D"14" height=3D"33" align=3D"center" valign=3D"middle"></td>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09<td width=3D"90" height=3D"33" align=3D"=
+center" valign=3D"middle"><a href=3D"http://tracking01.walmart.com/t/ccfb=
+aCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brV=
+ng.hjr&g=3DH7t&s=3D&w=3Dcyou://rjZpg3Vin.1Vqhfmy.Xth?fYnY=3D605v5v5v5v5v5=
+v84A4~4~v&0Zm=3DZrg&xZso@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgWDxBx8x64@5=
+v5v5&Z@nY=3Djz54ixAy-1iaA0gYjy5aiY6y~WfyB4kV" title=3D"Weekly Ad" target=3D=
+"_blank"><img src=3D"http://i.walmartimages.com/i/email/13/10/252/26760_3=
+8951_fn-02.gif" width=3D"90" height=3D"33" border=3D"0" style=3D"display:=
+ block;" alt=3D"Weekly Ad" /></a></td>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09<td width=3D"14" height=3D"33" align=3D"center" valign=3D"middle"></td=
+>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"167" height=3D"33" a=
+lign=3D"center" valign=3D"middle"><a href=3D"http://tracking01.walmart.co=
+m/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3=
+Vtw7_brVng.hjr&g=3DH7u&s=3D&w=3Dcyou://cjgu.rfgrVwo.hjr/Vuk/fixrjmx/Yjofd=
+q/V@nY/645?Vidi=3Dw-v5v5v5v5v5v5yC2C1C25&qjc=3Djhq&njiy@onhj=3Dw9y5x6xBxA=
+v5v&hVrkfdli@nY=3DrWg5737y7wC@v5v5v&j@di=3DZ9vCY7280~Yk2-WiZ8vkYiw81gV83C=
+af" title=3D"Returns & Exchanges" target=3D"_blank"><img src=3D"http://i.=
+walmartimages.com/i/email/13/10/252/26760_38951_fn-03.gif" width=3D"167" =
+height=3D"33" border=3D"0" style=3D"display: block;" alt=3D"Returns & Exc=
+hanges" /></a></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"14=
+" height=3D"33" align=3D"center" valign=3D"middle"></td>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09<td width=3D"150" height=3D"33" align=3D"center" val=
+ign=3D"middle"><a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBABRH=
+nLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3D=
+H7v&s=3D&w=3Dcyou://XtmujwVyZ.1Vqhfmy.Xth/umnqfX35xZhpwdyt/1Vqhfmy5umnqfX=
+35ujqdht?fYnY=3D605v5v5v5v5v5v84A4Ax~v&0Zm=3DZrg&xZso@ydrZ=3D6z8v7w73725v=
+5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54ixAy-1iaA0gYjy5aiY6y~WfyB4kV=
+" title=3D"Privacy & Security" target=3D"_blank"><img src=3D"http://i.wal=
+martimages.com/i/email/13/10/252/26760_38951_fn-04.gif" width=3D"150" hei=
+ght=3D"33" border=3D"0" style=3D"display: block;" alt=3D"Privacy & Securi=
+ty" /></a></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"14" he=
+ight=3D"33" align=3D"center" valign=3D"middle"></td>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09<td width=3D"77" height=3D"33" align=3D"center" valign=3D=
+"middle"><a href=3D"http://tracking01.walmart.com/t/ccfbaCWFBtBABRHnLXAbK=
+VUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DH7w&s=3D=
+&w=3Dcyou://cjgu.rfgrVwo.hjr/Vuk/mjrZ?fYnY=3D605v5v5v5v5v5v84A4~2Bv&0Zm=3D=
+Zrg&xZso@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54=
+ixAy-1iaA0gYjy5aiY6y~WfyB4kV" title=3D"Help" target=3D"_blank"><img src=3D=
+"http://i.walmartimages.com/i/email/13/10/252/26760_38951_fn-05.gif" widt=
+h=3D"77" height=3D"33" border=3D"0" style=3D"display: block;" alt=3D"Help=
+" /></a></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"6" heigh=
+t=3D"33" align=3D"center" valign=3D"middle"></td>=0A=09=09=09=09=09=09=09=
+=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=
+=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=
+=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td width=3D"100%" height=3D"2" a=
+lign=3D"center" valign=3D"top">=0A=09=09=09=09=09=09=09=09=09=09<table cl=
+ass=3D"assetOff" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0">=0A=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09<td height=3D"2" align=3D"right" valign=3D"middle">=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<img src=3D"http://i.walmartimages.com/i/em=
+ail/13/10/252/26760_38951_dots_303x2.jpg" width=3D"303" border=3D"0" styl=
+e=3D"display:block;" alt=3D"" />=0A=09=09=09=09=09=09=09=09=09=09=09=09</=
+td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"assetOff" height=3D=
+"2" align=3D"left" valign=3D"middle">=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<img src=3D"http://i.walmartimages.com/i/email/13/10/252/26760_3895=
+1_dots_373x2.jpg" width=3D"397" border=3D"0" style=3D"display:block;" alt=
+=3D"" />=0A=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=
+=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=
+=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=
+=09=09=09<!-- end footer nav -->=0A=09=09=09=09=09=09=09=09<!-- begin 7px=
+ tall horizontal divider -->=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=
+=09=09=09=09=09<td width=3D"100%" height=3D"7"></td>=0A=09=09=09=09=09=09=
+=09=09</tr>=0A=09=09=09=09=09=09=09=09<!-- end 7px tall horizontal divide=
+r -->=0A=09=09=09=09=09=09=09=09<!-- begin footer links -->=0A=09=09=09=09=
+=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td width=3D"100%" align=3D=
+"left" valign=3D"top" style=3D"padding-top: 10px; line-height: 12px;">=0A=
+=09=09=09=09=09=09=09=09=09=09<font size=3D"1" face=3D"Verdana,sans-serif=
+" color=3D"#999999" style=3D"font-size:9px;">=0APlease note that product =
+prices and availability are limited time and are subject to change.=0A=09=
+=09=09=09=09=09=09=09=09=09=09<br />=0A=09=09=09=09=09=09=09=09=09=09=09<=
+br />=0ADo not reply to this email. The inbox is not monitored. If you re=
+quire assistance, please <a href=3D"http://tracking01.walmart.com/t/ccfba=
+CWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVn=
+g.hjr&g=3DH7x&s=3D&w=3Dcyou://cjgu.rfgrVwo.hjr/Vuk/mjrZ?fYnY=3D605v5v5v5v=
+5v5v84A4AvBv&0Zm=3DZrg&xZso@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgWDxBx8x6=
+4@5v5v5&Z@nY=3Djz54ixAy-1iaA0gYjy5aiY6y~WfyB4kV" title=3D"click here for =
+help" target=3D"_blank" style=3D"color: #999999">click here for help</a>.=
+=0A=09=09=09=09=09=09=09=09=09=09=09<br />=0A=09=09=09=09=09=09=09=09=09=09=
+=09<br />=0A=09=09=09=09=09=09=09=09=09=09=09<b>Unsubscribe</b>=0A=09=09=09=
+=09=09=09=09=09=09=09=09<br />=0AThis email is a Walmart advertisement. I=
+f you do not want to receive these email updates, <a href=3D"" title=3D"E=
+mail Opt Out" target=3D"_blank" style=3D"color: #999999"><a href=3D"http:=
+//tracking01.walmart.com/t/cdfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,D=
+w,6v7yAv~y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3D&2=3D&m=3Dmoyk://1r1.rfgrVwo.hj=
+r/kuX/jhfdq@juotpy.Yt?o3kj@di=3Dw&jhfdq=3DWqVhf3Vtw7_brVng.hjr" class=3D"=
+" linkname=3D"Unsubscribe">click here to unsubscribe</a></a>.=0A=09=09=09=
+=09=09=09=09=09=09=09=09<br />=0A=09=09=09=09=09=09=09=09=09=09=09<br />=0A=
+=09=09=09=09=09=09=09=09=09=09=09<b>Security &amp; Privacy</b>=0A=09=09=09=
+=09=09=09=09=09=09=09=09<br />=0AWalmart protects your security and priva=
+cy. We will never ask for personal information (such as passwords or cred=
+it card numbers) in an email newsletter. If you receive such a request, p=
+lease do not respond to the email. <a href=3D"http://tracking01.walmart.c=
+om/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~y-w&j=3DWqVhf=
+3Vtw7_brVng.hjr&g=3DH7z&s=3D&w=3Dcyou://XtmujwVyZ.1Vqhfmy.Xth/umnqfX35xZh=
+pwdyt/ydun/?fYnY=3D605v5v5v5v5v5v84A4Ax7v&0Zm=3DZrg&xZso@ydrZ=3D6z8v7w737=
+25v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3Djz54ixAy-1iaA0gYjy5aiY6y~WfyB=
+4kV" title=3D"Learn more" target=3D"_blank" style=3D"color: #999999; text=
+-decoration: underline">Learn more</a>. See our <a href=3D"http://trackin=
+g01.walmart.com/t/ccfbaCWFBtBABRHnLXAbKVUjaR1Weaaaaa?p=3DDw,Dw,Dw,6v7yAv~=
+y-w&j=3DWqVhf3Vtw7_brVng.hjr&g=3DH70&s=3D&w=3Dcyou://XtmujwVyZ.1Vqhfmy.Xt=
+h/umnqfX35xZhpwdyt/1Vqhfmy5umnqfX35ujqdht?fYnY=3D605v5v5v5v5v5v84A4~35v&0=
+Zm=3DZrg&xZso@ydrZ=3D6z8v7w73725v5&XfhuVnbs@di=3DhgWDxBx8x64@5v5v5&Z@nY=3D=
+jz54ixAy-1iaA0gYjy5aiY6y~WfyB4kV" tile=3D"Privacy Policy" target=3D"_blan=
+k" style=3D"color: #999999; text-decoration: underline">Privacy Policy</a=
+>.=0A=09=09=09=09=09=09=09=09=09=09=09<br />=0A=09=09=09=09=09=09=09=09=09=
+=09=09<br />=0AEmail Marketing, Walmart.com, 850 Cherry Avenue, San Bruno=
+ CA 94066=0A=09=09=09=09=09=09=09=09=09=09=09<br />=0A=09=09=09=09=09=09=09=
+=09=09=09=09<br />=0A&copy;&nbsp;2015 Wal-Mart Stores, Inc. All rights re=
+served.=0A=09=09=09=09=09=09=09=09=09=09=09<br />=0A=09=09=09=09=09=09=09=
+=09=09=09=09<br />=0A=09=09=09=09=09=09=09=09=09=09=09<br />=0A=09=09=09=09=
+=09=09=09=09=09=09=09<br />=0A=09=09=09=09=09=09=09=09=09=09</font>=0A=09=
+=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=
+=09=09=09=09=09<!-- end footer links -->=0A=09=09=09=09=09=09=09</table>=0A=
+=09=09=09=09=09=09</td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09</table>=0A=09=
+=09=09=09<!-- end footer -->=0A=09=09=09</td>=0A=09=09</tr>=0A=09</table>=
+=0A=09<!-- end wrapper -->=0A=09<img alt=3D"" border=3D"0" width=3D"1" he=
+ight=3D"1" src=3D"https://beacon.walmart.com/email/mktg.gif?c_id=3Dmbb-28=
+23219_00000&e_id=3De409d27356df75bde30fdd136ba389fa&send_epoch=3D14302128=
+27000&cat_id=3DOFFICE_CONSUMABLES,HOUSEHOLD_PAPER_GOODS,MICROWAVES_AND_HE=
+ATED_COOKING,SNACKS,,,,&item_id=3D33093101,42935498,27678567,21097470,,,,=
+"/>=0A</body>=0A</html>

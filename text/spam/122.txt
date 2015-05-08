@@ -1,0 +1,1401 @@
+<=21DOCTYPE html>
+<html xmlns=3D=22http://www=2Ew3=2Eorg/1999/xhtml=22>
+<head>
+<meta content=3D=22width=3Ddevice-width=22 name=3D=22viewport=22 />
+<title>SHOP YOUR WAY&reg;</title>
+<style type=3D=22text/css=22>
+=40media only screen and (max-device-width: 768px) =7B
+td=5Bclass=3D=22mobi-legal-text=22=5D a =7Bcolor:=23acacac =21important;=7D
+span=5Bclass=3D=22appleFooterLinks=22=5D a =7Bcolor:=23acacac =21important;=
+=7D
+=7D
+=20
+=40media only screen and (max-device-width: 400px) =7B
+table=5Bclass=3D=22mobi-hide=22=5D, td=5Bclass=3D=22mobi-hide=22=5D, table=
+=5Bclass=3D=22mobi-spacer-hide=22=5D =7Bdisplay:none =21important;=7D
+td=5Bclass=3D=22frame-wrap-padd=22=5D =7Bpadding:5px =21important;=7D
+table=5Bclass=3D=22content-wrapper=22=5D =7Bwidth:310px =21important;=7D
+td=5Bclass=3D=22content-bg=22=5D=7Bpadding:5px 0 0 0 =21important;=7D
+table=5Bclass=3D=22content-bin-wrap=22=5D,
+table=5Bclass=3D=22table-resize=22=5D =7Bwidth:298px =21important;=7D
+table=5Bclass=3D=22table-resize=22=5D td =7Bfont-size:15px =21important;=7D
+table=5Bclass=3D=22mobi-spacer=22=5D,table=5Bclass=3D=22mobi-spacer=22=5D i=
+mg =7Bheight:5px =21important; width:200px;=7D
+
+/* header */
+table=5Bclass=3D=22top-header=22=5D =7Bwidth:298px =21important;=7D
+table=5Bclass=3D=22top-header=22=5D td =7Bpadding-bottom:2px =21important;=
+=7D
+table=5Bclass=3D=22member-name=22=5D =7Bwidth:298px =21important;=7D
+table=5Bclass=3D=22points-info=22=5D =7Bwidth:298px =21important;=7D
+
+table=5Bid=3D=22mobi-header=22=5D =7Bwidth:298px =21important;=7D
+table=5Bid=3D=22mobi-header=22=5D td =7Bwidth:298px =21important; padding:0=
+px 0px 10px 0px =21important;=7D
+td=5Bclass=3D=22newheader-left=22=5D =7Bdisplay:block =21important;=7D
+td=5Bclass=3D=22newheader-left=22=5D img =7B-ms-interpolation-mode:bicubic;=
+ width:298px =21important; height:auto;=7D
+td=5Bclass=3D=22newheader-right=22=5D =7Bdisplay:block =21important; paddin=
+g:15px 0px 15px 0px =21important; margin-top:15px =21important; height:40px=
+ =21important; text-align:center =21important;=7D
+table=5Bid=3D=22header-bottom=22=5D, table=5Bid=3D=22header-bottom=22=5D td=
+ =7Bdisplay:none =21important;=7D
+
+table=5Bid=3D=22mobi2-header=22=5D =7Bwidth:298px =21important;=7D
+table=5Bid=3D=22mobi2-header=22=5D td=5Bclass=3D=22outer-left=22=5D =7Bpadd=
+ing:5px 0px 10px 0px =21important;=7D
+table=5Bid=3D=22mobi2-header=22=5D td=5Bclass=3D=22outer-right=22=5D =7Bpad=
+ding:5px 0px 0px 0px =21important;=7D
+table=5Bid=3D=22mobi2-header=22=5D td=5Bclass=3D=22hide=22=5D =7Bdisplay:no=
+ne =21important;=7D
+table=5Bid=3D=22mobi2-header=22=5D img=5Bclass=3D=22syw-logo=22=5D =7B-ms-i=
+nterpolation-mode:bicubic; width:200px =21important; height:32px =21importa=
+nt;=7D
+table=5Bid=3D=22mobi2-header=22=5D img=5Bclass=3D=22brand-logo=22=5D =7B-ms=
+-interpolation-mode:bicubic; width:84px =21important; height:32px =21import=
+ant;=7D
+table=5Bid=3D=22mobi2-header=22=5D img=5Bclass=3D=22ribbon=22=5D =7B-ms-int=
+erpolation-mode:bicubic; width:14px =21important; height:32px =21important;=
+=7D
+table=5Bclass=3D=22mobi2-hide=22=5D, td=5Bclass=3D=22mobi2-hide=22=5D, tabl=
+e=5Bclass=3D=22mobi2-spacer-hide=22=5D =7Bdisplay:none =21important;=7D
+table=5Bclass=3D=22testHide=22=5D, td=5Bclass=3D=22testHide=22=5D =7Bdispla=
+y:none =21important;=7D
+/* header ends */
+
+/* footer */
+table=5Bclass=3D=22footer-resize=22=5D,
+table=5Bclass=3D=22footer-links=22=5D =7Bwidth:298px =21important;=7D
+table=5Bclass=3D=22footer-resize=22=5D td =7Bfont-size:14px =21important;=7D
+table=5Bclass=3D=22footer-links=22=5D td =7Bline-height:20px =21important; =
+width:150px =21important;=7D
+td=5Bclass=3D=22mobi-legal-text=22=5D =7Bfont-size:13px =21important; line-=
+height:17px =21important;=7D
+td=5Bclass=3D=22mobi-legal-text=22=5D a =7Bcolor:=23acacac =21important;=7D
+span=5Bclass=3D=22appleFooterLinks=22=5D a =7Bcolor:=23acacac =21important;=
+=7D
+/* footer */
+
+/* sywr banner */
+table=5Bclass=3D=22sywr-banner-wrapper=22=5D =7Bwidth:298px =21important;=7D
+table=5Bclass=3D=22sywr-banner-wrapper=22=5D td=5Bclass=3D=22sywr-banner-le=
+ft-mobile=22=5D =7Bwidth:85px =21important;=7D
+table=5Bclass=3D=22sywr-banner-wrapper=22=5D td=5Bclass=3D=22sywr-banner-le=
+ft-mobile=22=5D img =7Bwidth:85px =21important; height:auto =21important;=7D
+table=5Bclass=3D=22sywr-banner-wrapper=22=5D td=5Bclass=3D=22sywr-banner-le=
+ft-desktop=22=5D =7Bdisplay:none =21important;=7D
+table=5Bclass=3D=22sywr-banner-wrapper=22=5D td=5Bclass=3D=22sywr-banner-ri=
+ght-mobile=22=5D =7Bwidth:213px =21important; color:=23ffffff =21important;=
+ font-size:12px =21important;=7D
+table=5Bclass=3D=22sywr-banner-wrapper=22=5D td=5Bclass=3D=22sywr-banner-ri=
+ght-mobile=22=5D a =7Bcolor:=23ffffff =21important;=7D
+table=5Bclass=3D=22sywr-banner-wrapper=22=5D td=5Bclass=3D=22sywr-banner-ri=
+ght-mobile=22=5D img =7Bwidth:213px =21important;  height:49px =21important=
+;=7D
+table=5Bclass=3D=22sywr-banner-wrapper=22=5D td=5Bclass=3D=22sywr-banner-ri=
+ght-desktop=22=5D =7Bdisplay:none =21important;=7D
+
+/**** CONTENT STYLES ****/
+/** MUST BE INCLUDED **/
+
+/* hero=20
+table=5Bid=3D=22mobi-hero-LiqOffers=22=5D =7Bwidth:278px =21important; font=
+-size:15px =21important;=7D
+table=5Bid=3D=22mobi-hero-LiqOffers=22=5D td=2Estack =7Bwidth:278px =21impo=
+rtant; display:block =21important;=7D
+table=5Bid=3D=22mobi-hero-LiqOffers=22=5D td=2Emobi-hide =7Bdisplay:none =
+=21important;=7D
+table=5Bid=3D=22mobi-hero-LiqOffers=22=5D td=2Eheadline =7Bfont-size:20px =
+=21important; padding:0px 5px 10px 5px =21important;=7D
+table=5Bid=3D=22mobi-hero-LiqOffers=22=5D td=2Ecopy =7Bfont-size:15px =21im=
+portant; padding-bottom:10px =21important;=7D
+table=5Bid=3D=22mobi-hero-LiqOffers=22=5D td=2Ebottomspacing =7Bpadding-bot=
+tom:10px =21important;=7D
+table=5Bid=3D=22mobi-hero-LiqOffers=22=5D img =7B-ms-interpolation-mode:bic=
+ubic; max-width:278px =21important; height:auto;=7D
+table=5Bid=3D=22mobi-hero-LiqOffers=22=5D img=2ECTA =7B-ms-interpolation-mo=
+de:bicubic; max-width:100px =21important; height:auto;=7D
+ hero ends */
+
+span=5Bclass=3D=22appleLinksGrey=22=5D a =7Bcolor:=23666666 =21important; t=
+ext-decoration:none =21important;=7D
+
+/* Image Swap Start */
+table=5Bclass=3D=22desk-hide=22=5D =7Bwidth:100% =21important; height:auto =
+=21important; overflow:visible =21important; float:none =21important; text-=
+indent:0px =21important; display:block =21important; background:=23ffffff;=
+=7D
+table=5Bclass=3D=22desk-hide=22=5D img =7B-ms-interpolation-mode:bicubic; h=
+eight:auto =21important; max-width:298px =21important; width:100% =21import=
+ant; display:block =21important; float:none =21important; text-indent:0px =
+=21important;=7D
+table=5Bclass=3D=22mobi-hide=22=5D, table=5Bclass=3D=22mobi-hide=22=5D img =
+=7Bdisplay:none =21important;=7D
+/* Image Swap End */
+
+/* hero */
+table=5Bid=3D=22mobi-hero-Liquidity=22=5D =7Bwidth:298px =21important;=7D
+table=5Bid=3D=22mobi-hero-Liquidity=22=5D td=5Bclass=3D=22block=22=5D =7Bdi=
+splay:block =21important;=7D
+table=5Bid=3D=22mobi-hero-Liquidity=22=5D td=5Bclass=3D=22block_heroImg=22=
+=5D =7B margin-left: auto; margin-right: auto; display:block =21important;=
+=7D
+table=5Bid=3D=22mobi-hero-Liquidity=22=5D td=5Bclass=3D=22TEC1=22=5D =7Bpad=
+ding-top:10px =21important; display:block =21important; width:298px =21impo=
+rtant;=7D
+table=5Bid=3D=22mobi-hero-Liquidity=22=5D td=5Bclass=3D=22hide=22=5D, br=5B=
+class=3D=22hide=22=5D =7Bdisplay:none =21important;=7D
+table=5Bid=3D=22mobi-hero-Liquidity=22=5D td=5Bclass=3D=22Nopad=22=5D =7Bpa=
+dding-left:0px =21important; padding-right:0px =21important;=7D
+table=5Bid=3D=22mobi-hero-Liquidity=22=5D td=5Bclass=3D=22TBpadding15=22=5D=
+ =7Bpadding-top:15px =21important; padding-bottom:15px =21important;=7D
+table=5Bid=3D=22mobi-hero-Liquidity=22=5D td=5Bclass=3D=22Bpadding15=22=5D =
+=7Bpadding-bottom:15px =21important;=7D
+table=5Bid=3D=22mobi-hero-Liquidity=22=5D td=5Bclass=3D=22TBpadding15_TEC=
+=22=5D img =7Bdisplay: block; margin-left: auto; margin-right: auto; paddin=
+g-bottom:15px =21important;=7D
+
+table=5Bid=3D=22mobi-hero-Liquidity=22=5D td=5Bclass=3D=22Lpadding20=22=5D =
+=7Bpadding-left:20px =21important;=7D
+table=5Bid=3D=22mobi-hero-Liquidity=22=5D td=5Bclass=3D=22font32=22=5D =7Bf=
+ont-size:32px =21important; line-height:auto =21important;=7D
+table=5Bid=3D=22mobi-hero-Liquidity=22=5D td=5Bclass=3D=22font32_headline=
+=22=5D =7Bpadding-left:10px =21important; padding-right:10px =21important; =
+font-size:32px =21important; line-height:auto =21important;=7D
+table=5Bid=3D=22mobi-hero-Liquidity=22=5D td=5Bclass=3D=22font16=22=5D =7Bf=
+ont-size:16px =21important;=7D
+table=5Bid=3D=22mobi-hero-Liquidity=22=5D img =7B-ms-interpolation-mode:bic=
+ubic; max-width:298px =21important; height:auto;=7D
+table=5Bid=3D=22mobi-hero-Liquidity=22=5D img=5Bclass=3D=22280=22=5D =7B-ms=
+-interpolation-mode:bicubic; width:280px =21important; height:auto;=7D
+
+table=5Bclass=3D=22spacer=22=5D =7Bwidth:298px =21important;=7D
+table=5Bclass=3D=22spacer15=22=5D, table=5Bclass=3D=22spacer15=22=5D td, ta=
+ble=5Bclass=3D=22spacer15=22=5D img =7Bwidth:298px =21important; height:15p=
+x =21important;=7D
+/* hero ends */
+
+
+/**** CONTENT STYLES ****/
+=7D</style>
+</head>
+
+<=21--=5Bif gte mso 9=5D>
+<style>
+=2Edesk-hide =7Bdisplay:none;=7D
+</style>
+<=21=5Bendif=5D-->
+
+<body style=3D=22padding:0; margin:0; text-align:center;=22>
+<style type=3D=22text/css=22>=2EReadMsgBody=7Bwidth:100%;=7D =2EExternalCla=
+ss=7Bwidth:100%;=7D =2EExternalClass *=7Bline-height:123%=7D =2Eoutlook=7Bl=
+ine-height:125%=7D body=7B-webkit-font-smoothing:antialiased;=7D</style>
+<=21-- body wrapper -->
+
+
+
+
+
+
+
+
+
+
+
+<=21-- Set redemption -->
+=20
+ =20
+=20
+=20
+ =20
+=20
+ =20
+ =20
+ =20
+ =20
+<=21-- Set redemption ends -->
+
+
+
+
+
+
+
+<=21-- body wrapper -->
+<table class=3D=22frame-wrap=22 width=3D=22100%=22 border=3D=220=22 cellspa=
+cing=3D=220=22 cellpadding=3D=220=22>
+  <tr>
+    <td class=3D=22frame-wrap-padd=22 align=3D=22center=22 valign=3D=22top=
+=22 style=3D=22padding:15px 0; background-color:=23ffffff;=22>
+         <=21-- snippet area table -->
+      <table class=3D=22top-header=22 width=3D=22700=22 border=3D=220=22 al=
+ign=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22 id=3D=22remo=
+veIt=22>
+        <tr>
+          <td class=3D=22mobi-hide=22 width=3D=22700=22 align=3D=22left=22 =
+valign=3D=22bottom=22 style=3D=22padding-bottom:2px;=22>
+            <=21-- snippet -->
+            <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=22=
+0=22 width=3D=22100%=22>
+              <tr>
+                <td align=3D=22left=22 valign=3D=22bottom=22 style=3D=22ver=
+tical-align:bottom; font-size:11px; line-height:17px; padding-bottom:7px; c=
+olor:=23acacac; font-family:Arial, Helvetica, sans-serif; -webkit-text-size=
+-adjust:none;=22><a style=3D=22color:=23acacac; text-decoration:none;=22 hr=
+ef=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreN=
+O7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRAYAT&_ei_=3DEolaGGF4SNMv=
+xFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVO=
+WlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLhuwWZdMD_1rm1xIDe9dwysRuT-1gda59Q=
+OKMnxQpREAx65Gd-C2kwiUV1YelxRj59sqbm3-3I6GA3K_kvMvC2j82Nef52VauLepQYWT_UH6Z=
+F3qq5G50Vm5dHFw7Qhx1pN3kI4hfEFLKJS8THRhYe2PeXwO__2n4v3fosLVW1a_sgMPl0yx4OHb=
+AmQaM-rQ4evcFRZ_RCpitj2CxRgEKMg35GUAPi0=2E=22 rilt=3D=22snippet=22><strong>=
+These points expire soon&mdash;redeem them today=21</strong></a><br />
+                  <a style=3D=22color:=23acacac;=22 href=3D=22https://sywr=
+=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9EBqqfRXHi=
+I5OUBF4zbelnXpLzdzaVXtpKX%3DTYRAYCT&_ei_=3DEhA-tZtvDyTO9kHHYWbHV6Q5U5CoMyoI=
+o8kwaGSmpEZCOAPyBjuIhTuUDqJCm6LxdYVe5h6jf8XqvZUp9LMCedIvljMIcQC5f-hQluMEllN=
+b8mEHg_PFAIinSOMItSGmMwE-AIdaRTVozZCVPgsKkNTwlZaOMFfpw94cGJrRM7NI4Pg5JfsNEZ=
+CLlBvJ5TfqSjYKjQkE8jOLwu6BFp5ZPVJWi9Kfq_M9iuqYVxu6EB2LJGJZNvwmrbNHknxs2SK7y=
+qTiFFZmi5T_yWtP5Xkv6lq1Vev6aAfqq4e_I2fJSW0_gPz4BVgvTyUK4Db7VVRv1109Iswr3-iJ=
+iEx6pWL558ajja2DXjv-Rg5AD9awop_BF-BaSsX5t-95glBBhzwFS7yOHxPdi2oHpBrMGhvv4C3=
+_wa8sJeHBVMlX62T3R9n-2TtcLZbIX4Lo5lb54E1AEnmNnQjGNGO1dnOxKNCWYUUdpVeA87rqTX=
+gxZ4idHC_sTZmS74xFqKk4kO4i68Jglj8mYAcm42eKHdFmt_JCQaG3vhGDnfnoo3pV6xCjS7OQq=
+8huW4TUtIlOhzA_oGacA-JxUT5M3tq4ZYkqcMQMD_UPHAuR_FKrHHeCxHrZlzTc5JpRoUuup0db=
+lUyeYnhxIWUkmM7V4OPM4nM4Iuyx0SZy5-vhGjBAWgoHytSeTJ6E9OGBjcY3Lu-Mw6gD7Xw0T7r=
+2bVZJ5Yoh0ytQ1pH-mprob5w=2E=22 rilt=3D=22WebVersion=22>View the web version=
+ of this email=2E</a></td>
+                  <td class=3D=22mobi-hide=22 width=3D=22285=22 align=3D=22=
+right=22 valign=3D=22bottom=22 style=3D=22padding-bottom:5px;=22><a href=3D=
+=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7iAG=
+zeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRAART&_ei_=3DEolaGGF4SNMvxFF7K=
+ucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAi=
+GqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLhuwWZdMD_1rm1xIDe9dwysRuT-1gda59QOKMnx=
+QpREAx65Gd-C2kwiUV1YelxRj59sqbm3-3I6GA3K_kvMvC2j82Nef52VauLepQYWT_UH6ZF3qq5=
+G50Vm5dHFw7Qhx1pN3kI4hfEFLKJS8THRhYe2PeXwO__2n4v3fosLVW1a_sgMPl0yx4OHbAmQaM=
+-rQ4evcFRZ_RCpitj2CxRgEKMg35GUAPi0=2E=22 rilt=3D=22header_animation=22><img=
+ src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/cont=
+entlibrary/oldcontent/=21Storewide_Templates/SYW_Template_700px_Cobranded=
+=2Eimages/2014_SYW_700PX_TEMPLATES_ANIMATION_NEW_04=2Egif=22 alt=3D=22One d=
+ownload=2E Countless ways to save=2E =7C Shop'in&reg; for exclusive coupons=
+ and more=21 =7C GET THE APP=22 width=3D=22285=22 height=3D=2257=22 border=
+=3D=220=22 /></a></td>
+              </tr>
+            </table>
+            <=21-- snippet ends --></td>
+
+        </tr>
+      </table>
+      <=21-- snippet area table ends -->
+      <=21-- main content wrapper -->
+      <table width=3D=22700=22 border=3D=220=22 align=3D=22center=22 cellpa=
+dding=3D=220=22 cellspacing=3D=220=22 class=3D=22content-wrapper=22>
+        <tr>
+          <td width=3D=22698=22 align=3D=22center=22 valign=3D=22top=22 cla=
+ss=3D=22content-bg=22 style=3D=22border:1px solid =23c2c2c2; background:=23=
+ffffff; padding:0 0;=22>
+            <=21-- header/content bin wrapper -->
+            <table class=3D=22content-bin-wrap=22 width=3D=22678=22 border=
+=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 style=3D=22padding:1=
+0px 0px 0px 0px;=22>
+              <tr>
+                <td align=3D=22center=22 valign=3D=22top=22 style=3D=22back=
+ground:=23ffffff;=22>
+
+
+<=21-- body wrapper -->
+                  <=21-- header -->
+                  <table id=3D=22mobi-header=22 width=3D=22100%=22 border=
+=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                    <tr>
+                      <td class=3D=22newheader-left=22 align=3D=22left=22 v=
+align=3D=22middle=22 style=3D=22padding:0px 0px 4px 0px;border-bottom:1px s=
+olid =23c2c2c2;=22><a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0=
+Gzc2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYR=
+AYWT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7br=
+o-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLhuwWZdMD_=
+1rm1xIDe9dwysRuT-1gda59QOKMnxQpREAx65Gd-C2kwiUV1YelxRj59sqbm3-3I6GA3K_kvMvC=
+2j82Nef52VauLepQYWT_UH6ZF3qq5G50Vm5dHFw7Qhx1pN3kI4hfEFLKJS8THRhYe2PeXwO__2n=
+4v3fosLVW1a_sgMPl0yx4OHbAmQaM-rQ4evcFRZ_RCpitj2CxRgEKMg35GUAPi0=2E=22 rilt=
+=3D=22sywr=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/respons=
+ysimages/sywr/contentlibrary/oldcontent/=21storewide_templates/SYW_Content_=
+700px_Cobranded_Header_SYW=2Eimages/2014_SYW_700PX_SYW_01=2Ejpg=22 width=3D=
+=22303=22 height=3D=2250=22 alt=3D=22SHOP YOUR WAY &reg;=22 border=3D=220=
+=22 /></a></td>
+                      <td class=3D=22newheader-right=22 align=3D=22right=22=
+ valign=3D=22middle=22 style=3D=22vertical-align:middle;font-size:13px; col=
+or:=23777777; font-family:Arial&=2344;Helvetica&=2344;sans-serif; -webkit-t=
+ext-size-adjust:none;padding:0px 0px 4px 0px;border-bottom:1px solid =23c2c=
+2c2;=22><strong style=3D=22color:=23f58026;=22><a href=3D=22https://sywr=2E=
+rsys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9EBqqfRXHiI5O=
+UBF4zbelnXpLzdzaVXtpKX%3DTYRAATT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_a=
+Uq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrT=
+W57tkuiv1tV0-qo5ihLhuwWZdMD_1rm1xIDe9dwysRuT-1gda59QOKMnxQpREAx65Gd-C2kwiUV=
+1YelxRj59sqbm3-3I6GA3K_kvMvC2j82Nef52VauLepQYWT_UH6ZF3qq5G50Vm5dHFw7Qhx1pN3=
+kI4hfEFLKJS8THRhYe2PeXwO__2n4v3fosLVW1a_sgMPl0yx4OHbAmQaM-rQ4evcFRZ_RCpitj2=
+CxRgEKMg35GUAPi0=2E=22 style=3D=22color:=23f58026;text-decoration:none;=22>=
+Don't waste your FREE 2-Day SHIPPING</a></strong><br /><a href=3D=22https:/=
+/sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9EBqq=
+fRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRAATT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_=
+sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAW=
+E453AMrTW57tkuiv1tV0-qo5ihLhuwWZdMD_1rm1xIDe9dwysRuT-1gda59QOKMnxQpREAx65Gd=
+-C2kwiUV1YelxRj59sqbm3-3I6GA3K_kvMvC2j82Nef52VauLepQYWT_UH6ZF3qq5G50Vm5dHFw=
+7Qhx1pN3kI4hfEFLKJS8THRhYe2PeXwO__2n4v3fosLVW1a_sgMPl0yx4OHbAmQaM-rQ4evcFRZ=
+_RCpitj2CxRgEKMg35GUAPi0=2E=22 style=3D=22color:=23777777;text-decoration:n=
+one;=22>Use your Shop Your Way MAX<sup>&reg;</sup> membership=21</a></td>
+                    </tr>
+                  </table>
+                  <=21-- navigation -->
+                  <table id=3D=22header-bottom=22 border=3D=220=22 cellspac=
+ing=3D=220=22 cellpadding=3D=220=22 width=3D=22678=22>
+                    <tr>
+                      <td align=3D=22center=22 style=3D=22padding:8px 0px 8=
+px 0px;=22>
+                        <table class=3D=22mobi-hide=22 width=3D=22100%=22 b=
+order=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                          <tr>
+                            <td align=3D=22left=22 valign=3D=22middle=22 st=
+yle=3D=22font-size:10px; padding:0px 2px 0px 3px; font-family:Arial, Helvet=
+ica, sans-serif; -webkit-text-size-adjust:none;=22><a style=3D=22color:=239=
+19295; text-decoration:none;=22 href=3D=22https://sywr=2Ersys2=2Enet/pub/cc=
+?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVX=
+tpKX%3DTYRAACT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z5=
+2r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ih=
+LhuwWZdMD_1rm1xIDe9dwysRuT-1gda59QOKMnxQpREAx65Gd-C2kwiUV1YelxRj59sqbm3-3I6=
+GA3K_kvMvC2j82Nef52VauLepQYWT_UH6ZF3qq5G50Vm5dHFw7Qhx1pN3kI4hfEFLKJS8THRhYe=
+2PeXwO__2n4v3fosLVW1a_sgMPl0yx4OHbAmQaM-rQ4evcFRZ_RCpitj2CxRgEKMg35GUAPi0=
+=2E=22 rilt=3D=22earn_redeem=22>EARN & REDEEM POINTS</a></td>
+                            <td align=3D=22left=22 valign=3D=22middle=22>&n=
+bsp;</td>
+                            <td align=3D=22center=22 valign=3D=22middle=22 =
+style=3D=22font-size:10px; padding:0px 11px; font-family:Arial, Helvetica, =
+sans-serif; -webkit-text-size-adjust:none;=22><a style=3D=22color:=23919295=
+; text-decoration:none;=22 href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%=
+3DTYRABRT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64F=
+GQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLhuwW=
+ZdMD_1rm1xIDe9dwysRuT-1gda59QOKMnxQpREAx65Gd-C2kwiUV1YelxRj59sqbm3-3I6GA3K_=
+kvMvC2j82Nef52VauLepQYWT_UH6ZF3qq5G50Vm5dHFw7Qhx1pN3kI4hfEFLKJS8THRhYe2PeXw=
+O__2n4v3fosLVW1a_sgMPl0yx4OHbAmQaM-rQ4evcFRZ_RCpitj2CxRgEKMg35GUAPi0=2E=22 =
+rilt=3D=22program=22>PROGRAM BENEFITS</a></td>
+                            <td align=3D=22left=22 valign=3D=22middle=22>&n=
+bsp;</td>
+                            <td align=3D=22center=22 valign=3D=22middle=22 =
+style=3D=22font-size:10px; padding:0px 12px; font-family:Arial, Helvetica, =
+sans-serif; -webkit-text-size-adjust:none;=22><a style=3D=22color:=23919295=
+; text-decoration:none;=22 href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%=
+3DTYRABTT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64F=
+GQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLhuwW=
+ZdMD_1rm1xIDe9dwysRuT-1gda59QOKMnxQpREAx65Gd-C2kwiUV1YelxRj59sqbm3-3I6GA3K_=
+kvMvC2j82Nef52VauLepQYWT_UH6ZF3qq5G50Vm5dHFw7Qhx1pN3kI4hfEFLKJS8THRhYe2PeXw=
+O__2n4v3fosLVW1a_sgMPl0yx4OHbAmQaM-rQ4evcFRZ_RCpitj2CxRgEKMg35GUAPi0=2E=22 =
+rilt=3D=22partners=22>PARTNERS</a></td>
+                            <td align=3D=22left=22 valign=3D=22middle=22>&n=
+bsp;</td>
+                            <td align=3D=22center=22 valign=3D=22middle=22 =
+style=3D=22font-size:10px; padding:0px 10px; font-family:Arial, Helvetica, =
+sans-serif; -webkit-text-size-adjust:none; text-transform:uppercase;=22><a =
+style=3D=22color:=23919295; text-decoration:none;=22 href=3D=22https://sywr=
+=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9EBqqfRXHi=
+I5OUBF4zbelnXpLzdzaVXtpKX%3DTYRABWT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0=
+M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453A=
+MrTW57tkuiv1tV0-qo5ihLhuwWZdMD_1rm1xIDe9dwysRuT-1gda59QOKMnxQpREAx65Gd-C2kw=
+iUV1YelxRj59sqbm3-3I6GA3K_kvMvC2j82Nef52VauLepQYWT_UH6ZF3qq5G50Vm5dHFw7Qhx1=
+pN3kI4hfEFLKJS8THRhYe2PeXwO__2n4v3fosLVW1a_sgMPl0yx4OHbAmQaM-rQ4evcFRZ_RCpi=
+tj2CxRgEKMg35GUAPi0=2E=22 rilt=3D=22sweeps=22>SWEEPS</a></td>
+                            <td align=3D=22left=22 valign=3D=22middle=22>&n=
+bsp;</td>
+                            <td align=3D=22center=22 valign=3D=22middle=22 =
+style=3D=22font-size:10px; padding:0px 10px; font-family:Arial, Helvetica, =
+sans-serif; -webkit-text-size-adjust:none;=22><a style=3D=22color:=23919295=
+; text-decoration:none;=22 href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%=
+3DTYRABAT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64F=
+GQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLhuwW=
+ZdMD_1rm1xIDe9dwysRuT-1gda59QOKMnxQpREAx65Gd-C2kwiUV1YelxRj59sqbm3-3I6GA3K_=
+kvMvC2j82Nef52VauLepQYWT_UH6ZF3qq5G50Vm5dHFw7Qhx1pN3kI4hfEFLKJS8THRhYe2PeXw=
+O__2n4v3fosLVW1a_sgMPl0yx4OHbAmQaM-rQ4evcFRZ_RCpitj2CxRgEKMg35GUAPi0=2E=22 =
+rilt=3D=22coupons=22>COUPONS</a></td>
+                            <td align=3D=22left=22 valign=3D=22middle=22>&n=
+bsp;</td>
+                            <td align=3D=22right=22 valign=3D=22middle=22 s=
+tyle=3D=22font-size:10px; padding:0px 3px 0px 7px; font-family:Arial, Helve=
+tica, sans-serif; -webkit-text-size-adjust:none;=22><a style=3D=22color:=23=
+919295; text-decoration:none;=22 href=3D=22https://sywr=2Ersys2=2Enet/pub/c=
+c?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaV=
+XtpKX%3DTYRABCT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z=
+52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5i=
+hLhuwWZdMD_1rm1xIDe9dwysRuT-1gda59QOKMnxQpREAx65Gd-C2kwiUV1YelxRj59sqbm3-3I=
+6GA3K_kvMvC2j82Nef52VauLepQYWT_UH6ZF3qq5G50Vm5dHFw7Qhx1pN3kI4hfEFLKJS8THRhY=
+e2PeXwO__2n4v3fosLVW1a_sgMPl0yx4OHbAmQaM-rQ4evcFRZ_RCpitj2CxRgEKMg35GUAPi0=
+=2E=22 rilt=3D=22account=22>MY ACCOUNT</a></td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                  <=21-- navigation ends -->
+                  <=21-- header ends -->
+
+
+
+                  <=21-- RTP Banner -->
+            <table class=3D=22content-bin-wrap=22 width=3D=22678=22 border=
+=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+              <tr>
+                <td align=3D=22center=22 valign=3D=22top=22 bgcolor=3D=22=
+=23FFFFFF=22 style=3D=22border:none; background:=23FFFFFF;=22>
+				<table class=3D=22sywr-banner-wrapper=22 width=3D=22100%=22 border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 bgcolor=3D=22=23f17f21=
+=22 style=3D=22border:none; background:=23f17f21;=22>
+                	<tr>
+						<=21-- Mobile my info -->
+						<td class=3D=22sywr-banner-left-mobile=22><img src=3D=22https://ig=2E=
+cdn=2Eresponsys=2Enet/i4/responsysimages/sywr/__RS_CP__/banner_mobile_myacc=
+tinfo_Both=2Ejpg=22 border=3D=220=22 width=3D=221=22 height=3D=221=22 style=
+=3D=22display:block;=22 /></td>
+                        <=21-- Mobile my info -->
+						<=21-- desktop my info -->
+						<td class=3D=22sywr-banner-left-desktop=22><img src=3D=22https://ig=
+=2Ecdn=2Eresponsys=2Enet/i4/responsysimages/sywr/__RS_CP__/banner_desktop_m=
+yacctinfo_Both=2Ejpg=22 border=3D=220=22 width=3D=22172=22 height=3D=2232=
+=22 style=3D=22display:block;=22 /></td>
+                        <=21-- desktop my info -->
+						<=21-- Mobile Points Banner --> =20
+                        <td class=3D=22sywr-banner-right-mobile=22><a href=
+=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7=
+iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRACRT&_ei_=3DEuEYQkWU38rfKC=
+4NtsOc5IC2cA6YKY7u9ebGPwXMFpQaMHrytougijOhsAsMDhHgxpF5Rm0huaDB4VbZS2IZZwK-h=
+pbshbNDvIEswTqAv_lFdgvcIQiwKJVrtUXnfHPyy7S7jq6gOM0-teZ28re1DE4_y-hM0DWrSeEx=
+1o94bKon9m-Bt-lYkaz4MRlUlmKqPXn715KAg8zUbnwnkZ3C4PO2RYPnicILfC1KLtt5aUzT7oi=
+H5x5PiOUnU-Fahx3A_TYJYYPYuGkHIhSv-xXdKBG4zn1_CTuS2vwp25IiyKC5-FWCU6e5mcUTYM=
+cIjSRHDJ5qJ5HEqXwXLH4osNZ_B9GFWnrJLxwc7DGwA94Et6xH-hTL5dsWP4E=2E=22><img sr=
+c=3D=22http://promo=2Esemantictec=2Ecom/tec/api/promo/campaign/Statement/as=
+set/PointsEmail/position/0?sywrid=3D7081197509736188&skinstyle=3Dmobile=22 =
+border=3D=220=22 style=3D=22display:block;=22 width=3D=221=22 height=3D=221=
+=22 /> </a></td>
+                        <=21-- Mobile Points Banner -->
+                        <=21-- Desktop Points Banner -->
+                        <td align=3D=22center=22 class=3D=22sywr-banner-rig=
+ht-desktop=22 bgcolor=3D=22=23f17f21=22 style=3D=22border:none; background:=
+=23f17f21;=22><a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X=
+%3DWQpglLjHJlTQGreNO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRACRT&=
+_ei_=3DEuEYQkWU38rfKC4NtsOc5IC2cA6YKY7u9ebGPwXMFpQaMHrytougijOhsAsMDhHgxpF5=
+Rm0huaDB4VbZS2IZZwK-hpbshbNDvIEswTqAv_lFdgvcIQiwKJVrtUXnfHPyy7S7jq6gOM0-teZ=
+28re1DE4_y-hM0DWrSeEx1o94bKon9m-Bt-lYkaz4MRlUlmKqPXn715KAg8zUbnwnkZ3C4PO2RY=
+PnicILfC1KLtt5aUzT7oiH5x5PiOUnU-Fahx3A_TYJYYPYuGkHIhSv-xXdKBG4zn1_CTuS2vwp2=
+5IiyKC5-FWCU6e5mcUTYMcIjSRHDJ5qJ5HEqXwXLH4osNZ_B9GFWnrJLxwc7DGwA94Et6xH-hTL=
+5dsWP4E=2E=22><img src=3D=22http://promo=2Esemantictec=2Ecom/tec/api/promo/=
+campaign/Statement/asset/PointsEmail/position/0?sywrid=3D7081197509736188=
+=22 border=3D=220=22 style=3D=22display:block;=22 alt=3D=22View Account or =
+Redeem Points=22 /></a></td>
+                        <=21-- Desktop Points Banner -->
+					</tr>
+				</table> =20
+				</td>
+              </tr>
+            </table>
+                  <=21-- RTP Banner ends -->
+
+                </td>
+              </tr>
+            </table>
+
+            <=21-- header/content bin wrapper ends -->  =20
+<=21-- //////////////////// START CONTENT //////////////////// -->
+
+  =20
+
+          <=21-- storewide banner/content bin wrapper -->
+
+
+
+<=21-- Start Spacer -->
+             =20
+              <table align=3D=22center=22 border=3D=220=22 cellspacing=3D=
+=220=22 cellpadding=3D=220=22>
+                <tr>
+                  <td height=3D=2210=22 style=3D=22line-height:1px; font-si=
+ze:1px;=22></td>
+                </tr>
+              </table>
+             =20
+              <=21-- End Spacer -->=20
+
+            <table class=3D=22content-bin-wrap=22 width=3D=22678=22 border=
+=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+              <tr>
+                <td align=3D=22center=22 valign=3D=22top=22 style=3D=22padd=
+ing-bottom:10px;=22>
+       		<=21-- hero -->
+                 =20
+               =20
+ <table id=3D=22mobi-hero-Liquidity=22 width=3D=22678=22 border=3D=220=22 c=
+ellspacing=3D=220=22 cellpadding=3D=220=22>
+                    <tr>
+                      <td align=3D=22center=22 valign=3D=22top=22 bgcolor=
+=3D=22=23ffc845=22>
+                      =09
+						<=21-- starts: display for HEADLINE_2 -->
+						<table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22><=
+tr><td align=3D=22center=22 valign=3D=22top=22 style=3D=22font-family:Arial=
+&=2344; Helvetica&=2344; sans-serif; font-size:18px; color:=23ffffff; -webk=
+it-text-size-adjust:none; padding:20px 0 0 0;=22><strong>Want more purchasi=
+ng power?</strong></td></tr></table>
+						<=21-- ends: display for HEADLINE_2 -->
+                        <=21-- starts: hero banner image check -->
+						<table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                          <tr>
+                            <td class=3D=22hide=22 align=3D=22center=22 val=
+ign=3D=22top=22><a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc=
+2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRACT=
+T&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-d=
+CdgGzbxpp1hqAYTfUrmVN0nX2tdlpDWmri9CYz3PasWYWpeEmq6CClYxIVQ1nRkuVDJXOLVXHDy=
+08y3Eh6VgvUR1r9cRyas0biWZidzROqAwUkaB3hMPfs7pr8yP5sxqSlxxJp014roZfGTq5vb0ZB=
+w2aVcoVtUUOB6U_o4Z9xLwEiheJqpUnUY8hqFrF3y91uxa-sTYQU0OP09Fgso-9a1X3aLiz5pD7=
+xIXF-AaBLPTkuKoBgAYTC6txVcHpulNOfkITHSESorKm8Af-tqzO0zkpUXW7zkBWuOXTYk_eWMK=
+gKwPQcuy6N5HakdUvqwrdDFI9I97bne5uB-GBqas64BUkaTqqD=2E=22><img src=3D=22http=
+s://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/contentlibrary/=21=
+promotional_liquidity/=212015liquidityrefresh/images/11212014_Triggere_Liqu=
+idityRefreshPhase2_700px_V1_LayeredFinal_05=2Ejpg=22 width=3D=22102=22 heig=
+ht=3D=22108=22 border=3D=220=22 style=3D=22display:block;=22 /></a></td>
+                            <td align=3D=22center=22 valign=3D=22top=22><a =
+href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGr=
+eNO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRACTT&_ei_=3DEolaGGF4SN=
+MvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrm=
+VN0nX2tdlpDWmri9CYz3PasWYWpeEmq6CClYxIVQ1nRkuVDJXOLVXHDy08y3Eh6VgvUR1r9cRya=
+s0biWZidzROqAwUkaB3hMPfs7pr8yP5sxqSlxxJp014roZfGTq5vb0ZBw2aVcoVtUUOB6U_o4Z9=
+xLwEiheJqpUnUY8hqFrF3y91uxa-sTYQU0OP09Fgso-9a1X3aLiz5pD7xIXF-AaBLPTkuKoBgAY=
+TC6txVcHpulNOfkITHSESorKm8Af-tqzO0zkpUXW7zkBWuOXTYk_eWMKgKwPQcuy6N5HakdUvqw=
+rdDFI9I97bne5uB-GBqas64BUkaTqqD=2E=22><img src=3D=22http://i=2Esears=2Ecom/=
+s/i/or/KMART_STOREWIDE/STOREWIDE_It's_Yours_personalization_8SSXGNT7EIP=22 =
+width=3D=22476=22 height=3D=22108=22 alt=3D=22IT'S YOURS=21=22 border=3D=22=
+0=22 style=3D=22display:block;=22 /></a></td>
+                            <td class=3D=22hide=22 align=3D=22center=22 val=
+ign=3D=22top=22><a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc=
+2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRACT=
+T&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-d=
+CdgGzbxpp1hqAYTfUrmVN0nX2tdlpDWmri9CYz3PasWYWpeEmq6CClYxIVQ1nRkuVDJXOLVXHDy=
+08y3Eh6VgvUR1r9cRyas0biWZidzROqAwUkaB3hMPfs7pr8yP5sxqSlxxJp014roZfGTq5vb0ZB=
+w2aVcoVtUUOB6U_o4Z9xLwEiheJqpUnUY8hqFrF3y91uxa-sTYQU0OP09Fgso-9a1X3aLiz5pD7=
+xIXF-AaBLPTkuKoBgAYTC6txVcHpulNOfkITHSESorKm8Af-tqzO0zkpUXW7zkBWuOXTYk_eWMK=
+gKwPQcuy6N5HakdUvqwrdDFI9I97bne5uB-GBqas64BUkaTqqD=2E=22><img src=3D=22http=
+s://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/contentlibrary/=21=
+promotional_liquidity/=212015liquidityrefresh/images/11212014_Triggere_Liqu=
+idityRefreshPhase2_700px_V1_LayeredFinal_07=2Ejpg=22 width=3D=22100=22 heig=
+ht=3D=22108=22 border=3D=220=22 style=3D=22display:block;=22 /></a></td>
+                          </tr>
+                        </table>
+						<=21-- ends: hero banner image check -->
+					=09
+                        <table border=3D=220=22 cellspacing=3D=220=22 cellp=
+adding=3D=220=22>
+                                                    <tr><td align=3D=22cent=
+er=22 valign=3D=22top=22 style=3D=22font-family:Arial&=2344; Helvetica&=234=
+4; sans-serif; font-size:18px; color:=23464646; -webkit-text-size-adjust:no=
+ne; padding:0 0 0 0;=22><strong>SHENGYIANG&=2344;</strong></td></tr>
+                               <tr>
+                            <td class=3D=22font32_headline=22 align=3D=22ce=
+nter=22 valign=3D=22top=22 style=3D=22font-family:Arial, Helvetica, sans-se=
+rif; font-size:34px; color:=23ffffff; -webkit-text-size-adjust:none; paddin=
+g:0 45px 0 45px;=22>
+							<a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpg=
+lLjHJlTQGreNO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRACTT&_ei_=3D=
+EolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp=
+1hqAYTfUrmVN0nX2tdlpDWmri9CYz3PasWYWpeEmq6CClYxIVQ1nRkuVDJXOLVXHDy08y3Eh6Vg=
+vUR1r9cRyas0biWZidzROqAwUkaB3hMPfs7pr8yP5sxqSlxxJp014roZfGTq5vb0ZBw2aVcoVtU=
+UOB6U_o4Z9xLwEiheJqpUnUY8hqFrF3y91uxa-sTYQU0OP09Fgso-9a1X3aLiz5pD7xIXF-AaBL=
+PTkuKoBgAYTC6txVcHpulNOfkITHSESorKm8Af-tqzO0zkpUXW7zkBWuOXTYk_eWMKgKwPQcuy6=
+N5HakdUvqwrdDFI9I97bne5uB-GBqas64BUkaTqqD=2E=22 style=3D=22font-size:34px; =
+color:=23ffffff; font-family:Arial, Helvetica, sans-serif; -webkit-text-siz=
+e-adjust:none; text-decoration:none;=22><strong>You have =249 in surprise p=
+oints (9,000 points) to redeem</strong></a>
+							</td>
+                          </tr>
+                          <tr>
+                            <td class=3D=22font16=22 align=3D=22center=22 v=
+align=3D=22top=22 style=3D=22font-family:Arial, Helvetica, sans-serif; font=
+-size:18px; color:=23464646; -webkit-text-size-adjust:none; padding:0 10px =
+10px 10px;=22>
+							<a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpg=
+lLjHJlTQGreNO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRACTT&_ei_=3D=
+EolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp=
+1hqAYTfUrmVN0nX2tdlpDWmri9CYz3PasWYWpeEmq6CClYxIVQ1nRkuVDJXOLVXHDy08y3Eh6Vg=
+vUR1r9cRyas0biWZidzROqAwUkaB3hMPfs7pr8yP5sxqSlxxJp014roZfGTq5vb0ZBw2aVcoVtU=
+UOB6U_o4Z9xLwEiheJqpUnUY8hqFrF3y91uxa-sTYQU0OP09Fgso-9a1X3aLiz5pD7xIXF-AaBL=
+PTkuKoBgAYTC6txVcHpulNOfkITHSESorKm8Af-tqzO0zkpUXW7zkBWuOXTYk_eWMKgKwPQcuy6=
+N5HakdUvqwrdDFI9I97bne5uB-GBqas64BUkaTqqD=2E=22 style=3D=22font-size:18px; =
+color:=23464646; font-family:Arial, Helvetica, sans-serif; -webkit-text-siz=
+e-adjust:none; text-decoration:none;=22>on your Sears or Kmart purchase=2E*=
+</a></td>
+                          </tr>
+                          <tr>
+                            <td align=3D=22center=22 valign=3D=22top=22 sty=
+le=3D=22font-family:Arial, Helvetica, sans-serif; font-size:14px; color:=23=
+464646; -webkit-text-size-adjust:none; padding:0 10px 15px 10px;=22><strong=
+><em>HURRY=21</em></strong> These points are valid through <span class=3D=
+=22appleLinksGrey=22>5/6/15</span>=2E Redeemable&nbsp;in store or online at=
+ Sears or Kmart=2E</td>
+                          </tr>
+                        </table>
+                        <table border=3D=220=22 cellspacing=3D=220=22 cellp=
+adding=3D=220=22>
+                          <tr>
+                            <td align=3D=22center=22 valign=3D=22top=22 sty=
+le=3D=22padding:0 0 0 0;=22>
+						=09
+					=09
+							<a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpg=
+lLjHJlTQGreNO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRACTT&_ei_=3D=
+EolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp=
+1hqAYTfUrmVN0nX2tdlpDWmri9CYz3PasWYWpeEmq6CClYxIVQ1nRkuVDJXOLVXHDy08y3Eh6Vg=
+vUR1r9cRyas0biWZidzROqAwUkaB3hMPfs7pr8yP5sxqSlxxJp014roZfGTq5vb0ZBw2aVcoVtU=
+UOB6U_o4Z9xLwEiheJqpUnUY8hqFrF3y91uxa-sTYQU0OP09Fgso-9a1X3aLiz5pD7xIXF-AaBL=
+PTkuKoBgAYTC6txVcHpulNOfkITHSESorKm8Af-tqzO0zkpUXW7zkBWuOXTYk_eWMKgKwPQcuy6=
+N5HakdUvqwowzsxYq_oUNM3nb2N82IIS3dk4dHM=2E=22>
+						<img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages=
+/sywr/contentlibrary/=21promotional_liquidity/=212015liquidityrefresh/image=
+s/11212014_Triggere_LiquidityRefreshPhase2_700px_V1_LayeredFinal_10=2Ejpg=
+=22 alt=3D=22SHOP NOW=22 width=3D=22163=22 height=3D=2246=22 border=3D=220=
+=22 style=3D=22display:block;=22 />
+							  </a>
+						=09
+							</td>
+                          </tr>
+                        </table>
+                        <=21-- see details for offer1 check -->
+						<table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22><=
+tr><td align=3D=22center=22 valign=3D=22top=22 style=3D=22font-family:Arial=
+&=2344; Helvetica&=2344; sans-serif; font-size:11px; color:=23464646; -webk=
+it-text-size-adjust:none; padding:15px 0 25px 0;=22>*Excludes grocery, pet =
+supplies, household cleaning, beauty & health care and other products=2E <a=
+ href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQG=
+reNO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRACAT&_ei_=3DEmGfvcY93=
+EiUCESjO83y59AR5vBfwsIeOM237oRni-hEb0BBF_kipRrL-Hd3uXNgeUqPueuN93uGmuFa-Vbr=
+8y1lR7lja_uyFN0t5qHsSPtcduiHLyb9kclfTFZ2QkSoo0TveuzQ8R1J-3s_fm1gW5kJmHbfLSh=
+wK-MNCIrscffswDhYmF_d5UIBKoQ83AiNn8kffe-yF2Hjza1mvhT8Ax2wLxbp78Mxhxv2Poy_KV=
+n-74xm7IVdatkkamqnJh7TQfttloBdLIY1v2a6EWzHK6acF2LdcQV-vCMecAKZmkIodHc0tiy_G=
+-rZ3AdrTDLDQGS28hspftGMaR52S9C4COHTF4AtvxYQq8yPp9pfmjm3ubk6oHwFGRtsmmlhLdFT=
+WM748_aIwlvwVSY=2E=22 target=3D=22_blank=22 style=3D=22color:=23666666; tex=
+t-decoration:underline;=22>See details=2E</a></td></tr></table>
+						<=21-- see details for offer1 check ends -->
+					  </td>
+                    </tr>
+                  </table>
+                  <=21-- TEC OFFER STARTS -->
+<table id=3D=22mobi-hero-Liquidity=22 width=3D=22678=22 border=3D=220=22 ce=
+llspacing=3D=220=22 cellpadding=3D=220=22><tr><td class=3D=22hide=22 align=
+=3D=22center=22 valign=3D=22top=22><img src=3D=22https://responsys=2Ehs=2El=
+lnwd=2Enet/i2/responsysimages/sywr/contentlibrary/=21promotional_liquidity/=
+=212015liquidityrefresh/images/11212014_Triggere_LiquidityRefreshPhase2_700=
+px_V1_LayeredFinal_13=2Ejpg=22 width=3D=22190=22 height=3D=2245=22 border=
+=3D=220=22 style=3D=22display:block;=22 /></td><td align=3D=22center=22 val=
+ign=3D=22top=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/respo=
+nsysimages/sywr/contentlibrary/=21promotional_liquidity/=212015liquidityref=
+resh/images/11212014_Triggere_LiquidityRefreshPhase2_700px_V1_LayeredFinal_=
+14=2Ejpg=22 width=3D=22298=22 height=3D=2245=22 alt=3D=22+=22 border=3D=220=
+=22 style=3D=22display:block;=22 /></td><td class=3D=22hide=22 align=3D=22c=
+enter=22 valign=3D=22top=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2E=
+net/i2/responsysimages/sywr/contentlibrary/=21promotional_liquidity/=212015=
+liquidityrefresh/images/11212014_Triggere_LiquidityRefreshPhase2_700px_V1_L=
+ayeredFinal_15=2Ejpg=22 width=3D=22190=22 height=3D=2245=22 border=3D=220=
+=22 style=3D=22display:block;=22 /></td></tr></table><table id=3D=22mobi-he=
+ro-Liquidity=22 width=3D=22678=22 border=3D=220=22 cellspacing=3D=220=22 ce=
+llpadding=3D=220=22><tr><td class=3D=22hide=22 align=3D=22center=22 valign=
+=3D=22top=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsy=
+simages/sywr/contentlibrary/=21promotional_liquidity/=212015liquidityrefres=
+h/images/11212014_Triggere_LiquidityRefreshPhase2_700px_V1_LayeredFinal_16=
+=2Ejpg=22 width=3D=22126=22 height=3D=2234=22 border=3D=220=22 style=3D=22d=
+isplay:block;=22 /></td><td class=3D=22block=22 align=3D=22center=22 valign=
+=3D=22top=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsy=
+simages/sywr/contentlibrary/=21promotional_liquidity/=212015liquidityrefres=
+h/images/11212014_Triggere_LiquidityRefreshPhase2_700px_V1_LayeredFinal_17=
+=2Ejpg=22 width=3D=22239=22 height=3D=2234=22 alt=3D=22Put those points=22 =
+border=3D=220=22 style=3D=22display:block;=22 /></td><td class=3D=22block=
+=22 align=3D=22center=22 valign=3D=22top=22><img src=3D=22https://responsys=
+=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/contentlibrary/=21promotional_l=
+iquidity/=212015liquidityrefresh/images/11212014_Triggere_LiquidityRefreshP=
+hase2_700px_V1_LayeredFinal_18=2Ejpg=22 width=3D=22184=22 height=3D=2234=22=
+ alt=3D=22to good use=21=22 border=3D=220=22 style=3D=22display:block;=22 /=
+></td><td class=3D=22hide=22 align=3D=22center=22 valign=3D=22top=22><img s=
+rc=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/conten=
+tlibrary/=21promotional_liquidity/=212015liquidityrefresh/images/11212014_T=
+riggere_LiquidityRefreshPhase2_700px_V1_LayeredFinal_19=2Ejpg=22 width=3D=
+=22129=22 height=3D=2234=22 border=3D=220=22 style=3D=22display:block;=22 /=
+></td></tr></table><table id=3D=22mobi-hero-Liquidity=22 width=3D=22678=22 =
+border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22><tr><td width=
+=3D=2222=22 class=3D=22hide=22 align=3D=22center=22 valign=3D=22top=22><img=
+ src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/cont=
+entlibrary/=21promotional_liquidity/=212015liquidityrefresh/images/11212014=
+_Triggere_LiquidityRefreshPhase2_700px_V1_LayeredFinal_20=2Ejpg=22 width=3D=
+=2222=22 height=3D=22223=22 border=3D=220=22 style=3D=22display:block;=22 /=
+></td><td width=3D=22365=22 class=3D=22TEC1=22 align=3D=22right=22 valign=
+=3D=22middle=22><a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc=
+2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRACC=
+T&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-d=
+CdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLhuwWZdMD_1rm=
+1xIDe9dwysRuT-1gda59QOKMnxQpREAx65Gd-C2kwiUV1YelxRj59sqbm3-3I6GA3K_kvMvC2j8=
+2Nef52VauLepQYWT_UH6ZF3qq5G50Vm5dHFw7Qhx1pN3kI4hfEFLKJS8THRhYe0M-9DzmByHRFz=
+y6MsZYm-TDn2XssGiw5mm06dg3ms2iSzEpFhd851IlZ_P1t0qGAgxSFDEnnvlWso5G9Nc3XMBWZ=
+IxuyCVkvSJ9gUVGiRuxfBWO_WheHvgYecQ5YhBjEBxPIJ-_tROAAVQaZcLZkghjJ9wBjWq-SsjS=
+BTTgwyj5bOh6r_9LvpRTDkKVG6uirO2zMYSwm5BlGc7GoZryg2LCV0xQEkiQjBc5QwORLIIrSWs=
+JoFhivPEmLehFRyvyT3zryGQKTLCbZ_FaQZVXdLboeHnYWXD_AhidkeJypRluRk7IEfe1yk-M7Q=
+ft0=2E=22><img src=3D=22http://promo=2Esemantictec=2Ecom/tec/api/promo/emai=
+l/blackyao12=40gmail=2Ecom/campaign/OfferStorewidePromo/section/0/position/=
+1/part/1?sywr=3D7081197509736188&source=3DSEARS&offerbus=3DHMTLAUHS&sid=3DI=
+Ox20150430SYRBAULQDx0611709x2003156xMLIQUID033&newimage=3Dtrue&vid=3D&skins=
+tyle=3Dsyw=22 width=3D=22338=22 height=3D=22186=22 border=3D=220=22 style=
+=3D=22display:block;=22 /></a></td><=21-- campaign/Liquidity/asset/Surprise=
+Hero --><td class=3D=22block_heroImg=22 align=3D=22center=22 valign=3D=22mi=
+ddle=22 width=3D=22268=22><table border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22 width=3D=22100%=22><tr><td align=3D=22center=22 valign=
+=3D=22middle=22><a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc=
+2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRACC=
+T&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-d=
+CdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLhuwWZdMD_1rm=
+1xIDe9dwysRuT-1gda59QOKMnxQpREAx65Gd-C2kwiUV1YelxRj59sqbm3-3I6GA3K_kvMvC2j8=
+2Nef52VauLepQYWT_UH6ZF3qq5G50Vm5dHFw7Qhx1pN3kI4hfEFLKJS8THRhYe0M-9DzmByHRFz=
+y6MsZYm-TDn2XssGiw5mm06dg3ms2iSzEpFhd851IlZ_P1t0qGAgxSFDEnnvlWso5G9Nc3XMBWZ=
+IxuyCVkvSJ9gUVGiRuxfBWO_WheHvgYecQ5YhBjEBxPIJ-_tROAAVQaZcLZkghjJ9wBjWq-SsjS=
+BTTgwyj5bOh6r_9LvpRTDkKVG6uirO2zMYSwm5BlGc7GoZryg2LCV0xQEkiQjBc5QwORLIIrSWs=
+JoFhivPEmLehFRyvyT3zryGQKTLCbZ_FaQZVXdLboeHnYWXD_AhidkeJypRluRk7IEfe1yk-M7Q=
+ft0=2E=22><img src=3D=22http://promo=2Esemantictec=2Ecom/tec/api/promo/emai=
+l/blackyao12=40gmail=2Ecom/campaign/OfferStorewidePromo/section/0/position/=
+1/part/0?sywr=3D7081197509736188&source=3DSEARS&offerbus=3DHMTLAUHS&sid=3DI=
+Ox20150430SYRBAULQDx0611709x2003156xMLIQUID033&newimage=3Dtrue&vid=3D=22 wi=
+dth=3D=22200=22 border=3D=220=22 style=3D=22display:block;=22 /></a><=21-- =
+ use image from meta instead of TEC<img src=3D=22http://i=2Esears=2Ecom/s/i=
+/or/SEARS_FOOTWEAR/FOOTWEAR_ALL_Sears-WH-v2_IO107OI5YM2=22 width=3D=22200=
+=22  border=3D=220=22 style=3D=22display:block;=22 />--></td></tr></table><=
+/td><td width=3D=2223=22 class=3D=22hide=22 align=3D=22center=22 valign=3D=
+=22top=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysim=
+ages/sywr/contentlibrary/=21promotional_liquidity/=212015liquidityrefresh/i=
+mages/11212014_Triggere_LiquidityRefreshPhase2_700px_V1_LayeredFinal_23=2Ej=
+pg=22 width=3D=2223=22 height=3D=22223=22 border=3D=220=22 style=3D=22displ=
+ay:block;=22 /></td></tr></table><table id=3D=22mobi-hero-Liquidity=22 widt=
+h=3D=22678=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>=
+<tr><td class=3D=22hide=22 align=3D=22center=22 valign=3D=22top=22><img src=
+=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/contentl=
+ibrary/=21promotional_liquidity/=212015liquidityrefresh/images/curve_left_1=
+40=2Ejpg=22 width=3D=22140=22 height=3D=2229=22 border=3D=220=22 style=3D=
+=22display:block;=22 /></td><td class=3D=22TBpadding15=22 align=3D=22center=
+=22 valign=3D=22top=22 width=3D=22398=22 style=3D=22-webkit-text-size-adjus=
+t:none; padding:0 0 0 0;=22><a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?=
+_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXt=
+pKX%3DTYRADRT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52=
+r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihL=
+huwWZdMD_1rm1xIDe9dwysRuT-1gda59QOKMnxQpREAx65Gd-C2kwiUV1YelxRj59sqbm3-3I6G=
+A3K_kvMvC2j82Nef52VauLepQYWT_UH6ZF3qq5G50Vm5dHFw7Qhx1pN3kI4hfEFLKJS8THRhYe0=
+M-9DzmByHRFzy6MsZYm-TDn2XssGiw5mm06dg3ms2iSzEpFhd851IlZ_P1t0qGAgxSFDEnnvlWs=
+o5G9Nc3XMBWZIxuyCVkvSJ9gUVGiRuxfBWO_WheHvgYecQ5YhBjEBxPIJ-_tROAAVQaZcLZkghj=
+J9wBjWq-SsjSBTTgwyj5bOh6r_9LvpRTDkKVG6uirO2zMYSwm5BlGc7GoZryg2LCV0xQEkiQjBc=
+5QwORLIIrSWsJoFhivPEmLehFRyvyT3zryGQKTLCbZ_FaQZVXdLboeHnYWXD_AhidkeJypRluRk=
+7IEfe1yk-M7Qft0=2E=22><img src=3D=22http://promo=2Esemantictec=2Ecom/tec/ap=
+i/promo/email/blackyao12=40gmail=2Ecom/campaign/OfferStorewidePromo/section=
+/0/position/1/part/2?sywr=3D7081197509736188&source=3DSEARS&offerbus=3DHMTL=
+AUHS&sid=3DIOx20150430SYRBAULQDx0611709x2003156xMLIQUID033&newimage=3Dtrue&=
+vid=3D=22 border=3D=220=22 style=3D=22display:block;=22 /></a></td><td clas=
+s=3D=22hide=22 align=3D=22center=22 valign=3D=22top=22><img src=3D=22https:=
+//responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/contentlibrary/=21pr=
+omotional_liquidity/=212015liquidityrefresh/images/curve_right_140=2Ejpg=22=
+ width=3D=22140=22 height=3D=2229=22 border=3D=220=22 style=3D=22display:bl=
+ock;=22 /></td></tr></table><table id=3D=22mobi-hero-Liquidity=22 width=3D=
+=22678=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22><tr>=
+<td class=3D=22hide=22 align=3D=22center=22 valign=3D=22top=22><img src=3D=
+=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/contentlibr=
+ary/=21promotional_liquidity/=212015liquidityrefresh/images/border_left_b=
+=2Ejpg=22 width=3D=22190=22 height=3D=2222=22 border=3D=220=22 style=3D=22d=
+isplay:block;=22 /></td><td align=3D=22center=22 valign=3D=22top=22><img sr=
+c=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/content=
+library/=21promotional_liquidity/=212015liquidityrefresh/images/border_midd=
+le2_b=2Ejpg=22 width=3D=22298=22 height=3D=2222=22 border=3D=220=22 style=
+=3D=22display:block;=22 /></td><td class=3D=22hide=22 align=3D=22center=22 =
+valign=3D=22top=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/re=
+sponsysimages/sywr/contentlibrary/=21promotional_liquidity/=212015liquidity=
+refresh/images/border_right_b=2Ejpg=22 width=3D=22190=22 height=3D=2222=22 =
+border=3D=220=22 style=3D=22display:block;=22 /></td></tr></table>
+				  <=21-- TEC OFFER ENDS -->
+			  				 =20
+<=21-- starts meta offer2 - offer4 loop  -->				 =20
+<table id=3D=22mobi-hero-Liquidity=22 width=3D=22678=22 border=3D=220=22 ce=
+llspacing=3D=220=22 cellpadding=3D=220=22><tr><td class=3D=22hide=22 align=
+=3D=22center=22 valign=3D=22top=22><img src=3D=22https://responsys=2Ehs=2El=
+lnwd=2Enet/i2/responsysimages/sywr/contentlibrary/=21promotional_liquidity/=
+=212015liquidityrefresh/images/border_left_a=2Ejpg=22 width=3D=22190=22 hei=
+ght=3D=2232=22 border=3D=220=22 style=3D=22display:block;=22 /></td><td ali=
+gn=3D=22center=22 valign=3D=22top=22><img src=3D=22https://responsys=2Ehs=
+=2Ellnwd=2Enet/i2/responsysimages/sywr/contentlibrary/=21promotional_liquid=
+ity/=212015liquidityrefresh/images/border_middle2_a=2Ejpg=22 width=3D=22298=
+=22 height=3D=2232=22 border=3D=220=22 style=3D=22display:block;=22 /></td>=
+<td class=3D=22hide=22 align=3D=22center=22 valign=3D=22top=22><img src=3D=
+=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/contentlibr=
+ary/=21promotional_liquidity/=212015liquidityrefresh/images/border_right_a=
+=2Ejpg=22 width=3D=22190=22 height=3D=2232=22 border=3D=220=22 style=3D=22d=
+isplay:block;=22 /></td></tr></table>			=09
+<=21-- ends meta offer2 - offer4 loop  -->		 =20
+				 =20
+                  <table id=3D=22mobi-hero-Liquidity=22 width=3D=22678=22 b=
+order=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                    <tr>
+                      <td align=3D=22center=22 valign=3D=22top=22 bgcolor=
+=3D=22=23eeeeee=22>
+                      	<table border=3D=220=22 cellspacing=3D=220=22 cellpa=
+dding=3D=220=22>
+                          <tr>
+                            <td class=3D=22block=22 align=3D=22center=22 va=
+lign=3D=22top=22><a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gz=
+c2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRAD=
+TT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-=
+dCdgGzbxpp1hqAYTfUrmVN0nX2tdlpDWmri9CYz3PasWYWpeEmq6CClYxIVQ1nRkuVDJXOLVXHD=
+y08y3Eh6VgvUR1r9cRyas0biWZidzROqAwUkaB3hMPfs7pr8yP5sxqSlxxJp014roZfGTq5vb0Z=
+Bw2aVcoVtUUOB6U_o4Z9xLwEiheJqpUnUY8hqFrF3y91uxa-sTYQU0OP09Fgso-9a1X3aLiz5pD=
+7xIXF-AaBLPTkuKoBgAYTC6txVcHpulNuCxdSqDprhFXWUz1GLBroszRbdWZE=2E=22 ><img s=
+rc=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/conten=
+tlibrary/=21promotional_liquidity/=212015liquidityrefresh/images/11212014_T=
+riggere_LiquidityRefreshPhase2_700px_V1_LayeredFinal_42=2Ejpg=22 width=3D=
+=22228=22 height=3D=2252=22 alt=3D=22How to redeem=22 border=3D=220=22 styl=
+e=3D=22display:block;=22 /></a></td>
+                            <td class=3D=22block=22 align=3D=22center=22 va=
+lign=3D=22bottom=22><a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX=
+0Gzc2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTY=
+RADTT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7b=
+ro-dCdgGzbxpp1hqAYTfUrmVN0nX2tdlpDWmri9CYz3PasWYWpeEmq6CClYxIVQ1nRkuVDJXOLV=
+XHDy08y3Eh6VgvUR1r9cRyas0biWZidzROqAwUkaB3hMPfs7pr8yP5sxqSlxxJp014roZfGTq5v=
+b0ZBw2aVcoVtUUOB6U_o4Z9xLwEiheJqpUnUY8hqFrF3y91uxa-sTYQU0OP09Fgso-9a1X3aLiz=
+5pD7xIXF-AaBLPTkuKoBgAYTC6txVcHpulNuCxdSqDprhFXWUz1GLBroszRbdWZE=2E=22><img=
+ src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/cont=
+entlibrary/=21promotional_liquidity/=212015liquidityrefresh/images/11212014=
+_Triggere_LiquidityRefreshPhase2_700px_V1_LayeredFinal_43=2Ejpg=22 width=3D=
+=22216=22 height=3D=2230=22 alt=3D=22surprise points=22 border=3D=220=22 st=
+yle=3D=22display:block;=22 /></a></td>
+                          </tr>
+                        </table>
+                        <table border=3D=220=22 cellspacing=3D=220=22 cellp=
+adding=3D=220=22>
+                          <tr>
+                            <td align=3D=22center=22 valign=3D=22top=22 sty=
+le=3D=22font-family:Arial, Helvetica, sans-serif; font-size:16px; color:=23=
+464646; -webkit-text-size-adjust:none; padding:5px 10px 30px 10px;=22><a hr=
+ef=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreN=
+O7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRADTT&_ei_=3DEolaGGF4SNMv=
+xFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVN=
+0nX2tdlpDWmri9CYz3PasWYWpeEmq6CClYxIVQ1nRkuVDJXOLVXHDy08y3Eh6VgvUR1r9cRyas0=
+biWZidzROqAwUkaB3hMPfs7pr8yP5sxqSlxxJp014roZfGTq5vb0ZBw2aVcoVtUUOB6U_o4Z9xL=
+wEiheJqpUnUY8hqFrF3y91uxa-sTYQU0OP09Fgso-9a1X3aLiz5pD7xIXF-AaBLPTkuKoBgAYTC=
+6txVcHpulNuCxdSqDprhFXWUz1GLBroszRbdWZE=2E=22 style=3D=22color:=23464646; t=
+ext-decoration:none=22>Your surprise points are pre-loaded=2E Just ask or c=
+lick to redeem them=21</a></td>
+                          </tr>
+                        </table>
+                        <table id=3D=22mobi-hero-Liquidity=22 width=3D=2263=
+4=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                          <tr>
+                            <td class=3D=22block=22 align=3D=22center=22 va=
+lign=3D=22top=22><a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gz=
+c2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRAD=
+TT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-=
+dCdgGzbxpp1hqAYTfUrmVN0nX2tdlpDWmri9CYz3PasWYWpeEmq6CClYxIVQ1nRkuVDJXOLVXHD=
+y08y3Eh6VgvUR1r9cRyas0biWZidzROqAwUkaB3hMPfs7pr8yP5sxqSlxxJp014roZfGTq5vb0Z=
+Bw2aVcoVtUUOB6U_o4Z9xLwEiheJqpUnUY8hqFrF3y91uxa-sTYQU0OP09Fgso-9a1X3aLiz5pD=
+7xIXF-AaBLPTkuKoBgAYTC6txVcHpulNuCxdSqDprhFXWUz1GLBroszRbdWZE=2E=22><img sr=
+c=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/content=
+library/=21promotional_liquidity/=212015liquidityrefresh/images/11212014_Tr=
+iggere_LiquidityRefreshPhase2_700px_V1_LayeredFinal_47_02=2Ejpg=22 width=3D=
+=22107=22 height=3D=2290=22 border=3D=220=22 style=3D=22display:block;=22 /=
+></a></td>
+                            <td class=3D=22block=22 align=3D=22center=22 va=
+lign=3D=22top=22>
+                            	<table id=3D=22mobi-hero-Liquidity=22 width=3D=
+=22527=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                                <tr>
+                                  <td align=3D=22left=22 valign=3D=22top=22=
+ style=3D=22font-family:Arial, Helvetica, sans-serif; font-size:16px; color=
+:=23464646; -webkit-text-size-adjust:none; padding:0 0 10px 20px;=22><a hre=
+f=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO=
+7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRADTT&_ei_=3DEolaGGF4SNMvx=
+FF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVN0=
+nX2tdlpDWmri9CYz3PasWYWpeEmq6CClYxIVQ1nRkuVDJXOLVXHDy08y3Eh6VgvUR1r9cRyas0b=
+iWZidzROqAwUkaB3hMPfs7pr8yP5sxqSlxxJp014roZfGTq5vb0ZBw2aVcoVtUUOB6U_o4Z9xLw=
+EiheJqpUnUY8hqFrF3y91uxa-sTYQU0OP09Fgso-9a1X3aLiz5pD7xIXF-AaBLPTkuKoBgAYTC6=
+txVcHpulNuCxdSqDprhFXWUz1GLBroszRbdWZE=2E=22 style=3D=22color:=23464646; te=
+xt-decoration:none=22><strong>ONLINE</strong></a></td>
+                                </tr>
+                              </table>
+                              <table id=3D=22mobi-hero-Liquidity=22 width=
+=3D=22527=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                                <tr>
+                                  <td align=3D=22left=22 valign=3D=22top=22=
+ width=3D=2210=22 style=3D=22font-family:Arial, Helvetica, sans-serif; font=
+-size:14px; color:=23464646; -webkit-text-size-adjust:none; padding:0 0 5px=
+ 20px;=22>&bull;&nbsp;</td>
+                                  <td align=3D=22left=22 valign=3D=22top=22=
+ style=3D=22font-family:Arial, Helvetica, sans-serif; font-size:14px; color=
+:=23464646; -webkit-text-size-adjust:none; padding:0 10px 5px 0;=22><a href=
+=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7=
+iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRADTT&_ei_=3DEolaGGF4SNMvxF=
+F7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVN0n=
+X2tdlpDWmri9CYz3PasWYWpeEmq6CClYxIVQ1nRkuVDJXOLVXHDy08y3Eh6VgvUR1r9cRyas0bi=
+WZidzROqAwUkaB3hMPfs7pr8yP5sxqSlxxJp014roZfGTq5vb0ZBw2aVcoVtUUOB6U_o4Z9xLwE=
+iheJqpUnUY8hqFrF3y91uxa-sTYQU0OP09Fgso-9a1X3aLiz5pD7xIXF-AaBLPTkuKoBgAYTC6t=
+xVcHpulNuCxdSqDprhFXWUz1GLBroszRbdWZE=2E=22 style=3D=22color:=23464646; tex=
+t-decoration:none=22>Sign in to your online profile</a></td>
+                                </tr>
+                                <tr>
+                                  <td align=3D=22left=22 valign=3D=22top=22=
+ width=3D=2210=22 style=3D=22font-family:Arial, Helvetica, sans-serif; font=
+-size:14px; color:=23464646; -webkit-text-size-adjust:none; padding:0 0 5px=
+ 20px;=22>&bull;&nbsp;</td>
+                                  <td align=3D=22left=22 valign=3D=22top=22=
+ style=3D=22font-family:Arial, Helvetica, sans-serif; font-size:14px; color=
+:=23464646; -webkit-text-size-adjust:none; padding:0 10px 5px 0;=22><a href=
+=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7=
+iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRADTT&_ei_=3DEolaGGF4SNMvxF=
+F7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVN0n=
+X2tdlpDWmri9CYz3PasWYWpeEmq6CClYxIVQ1nRkuVDJXOLVXHDy08y3Eh6VgvUR1r9cRyas0bi=
+WZidzROqAwUkaB3hMPfs7pr8yP5sxqSlxxJp014roZfGTq5vb0ZBw2aVcoVtUUOB6U_o4Z9xLwE=
+iheJqpUnUY8hqFrF3y91uxa-sTYQU0OP09Fgso-9a1X3aLiz5pD7xIXF-AaBLPTkuKoBgAYTC6t=
+xVcHpulNuCxdSqDprhFXWUz1GLBroszRbdWZE=2E=22 style=3D=22color:=23464646; tex=
+t-decoration:none=22>Add qualifying item(s) to your cart</a></td>
+                                </tr>
+                                <tr>
+                                  <td align=3D=22left=22 valign=3D=22top=22=
+ width=3D=2210=22 style=3D=22font-family:Arial, Helvetica, sans-serif; font=
+-size:14px; color:=23464646; -webkit-text-size-adjust:none; padding:0 0 30p=
+x 20px;=22>&bull;&nbsp;</td>
+                                  <td align=3D=22left=22 valign=3D=22top=22=
+ style=3D=22font-family:Arial, Helvetica, sans-serif; font-size:14px; color=
+:=23464646; -webkit-text-size-adjust:none; padding:0 10px 30px 0;=22><a hre=
+f=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO=
+7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRADTT&_ei_=3DEolaGGF4SNMvx=
+FF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVN0=
+nX2tdlpDWmri9CYz3PasWYWpeEmq6CClYxIVQ1nRkuVDJXOLVXHDy08y3Eh6VgvUR1r9cRyas0b=
+iWZidzROqAwUkaB3hMPfs7pr8yP5sxqSlxxJp014roZfGTq5vb0ZBw2aVcoVtUUOB6U_o4Z9xLw=
+EiheJqpUnUY8hqFrF3y91uxa-sTYQU0OP09Fgso-9a1X3aLiz5pD7xIXF-AaBLPTkuKoBgAYTC6=
+txVcHpulNuCxdSqDprhFXWUz1GLBroszRbdWZE=2E=22 style=3D=22color:=23464646; te=
+xt-decoration:none=22>During checkout, click =22Redeem My Reward Points=22<=
+/a></td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                        <table id=3D=22mobi-hero-Liquidity=22 width=3D=2263=
+4=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                          <tr>
+                            <td class=3D=22block=22 align=3D=22center=22 va=
+lign=3D=22top=22><a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gz=
+c2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRAD=
+TT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-=
+dCdgGzbxpp1hqAYTfUrmVN0nX2tdlpDWmri9CYz3PasWYWpeEmq6CClYxIVQ1nRkuVDJXOLVXHD=
+y08y3Eh6VgvUR1r9cRyas0biWZidzROqAwUkaB3hMPfs7pr8yP5sxqSlxxJp014roZfGTq5vb0Z=
+Bw2aVcoVtUUOB6U_o4Z9xLwEiheJqpUnUY8hqFrF3y91uxa-sTYQU0OP09Fgso-9a1X3aLiz5pD=
+7xIXF-AaBLPTkuKoBgAYTC6txVcHpulNuCxdSqDprhFXWUz1GLBroszRbdWZE=2E=22><img sr=
+c=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/content=
+library/=21promotional_liquidity/=212015liquidityrefresh/images/11212014_Tr=
+iggere_LiquidityRefreshPhase2_700px_V1_LayeredFinal_52=2Ejpg=22 width=3D=22=
+107=22 height=3D=2290=22 border=3D=220=22 style=3D=22display:block;=22 /></=
+a></td>
+                            <td class=3D=22block=22 align=3D=22center=22 va=
+lign=3D=22top=22>
+                            	<table id=3D=22mobi-hero-Liquidity=22 width=3D=
+=22527=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                                <tr>
+                                  <td align=3D=22left=22 valign=3D=22top=22=
+ style=3D=22font-family:Arial, Helvetica, sans-serif; font-size:16px; color=
+:=23464646; -webkit-text-size-adjust:none; padding:0 0 10px 20px;=22><a hre=
+f=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO=
+7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRADTT&_ei_=3DEolaGGF4SNMvx=
+FF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVN0=
+nX2tdlpDWmri9CYz3PasWYWpeEmq6CClYxIVQ1nRkuVDJXOLVXHDy08y3Eh6VgvUR1r9cRyas0b=
+iWZidzROqAwUkaB3hMPfs7pr8yP5sxqSlxxJp014roZfGTq5vb0ZBw2aVcoVtUUOB6U_o4Z9xLw=
+EiheJqpUnUY8hqFrF3y91uxa-sTYQU0OP09Fgso-9a1X3aLiz5pD7xIXF-AaBLPTkuKoBgAYTC6=
+txVcHpulNuCxdSqDprhFXWUz1GLBroszRbdWZE=2E=22 style=3D=22color:=23464646; te=
+xt-decoration:none=22><strong>IN STORE</strong> (You'll need your PIN*=2E)<=
+/a></td>
+                                </tr>
+                              </table>
+                              <table id=3D=22mobi-hero-Liquidity=22 width=
+=3D=22527=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                                <tr>
+                                  <td align=3D=22left=22 valign=3D=22top=22=
+ width=3D=2210=22 style=3D=22font-family:Arial, Helvetica, sans-serif; font=
+-size:14px; color:=23464646; -webkit-text-size-adjust:none; padding:0 0 5px=
+ 20px;=22>&bull;&nbsp;</td>
+                                  <td align=3D=22left=22 valign=3D=22top=22=
+ style=3D=22font-family:Arial, Helvetica, sans-serif; font-size:14px; color=
+:=23464646; -webkit-text-size-adjust:none; padding:0 10px 5px 0;=22><a href=
+=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7=
+iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRADTT&_ei_=3DEolaGGF4SNMvxF=
+F7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVN0n=
+X2tdlpDWmri9CYz3PasWYWpeEmq6CClYxIVQ1nRkuVDJXOLVXHDy08y3Eh6VgvUR1r9cRyas0bi=
+WZidzROqAwUkaB3hMPfs7pr8yP5sxqSlxxJp014roZfGTq5vb0ZBw2aVcoVtUUOB6U_o4Z9xLwE=
+iheJqpUnUY8hqFrF3y91uxa-sTYQU0OP09Fgso-9a1X3aLiz5pD7xIXF-AaBLPTkuKoBgAYTC6t=
+xVcHpulNuCxdSqDprhFXWUz1GLBroszRbdWZE=2E=22 style=3D=22color:=23464646; tex=
+t-decoration:none=22>Take qualifying item(s) to checkout and provide your m=
+ember number, email or phone number</a></td>
+                                </tr>
+                                <tr>
+                                  <td align=3D=22left=22 valign=3D=22top=22=
+ width=3D=2210=22 style=3D=22font-family:Arial, Helvetica, sans-serif; font=
+-size:14px; color:=23464646; -webkit-text-size-adjust:none; padding:0 0 5px=
+ 20px;=22>&bull;&nbsp;</td>
+                                  <td align=3D=22left=22 valign=3D=22top=22=
+ style=3D=22font-family:Arial, Helvetica, sans-serif; font-size:14px; color=
+:=23464646; -webkit-text-size-adjust:none; padding:0 10px 5px 0;=22><a href=
+=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7=
+iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRADTT&_ei_=3DEolaGGF4SNMvxF=
+F7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVN0n=
+X2tdlpDWmri9CYz3PasWYWpeEmq6CClYxIVQ1nRkuVDJXOLVXHDy08y3Eh6VgvUR1r9cRyas0bi=
+WZidzROqAwUkaB3hMPfs7pr8yP5sxqSlxxJp014roZfGTq5vb0ZBw2aVcoVtUUOB6U_o4Z9xLwE=
+iheJqpUnUY8hqFrF3y91uxa-sTYQU0OP09Fgso-9a1X3aLiz5pD7xIXF-AaBLPTkuKoBgAYTC6t=
+xVcHpulNuCxdSqDprhFXWUz1GLBroszRbdWZE=2E=22 style=3D=22color:=23464646; tex=
+t-decoration:none=22>Tell the associate how many points you'd like to use, =
+including surprise <br class=3D=22hide=22 />points&mdash;or just say all=21=
+</a></td>
+                                </tr>
+                                <tr>
+                                  <td align=3D=22left=22 valign=3D=22top=22=
+ width=3D=2210=22 style=3D=22font-family:Arial, Helvetica, sans-serif; font=
+-size:14px; color:=23464646; -webkit-text-size-adjust:none; padding:0 0 5px=
+ 20px;=22>&bull;&nbsp;</td>
+                                  <td align=3D=22left=22 valign=3D=22top=22=
+ style=3D=22font-family:Arial, Helvetica, sans-serif; font-size:14px; color=
+:=23464646; -webkit-text-size-adjust:none; padding:0 10px 0 0;=22><a href=
+=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7=
+iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRADTT&_ei_=3DEolaGGF4SNMvxF=
+F7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVN0n=
+X2tdlpDWmri9CYz3PasWYWpeEmq6CClYxIVQ1nRkuVDJXOLVXHDy08y3Eh6VgvUR1r9cRyas0bi=
+WZidzROqAwUkaB3hMPfs7pr8yP5sxqSlxxJp014roZfGTq5vb0ZBw2aVcoVtUUOB6U_o4Z9xLwE=
+iheJqpUnUY8hqFrF3y91uxa-sTYQU0OP09Fgso-9a1X3aLiz5pD7xIXF-AaBLPTkuKoBgAYTC6t=
+xVcHpulNuCxdSqDprhFXWUz1GLBroszRbdWZE=2E=22 style=3D=22color:=23464646; tex=
+t-decoration:none=22>Enter your PIN on the keypad</a></td>
+                                </tr>
+                                <tr>
+                                  <td align=3D=22left=22 valign=3D=22top=22=
+ width=3D=2210=22 style=3D=22font-family:Arial, Helvetica, sans-serif; font=
+-size:14px; color:=23464646; -webkit-text-size-adjust:none; padding:0 0 5px=
+ 20px;=22>&bull;&nbsp;</td>
+                                  <td align=3D=22left=22 valign=3D=22top=22=
+ style=3D=22font-family:Arial, Helvetica, sans-serif; font-size:14px; color=
+:=23464646; -webkit-text-size-adjust:none; padding:0 10px 0 0;=22><a href=
+=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7=
+iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRADTT&_ei_=3DEolaGGF4SNMvxF=
+F7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVN0n=
+X2tdlpDWmri9CYz3PasWYWpeEmq6CClYxIVQ1nRkuVDJXOLVXHDy08y3Eh6VgvUR1r9cRyas0bi=
+WZidzROqAwUkaB3hMPfs7pr8yP5sxqSlxxJp014roZfGTq5vb0ZBw2aVcoVtUUOB6U_o4Z9xLwE=
+iheJqpUnUY8hqFrF3y91uxa-sTYQU0OP09Fgso-9a1X3aLiz5pD7xIXF-AaBLPTkuKoBgAYTC6t=
+xVcHpulNuCxdSqDprhFXWUz1GLBroszRbdWZE=2E=22 style=3D=22color:=23464646; tex=
+t-decoration:none=22>Your redemption amount will be subtracted from your to=
+tal</a></td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                        <table border=3D=220=22 cellspacing=3D=220=22 cellp=
+adding=3D=220=22>
+                          <tr>
+                            <td align=3D=22center=22 valign=3D=22top=22 sty=
+le=3D=22font-family:Arial, Helvetica, sans-serif; font-size:11px; color:=23=
+464646; -webkit-text-size-adjust:none; padding:30px 10px 30px 10px;=22><a h=
+ref=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGre=
+NO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRADWT&_ei_=3DEolaGGF4SNM=
+vxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmV=
+N0nX2tdlpDWmri9CYz3PasWYWpeEmq6CClYxIVQ1nRkuVDJXOLVXHDy08y3Eh6VgvUR1r9cRyas=
+0biWZidzROqAwUkaB3hMPfs7pr8yP5sxqSlxxJp014roZfGTq5vb0ZBw2aVcoVtUUOB6U_o4Z9x=
+LwEiheJqpUnUY8hqFrF3y91uxa-sTYQU0OP09Fgso-9a1X3aLiz5pD7xIXF-AaBLPTkuKoBgAYT=
+C6txVcHpulNuCxdSqDprhFXWUz1GLBroszRbdWZE=2E=22 style=3D=22color:=23464646; =
+text-decoration:none=22>*To see your member number and PIN, <u>click here</=
+u>=2E <br class=3D=22hide=22 />No PIN needed to redeem =2410 in points (10,=
+000 points) or less=2E</a></td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+
+
+               <=21-- hero ends -->   =20
+          </td>
+        </tr>
+      </table>
+            <=21-- storewide banner/content bin wrapper ends -->
+<=21-- //////////////////// END CONTENT //////////////////// -->    =20
+          </td>
+        </tr>
+      </table>
+      <=21-- main content wrapper ends -->
+      <=21-- begin footer container -->
+
+
+
+<=21-- body wrapper -->
+      <=21-- begin footer container -->
+      <table class=3D=22footer-resize=22 align=3D=22center=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22 width=3D=22700=22 border=3D=220=22>
+        <tr>
+          <td align=3D=22center=22 valign=3D=22top=22 style=3D=22padding:0;=
+=22>
+           <=21-- footer links -->
+           <table class=3D=22footer-resize=22 width=3D=22700=22 border=3D=
+=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+             <tr>
+               <td class=3D=22legal-links=22 align=3D=22center=22 valign=3D=
+=22top=22 style=3D=22font-family:Arial, Helvetica, sans-serif; color:=23aca=
+cac; font-size:11px; -webkit-text-size-adjust:none; padding:12px 0; text-tr=
+ansform:uppercase;=22><a style=3D=22color:=23acacac; text-decoration:none;=
+=22 href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJl=
+TQGreNO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRADAT&_ei_=3DEolaGG=
+F4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYT=
+fUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLhuwWZdMD_1rm1xIDe9dwysRuT-1=
+gda59QOKMnxQpREAx65Gd-C2kwiUV1YelxRj59sqbm3-3I6GA3K_kvMvC2j82Nef52VauLepQYW=
+T_UH6-lgz9q-DqRT5ux90h8e7Xt2DJ7qiJQKuF8QWid3tVpniNm6_JeX_c46ZzAZtpf1Ok9TTNS=
+s9YgKkbqDN82EK5cMx3OeceyuG11ootSvQk_GsDQn1cXK1H_OyeBFFQBMm8D9HB1Uw7MfSMXzV8=
+PuIDyq5FSt7IujTASlXAUs7_iuU1NdGu37a-iFWjRe4IV_LPgO0B-j_zezYIfBsAkOP8u3aKGXr=
+DbDmF9FvMM4bn7O9l1ePDMY8faduxBG1ce-Zzrpo5h1XHdXsZLLrnDisXsNvlz_JN2E1ErfGKVs=
+lM37aeJOQMF5l_08a-JnlOUcI2sXUuUW7ffYtQeGqI6KuXnVyfJbf3u8NS41YqNyZoSZGorB4Uo=
+ECu6jI2T2X6VAy32toc5oA3J8rTSn8hh4Xl84CZ5EtRl9ZO0jMXE95Je44VnLEb4F-RE0=2E=22=
+ rilt=3D=22unsubscribe=22>UNSUBSCRIBE</a> &nbsp;&nbsp;=7C&nbsp;&nbsp; <a st=
+yle=3D=22color:=23acacac; text-decoration:none;=22 href=3D=22https://sywr=
+=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9EBqqfRXHi=
+I5OUBF4zbelnXpLzdzaVXtpKX%3DTYRADCT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0=
+M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453A=
+MrTW57tkuiv1tV0-qo5ihLhuwWZdMD_1rm1xIDe9dwysRuT-1gda59QOKMnxQpREAx65Gd-C2kw=
+iUV1YelxRj59sqbm3-3I6GA3K_kvMvC2j82Nef52VauLepQYWT_UH6ZF3qq5G50Vm5dHFw7Qhx1=
+pN3kI4hfEFLKJS8THRhYe2PeXwO__2n4v3fosLVW1a_sgMPl0yx4OHbAmQaM-rQ4evcFRZ_RCpi=
+tj2CxRgEKMg35GUAPi0=2E=22 rilt=3D=22about_shc=22>ABOUT SHC</a> &nbsp;&nbsp;=
+=7C&nbsp;&nbsp; <a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc=
+2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRBRR=
+T&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-d=
+CdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLhuwWZdMD_1rm=
+1xIDe9dwysRuT-1gda59QOKMnxQpREAx65Gd-C2kwiUV1YelxRj59sqbm3-3I6GA3K_kvMvC2j8=
+2Nef52VauLepQYWT_UH6ZF3qq5G50Vm5dHFw7Qhx1pN3kI4hfEFLKJS8THRhYe2PeXwO__2n4v3=
+fosLVW1a_sgMPl0yx4OHbAmQaM-rQ4evcFRZ_RCpitj2CxRgEKMg35GUAPi0=2E=22 rilt=3D=
+=22terms_conditions=22 style=3D=22color:=23acacac; text-decoration:none;=22=
+>PROGRAM TERMS AND CONDITIONS</a> &nbsp;&nbsp;=7C&nbsp;&nbsp; <a href=3D=22=
+https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7iAGzeX=
+aO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRBRTT&_ei_=3DEolaGGF4SNMvxFF7KucK=
+uWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqN=
+McqQVAWE453AMrTW57tkuiv1tV0-qo5ihLhuwWZdMD_1rm1xIDe9dwysRuT-1gda59QOKMnxQpR=
+EAx65Gd-C2kwiUV1YelxRj59sqbm3-3I6GA3K_kvMvC2j82Nef52VauLepQYWT_UH6ZF3qq5G50=
+Vm5dHFw7Qhx1pN3kI4hfEFLKJS8THRhYe2PeXwO__2n4v3fosLVW1a_sgMPl0yx4OHbAmQaM-rQ=
+4evcFRZ_RCpitj2CxRgEKMg35GUAPi0=2E=22 rilt=3D=22terms_use=22 style=3D=22col=
+or:=23acacac; text-decoration:none;=22>TERMS OF USE</a></td>
+             </tr>
+             <tr>
+               <td class=3D=22legal-links=22 align=3D=22center=22 valign=3D=
+=22top=22 style=3D=22font-family:Arial, Helvetica, sans-serif; color:=23aca=
+cac; font-size:11px; -webkit-text-size-adjust:none; padding:0 0 12px 0;=22>=
+<a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlT=
+QGreNO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRBRWT&_ei_=3DEolaGGF=
+4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTf=
+UrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLhuwWZdMD_1rm1xIDe9dwysRuT-1g=
+da59QOKMnxQpREAx65Gd-C2kwiUV1YelxRj59sqbm3-3I6GA3K_kvMvC2j82Nef52VauLepQYWT=
+_UH6ZF3qq5G50Vm5dHFw7Qhx1pN3kI4hfEFLKJS8THRhYe2PeXwO__2n4v3fosLVW1a_sgMPl0y=
+x4OHbAmQaM-rQ4evcFRZ_RCpitj2CxRgEKMg35GUAPi0=2E=22 rilt=3D=22privacy_policy=
+=22 style=3D=22color:=23acacac; text-decoration:none;=22>PRIVACY POLICY</a>=
+ &nbsp;&nbsp;=7C&nbsp;&nbsp; <a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc=
+?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVX=
+tpKX%3DTYRBRAT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z5=
+2r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ih=
+LhuwWZdMD_1rm1xIDe9dwysRuT-1gda59QOKMnxQpREAx65Gd-C2kwiUV1YelxRj59sqbm3-3I6=
+GA3K_kvMvC2j82Nef52VauLepQYWT_UH6ZF3qq5G50Vm5dHFw7Qhx1pN3kI4hfEFLKJS8THRhYe=
+2PeXwO__2n4v3fosLVW1a_sgMPl0yx4OHbAmQaM-rQ4evcFRZ_RCpitj2CxRgEKMg35GUAPi0=
+=2E=22 rilt=3D=22ca_privacy_policy=22 style=3D=22color:=23acacac; text-deco=
+ration:none;=22>CALIFORNIA PRIVACY POLICY</a> &nbsp;&nbsp;=7C&nbsp;&nbsp; <=
+a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQ=
+GreNO7iAGzeXaO9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRBRCT&_ei_=3DEolaGGF4=
+SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfU=
+rmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLhuwWZdMD_1rm1xIDe9dwysRuT-1gd=
+a59QOKMnxQpREAx65Gd-C2kwiUV1YelxRj59sqbm3-3I6GA3K_kvMvC2j82Nef52VauLepQYWT_=
+UH6ZF3qq5G50Vm5dHFw7Qhx1pN3kI4hfEFLKJS8THRhYe2PeXwO__2n4v3fosLVW1a_sgMPl0yx=
+4OHbAmQaM-rQ4evcFRZ_RCpitj2CxRgEKMg35GUAPi0=2E=22 rilt=3D=22contact_us=22 s=
+tyle=3D=22color:=23acacac; text-decoration:none;=22>CONTACT US</a></td>
+             </tr>
+           </table>
+           <=21-- footer links ends -->
+          <table class=3D=22footer-resize=22 width=3D=22700=22 border=3D=22=
+0=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+             <tr>
+               <td align=3D=22center=22 valign=3D=22top=22 style=3D=22font-=
+family:Arial, Helvetica, sans-serif; color:=23acacac; font-size:10px; -webk=
+it-text-size-adjust:none; padding:12px 0 0 0;=22>
+<table width=3D=2210=22 border=3D=220=22 cellpadding=3D=220=22 cellspacing=
+=3D=220=22>
+  <tr>
+    <td align=3D=22right=22><a style=3D=22color:=23acacac;=22 href=3D=22htt=
+ps://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9=
+EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRBSRT&_ei_=3DEolaGGF4SNMvxFF7KucKuWN=
+HvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcq=
+QVAWE453AMrTW57tkuiv1tV0-qo5ihLhuwWZdMD_1rm1xIDe9dwysRuT-1gda59QOKMnxQpREAx=
+65Gd-C2kwiUV1YelxRj59sqbm3-3I6GA3K_kvMvC2j82Nef52VauLepQYWT_UH6ZF3qq5G50Vm5=
+dHFw7Qhx1pN3kI4hfEFLKJS8THRhYe2PeXwO__2n4v3fosLVW1a_sgMPl0yx4OHbAmQaM-rQ4ev=
+cFRZ_RCpitj2CxRgEKMg35GUAPi0=2E=22  rilt=3D=22syw_footer_logo=22><img src=
+=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/contentl=
+ibrary/oldcontent/=21storewide_templates/syw_content_700px_cobranded_footer=
+_syw=2Eimages/2014_syw=2Ejpg=22 alt=3D=22Shop Your Way&reg;=22 style=3D=22d=
+isplay:inline;=22 border=3D=220=22 ></a></td>
+    <td align=3D=22center=22><a style=3D=22color:=23acacac;=22 href=3D=22ht=
+tps://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7iAGzeXaO=
+9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRBSWT&_ei_=3DEolaGGF4SNMvxFF7KucKuW=
+NHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMc=
+qQVAWE453AMrTW57tkuiv1tV0-qo5ihLhuwWZdMD_1rm1xIDe9dwysRuT-1gda59QOKMnxQpREA=
+x65Gd-C2kwiUV1YelxRj59sqbm3-3I6GA3K_kvMvC2j82Nef52VauLepQYWT_UH6ZF3qq5G50Vm=
+5dHFw7Qhx1pN3kI4hfEFLKJS8THRhYe2PeXwO__2n4v3fosLVW1a_sgMPl0yx4OHbAmQaM-rQ4e=
+vcFRZ_RCpitj2CxRgEKMg35GUAPi0=2E=22 rilt=3D=22facebook=22><img src=3D=22htt=
+ps://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/contentlibrary/ol=
+dcontent/=21storewide_templates/syw_content_700px_cobranded_footer_syw=2Eim=
+ages/2014_facebook=2Ejpg=22 alt=3D=22Facebook=22 style=3D=22display:inline;=
+=22 border=3D=220=22 /></a></td>
+    <td align=3D=22left=22><a style=3D=22color:=23acacac;=22 href=3D=22http=
+s://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9E=
+BqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRBSAT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNH=
+vC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQ=
+VAWE453AMrTW57tkuiv1tV0-qo5ihLhuwWZdMD_1rm1xIDe9dwysRuT-1gda59QOKMnxQpREAx6=
+5Gd-C2kwiUV1YelxRj59sqbm3-3I6GA3K_kvMvC2j82Nef52VauLepQYWT_UH6ZF3qq5G50Vm5d=
+HFw7Qhx1pN3kI4hfEFLKJS8THRhYe2PeXwO__2n4v3fosLVW1a_sgMPl0yx4OHbAmQaM-rQ4evc=
+FRZ_RCpitj2CxRgEKMg35GUAPi0=2E=22 rilt=3D=22twitter=22><img src=3D=22https:=
+//responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/contentlibrary/oldco=
+ntent/=21storewide_templates/syw_content_700px_cobranded_footer_syw=2Eimage=
+s/2014_twitter=2Ejpg=22 alt=3D=22Twitter=22 style=3D=22display:inline;=22 b=
+order=3D=220=22 /></a></td>
+  </tr>
+</table></td>
+             </tr>
+           </table>
+            <=21-- legal begins -->
+            <table class=3D=22footer-resize=22 width=3D=22700=22 border=3D=
+=220=22 align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+              <tr>
+                <td class=3D=22mobi-legal-text=22 valign=3D=22top=22 align=
+=3D=22center=22 style=3D=22font-family:Arial, Helvetica, sans-serif; color:=
+=23acacac; font-size:10px; line-height:12px; -webkit-text-size-adjust:none;=
+ padding-top:12px; border-top:1px solid =23FFFFFF;=22>Shop with help from y=
+our friends=2E Join <a style=3D=22color:=23acacac;=22 href=3D=22https://syw=
+r=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9EBqqfRXH=
+iI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRBTRT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO=
+0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453=
+AMrTW57tkuiv1tV0-qo5ihLhuwWZdMD_1rm1xIDe9dwysRuT-1gda59QOKMnxQpREAx65Gd-C2k=
+wiUV1YelxRj59sqbm3-3I6GA3K_kvMvC2j82Nef52VauLepQYWT_UH6ZF3qq5G50Vm5dHFw7Qhx=
+1pN3kI4hfEFLKJS8THRhYe2PeXwO__2n4v3fosLVW1a_sgMPl0yx4OHbAmQaM-rQ4evcFRZ_RCp=
+itj2CxRgEKMg35GUAPi0=2E=22 rilt=3D=22syw_join=22>Shop Your Way</a>&reg; and=
+ explore a vast interactive shopping community=21<br />
+                  <br />
+                  <strong>By accepting Shop Your Way member benefits and of=
+fers, you agree to the Shop Your Way terms and conditions, available at <a =
+style=3D=22color:=23acacac; text-decoration:underline;=22 href=3D=22https:/=
+/sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9EBqq=
+fRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRBTTT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_=
+sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAW=
+E453AMrTW57tkuiv1tV0-qo5ihLhuwWZdMD_1rm1xIDe9dwysRuT-1gda59QOKMnxQpREAx65Gd=
+-C2kwiUV1YelxRj59sqbm3-3I6GA3K_kvMvC2j82Nef52VauLepQYWT_UH6ZF3qq5G50Vm5dHFw=
+7Qhx1pN3kI4hfEFLKJS8THRhYe2PeXwO__2n4v3fosLVW1a_sgMPl0yx4OHbAmQaM-rQ4evcFRZ=
+_RCpitj2CxRgEKMg35GUAPi0=2E=22 rilt=3D=22syw_terms=22>www=2Eshopyourway=2Ec=
+om/terms=2E</a></strong><br />
+                  <br />
+                  If you believe you received this email in error, contact =
+us at Shop Your Way, 1&=23x2011;800&=23x2011;991&=23x2011;8708, where our h=
+elpful staff will verify your enrollment in our program=2E <br />
+                  <br />
+                  Base points are earned on everyday qualifying purchases: =
+10 points for every =241 spent, valid for 12 months once received=2E Bonus =
+points are promotional points earned in addition to base points on specifie=
+d promotional offers, valid for 90 days once received unless otherwise spec=
+ified=2E For the most up-to-date points status please visit <a href=3D=22ht=
+tps://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7iAGzeXaO=
+9EBqqfRXHiI5OUBF4zbelnXpLzdzaVXtpKX%3DTYRBTWT&_ei_=3DEolaGGF4SNMvxFF7KucKuW=
+NHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMc=
+qQVAWE453AMrTW57tkuiv1tV0-qo5ihLhuwWZdMD_1rm1xIDe9dwysRuT-1gda59QOKMnxQpREA=
+x65Gd-C2kwiUV1YelxRj59sqbm3-3I6GA3K_kvMvC2j82Nef52VauLepQYWT_UH6ZF3qq5G50Vm=
+5dHFw7Qhx1pN3kI4hfEFLKJS8THRhYe2PeXwO__2n4v3fosLVW1a_sgMPl0yx4OHbAmQaM-rQ4e=
+vcFRZ_RCpitj2CxRgEKMg35GUAPi0=2E=22 rilt=3D=22syw_legal=22 style=3D=22color=
+:=23acacac; text-decoration:underline;=22>shopyourway=2Ecom</a>=2E <br /><b=
+r />
+                  Offers featured above will be updated automatically to cu=
+rrent offers within 48 hours=2E New valid offers may not match the subject =
+line in your inbox=2E<br><br>
+
+<=21-- Only vid in ' yes_legalAssociateVids'  list on D&V -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Offer points cannot be used on Food, Household Cleaning, Beauty and Health =
+Care, Fragrances, Cosmetics, Office and School Supplies, Batteries, Party S=
+upplies sold in the Greeting Card department, Books and Magazines, Prescrip=
+tions, Pharmacy, Alcohol and Tobacco items=2E<br><br>
+
+                  Any use of the term =22partner=22 in this material is int=
+ended to convey a valued business relationship, and does not indicate the e=
+xistence of a legal partnership, joint agency or other relationship involvi=
+ng shared ownership or shared liability with Sears Holdings Corp=2E or any =
+of its affiliates=2E   <br />
+                  <br />
+                  Offers, products and assortments may vary by store=2E<br =
+/>
+                  <br />
+                  <strong>This is an advertisement=2E</strong> Sears Holdin=
+gs Corporation shall not be held liable for errors or omissions in pricing=
+=2E<br>
+                  In the event of an error, we will make every effort to ac=
+commodate our customers=2E <br />
+                  <br />
+                <span class=3D=22appleFooterLinks=22>&copy; 2015 Sears Bran=
+ds, LLC, 3333 Beverly Road, Hoffman Estates, IL 60179=2E All Rights Reserve=
+d=2E</span></td>
+              </tr>
+            </table>
+
+</td>
+  </tr>
+</table>
+
+            <=21-- legal ends -->
+          </td>
+        </tr>
+      </table>
+      <=21-- footer container ends -->
+
+<=21-- body wrapper ends -->
+</td></tr></table>
+
+<=21-- Responsys Display Pixel -->
+  <img src=3D=22http://ib=2Eadnxs=2Ecom/getuid?http://a=2Eadrsp=2Enet/dsp/c=
+e/1/E9kCj5kiDmvSip0TDQdN1jk/%24UID/X/Ee8vaxPeCCILem9cj3NSHEeRAgUYDDnEKCc/_?=
+http://tag=2Eyieldoptimizer=2Ecom/ps/ps?t=3Di&p=3D1222&u=3D261753595=22 wid=
+th=3D=221=22 height=3D=221=22 />
+
+<=21-- SYW Display Ad Pixel -->
+<img src=3D=22http://sears=2Edemdex=2Enet/event?d_sid=3D1179425=22 width=3D=
+=220=22 height=3D=220=22 />
+
+<=21-- Display Ad Pixel -->
+<img src=3D=22http://dpm=2Edemdex=2Enet/ibs:dpid=3D527&dpuuid=3DEmail_ID=22=
+ width=3D=220=22 height=3D=220=22 />
+</body></html>
+<br>
+<br><img border=3D=220=22 width=3D=221=22 height=3D=221=22 src=3D=22https:/=
+/sywr=2Ersys2=2Enet/pub/as?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGreNO7iAGzeXaO9EBqq=
+fRXHiI5OUBF4zbelnXpLzdzaVXHkMX%3Dw&_ei_=3DEvT_BKMCxq5rxc6uAmd0U_rVZYcRJdIjq=
+c80Vvjl8NG-fD_4I5srGJ87P8sAliwFs4LDPbpb0ZO5XONPcrlOZZeQgXLewLa-tUwi9hyNnvm9=
+faT3q1JdHQadrJfnsxnqB8RPd-zgCCCtdmdVGLSkLgclN9AvtFFvhx68NFpUIhVw2BliM9Qnc88=
+7dLqCSfYjvG4AA4mUiA5wckdY6RpUJfsPWg8D23lDqiwPJop6-1R9gKwjsMXBnjG2Gl__wYpgJH=
+Jdp9Dp81Rc9Mn8OWSjfmZc_ezMsFbxilBumsbFMzX6Atm1sjvxkzV8MRZy2Lf8DuJjO22g6XTVJ=
+fdrBhT28wJ0QmdYOIQ=2E=22>
+<br><img border=3D=220=22 width=3D=223=22 height=3D=223=22 src=3D=22http://=
+ib=2Eadnxs=2Ecom/getuid?http://a=2Eadrsp=2Enet/dsp/ci/2/EdKPd-Z-GCAn62fWHks=
+6cTp6OXpbeY4PjkoKEfcge1N57xOgs5EWoyMaRS6WCx4XLrFwO42wRobR2Fajc8FuWzrJGonK-8=
+4/%24UID=22>
+
+

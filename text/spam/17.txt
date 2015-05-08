@@ -1,0 +1,381 @@
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Transitional//EN=22 =22h=
+ttp://www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd=22>
+<html xmlns=3D=22http://www=2Ew3=2Eorg/1999/xhtml=22>
+<head>
+<meta http-equiv=3D=22Content-Type=22 content=3D=22text/html; charset=3DUTF=
+-8=22/>
+<meta name=3D=22format-detection=22 content=3D=22telephone=3Dno=22 />
+<meta name=3D=22viewport=22 content=3D=22width=3Ddevice-width; initial-scal=
+e=3D1=2E0; maximum-scale=3D1=2E0; user-scalable=3Dno;=22 />
+<meta http-equiv=3D=22X-UA-Compatible=22 content=3D=22IE=3D9; IE=3D8; IE=3D=
+7; IE=3DEDGE=22 />
+<title>Abercrombie &amp; Fitch</title>
+<style type=3D=22text/css=22>
+/* Some resets and issue fixes */
+
+
+html =7B
+	-webkit-text-size-adjust: none;
+=7D
+=2EReadMsgBody =7B
+	width: 100%;
+=7D
+=2EExternalClass =7B
+	width: 100%;
+=7D
+=2EExternalClass * =7B
+	line-height: 100%
+=7D
+body =7B
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	margin: 0 auto;
+=7D
+/* End reset */
+
+
+
+/* CSS for hiding content in desktop/webmail clients */
+=2Eapplenoblue a =7B
+	color: =23333333 =21important;
+	text-decoration: none;
+=7D
+=7D</style>
+</head>
+<body style=3D=22margin:0; padding:0;=22>
+<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cellpaddin=
+g=3D=220=22 align=3D=22center=22 bgcolor=3D=22=23212121=22>
+  <tr>
+    <td valign=3D=22top=22 align=3D=22center=22><=21-- margin -->
+     =20
+      <table border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+        <tr>
+          <td height=3D=2220=22 style=3D=22line-height:20px; font-size:0px;=
+=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages=
+/abercrombie/contentlibrary/201504_week5/0503_ANF_USCAN/images/sp=2Epng=22 =
+width=3D=221=22 height=3D=2220=22 border=3D=220=22 style=3D=22display:block=
+;=22 /></td>
+        </tr>
+      </table>
+     =20
+      <=21--/margin -->
+     =20
+      <table width=3D=22570=22 border=3D=220=22 cellpadding=3D=220=22 cells=
+pacing=3D=220=22>
+        <tr>
+          <td align=3D=22left=22 valign=3D=22top=22 style=3D=22color:=23666=
+666; font-size: 10px; line-height: 14px; font-family: Arial, Helvetica, san=
+s-serif;=22><a href=3D=22https://e=2Eabercrombie=2Ecom/pub/cc?_ri_=3DX0Gzc2=
+X%3DWQpglLjHJlTQGtfuScPbsdKozapocgT9tWS0gpJhdCBuwGOVXtpKX%3DTSSSWT&_ei_=3DE=
+rm0ip4mJtkzGARTTHSZv_UgtyT1LoIvRlSZq6s2k_aAY1HZSdBjfZuKVHYXvZPflsZeOTj4tjxi=
+-LXa7IIAbRiU-7vqtxk5J9_VWJW1XEoVCUSuV9ZJh-Jehg=2E=22 style=3D=22color:=2366=
+6666; text-decoration:none=22 target=3D=22_blank=22> <span style=3D=22color=
+:=23666666;text-decoration:none;=22>Get your wardrobe ready for a hot new S=
+eason=2E</span></a></td>
+          <td align=3D=22right=22 valign=3D=22top=22><table border=3D=220=
+=22 cellpadding=3D=220=22 cellspacing=3D=220=22 align=3D=22right=22>
+              <tr>
+                <td valign=3D=22top=22 align=3D=22right=22 style=3D=22color=
+:=23666666; text-decoration:none; font-size: 10px; line-height: 14px; font-=
+family: Arial, Helvetica, sans-serif;=22> View on <a href=3D=22https://e=2E=
+abercrombie=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGtfuScPbsdKozapocgT9t=
+WS0gpJhdCBuwGOVXtpKX%3DTSSRCT&_ei_=3DEgUJGF5uU7XBZmWTWaMoSUOj2i_JKCQ_a5Rp08=
+JRpGVZCxxbPdnPT_x_Iwi9JW_X5D7nystIJB4srOprWfbCD76f-eZMXOyQ1hfQfupvgCu_LFAD8=
+xA5VAym3_obnVej5cUQS3yeLGKIx-Y5mCjKiRUKwsvIwhaoLP5nqOv265UsQaoLOn6raTY53leX=
+RTOm2TklkL6RaglVl-DxEw=2E=22 style=3D=22color:=23666666; text-decoration:un=
+derline=22 target=3D=22_blank=22> <span style=3D=22color:=23666666;text-dec=
+oration:underline;=22> Web Browser </span> </a></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>
+     =20
+      <=21-- margin -->
+     =20
+      <table border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+        <tr>
+          <td height=3D=2210=22 style=3D=22line-height:10px; font-size:0px;=
+=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages=
+/abercrombie/contentlibrary/201504_week5/0503_ANF_USCAN/images/sp=2Epng=22 =
+width=3D=221=22 height=3D=2210=22 border=3D=220=22 style=3D=22display:block=
+;=22 /></td>
+        </tr>
+      </table>
+     =20
+      <=21--/margin -->
+     =20
+      <table width=3D=22570=22 border=3D=220=22 align=3D=22center=22 cellpa=
+dding=3D=220=22 cellspacing=3D=220=22>
+        <tr>
+          <td align=3D=22left=22 valign=3D=22top=22><a href=3D=22https://e=
+=2Eabercrombie=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGtfuScPbsdKozapocg=
+T9tWS0gpJhdCBuwGOVXtpKX%3DTSSSAT&_ei_=3DErm0ip4mJtkzGARTTHSZv_UgtyT1LoIvRlS=
+Zq6s2k_aAY1HZSdBjfZuKVHYXvZPflsZeOTj4tjxi-LXa7IIAbRiU-7vqtxk5J9_VWJW1XEoVCU=
+SuV9ZJh-Jehg=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/=
+responsysimages/abercrombie/contentlibrary/201504_week5/0503_ANF_USCAN/imag=
+es/0503_ANF_USCAN_shipbanner=2Ejpg=22 width=3D=22451=22 height=3D=2266=22 b=
+order=3D=220=22 alt=3D=22FREE SHIPPING ON ALL ORDERS OVER &=2336;75=22 styl=
+e=3D=22display:block;=22 /></a></td>
+          <td align=3D=22left=22 valign=3D=22top=22><a href=3D=22https://e=
+=2Eabercrombie=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGtfuScPbsdKozapocg=
+T9tWS0gpJhdCBuwGOVXtpKX%3DTSSSRT&_ei_=3DEgUJGF5uU7XBZmWTWaMoSUPQapIlOA3VpZo=
+7VArx0ZKKzCyl-YSfSREBR9ct-CFDNPKEnla_XfbArfD0kfQp5R56_XO87RFNlRO5dmfb1iSzkz=
+O3ugiTK7BIJtbcHdRdx0IwPFcbUaO6gM=2E=22><img src=3D=22https://static=2Ecdn=
+=2Eresponsys=2Enet/i2/responsysimages/abercrombie/contentlibrary/201504_wee=
+k5/0503_ANF_USCAN/images/0503_ANF_USCAN_details1=2Ejpg=22 width=3D=22119=22=
+ height=3D=2266=22 border=3D=220=22 alt=3D=22SEE DETAILS=22 style=3D=22disp=
+lay:block;=22 /></a></td>
+        </tr>
+        <tr>
+          <td align=3D=22left=22 valign=3D=22top=22 colspan=3D=222=22><a hr=
+ef=3D=22https://e=2Eabercrombie=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQG=
+tfuScPbsdKozapocgT9tWS0gpJhdCBuwGOVXtpKX%3DTSSSCT&_ei_=3DErm0ip4mJtkzGARTTH=
+SZv_UgtyT1LoIvRlSZq6s2k_aAY1HZSdBjfZuKVHYXvZPflsZeOTj4tjxi-LXa7IIAbRiU-7vqt=
+xk5J9_VWJW1XEoVCUSuV9ZJh-Jehg=2E=22><img src=3D=22https://static=2Ecdn=2Ere=
+sponsys=2Enet/i2/responsysimages/abercrombie/contentlibrary/201504_week5/05=
+03_ANF_USCAN/images/0503_ANF_USCAN_logo=2Ejpg=22 width=3D=22570=22 height=
+=3D=22203=22 border=3D=220=22 alt=3D=22ABERCROMBIE &amp; FITCH NEW YORK=22 =
+style=3D=22display:block;=22 /></a></td>
+        </tr>
+      </table>
+      <table width=3D=22570=22 border=3D=220=22 align=3D=22center=22 cellpa=
+dding=3D=220=22 cellspacing=3D=220=22>
+
+        <tr>
+          <td align=3D=22left=22 valign=3D=22top=22 colspan=3D=222=22><a hr=
+ef=3D=22https://e=2Eabercrombie=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQG=
+tfuScPbsdKozapocgT9tWS0gpJhdCBuwGOVXtpKX%3DTSSTRT&_ei_=3DErm0ip4mJtkzGARTTH=
+SZv_UgtyT1LoIvRlSZq6s2k_aAY1HZSdBjfZuKVHYXvZPflsZeOTj4tjxi-LXa7IIAbRiU-7vqt=
+xk5J9_VWJW1XEoVCUSuV9ZJh-Jehg=2E=22><img src=3D=22https://static=2Ecdn=2Ere=
+sponsys=2Enet/i2/responsysimages/abercrombie/contentlibrary/201504_week5/05=
+03_ANF_USCAN/images/0503_ANF_USCAN_promo1=2Ejpg=22 width=3D=22570=22 height=
+=3D=22660=22 border=3D=220=22 alt=3D=22Last Day - 25% off* 3 or more styles=
+=2E 20% off 2 styles=2E 15% off 1 style=2E Use code 10174 - Summer Refresh=
+=22 style=3D=22display:block;=22 /></a></td>
+        </tr>
+      </table>
+      <table width=3D=22570=22 border=3D=220=22 align=3D=22center=22 cellpa=
+dding=3D=220=22 cellspacing=3D=220=22>
+
+        <tr>
+          <td align=3D=22left=22 valign=3D=22top=22 colspan=3D=222=22><a hr=
+ef=3D=22https://e=2Eabercrombie=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQG=
+tfuScPbsdKozapocgT9tWS0gpJhdCBuwGOVXtpKX%3DTSSTRT&_ei_=3DErm0ip4mJtkzGARTTH=
+SZv_UgtyT1LoIvRlSZq6s2k_aAY1HZSdBjfZuKVHYXvZPflsZeOTj4tjxi-LXa7IIAbRiU-7vqt=
+xk5J9_VWJW1XEoVCUSuV9ZJh-Jehg=2E=22><img src=3D=22https://static=2Ecdn=2Ere=
+sponsys=2Enet/i2/responsysimages/abercrombie/contentlibrary/201504_week5/05=
+03_ANF_USCAN/images/0503_ANF_USCAN_promo1-05=2Ejpg=22 width=3D=22570=22 hei=
+ght=3D=22660=22 border=3D=220=22  style=3D=22display:block;=22 /></a></td>
+        </tr>
+      </table>
+      <table width=3D=22570=22 border=3D=220=22 align=3D=22center=22 cellpa=
+dding=3D=220=22 cellspacing=3D=220=22>
+        <tr>
+          <td align=3D=22left=22 valign=3D=22top=22><a href=3D=22https://e=
+=2Eabercrombie=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGtfuScPbsdKozapocg=
+T9tWS0gpJhdCBuwGOVXtpKX%3DTSSWCT&_ei_=3DErm0ip4mJtkzGARTTHSZv_UgtyT1LoIvRlS=
+Zq6s2k_aAY1HZSdBjfZuKVHYXvZPflsZeOTj4tjxi-LXa7IIAbRiU-7vqtxk5J9_VWJW1XEoVCU=
+SuV9ZJh-Jehg=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/=
+responsysimages/abercrombie/contentlibrary/201504_week5/0503_ANF_USCAN/imag=
+es/0503_ANF_USCAN_shopmens=2Ejpg=22 width=3D=22285=22 height=3D=2296=22 bor=
+der=3D=220=22 alt=3D=22shop Mens=22 style=3D=22display:block;=22 /></a></td>
+          <td align=3D=22left=22 valign=3D=22top=22><a href=3D=22https://e=
+=2Eabercrombie=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGtfuScPbsdKozapocg=
+T9tWS0gpJhdCBuwGOVXtpKX%3DTSSTTT&_ei_=3DErm0ip4mJtkzGARTTHSZv_UgtyT1LoIvRlS=
+Zq6s2k_aAY1HZSdBjfZuKVHYXvZPflsZeOTj4tjxi-LXa7IIAbRiU-7vqtxk5J9_VWJW1XEoVCU=
+SuV9ZJh-Jehg=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/=
+responsysimages/abercrombie/contentlibrary/201504_week5/0503_ANF_USCAN/imag=
+es/0503_ANF_USCAN_shopwmns1=2Ejpg=22 width=3D=22285=22 height=3D=2296=22 bo=
+rder=3D=220=22 alt=3D=22shop Womens=22 style=3D=22display:block;=22 /></a><=
+/td>
+        </tr>
+      </table>
+      <table width=3D=22570=22 border=3D=220=22 align=3D=22center=22 cellpa=
+dding=3D=220=22 cellspacing=3D=220=22>
+
+        <tr>
+          <td align=3D=22left=22 valign=3D=22top=22 colspan=3D=222=22><a hr=
+ef=3D=22https://e=2Eabercrombie=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQG=
+tfuScPbsdKozapocgT9tWS0gpJhdCBuwGOVXtpKX%3DTSSSTT&_ei_=3DEgUJGF5uU7XBZmWTWa=
+MoSUPQapIlOA3VpZo7VArx0ZKKzCyl-YSfSREBR9ct-CFDNPKEnla_XfbArfD0kfQp5R56_XO87=
+RFNlRO5dmfb1iSzkzO3ugiTK7BIJtbcHdRdx0IwPFcbUaO6gM=2E=22><img src=3D=22https=
+://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/abercrombie/contentlib=
+rary/201504_week5/0503_ANF_USCAN/images/0503_ANF_USCAN_details2=2Ejpg=22 wi=
+dth=3D=22570=22 height=3D=22102=22 border=3D=220=22 alt=3D=22*In Stores &am=
+p; Online=2E Select Stores Only=2E Exclusions Apply=2E See Details=22 style=
+=3D=22display:block;=22 /></a></td>
+        </tr>
+      </table>
+
+
+    <=21--FOOTER-->
+                <table width=3D=22570=22 border=3D=220=22 align=3D=22center=
+=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+               <tr>
+                    <td align=3D=22left=22 valign=3D=22top=22> <a href=3D=
+=22https://e=2Eabercrombie=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGtfuSc=
+PbsdKozapocgT9tWS0gpJhdCBuwGOVXtpKX%3DTSSTWT&_ei_=3DErm0ip4mJtkzGARTTHSZv_U=
+gtyT1LoIvRlSZq6s2k_aAY1HZSdBjfZuKVHYXvZPflsZeOTj4tjxi-LXa7IIAbRiU-7vqtxk5J9=
+_VWJW1XEoVCUSuV9ZJh-Jehg=2E=22><img src=3D=22https://static=2Ecdn=2Erespons=
+ys=2Enet/i2/responsysimages/abercrombie/contentlibrary/201504_week5/0503_AN=
+F_USCAN/images/0429_adults_m_mensnav=2Ejpg=22 width=3D=22570=22 height=3D=
+=2274=22 border=3D=220=22 alt=3D=22MENS=22 style=3D=22display:block;=22 /><=
+/a> </td>
+                  </tr>
+               <tr>
+                    <td align=3D=22left=22 valign=3D=22top=22> <a href=3D=
+=22https://e=2Eabercrombie=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGtfuSc=
+PbsdKozapocgT9tWS0gpJhdCBuwGOVXtpKX%3DTSSYRT&_ei_=3DErm0ip4mJtkzGARTTHSZv_U=
+gtyT1LoIvRlSZq6s2k_aAY1HZSdBjfZuKVHYXvZPflsZeOTj4tjxi-LXa7IIAbRiU-7vqtxk5J9=
+_VWJW1XEoVCUSuV9ZJh-Jehg=2E=22><img src=3D=22https://static=2Ecdn=2Erespons=
+ys=2Enet/i2/responsysimages/abercrombie/contentlibrary/201504_week5/0503_AN=
+F_USCAN/images/0429_adults_m_womensnav=2Ejpg=22 width=3D=22570=22 height=3D=
+=2282=22 border=3D=220=22 alt=3D=22WOMENS=22 style=3D=22display:block;=22 /=
+></a> </td>
+                  </tr>
+               <tr>
+                    <td align=3D=22left=22 valign=3D=22top=22> <a href=3D=
+=22https://e=2Eabercrombie=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGtfuSc=
+PbsdKozapocgT9tWS0gpJhdCBuwGOVXtpKX%3DTSSTAT&_ei_=3DErm0ip4mJtkzGARTTHSZv_U=
+gtyT1LoIvRlSZq6s2k_aAY1HZSdBjfZuKVHYXvZPflsZeOTj4tjxi-LXa7IIAbRiU-7vqtxk5J9=
+_VWJW1XEoVCUSuV9ZJh-Jehg=2E=22><img src=3D=22https://static=2Ecdn=2Erespons=
+ys=2Enet/i2/responsysimages/abercrombie/contentlibrary/201504_week5/0503_AN=
+F_USCAN/images/0429_adults_m_jeans=2Ejpg=22 width=3D=22570=22 height=3D=228=
+0=22 border=3D=220=22 alt=3D=22JEANS=22 style=3D=22display:block;=22 /></a>=
+ </td>
+                  </tr>
+               <tr>
+                    <td align=3D=22left=22 valign=3D=22top=22> <a href=3D=
+=22https://e=2Eabercrombie=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGtfuSc=
+PbsdKozapocgT9tWS0gpJhdCBuwGOVXtpKX%3DTSSTCT&_ei_=3DErm0ip4mJtkzGARTTHSZv_U=
+gtyT1LoIvRlSZq6s2k_aAY1HZSdBjfZuKVHYXvZPflsZeOTj4tjxi-LXa7IIAbRiU-7vqtxk5J9=
+_VWJW1XEoVCUSuV9ZJh-Jehg=2E=22><img src=3D=22https://static=2Ecdn=2Erespons=
+ys=2Enet/i2/responsysimages/abercrombie/contentlibrary/201504_week5/0503_AN=
+F_USCAN/images/0429_adults_m_lookbook=2Ejpg=22 width=3D=22570=22 height=3D=
+=2276=22 border=3D=220=22 alt=3D=22LOOKBOOK=22 style=3D=22display:block;=22=
+ /></a> </td>
+                  </tr>
+             </table>
+                <=21--FOOTER-->=20
+               =20
+      <=21--SOCIAL-->
+     =20
+      <table width=3D=22570=22 border=3D=220=22 align=3D=22center=22 cellpa=
+dding=3D=220=22 cellspacing=3D=220=22>
+        <tr>
+          <td align=3D=22left=22 valign=3D=22top=22><a href=3D=22https://e=
+=2Eabercrombie=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGtfuScPbsdKozapocg=
+T9tWS0gpJhdCBuwGOVXtpKX%3DTSSURT&_ei_=3DErm0ip4mJtkzGARTTHSZv_UgtyT1LoIvRlS=
+Zq6s2k_aAY1HZSdBjfZuKVHYXvZPflsZeOTj4tjxi-LXa7IIAbRiU-7vqtxk5J9_VWJW1XEoVCU=
+SuV9ZJh-Jehg=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/=
+responsysimages/abercrombie/contentlibrary/201504_week5/0503_ANF_USCAN/imag=
+es/0503_ANF_USCAN_facebook=2Ejpg=22 width=3D=22126=22 height=3D=22120=22 bo=
+rder=3D=220=22 alt=3D=22Facebook=22 style=3D=22display:block;=22 /></a></td>
+          <td align=3D=22left=22 valign=3D=22top=22><a href=3D=22https://e=
+=2Eabercrombie=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGtfuScPbsdKozapocg=
+T9tWS0gpJhdCBuwGOVXtpKX%3DTSSUTT&_ei_=3DErm0ip4mJtkzGARTTHSZv_UgtyT1LoIvRlS=
+Zq6s2k_aAY1HZSdBjfZuKVHYXvZPflsZeOTj4tjxi-LXa7IIAbRiU-7vqtxk5J9_VWJW1XEoVCU=
+SuV9ZJh-Jehg=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/=
+responsysimages/abercrombie/contentlibrary/201504_week5/0503_ANF_USCAN/imag=
+es/0503_ANF_USCAN_twitter=2Ejpg=22 width=3D=2281=22 height=3D=22120=22 bord=
+er=3D=220=22 alt=3D=22Twitter=22 style=3D=22display:block;=22 /></a></td>
+          <td align=3D=22left=22 valign=3D=22top=22><a href=3D=22https://e=
+=2Eabercrombie=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGtfuScPbsdKozapocg=
+T9tWS0gpJhdCBuwGOVXtpKX%3DTSSUWT&_ei_=3DErm0ip4mJtkzGARTTHSZv_UgtyT1LoIvRlS=
+Zq6s2k_aAY1HZSdBjfZuKVHYXvZPflsZeOTj4tjxi-LXa7IIAbRiU-7vqtxk5J9_VWJW1XEoVCU=
+SuV9ZJh-Jehg=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/=
+responsysimages/abercrombie/contentlibrary/201504_week5/0503_ANF_USCAN/imag=
+es/0503_ANF_USCAN_instagram=2Ejpg=22 width=3D=2277=22 height=3D=22120=22 bo=
+rder=3D=220=22 alt=3D=22Instagram=22 style=3D=22display:block;=22 /></a></t=
+d>
+          <td align=3D=22left=22 valign=3D=22top=22><a href=3D=22https://e=
+=2Eabercrombie=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGtfuScPbsdKozapocg=
+T9tWS0gpJhdCBuwGOVXtpKX%3DTSSUAT&_ei_=3DErm0ip4mJtkzGARTTHSZv_UgtyT1LoIvRlS=
+Zq6s2k_aAY1HZSdBjfZuKVHYXvZPflsZeOTj4tjxi-LXa7IIAbRiU-7vqtxk5J9_VWJW1XEoVCU=
+SuV9ZJh-Jehg=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/=
+responsysimages/abercrombie/contentlibrary/201504_week5/0503_ANF_USCAN/imag=
+es/0503_ANF_USCAN_pinterest=2Ejpg=22 width=3D=2283=22 height=3D=22120=22 bo=
+rder=3D=220=22 alt=3D=22Pinterest=22 style=3D=22display:block;=22 /></a></t=
+d>
+          <td align=3D=22left=22 valign=3D=22top=22><a href=3D=22https://e=
+=2Eabercrombie=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGtfuScPbsdKozapocg=
+T9tWS0gpJhdCBuwGOVXtpKX%3DTSSUCT&_ei_=3DErm0ip4mJtkzGARTTHSZv_UgtyT1LoIvRlS=
+Zq6s2k_aAY1HZSdBjfZuKVHYXvZPflsZeOTj4tjxi-LXa7IIAbRiU-7vqtxk5J9_VWJW1XEoVCU=
+SuV9ZJh-Jehg=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/=
+responsysimages/abercrombie/contentlibrary/201504_week5/0503_ANF_USCAN/imag=
+es/0503_ANF_USCAN_findastore=2Ejpg=22 width=3D=22203=22 height=3D=22120=22 =
+border=3D=220=22 alt=3D=22FIND A STORE=22 style=3D=22display:block;=22 /></=
+a></td>
+        </tr>
+      </table>
+     =20
+      <=21--/SOCIAL-->=20
+     =20
+      <=21-- unsub footer -->=20
+     =20
+     =20
+ <table width=3D=22570=22 border=3D=220=22 cellpadding=3D=220=22 cellspacin=
+g=3D=220=22 align=3D=22center=22>
+        <tr>
+          <td align=3D=22center=22 style=3D=22font: 9px Arial, Helvetica, s=
+ans-serif; color: =23666666;=22><br>
+            <=21--Insert Default Footer HTML Code -->=20
+
+This email is not endorsed or sponsored by any third-party social media sit=
+es=2E<br>
+All social media logos and trademarks displayed in this email are property =
+of their respective owners=2E <br><br>
+
+To ensure delivery to your inbox, add <a href=3D=22mailto:Abercrombie=40e=
+=2Eabercrombie=2Ecom=22 style=3D=22color:=23666666;=22>Abercrombie=40e=2Eab=
+ercrombie=2Ecom</a> to your address book=2E<br><br>
+
+This is a product offering from Abercrombie &amp; Fitch=2E <br>
+You have received this email since you submitted your email address to our =
+list of subscribers <br>
+To unsubscribe, please <a href=3D=22https://e=2Eabercrombie=2Ecom/pub/cc?_r=
+i_=3DX0Gzc2X%3DWQpglLjHJlTQGtfuScPbsdKozapocgT9tWS0gpJhdCBuwGOVXtpKX%3DTSSW=
+RT&_ei_=3DErm0ip4mJtkzGARTTHSZv_UgtyT1LoIvRlSZq6s2k_aAY1HZSdBjfZuKVHYXvZPfl=
+sZeOTj4tjxi-LXa7IIAbRiU-7vqtxk5J9_VWJW1XEoVCUSuV9ZJh-Jehg=2E=22 style=3D=22=
+color:=23666666;=22>click here</a> and submit your email address=2E <br><br>
+
+Please see our <a href=3D=22https://e=2Eabercrombie=2Ecom/pub/cc?_ri_=3DX0G=
+zc2X%3DWQpglLjHJlTQGtfuScPbsdKozapocgT9tWS0gpJhdCBuwGOVXtpKX%3DTSSWTT&_ei_=
+=3DErm0ip4mJtkzGARTTHSZv_UgtyT1LoIvRlSZq6s2k_aAY1HZSdBjfZuKVHYXvZPflsZeOTj4=
+tjxi-LXa7IIAbRiU-7vqtxk5J9_VWJW1XEoVCUSuV9ZJh-Jehg=2E=22 style=3D=22color:=
+=23666666;=22>Website Terms of Use</a>, and to know how we use your persona=
+l data, <br>
+please see our <a href=3D=22https://e=2Eabercrombie=2Ecom/pub/cc?_ri_=3DX0G=
+zc2X%3DWQpglLjHJlTQGtfuScPbsdKozapocgT9tWS0gpJhdCBuwGOVXtpKX%3DTSSWWT&_ei_=
+=3DErm0ip4mJtkzGARTTHSZv_UgtyT1LoIvRlSZq6s2k_aAY1HZSdBjfZuKVHYXvZPflsZeOTj4=
+tjxi-LXa7IIAbRiU-7vqtxk5J9_VWJW1XEoVCUSuV9ZJh-Jehg=2E=22 style=3D=22color:=
+=23666666;=22>Privacy Policy=2E</a><br><br>
+
+Abercrombie &amp; Fitch - 720 Fifth Avenue - Attn: 8th Floor - New York, NY=
+ 10019<br>
+<a href=3D=22https://e=2Eabercrombie=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjH=
+JlTQGtfuScPbsdKozapocgT9tWS0gpJhdCBuwGOVXtpKX%3DTSSWAT&_ei_=3DErm0ip4mJtkzG=
+ARTTHSZv_UgtyT1LoIvRlSZq6s2k_aAY1HZSdBjfZuKVHYXvZPflsZeOTj4tjxi-LXa7IIAbRiU=
+-7vqtxk5J9_VWJW1XEoVCUSuV9ZJh-Jehg=2E=22 style=3D=22color:=23666666;=22>www=
+=2EAbercrombie=2Ecom</a>
+</td>
+</tr>
+<tr>
+<td><img style=3D=22display:block;=22 border=3D=220=22 src=3D=22https://sta=
+tic=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/abercrombie/contentlibrary/p=
+romo_shared/images/1x2=2Egif=22 width=3D=221=22 height=3D=2225=22></td>
+</tr>
+         =20
+      </table> </td>
+  </tr>
+</table>
+</body>
+</html>
+<br>
+<br><img border=3D=220=22 width=3D=221=22 height=3D=221=22 src=3D=22https:/=
+/e=2Eabercrombie=2Ecom/pub/as?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGtfuScPbsdKozapo=
+cgT9tWS0gpJhdCBuwGOVXHkMX%3Dw&_ei_=3DErm0ip4mJtkzGARTTHSZv_UgtyT1LoIvRlSZq6=
+s2k_aAqlsb0EhdGAXA38_bA6ash_0q_tzpkP_n=2E=22>
+
+

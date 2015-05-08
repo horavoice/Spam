@@ -1,0 +1,842 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width" />
+	<title></title>
+
+
+
+
+<style type="text/css">
+* {
+	-webkit-text-size-adjust: none; /* prevent iOS font upsizing */
+} 
+.ExternalClass * {
+	line-height: 100%;
+} /* force Outlook.com to honor line-height */
+td {mso-line-height-rule: exactly; }
+
+/* prevent iOS auto-linking */
+.applefix1 a {color:#000000; text-decoration:none;} /* use on all gray body copy */
+.applefix2 a {color:#ffffff; text-decoration:none;} /* use on white footer */
+.applefix3 a {color:#333333; text-decoration:none;} /* use on 05B copy */
+
+/* prevent Outlook purple links */
+.navstack a:link {color:#000000;}
+.ctaText a:link {color:#ffffff;}
+.preheader a:link {color:#000000;}
+.headline a:link {color:#000000;}
+.bodycopy a:link {color:#000000;}
+.legalfooter a:link {color:#000000;}
+
+/** use on colored copy, update per campaign **/
+.colorlink a:link {color:#ed008c;} 
+
+@media only screen and (max-width: 480px) {
+/**********************
+SAMSUNG FIX
+set media query to 
+max-width: 480px
+for testing in browser
+
+set media query to
+max-device-width: 480px
+for production
+**********************/
+
+/***** specific module styles *****/
+
+/** Logo image swaps **/
+body[yahoo] .logo { background-image:url(http://media.4at5.net/email_domains/gnc/166001/images/GNClogoSm.jpg); width:150px !important; height:60px !important; display:block !important; }
+body[yahoo] .logoFr { background-image:url(http://media.4at5.net/email_domains/gnc/166477/images/GNClogoFRmob.jpg); width:150px !important; height:60px !important; display:block !important; }
+body[yahoo] .logoJoin { background-image:url(http://media.4at5.net/email_domains/gnc/166001/images/GNClogoJoinSm.jpg); width:319px !important; float:right !important; height:60px !important; display:block !important; }
+body[yahoo] .logoJoinpr { background-image:url(http://media.4at5.net/email_domains/gnc/168779/GNClogoJoinSm_pr.jpg); width:319px !important; height:60px !important; display:block !important; float:right !important;}
+body[yahoo] .logoInsider { background-image:url(http://media.4at5.net/email_domains/gnc/166001/images/GNClogoInsiderSm.jpg); width:319px !important; float:right !important;  height:60px !important; display:block !important; }
+body[yahoo] .logoSource { background-image:url(http://media.4at5.net/email_domains/gnc/166001/images/GNClogoSourceSm.jpg); width:319px !important; float:right !important; height:76px !important; display:block !important; }
+/** GMAIL Banner image swaps **/
+body[yahoo] .GMailEN { background-image:url(http://media.4at5.net/email_domains/gnc/166001/images/GmailBanner_mobileEN.jpg); width:320px !important; height:139px !important; display:block !important; }
+body[yahoo] .GMailFR { background-image:url(http://media.4at5.net/email_domains/gnc/166001/images/GmailBanner_mobileFR.jpg); width:320px !important; height:147px !important; display:block !important; }
+
+/** 02A - Hero replacement **/
+body[yahoo] .mod02AImg { background-image:url(http://media.4at5.net/email_domains/gnc/166001/images/Mod1ImgSm.png); width:320px !important; height:398px !important; display:block !important; }
+
+/** 04A - Hero replacement **/
+body[yahoo] .mod04AImg { background-image:url(http://media.4at5.net/email_domains/gnc/166001/images/m04aSm.jpg); width:305px !important; height:236px !important; display:block !important; }
+
+/** 12A - Hero replacement **/
+body[yahoo] .mod12A1Img { background-image:url(http://media.4at5.net/email_domains/gnc/166001/images/mod12A1Sm.jpg); width:275px !important; height:154px !important; display:block !important; }
+
+body[yahoo] .mod12A2Img { background-image:url(http://media.4at5.net/email_domains/gnc/166001/images/mod12A2Sm.jpg); width:275px !important; height:154px !important; display:block !important; }
+
+body[yahoo] .mod12A3Img { background-image:url(http://media.4at5.net/email_domains/gnc/166001/images/mod12A3Sm.jpg); width:275px !important; height:154px !important; display:block !important; }
+
+/** 15A - Map image replacement **/
+body[yahoo] .mapReplace {
+	background-image:url(http://media.4at5.net/email_domains/gnc/166001/images/mod15A.jpg); width:160px !important; height:144px !important; position:absolute !important; top:40px !important; left:15px !important; 
+}
+body[yahoo] .leftPaddingMap {
+	padding-left:180px !important;
+	padding-top:2px !important;
+}
+body[yahoo] .topPaddingMap {
+	padding-top:60px !important;
+	padding-left:10px !important;
+}
+
+/** navigation **/
+body[yahoo] .navstack {
+	display:block !important;
+	border-bottom:1px solid #ffffff !important;		
+}
+body[yahoo] .nav2 {
+	text-align:center !important;
+	width:150px !important;	
+}
+body[yahoo] .nav3 {
+	text-align:center !important;
+	width:100px !important;	
+}
+body[yahoo] .border-top {
+	border-top:1px solid #ffffff !important;
+}
+body[yahoo] .border-left {
+	border-left:1px solid #ffffff !important;
+}
+body[yahoo] .border-right {
+	border-right:1px solid #ffffff !important;
+}
+body[yahoo] .rearrange { display:table !important; width:100% !important; }
+body[yahoo] .nav { }
+body[yahoo] .content { display:table-header-group !important; }
+body[yahoo] .footer { display:table-footer-group !important; }
+
+/***** reverse table *****/
+body[yahoo] tr.table-cell {
+	display:table-cell !important;
+}
+body[yahoo] td.table-row {
+	display:table-row !important;
+}
+
+/***** universal styles *****/
+body[yahoo] .width150 { /* resize  */
+	width:150px !important;
+}	
+body { /* force iOS5 to fill entire screen */
+	width: 100%;
+	min-width: 100%;
+} 
+body[yahoo] .marginfix { /* to eliminate padding in iOS7 */
+	position: relative;
+	top: 0;
+	left: 0;
+	right: 0;
+} 
+body[yahoo] .full-width-container { /* resizes entire email shell */
+	width: 320px !important;
+	min-width: 320px !important;
+}
+body[yahoo] .full-width { /* use to resize specific table or cell */
+	width: 100% !important;
+	min-width: 100% !important;
+}
+body[yahoo] .fullSizeImg img { /* use to resize the image in a cell */
+	width:320px !important; 
+	height:auto !important;
+}
+body[yahoo] .section-wrapper { /* use to center sections with a gray border */
+	width:305px !important;
+	margin:0 auto !important;
+}
+body[yahoo] .stack { /* use to turn 2-column into 1-column layout */
+	display: block !important;
+}
+body[yahoo] .stackTop { /* use to turn 2-column into 1-column layout */
+	display: table-header-group !important;
+}
+body[yahoo] .stackBottom { /* use to turn 2-column into 1-column layout */
+	display: table-footer-group !important;
+}
+body[yahoo] .divider {
+	width: 95% !important;
+}
+body[yahoo] .alignL { /* use to re-align right to left */
+	text-align: left !important;
+}
+body[yahoo] .alignR { /* use to re-align right to left */
+	text-align: right !important;
+	padding-left: 10px !important
+}
+body[yahoo] .hide { /* use to hide entire table cell */
+	width: 0px !important;
+	height: 0px !important;
+	display: none !important;
+}
+body[yahoo] .hide-img img { /* use to hide the image in a cell - use for image swap */
+	width: 0px !important;
+	height: 0px !important;
+	display: none !important;
+}
+body[yahoo] .no-padding { /* eliminate all padding */
+	padding: 0px !important
+}
+body[yahoo] .top-padding { /* add top padding */
+	padding-top: 15px !important
+}
+body[yahoo] .top-padding-only { /* leave ONLY top padding */
+	padding: 15px 0px 0px 0px !important
+}
+body[yahoo] .bottom-padding { /* add bottom padding */
+	padding-bottom: 15px !important
+}
+body[yahoo] .padLR { /* add side padding */
+	padding: 0px 10px !important
+}
+body[yahoo] .padL { /* add side padding */
+	padding-left: 5px !important
+}
+body[yahoo] .center { /* use to center an element */
+	margin: 0px auto !important;
+	text-align: center !important;
+}
+body[yahoo] .font80{ /* reduce coupon fontsizes */
+	font-size: 100px !important;
+
+}
+body[yahoo] .font50{ /* reduce coupon fontsizes */
+	font-size: 50px !important;
+	line-height: 110px !important;
+}
+body[yahoo] .font20{ /* reduce coupon fontsizes */
+	font-size: 20px !important;
+	line-height: 90px !important;
+}
+body[yahoo] .threeAcrossImg {
+	width:150px !important;
+	height:auto !important;	
+} }
+</style>
+
+</head>
+<body style="margin:0px; padding:0px;" yahoo="fix"><img src="http://link.mail.gnc.com/1x1.dyn?0MkG1wiGjGgzGh2zObin9-jnu=0" width=1 height=1  width="1" height="1" border="0">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="marginfix" bgcolor="#ffffff">
+	<tr>
+		<td align="center"> 
+
+<!-- begin preheader container -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#404040">
+	<tr>
+		<td align="center">
+		<table align="center" cellpadding="0" cellspacing="0" border="0" width="640" class="full-width-container">
+		<tr><td width="640" align="center" style="min-width:640px;" class="full-width-container">		
+
+ 
+
+<!-- 01A PRE-HEADER -->
+		<table cellpadding="0" cellspacing="0" border="0" width="100%" class="header">
+			<tr>
+				<td class="hide" align="left"> 
+				<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#404040">
+					<tr>
+						<td align="left" valign="middle" width="10"></td>
+					
+						<td width="250" align="left" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:14px;color:#ffffff; padding-top:8px; padding-bottom:8px;">
+Shengying, Check Out the Latest Ingredients, Hot Topics & More!</td>
+
+						<td align="right" class="preheader"> 
+						<table cellpadding="0" cellspacing="0" border="0">
+							<tr>
+								<td align="left" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:14px;color:#ffffff; padding-top:8px; padding-bottom:8px;"><a href="http://link.mail.gnc.com/u.d?Y4GjfFQ8AoSosw9tn_B=1&camp=CME:20150502_2SourceWellness:20150502&ym=ym_2SourceWellness1574579" style="color:#ffffff; text-decoration:underline;"><span style="color:#ffffff">Store Locator</span></a></td>
+								<td align="left" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:14px;color:#ffffff; padding-top:8px; padding-bottom:8px;">&nbsp;|&nbsp;</td>
+								<td align="left" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:14px;color:#ffffff; padding-top:8px; padding-bottom:8px;"><a href="http://mail.gnc.com/ftaf-index.jsp?camp=CME:20150502_SourceWellness:20150502&ym=ym_SourceWellness1574579&s=ZYUz&i=2039162110731" style="color:#ffffff; text-decoration:underline;"><span style="color:#ffffff">Forward to a Friend</span></a></td>
+								<td align="left" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:14px;color:#ffffff; padding-top:8px; padding-bottom:8px;">&nbsp;|&nbsp;</td>
+								<td align="left" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:14px;color:#ffffff; padding-top:8px; padding-bottom:8px;"><a href="http://link.mail.gnc.com/t.d?XYGjfFQ8AoSosw=/@HTML_2PREVIEW_2LINK_0a=SDGgzev1ORq-78htqoUb3psj&msgVersion=web" style="color:#ffffff; text-decoration:underline;"><span style="color:#ffffff">View in Browser</span></a></td>
+							</tr>
+						</table>
+						</td>
+						<td align="left" valign="middle" width="10"></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+
+
+		</td></tr>
+		</table>
+		</td>
+	</tr>
+</table>
+<!-- end preheader container -->
+
+<!-- begin header container -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#ffffff">
+	<tr>
+		<td align="center">
+		<table align="center" cellpadding="0" cellspacing="0" border="0" width="640" class="full-width-container">
+		<tr><td width="640" align="center" style="min-width:640px;" class="full-width-container">
+
+<!-- 01E SOURCE HEADER -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="header">
+			<tr>
+				<td class="stack" width="310" align="left" valign="middle"><a href="http://link.mail.gnc.com/u.d?J4GjfFQ8AoSosw9tn_L=21&camp=CME:20150502_2SourceWellness:20150502&ym=ym_2SourceWellness1574579" target="_blank"><span class="logoSource"></span><img src="http://media.4at5.net/email_domains/gnc/166001/images/GNClogoSource.jpg" alt="GNC The Source" width="320" class="hide" style="display:block" border="0"></a></td>
+				<td class="stack alignL" width="310" align="right"> 
+				<table cellpadding="0" cellspacing="0" border="0">
+					
+					<tr>
+						<td align="left" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:20px;color:#000000;">ISSUE 102&nbsp;|&nbsp;May 2, 2015</td>
+					</tr>
+				</table>
+				</td>
+				<td class="hide" align="left" valign="middle" width="10"></td>
+			</tr>
+		</table>
+
+		</td></tr>
+		</table>
+		</td>
+	</tr>
+</table>
+<!-- end header container -->
+
+<!-- begin table to rearrange content -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="full-width-container"><tr><td class="rearrange">
+<!-- place tables below to rearrange content --> 
+
+ 
+		
+<!-- begin body container -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="content" bgcolor="#ffffff">
+	<tr>
+		<td align="center">
+		<table align="center" cellpadding="0" cellspacing="0" border="0" width="640" class="full-width-container">
+		<tr><td width="640" align="center" style="min-width:640px;" class="full-width-container">		
+		
+		<!-- include all email body content in below table -->
+		<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center"> 
+		<!-- include all email body content below -->
+		
+		
+		<!-- 10px Spacer -->
+					<table cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td class="center" height="10" width="620" style="line-height:1px; font-size:1px;" align="left"></td>
+						</tr>
+					</table>
+	 
+
+	
+		
+        
+        <!-- 02B FEATURE B - IMAGE RIGHT, COPY LEFT -->
+		<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td>
+		
+		
+		 <!-- banner top padding white -->
+		          <table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#eeeeee">
+		            <tr>
+		              <td class="hide" bgcolor="#FFFFFF" height="20" width="9" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align="left"><img alt="" height="10" src="http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" style="display:block" width="9"></td>
+		              <td align="center" valign="middle" bgcolor="#eeeeee">&nbsp;</td>
+		              </tr>
+		            </table>
+		          <!-- head banner -->
+		          <table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#eeeeee">
+		            <tr>
+		              <td class="hide" width="9" align="left" valign="top" bgcolor="#259dac"><img src="http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" width="9" height="46" alt="" style="display:block" border="0"></td>
+		              <td class="alignL padLR" width="575" align="left" valign="middle" bgcolor="#259dac" style="font-family:Arial, Helvetica, sans-serif; font-size:26px; color: #ffffff; text-align:left; font-weight:bold;"> IN FOCUS</td>
+		              <td class="hide" bgcolor="#eeeeee" width="11" align="left" valign="top">&nbsp;</td>
+		              <td class="hide" bgcolor="#eeeeee" width="16" align="left" valign="top"><img src="http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" width="16" height="46" alt="" style="display:block" border="0"></td>
+		              </tr>
+		            <tr>
+		              <td bgcolor="#FFFFFF" class="hide" width="9" align="left" valign="top" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;"><img src="http://media.4at5.net/email_domains/gnc/166001/images/headbanTail.png" width="9" height="11" alt="" style="display:block"></td>
+		              <td class="hide" width="575" align="left" valign="top" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" bgcolor="#eeeeee"><img src="http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" width="575" height="11" alt="" style="display:block"></td>
+		              <td class="hide" width="11" align="left" valign="top" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" bgcolor="#eeeeee"><img src="http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" width="11" height="11" alt="" style="display:block"></td>
+		              <td class="hide" width="16" align="left" valign="top" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" bgcolor="#eeeeee"><img src="http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" width="16" height="11" alt="" style="display:block"></td>
+                      
+		              </tr>
+                     
+		            </table>
+
+		<!-- end head banner -->
+		
+		<!-- main content -->
+					<table border="0" cellpadding="0" cellspacing="0" width="100%">
+						<tr>
+							<td class="hide" width="9" align="left" valign="top" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;"></td>
+							<td bgcolor="#eeeeee" class="hide" width="20" align="left" valign="top" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;"></td>
+							
+		<!-- Left side - Copy -->					
+							<td bgcolor="#eeeeee" class="stackBottom" align="left" valign="top"> 
+							<table width="100%" cellpadding="0" cellspacing="0" border="0">
+		
+		<!-- Title -->
+								<tr>
+									<td class="alignL padLR" align="left" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:22px; color: #259dac; text-align:left; font-weight:bold;">SUPPORT YOUR <br>DIET WITH CLA</td>
+								</tr>
+								<tr>
+									<td height="10" style="line-height:1px; font-size:1px;" align="left">&nbsp;</td>
+								</tr>
+		
+		<!-- Copy -->
+								<tr>
+									<td class="padLR" align="left" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color: #333333; text-align:left;">Dieting is an ever-popular trend that typically involves restricting certain foods from the diet. But you may be unknowingly cutting out some very beneficial nutrients that you should consider incorporating back into your diet through supplements.</td>
+								</tr>
+		<!-- Subtitle -->
+                <tr>
+									<td height="10" style="line-height:1px; font-size:1px;" align="left">&nbsp;</td>
+								</tr>
+								<tr>
+									<td class="alignL padLR" align="left" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color: #000000; text-align:left; font-weight:bold;">CLA &amp; Dieting&mdash;<span style="font-style: italic;">What It Means for You</span></td>
+								</tr>
+								 
+								<tr>
+									<td height="10" style="line-height:1px; font-size:1px;" align="left">&nbsp;</td>
+								</tr>
+		
+		<!-- CTAs -->
+								<tr>
+									<td class="stack padLR" align="left" valign="middle"> 
+									<table cellpadding="0" cellspacing="0" border="0">
+										<tr>
+											<td width="10" align="left" bgcolor="#259dac"><img src="http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" width="10" height="34" alt="" style="display:block"></td>
+											<td align="left" valign="middle" bgcolor="#259dac" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color: #ffffff; font-weight:bold;text-transform:uppercase"><a href="http://link.mail.gnc.com/u.d?RYGjfFQ8AoSosw9tn_O=31&camp=CME:20150502_2SourceWellness:20150502&ym=ym_2SourceWellness1574579" target="_blank" style="text-decoration:none;color:#ffffff;">READ MORE</a></td>
+											<td width="10" align="left" valign="middle" bgcolor="#259dac"></td>
+											<td align="left" valign="middle"><img src="http://images.postdirect.com/master/11/1574579/arrow259dac.png" width="14" height="34" alt="" style="display:block"></td>
+											
+										</tr>
+									</table>
+									</td>
+								</tr>
+								<tr>
+								  <td height="10" style="line-height:1px; font-size:1px;" align="left">&nbsp;</td>
+								  </tr>
+                  
+                  <!-- social -->
+								<tr>
+									<td class="alignL padLR" align="left" valign="middle"> 
+									<table cellpadding="0" cellspacing="0" border="0">
+										<tr>
+											<td align="left" valign="top"><a href="http://link.mail.gnc.com/u.d?L4GjfFQ8AoSosw9tn_Rs=41&camp=CME:20150502_2SourceWellness:20150502&ym=ym_2SourceWellness1574579" target="_blank"><img src="http://media.4at5.net/email_domains/gnc/166001/images/socbTweet.png" width="57" height="20" border="0" alt="Tweet" style="display:block"></a></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+    
+		
+								<tr>
+									<td height="20" style="line-height:1px; font-size:1px;" align="left">&nbsp;</td>
+								</tr>
+							</table>
+							</td>
+							<td bgcolor="#eeeeee" class="hide" width="10" align="left" valign="top" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;"></td>
+		<!-- Right side - Image -->
+							<td bgcolor="#eeeeee" class="stackTop" align="center" valign="top"> 
+							<table cellpadding="0" cellspacing="0" border="0">
+								<tr>
+									<td align="center" valign="middle"><img border="0" src="http://images.postdirect.com/master/11/1574579/featuredstory.jpg" width="312" alt="In Focus" style="display:block" class="fullSizeImg"></td>
+								</tr>
+							</table>
+							</td>
+							<td bgcolor="#eeeeee" class="hide" width="20" align="left" valign="top" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;"></td>
+						</tr>
+					</table>
+                    <!-- banner top padding white -->
+		          <table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#eeeeee">
+		            <tr>
+		              <td class="hide" bgcolor="#FFFFFF" height="20" width="9" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align="left"><img alt="" height="10" src="http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" style="display:block" width="9"></td>
+		              <td align="center" valign="middle" bgcolor="#eeeeee">&nbsp;</td>
+		              </tr>
+		            </table>
+					
+					</td>
+					<td class="hide" height="20" width="9" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align="left"></td>
+			</tr>
+		</table>		
+		<!-- END 02B FEATURE B - IMAGE RIGHT, COPY LEFT -->
+		
+		
+		<!-- 20px Spacer -->
+					<table border="0" cellpadding="0" cellspacing="0" width="100%">
+						<tr>
+							<td height="20" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align="left">&nbsp;</td>
+						</tr>
+					</table>
+                    
+                    
+                    				
+		<!-- 02C FEATURE C - IMAGE LEFT, COPY RIGHT -->
+		<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td>			
+					
+					<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#ffffff">
+						<tr class="stackRow">
+						<td bgcolor="#FFFFFF" class="hide" width="9" align="left" valign="top" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;"><img alt="" height="15" src="http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" style="display:block" width="9"></td>
+							<td class="hide" width="20" align="left" valign="top" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;"><img alt="" height="10" src="http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" style="display:block" width="20"></td>
+		<!-- Left side - Image -->
+							<td width="312" class="stackTop" align="center" valign="top"> 
+							<table cellpadding="0" cellspacing="0" border="0">
+								<tr>
+									<td align="center" valign="top"><img border="0" src="http://images.postdirect.com/master/11/1574579/secondarystory.jpg" width="312" alt="" style="display:block" class="fullSizeImg"></td>
+								</tr>
+							</table>
+							</td>
+		
+		<td class="hide" width="10" align="left" valign="top" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;"><img alt="" height="20" src="http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" style="display:block" width="10"></td>
+		
+		<!-- Right side - Copy -->
+							<td class="stackBottom" align="left" valign="top"> 
+							<table width="100%" cellpadding="0" cellspacing="0" border="0">
+		
+		<!-- Headline -->
+								<tr>
+									<td class="alignL padLR" align="left" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:22px; color: #528427; text-align:left; font-weight:bold;">MORE SUPPORT FOR MELATONIN</td>
+								</tr>
+								
+		 
+								 
+		<!-- Copy -->
+								
+                                <tr>
+									<td height="10" style="line-height:1px; font-size:1px;" align="left">&nbsp;</td>
+								</tr>
+                                <tr>
+									<td class="alignL padLR" align="left" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color: #333333; text-align:left; padding:0 20px 0 0;">Do you ever have trouble finding a deep, restful sleep? Do you wake up easily due to noise or light? A new study may show even more hope for the connection between melatonin supplementation and sleeping patterns in distracting settings. </td>
+								</tr>
+                                <!-- Subtitle -->
+                                <tr>
+									<td height="10" style="line-height:1px; font-size:1px;" align="left">&nbsp;</td>
+								</tr>
+								<tr>
+									<td class="alignL padLR" align="left" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color: #000000; text-align:left; font-weight:bold;">Melatonin Could Be the Answer to a Better Night's Sleep</td>
+								</tr>
+								 
+								<tr>
+									<td height="10" style="line-height:1px; font-size:1px;" align="left">&nbsp;</td>
+								</tr>
+		
+		<!-- CTAs -->
+								<tr>
+									<td class="stack alignL padLR" align="left" valign="middle"> 
+									<table cellpadding="0" cellspacing="0" border="0">
+										<tr>
+											 <td width="10" align="left" valign="middle" bgcolor="#528427"></td>
+											<td align="left" valign="middle" bgcolor="#528427" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color: #ffffff; font-weight:bold;text-transform:uppercase"><a href="http://link.mail.gnc.com/u.d?Y4GjfFQ8AoSosw9tn_Rh=51&camp=CME:20150502_2SourceWellness:20150502&ym=ym_2SourceWellness1574579" target="_blank" style="text-decoration:none;color:#ffffff;">READ MORE</a></td>
+											<td width="10" align="left" valign="middle" bgcolor="#528427"></td>
+											<td align="left" valign="middle"><img src="http://images.postdirect.com/master/11/1574579/arrow528427.png" width="14" height="34" alt="" style="display:block"></td>
+										</tr>
+									</table>
+									</td>
+								</tr>
+                               <tr>
+									<td height="10" style="line-height:1px; font-size:1px;" align="left">&nbsp;</td>
+								</tr>
+														</table>
+														</td>
+														<td class="hide" width="20" align="left" valign="top" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;"><img alt="" height="20" src="http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" style="display:block" width="20"></td>
+													</tr>
+												</table>
+												</td>
+												<td class="hide" bgcolor="#FFFFFF" height="20" width="9" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align="left"><img alt="" height="10" src="http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" style="display:block" width="9"></td>
+											</tr>
+										</table>
+		<!-- END 02C FEATURE C - IMAGE LEFT, COPY RIGHT -->
+		    		
+	
+		
+		<!-- 02D FEATURE 2 ACROSS SOURCE -->
+		<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td>	
+		
+					<!-- banner top padding white -->
+					<table cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td class="hide" bgcolor="#FFFFFF" height="20" width="9" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align="left"><img alt="" height="10" src="http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" style="display:block" width="9"></td>
+							<td align="center" valign="middle" bgcolor="#ffffff">&nbsp;</td>
+						</tr>
+					</table>
+
+					<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#ffffff">
+						<tr class="stackRow">
+							<td bgcolor="#FFFFFF" class="hide" width="9" align="left" valign="top" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;"><img alt="" height="15" src="http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" style="display:block" width="9"></td>
+							<td class="hide" width="20" align="left" valign="top" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;"><img alt="" height="10" src="http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" style="display:block" width="20"></td>
+		
+		<!-- Left side -->
+							<td width="286" class="stackTop" align="left" valign="top"> 
+							<table cellpadding="0" cellspacing="0" border="0">
+		
+		<!-- Source banner left -->
+								<tr><td align="left">
+								
+									<table cellpadding="0" cellspacing="0" border="0"><tr>
+										<td width="10" align="left" bgcolor="#b53043"><img src="http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" width="10" height="34" alt="" style="display:block"></td>
+										<td align="left" valign="middle" bgcolor="#b53043" style="font-family:Arial, Helvetica, sans-serif; font-size:18px; color: #ffffff; font-weight:bold;text-transform:uppercase">featured&nbsp;brand</td>
+										<td width="10" align="left" valign="middle" bgcolor="#b53043"></td>
+										 </tr></table>
+								</td></tr>
+								<tr>
+									<td height="10" style="line-height:1px; font-size:1px;" align="left">&nbsp;</td>
+								</tr>
+								
+		<!-- Image -->
+								<tr>
+									<td align="center" valign="top"><a href="http://link.mail.gnc.com/u.d?Q4GjfFQ8AoSosw9tn_Rm=61&camp=CME:20150502_2SourceWellness:20150502&ym=ym_2SourceWellness1574579" target="_blank"><img src="http://images.postdirect.com/master/11/1574579/featuredbrand.jpg" alt="" width="286" class="fullSizeImg" style="display:block" border="0"></a></td>
+								</tr>
+		<!-- Title -->
+								<tr>
+									<td class="alignL padLR" width="286" align="left" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:22px; color: #b53043; text-align:left; font-weight:bold;">MEGAFOOD&trade;</td>
+								</tr>
+								<tr>
+									<td height="10" style="line-height:1px; font-size:1px;" align="left">&nbsp;</td>
+								</tr>
+		
+		
+		<!-- Copy -->
+								<tr>
+									<td class="alignL padLR" width="286" align="left" valign="middle" style="font-family:Arial, Helvetica, sans-serif; color: #000000; text-align:left; font-size: 14px;">
+                  	Whole-food-based line of supplements that uses organic herbs to nourish, strengthen and promote beauty from within.
+
+
+                  </td>
+								</tr>
+								<tr>
+									<td height="10" style="line-height:1px; font-size:1px;" align="left">&nbsp;</td>
+								</tr>
+		
+		<!-- CTAs -->
+								<tr>
+									<td class="stack alignL padLR" align="left" valign="middle"> 
+									<table cellpadding="0" cellspacing="0" border="0">
+										<tr>
+											<td width="10" align="left" bgcolor="#b53043"><img src="http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" width="10" height="34" alt="" style="display:block"></td>
+											<td align="left" valign="middle" bgcolor="#b53043" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color: #ffffff; font-weight:bold;text-transform:uppercase"><a href="http://link.mail.gnc.com/u.d?TYGjfFQ8AoSosw9tn_Rb=71&camp=CME:20150502_2SourceWellness:20150502&ym=ym_2SourceWellness1574579" target="_blank" style="text-decoration:none;color:#ffffff;">find store</a></td>
+											<td width="10" align="left" valign="middle" bgcolor="#b53043"></td>
+											<td align="left" valign="middle"><img src="http://images.postdirect.com/master/11/1574579/arrowb53043.png" width="14" height="34" alt="" style="display:block"></td>
+											<td width="10" align="left" valign="middle"><img src="http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" width="10" height="34" alt="" style="display:block"></td>
+											<td width="10" align="left" valign="middle" bgcolor="#b53043"></td>
+											<td align="left" valign="middle" bgcolor="#b53043" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color: #ffffff; font-weight:bold;text-transform:uppercase"><a href="http://link.mail.gnc.com/u.d?SYGjfFQ8AoSosw9tn_RQ=81&camp=CME:20150502_2SourceWellness:20150502&ym=ym_2SourceWellness1574579" target="_blank" style="text-decoration:none;color:#ffffff;">shop now</a></td>
+											<td width="10" align="left" valign="middle" bgcolor="#b53043"></td>
+											<td align="left" valign="middle"><img src="http://images.postdirect.com/master/11/1574579/arrowb53043.png" width="14" height="34" alt="" style="display:block"></td>
+										</tr>
+									</table>
+									</td>
+								</tr>
+								<tr>
+									<td height="10" style="line-height:1px; font-size:1px;" align="left">&nbsp;</td>
+								</tr>
+							</table>
+							</td>
+							
+							
+							<td class="stack" width="20" height="20" align="left" valign="top"><img alt="" height="10" src="http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" style="display:block" width="20"></td>
+		
+		<!-- Right side -->
+							<td width="286" class="stackTop" align="left" valign="top"> 
+							<table cellpadding="0" cellspacing="0" border="0">
+		<!-- Source banner left -->
+								<tr><td align="left">
+								
+									<table cellpadding="0" cellspacing="0" border="0"><tr>
+										<td width="10" align="left" bgcolor="#302313"><img src="http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" width="10" height="34" alt="" style="display:block"></td>
+										<td align="left" valign="middle" bgcolor="#302313" style="font-family:Arial, Helvetica, sans-serif; font-size:18px; color: #ffffff; font-weight:bold;text-transform:uppercase">what's trending</td>
+										<td width="10" align="left" valign="middle" bgcolor="#302313"></td>
+										 </tr></table>
+								</td></tr>
+								<tr>
+									<td height="10" style="line-height:1px; font-size:1px;" align="left">&nbsp;</td>
+								</tr>
+								
+		<!-- image -->						
+								<tr>
+									<td align="center" valign="top"><a href="http://link.mail.gnc.com/u.d?U4GjfFQ8AoSosw9tn_RV=91&camp=CME:20150502_2SourceWellness:20150502&ym=ym_2SourceWellness1574579" target="_blank"><img src="http://images.postdirect.com/master/11/1574579/whatstrending.jpg" alt="" width="286" class="fullSizeImg" style="display:block" border="0"></a></td>
+								</tr>
+		
+								<tr>
+									<td height="10" style="line-height:1px; font-size:1px;" align="left">&nbsp;</td>
+								</tr>
+		
+		<!-- Copy -->
+								<tr>
+									<td class="alignL padLR" width="286" align="left" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color: #333333; text-align:left; padding:0 0px 0 0;">One more reason to work exercise into your day. &hellip;</td>
+								</tr>
+								<tr>
+									<td height="10" style="line-height:1px; font-size:1px;" align="left">&nbsp;</td>
+								</tr>
+
+		
+		<!-- CTAs -->
+								<tr>
+									<td class="stack alignL padLR" align="left" valign="middle"> 
+									<table cellpadding="0" cellspacing="0" border="0">
+										<tr>
+											<td width="10" align="left" bgcolor="#302313"><img src="http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" width="10" height="34" alt="" style="display:block"></td>
+											<td align="left" valign="middle" bgcolor="#302313" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color: #000000; font-weight:bold;text-transform:uppercase"><a href="http://link.mail.gnc.com/u.d?HYGjfFQ8AoSosw9tn_RK=101&camp=CME:20150502_2SourceWellness:20150502&ym=ym_2SourceWellness1574579" target="_blank" style="text-decoration:none;color:#FFFFFF;">CHIME IN ON INSTAGRAM</a></td>
+											<td width="10" align="left" valign="middle" bgcolor="#302313"></td>
+											<td align="left" valign="middle"><img src="http://images.postdirect.com/master/11/1574579/arrow302313.png" width="14" height="34" alt="" style="display:block"></td>
+											<td align="left" valign="middle"><img src="http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" width="10" height="34" alt="" style="display:block"></td>
+											
+										</tr>
+									</table>
+									</td>
+								</tr>
+								
+								
+								<tr>
+									<td height="10" style="line-height:1px; font-size:1px;" align="left">&nbsp;</td>
+								</tr>
+		
+
+							</table>
+							</td>
+							<td class="hide" width="20" align="left" valign="top" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;"><img alt="" height="10" src="http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" style="display:block" width="20"></td>
+						</tr>
+					</table>
+					
+					</td>
+
+					<td class="hide" bgcolor="#FFFFFF" height="20" width="9" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align="left"><img alt="" height="10" src="http://media.4at5.net/email_domains/gnc/166001/images/spacer.gif" style="display:block" width="9"></td>
+
+		</tr></table>
+		
+		<!-- END 02D FEATURE 2 ACROSS -->
+		
+		 
+		
+        <!-- 20px Spacer -->
+					<table cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td height="20" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align="left">&nbsp;</td>
+						</tr>
+					</table>
+		
+		<!-- closing table for all email body content -->								
+		</td></tr></table>
+		<!-- end closing table for all email body content -->	
+		
+		</td></tr>
+		</table>
+		</td>
+	</tr>
+</table>
+<!-- end body container -->
+		
+<!-- begin footer container -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#A8A8A8" class="footer">
+	<tr>
+		<td align="center">
+		<table align="center" cellpadding="0" cellspacing="0" border="0" width="640" class="full-width-container">
+		<tr><td width="640" align="center" style="min-width:640px;" class="full-width-container">
+
+		<!-- footer -->
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td align="center">
+		<!-- 20px Spacer -->
+					<table cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td height="20" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align="left">&nbsp;</td>
+						</tr>
+					</table>
+
+<!-- US English footer -->					
+<!-- Social US -->
+					<table cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td align="center" valign="middle"> 
+							<table cellpadding="0" cellspacing="0" border="0" class="center" bgcolor="#a8a8a8">
+								<tr>
+									<td align="left" valign="middle" class="navlink"><a href="http://link.mail.gnc.com/u.d?I4GjfFQ8AoSoswus=3&camp=CME:20150502_2SourceWellness:20150502&ym=ym_2SourceWellness1574579" target="_blank"><img src="http://media.4at5.net/email_domains/gnc/166001/images/socFB.jpg" width="37" height="32" border="0" alt="Facebook" style="display:block"></a></td>
+									<td align="left" valign="middle" class="navlink"><a href="http://link.mail.gnc.com/u.d?Z4GjfFQ8AoSoswur=13&camp=CME:20150502_2SourceWellness:20150502&ym=ym_2SourceWellness1574579" target="_blank"><img src="http://media.4at5.net/email_domains/gnc/166001/images/socTw.jpg" width="36" height="32" border="0" alt="Twitter" style="display:block"></a></td>
+									<td align="left" valign="middle" class="navlink"><a href="http://link.mail.gnc.com/u.d?S4GjfFQ8AoSoswum=23&camp=CME:20150502_2SourceWellness:20150502&ym=ym_2SourceWellness1574579" target="_blank"><img src="http://media.4at5.net/email_domains/gnc/166001/images/socIG.jpg" width="41" height="32" border="0" alt="Instagram" style="display:block"></a></td>
+									<td align="left" valign="middle" class="navlink"><a href="http://link.mail.gnc.com/u.d?WYGjfFQ8AoSoswu96=33&camp=CME:20150502_2SourceWellness:20150502&ym=ym_2SourceWellness1574579" target="_blank"><img src="http://media.4at5.net/email_domains/gnc/166001/images/socPin.jpg" width="37" height="32" border="0" alt="Pintrest" style="display:block"></a></td>
+									<td align="left" valign="middle" class="navlink"><a href="http://link.mail.gnc.com/u.d?VYGjfFQ8AoSoswu9_=43&camp=CME:20150502_2SourceWellness:20150502&ym=ym_2SourceWellness1574579" target="_blank"><img src="http://media.4at5.net/email_domains/gnc/166001/images/socYT.jpg" width="37" height="32" border="0" alt="You Tube" style="display:block"></a></td>
+									<td align="left" valign="middle" class="navlink"><a href="http://link.mail.gnc.com/u.d?R4GjfFQ8AoSoswu9w=53&camp=CME:20150502_2SourceWellness:20150502&ym=ym_2SourceWellness1574579" target="_blank"><img src="http://media.4at5.net/email_domains/gnc/166001/images/socSS.jpg" width="37" height="32" border="0" alt="Subscribe" style="display:block"></a></td>
+								</tr>
+							</table>
+							</td>
+						</tr>
+						<tr>
+							<td height="10" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align="left"></td>
+						</tr>
+					</table>
+		<!-- Contact Nav -->
+					<table cellpadding="0" cellspacing="0" border="0" align="center">
+						<tr>
+							<td class="stack legalfooter" align="right"> 
+							<table class="center" cellpadding="0" cellspacing="0" border="0">
+								<tr>
+									<td align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:16px;color:#000000;"><a href="http://link.mail.gnc.com/u.d?ZYGjfFQ8AoSoswu91=63&camp=CME:20150502_2SourceWellness:20150502&ym=ym_2SourceWellness1574579" style="color:#000000; text-decoration:none;"><span style="color:#000000">Locations</span></a></td>
+									<td width="20" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align="left"></td>
+									<td align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:16px;color:#000000;"><a href="http://link.mail.gnc.com/u.d?ZYGjfFQ8AoSoswu9O=73&camp=CME:20150502_2SourceWellness:20150502&ym=ym_2SourceWellness1574579" style="color:#000000; text-decoration:none;"><span style="color:#000000">Gold Card</span></a></td>
+								</tr>
+							</table>
+							</td>
+							<td class="stack legalfooter" align="left"> 
+							<table class="center" cellpadding="0" cellspacing="0" border="0">
+								<tr>
+									<td width="20" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align="left" class="hide"></td>
+									<td align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:16px;color:#000000;"><a href="http://link.mail.gnc.com/u.d?XYGjfFQ8AoSoswu9E=93&camp=CME:20150502_2SourceWellness:20150502&ym=ym_2SourceWellness1574579" style="color:#000000; text-decoration:none;"><span style="color:#000000">Franchising</span></a></td>
+									<td width="20" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align="left"></td>
+									<td align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:16px;color:#000000;"><a href="http://link.mail.gnc.com/u.d?N4GjfFQ8AoSoswu9Z=103&camp=CME:20150502_2SourceWellness:20150502&ym=ym_2SourceWellness1574579" style="color:#000000; text-decoration:none;"><span style="color:#000000">Contact Us</span></a></td>
+								</tr>
+							</table>
+							</td>
+						</tr>
+					</table>
+		
+		<!-- 10px Spacer -->
+					<table cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td height="10" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align="left"></td>
+						</tr>
+					</table>
+					<table cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td width="10" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align="left"></td>
+							<td align="left" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color: #000000; line-height:14px; text-align:left;" class="legalfooter">			
+													
+These statements have not been evaluated by the FDA. These products are not intended to diagnose, treat, cure or prevent any disease. Regular prices effective through May 18, 2015 at GNC.com, through phone orders via 1-877-GNC-4700, and at participating GNC stores in the U.S. All products and prices may not be available at all locations. Pricing and promotions may not be available online. Prices may be higher in Alaska, Hawaii and Puerto Rico. Sales on select fitness equipment may not be combined with any discounts or Member Pricing. StriVectin&reg; products cannot be combined with any discount. Auto Delivery items cannot be combined with any discount except special Auto-Delivery-only promotions. Errors and omissions are not the responsibility of the advertiser. Shop one of more than 6,200 GNC stores. Call 1-800-477-4462 or visit GNC.com for the store nearest you.
+
+<br><br>
+							You have received this email at <a href="#" onclick="return false" style="color:#000000; text-decoration:none; cursor:text;" target="_blank">blackyao12@gmail.com</a>. To receive fewer emails or unsubscribe, <a href="http://mail.gnc.com/unsubscribe_usa.jsp?s=ZYUz&i=2039162110731" target="_blank" style="text-decoration:underline;"><font color="#000000">click here</font></a>. <br>
+							<br>
+							View our Privacy Policy: <a href="http://link.mail.gnc.com/u.d?d4GjfFQ8AoSoswh8P=203&camp=CME:20150502_2SourceWellness:20150502&ym=ym_2SourceWellness1574579" target="_blank" style="text-decoration:underline;"><font color="#000000">click here</font></a>. <br>
+							<br>
+							To update your email address or change your personal options, visit the My Account area at <a href="http://link.mail.gnc.com/u.d?KYGjfFQ8AoSoswh9S=113&camp=CME:20150502_2SourceWellness:20150502&ym=ym_2SourceWellness1574579" target="_blank" style="text-decoration:none; color:#000000;">GNC.com</a> or contact GNC Customer Service at <a href="tel:1-888-462-2548" onclick="return false" style="color:#000000; text-decoration:none; cursor:text;" target="_blank"><span class="applefix1">1-888-462-2548</span></a>. You may also write to GNC at: General Nutrition Corporation / Attn: Customer Service / <span class="applefix1">300 Sixth Ave / Pittsburgh, PA 15222 USA.</span> </span></td>
+							<td width="10" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align="left"></td>
+						</tr>
+					</table>
+
+ 
+		<!-- 20px Spacer -->
+					<table cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td height="20" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" align="left">&nbsp;</td>
+						</tr>
+					</table>
+		<!-- end Disclaimer -->
+		
+		<!--end footer -->
+					</td>
+				</tr>
+			</table>
+		<!-- end footer -->
+		
+		</td></tr>
+		</table>
+		</td>
+	</tr>
+</table>
+<!-- end footer container -->			
+							
+								
+<!-- closing table to rearrange content -->						
+</td></tr></table>		
+<!-- end closing table to rearrange content -->
+				
+		</td>
+	</tr>
+</table>
+</body>
+</html>
+

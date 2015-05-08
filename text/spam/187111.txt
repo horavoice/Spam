@@ -1,0 +1,1061 @@
+<=21DOCTYPE html>
+<html xmlns=3D=22http://www=2Ew3=2Eorg/1999/xhtml=22>
+<head>
+<meta content=3D=22width=3Ddevice-width=22 name=3D=22viewport=22 />
+<title>SHOP YOUR WAY&reg; =7C Shop Your Way</title>
+<style type=3D=22text/css=22>
+=40media only screen and (max-device-width: 768px) =7B
+td=5Bclass=3D=22mobi-legal-text=22=5D a =7Bcolor:=23acacac =21important;=7D
+span=5Bclass=3D=22appleFooterLinks=22=5D a =7Bcolor:=23acacac =21important;=
+=7D
+=7D
+=20
+=40media only screen and (max-device-width: 400px) =7B
+table=5Bclass=3D=22mobi-hide=22=5D, td=5Bclass=3D=22mobi-hide=22=5D, table=
+=5Bclass=3D=22mobi-spacer-hide=22=5D =7Bdisplay:none =21important;=7D
+td=5Bclass=3D=22frame-wrap-padd=22=5D =7Bpadding:5px =21important;=7D
+table=5Bclass=3D=22content-wrapper=22=5D =7Bwidth:300px =21important;=7D
+td=5Bclass=3D=22content-bg=22=5D=7Bpadding:0 5px =21important;=7D
+table=5Bclass=3D=22content-bin-wrap=22=5D  =7Bwidth:298px =21important;=7D
+table=5Bclass=3D=22table-resize=22=5D =7Bwidth:298px =21important;=7D
+table=5Bclass=3D=22table-resize=22=5D td =7Bfont-size:15px =21important;=7D
+table=5Bclass=3D=22mobi-spacer=22=5D,table=5Bclass=3D=22mobi-spacer=22=5D i=
+mg =7Bheight:5px =21important; width:200px;=7D
+
+/* header */
+table=5Bclass=3D=22top-header=22=5D =7Bwidth:298px =21important;=7D
+table=5Bclass=3D=22top-header=22=5D td =7Bpadding-bottom:2px =21important;=
+=7D
+table=5Bclass=3D=22member-name=22=5D =7Bwidth:298px =21important;=7D
+table=5Bclass=3D=22points-info=22=5D =7Bwidth:298px =21important;=7D
+
+table=5Bid=3D=22mobi-header=22=5D =7Bwidth:298px =21important;=7D
+table=5Bid=3D=22mobi-header=22=5D td =7Bwidth:298px =21important; padding:0=
+px 0px 10px 0px =21important;=7D
+td=5Bclass=3D=22newheader-left=22=5D =7Bdisplay:block =21important;=7D
+td=5Bclass=3D=22newheader-left=22=5D img =7B-ms-interpolation-mode:bicubic;=
+ width:298px =21important; height:auto;=7D
+td=5Bclass=3D=22newheader-right=22=5D =7Bdisplay:block =21important; paddin=
+g:15px 0px 15px 0px =21important; margin-top:15px =21important; height:40px=
+ =21important; text-align:center =21important;=7D
+table=5Bid=3D=22header-bottom=22=5D, table=5Bid=3D=22header-bottom=22=5D td=
+ =7Bdisplay:none =21important;=7D
+
+table=5Bid=3D=22mobi2-header=22=5D =7Bwidth:298px =21important;=7D
+table=5Bid=3D=22mobi2-header=22=5D td=5Bclass=3D=22outer-left=22=5D =7Bpadd=
+ing:5px 0px 10px 0px =21important;=7D
+table=5Bid=3D=22mobi2-header=22=5D td=5Bclass=3D=22outer-right=22=5D =7Bpad=
+ding:5px 0px 0px 0px =21important;=7D
+table=5Bid=3D=22mobi2-header=22=5D td=5Bclass=3D=22hide=22=5D =7Bdisplay:no=
+ne =21important;=7D
+table=5Bid=3D=22mobi2-header=22=5D img=5Bclass=3D=22syw-logo=22=5D =7B-ms-i=
+nterpolation-mode:bicubic; width:200px =21important; height:32px =21importa=
+nt;=7D
+table=5Bid=3D=22mobi2-header=22=5D img=5Bclass=3D=22brand-logo=22=5D =7B-ms=
+-interpolation-mode:bicubic; width:84px =21important; height:32px =21import=
+ant;=7D
+table=5Bid=3D=22mobi2-header=22=5D img=5Bclass=3D=22ribbon=22=5D =7B-ms-int=
+erpolation-mode:bicubic; width:14px =21important; height:32px =21important;=
+=7D
+table=5Bclass=3D=22mobi2-hide=22=5D, td=5Bclass=3D=22mobi2-hide=22=5D, tabl=
+e=5Bclass=3D=22mobi2-spacer-hide=22=5D =7Bdisplay:none =21important;=7D
+/* header ends */
+
+/* footer */
+table=5Bclass=3D=22footer-resize=22=5D,
+table=5Bclass=3D=22footer-links=22=5D =7Bwidth:298px =21important;=7D
+table=5Bclass=3D=22footer-resize=22=5D td =7Bfont-size:14px =21important;=7D
+table=5Bclass=3D=22footer-links=22=5D td =7Bline-height:20px =21important; =
+width:150px =21important;=7D
+td=5Bclass=3D=22mobi-legal-text=22=5D =7Bfont-size:13px =21important; line-=
+height:17px =21important;=7D
+td=5Bclass=3D=22mobi-legal-text=22=5D a =7Bcolor:=23acacac =21important;=7D
+span=5Bclass=3D=22appleFooterLinks=22=5D a =7Bcolor:=23acacac =21important;=
+=7D
+/* footer */
+
+/* sywr banner */
+table=5Bclass=3D=22sywr-banner-wrapper=22=5D =7Bwidth:298px =21important;=7D
+table=5Bclass=3D=22sywr-banner-wrapper=22=5D td=5Bclass=3D=22sywr-banner-le=
+ft-mobile=22=5D =7Bwidth:85px =21important;=7D
+table=5Bclass=3D=22sywr-banner-wrapper=22=5D td=5Bclass=3D=22sywr-banner-le=
+ft-mobile=22=5D img =7Bwidth:85px =21important; height:auto =21important;=7D
+table=5Bclass=3D=22sywr-banner-wrapper=22=5D td=5Bclass=3D=22sywr-banner-le=
+ft-desktop=22=5D =7Bdisplay:none =21important;=7D
+table=5Bclass=3D=22sywr-banner-wrapper=22=5D td=5Bclass=3D=22sywr-banner-ri=
+ght-mobile=22=5D =7Bwidth:213px =21important; color:=23ffffff =21important;=
+ font-size:12px =21important;=7D
+table=5Bclass=3D=22sywr-banner-wrapper=22=5D td=5Bclass=3D=22sywr-banner-ri=
+ght-mobile=22=5D a =7Bcolor:=23ffffff =21important;=7D
+table=5Bclass=3D=22sywr-banner-wrapper=22=5D td=5Bclass=3D=22sywr-banner-ri=
+ght-mobile=22=5D img =7Bwidth:213px =21important;  height:49px =21important=
+;=7D
+table=5Bclass=3D=22sywr-banner-wrapper=22=5D td=5Bclass=3D=22sywr-banner-ri=
+ght-desktop=22=5D =7Bdisplay:none =21important;=7D
+
+/**** CONTENT STYLES ****/
+/** MUST BE INCLUDED **/
+
+/* hero */
+table=5Bclass=3D=22mobi-hero=22=5D =7Bwidth:298px =21important;=7D
+table=5Bclass=3D=22mobi-hero=22=5D td =7Bwidth:298px =21important;=7D
+table=5Bclass=3D=22mobi-hero=22=5D img =7B-ms-interpolation-mode:bicubic; w=
+idth:298px =21important; height:auto =21important;=7D
+
+table=5Bclass=3D=22mobi-hero-20150422SYWSearsOpticalPromo=22=5D =7Bwidth:29=
+8px =21important;=7D
+table=5Bclass=3D=22mobi-hero-20150422SYWSearsOpticalPromo=22=5D td=5Bclass=
+=7E=3D=22stack=22=5D =7Bdisplay:block =21important;=7D
+table=5Bclass=3D=22mobi-hero-20150422SYWSearsOpticalPromo=22=5D td=5Bclass=
+=7E=3D=22center-points=22=5D =7Bwidth:298px =21important; padding:15px 0 15=
+px 0;=7D
+table=5Bclass=3D=22mobi-hero-20150422SYWSearsOpticalPromo=22=5D td=5Bclass=
+=7E=3D=22padding-top=22=5D =7Bpadding-top: 20px;=7D
+table=5Bclass=3D=22mobi-hero-20150422SYWSearsOpticalPromo=22=5D td=5Bclass=
+=3D=22padding-fix=22=5D =7Bpadding:5px 0 20px 0 =21important;=7D
+table=5Bclass=3D=22mobi-hero-20150422SYWSearsOpticalPromo=22=5D td=5Bclass=
+=3D=22font-fix=22=5D =7Bfont-size:8px =21important;=7D
+table=5Bclass=3D=22mobi-hero-20150422SYWSearsOpticalPromo=22=5D td=5Bclass=
+=7E=3D=22background-fix=22=5D =7Bbackground:=23e0f1fd; padding-bottom:25px;=
+=7D
+table=5Bclass=3D=22mobi-hero-20150422SYWSearsOpticalPromo=22=5D td=5Bclass=
+=3D=22hide=22=5D =7Bdisplay:none =21important;=7D
+table=5Bclass=3D=22mobi-hero-20150422SYWSearsOpticalPromo=22=5D img =7B-ms-=
+interpolation-mode:bicubic; max-width:298px =21important; height:auto;=7D
+table=5Bclass=3D=22mobi-hero-20150422SYWSearsOpticalPromo=22=5D span=5Bclas=
+s=3D=22text-stack=22=5D =7Bdisplay:block =21important;=7D
+
+/* hero ends */
+
+/**** CONTENT STYLES ****/
+=7D</style>
+</head>
+
+<body style=3D=22padding:0; margin:0; text-align:center;=22>
+<style type=3D=22text/css=22>=2EReadMsgBody=7Bwidth:100%;=7D =2EExternalCla=
+ss=7Bwidth:100%;=7D =2EExternalClass *=7Bline-height:123%=7D =2Eoutlook=7Bl=
+ine-height:125%=7D body=7B-webkit-font-smoothing:antialiased;  -webkit-text=
+-size-adjust:none;=7D</style>
+<=21-- body wrapper -->
+<table class=3D=22frame-wrap=22 width=3D=22100%=22 border=3D=220=22 cellspa=
+cing=3D=220=22 cellpadding=3D=220=22>
+  <tr>
+    <td class=3D=22frame-wrap-padd=22 align=3D=22center=22 valign=3D=22top=
+=22 style=3D=22padding:5px 0; background-color:=23fff;=22>
+         <=21-- snippet area table -->
+      <table class=3D=22top-header=22 width=3D=22700=22 border=3D=220=22 al=
+ign=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22 id=3D=22remo=
+veIt=22>
+        <tr>
+          <td class=3D=22mobi-hide=22 width=3D=22700=22 align=3D=22left=22 =
+valign=3D=22bottom=22 style=3D=22padding-bottom:2px;=22>
+            <=21-- snippet -->
+            <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=22=
+0=22 width=3D=22100%=22>
+              <tr>
+                <td align=3D=22left=22 valign=3D=22bottom=22 style=3D=22fon=
+t-size:11px; line-height:17px; padding-bottom:7px; color:=23acacac; font-fa=
+mily:Arial, Helvetica, sans-serif; -webkit-text-size-adjust:none;=22><a sty=
+le=3D=22color:=23acacac; text-decoration:none;=22 href=3D=22https://sywr=2E=
+rsys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y4EpIRrRpAEOoz=
+b8oo4URuHtqRbsCVXtpKX%3DTWUBRCT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aU=
+q6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW=
+57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU9f5zVAefHQQlA_7CSq1YXV9K4IOR7=
+8lKwc3XknY2qHsGFlirTPecK3fv75P0lvrRUizdAjoygIuz3pQ7EKaaEvqfosXWhnJADaFc2DM8=
+_plU6eIhjBoq-2Dz-OzKaVF1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQQE7kCCPzbHAhwSzjGEVJ2=
+VT9k0KeD7kVWTer2zg=2E=22 rilt=3D=22snippet=22><strong>Plus, save up to =242=
+00 on eyeglasses or prescription sunglasses</strong></a><br />
+                  <a style=3D=22color:=23acacac;=22 href=3D=22https://sywr=
+=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y4EpIRrRpAE=
+Oozb8oo4URuHtqRbsCVXtpKX%3DTWUBSRT&_ei_=3DEtmQY6aWvPOTGo6drV5boXKt0M-ox-5P0=
+hXDxvyAa9ZtvT71B0OR6EPTtIodSkFwC_OImPRSCujBaj2KHz88wQKg0f06NJ3V49WiN9WDdWYq=
+dk5XsCRcSIyCFk2dlfoYBaHoQ4oRUUeriQ7mr7wWqrxlCK_hNHKsKyGaFObn3iyiMEvEtEXKvw0=
+XvJuii_GsijwnYUJe8zdjPXsn_BMn39VOCDIDZF7-5tzf9XdvcVoxRzeV_IKVhAi291Tf7fioUw=
+76IrmaZCTI9Ja5ONecL6OzZO98zn14p5hoOQkg7jE-jvBSzBJfhR299ZTvhMgI-s_ML_Bh93su6=
+6AEzafW5BsQVySh5ARtjfbcoiC4vMbHoDqYAyJV7tkTfXKTF1k9I9Nuy740MglwaoK52WcePlfX=
+cWInLwnpzrzFArkbAQzEyFhAcQOn5ijYOEB01YL46eUKYS93wDLqwmVaY1HZudMEQJDTo3fLZa1=
+yf4H6uvnuZ10C6aKVn2AOzCh-pa-CR0Pigi1jr3b7nUPj0Tihw57nsbjSNvsIeKPOaXx3isZ0Bv=
+e0T0cyU05tAFJL00dfOkZy8-BPD-l1qpXW5yiPAYD6kp9JM1ZTjzXAvR-FIykUJQs=2E=22 ril=
+t=3D=22WebVersion=22>View the web version of this email=2E</a></td>
+                  <td class=3D=22mobi-hide=22 width=3D=22285=22 align=3D=22=
+right=22 valign=3D=22bottom=22 style=3D=22padding-bottom:5px;=22><a href=3D=
+=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgiz=
+e6s4y4EpIRrRpAEOozb8oo4URuHtqRbsCVXtpKX%3DTWUBSTT&_ei_=3DEolaGGF4SNMvxFF7Ku=
+cKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiG=
+qNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU9f5zVAefHQQ=
+lA_7CSq1YXV9K4IOR78lKwc3XknY2qHsGFlirTPecK3fv75P0lvrRUizdAjoygIuz3pQ7EKaaEv=
+qfosXWhnJADaFc2DM8_plU6eIhjBoq-2Dz-OzKaVF1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQQE7=
+kCCPzbHAhwSzjGEVJ2VT9k0KeD7kVWTer2zg=2E=22 rilt=3D=22header_animation=22><i=
+mg src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/co=
+ntentlibrary/oldcontent/=21Storewide_Templates/SYW_Template_700px_Cobranded=
+=2Eimages/2014_SYW_700PX_TEMPLATES_ANIMATION_NEW_04=2Egif=22 alt=3D=22One d=
+ownload=2E Countless ways to save=2E =7C Shop'in&reg; for exclusive coupons=
+ and more=21 =7C GET THE APP=22 width=3D=22285=22 height=3D=2257=22 border=
+=3D=220=22 /></a></td>
+              </tr>
+            </table>
+            <=21-- snippet ends --></td>
+
+        </tr>
+      </table>
+      <=21-- snippet area table ends -->
+      <=21-- main content wrapper -->
+      <table width=3D=22700=22 border=3D=220=22 align=3D=22center=22 cellpa=
+dding=3D=220=22 cellspacing=3D=220=22 class=3D=22content-wrapper=22>
+        <tr>
+          <td width=3D=22698=22 align=3D=22center=22 valign=3D=22top=22 cla=
+ss=3D=22content-bg=22 style=3D=22border:1px solid =23c2c2c2; background:=23=
+ffffff;=22>
+            <=21-- header/content bin wrapper -->                          =
+    <=21-- spacer -->
+              <table class=3D=22mobi-spacer=22 width=3D=22200=22 border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                <tr>
+                  <td height=3D=229=22 align=3D=22left=22 valign=3D=22top=
+=22 style=3D=22font-size:1px;line-height:1px;=22><img src=3D=22https://resp=
+onsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/contentlibrary/=21storewid=
+e_templates/images/00-global-trans=2Epng=22 border=3D=220=22 height=3D=228=
+=22 width=3D=22200=22 style=3D=22display:block;=22 /></td>
+                </tr>
+              </table>
+              <=21-- spacer ends -->
+            <table class=3D=22content-bin-wrap=22 width=3D=22678=22 border=
+=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+              <tr>
+                <td align=3D=22center=22 valign=3D=22top=22 style=3D=22back=
+ground:=23ffffff;=22>
+
+
+<=21-- body wrapper -->
+                  <=21-- header -->
+                  <table id=3D=22mobi-header=22 width=3D=22100%=22 border=
+=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                    <tr>
+                      <td class=3D=22newheader-left=22 align=3D=22left=22 v=
+align=3D=22middle=22 style=3D=22padding:0px 0px 4px 0px;border-bottom:1px s=
+olid =23c2c2c2;=22><a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0=
+Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y4EpIRrRpAEOozb8oo4URuHtqRbsCVXtpKX%3DTWUB=
+SWT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro=
+-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLjqcrfbCRrN=
+CLWz2ZQV_kuDe3xqIU9f5zVAefHQQlA_7CSq1YXV9K4IOR78lKwc3XknY2qHsGFlirTPecK3fv7=
+5P0lvrRUizdAjoygIuz3pQ7EKaaEvqfosXWhnJADaFc2DM8_plU6eIhjBoq-2Dz-OzKaVF1ocwU=
+k_wC1cpLisN3-jW-E3YGdQi7KQQE7kCCPzbHAhwSzjGEVJ2VT9k0KeD7kVWTer2zg=2E=22 ril=
+t=3D=22sywr=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/respon=
+sysimages/sywr/contentlibrary/oldcontent/=21storewide_templates/SYW_Content=
+_700px_Cobranded_Header_SYW=2Eimages/2014_SYW_700PX_SYW_01=2Ejpg=22 width=
+=3D=22303=22 height=3D=2250=22 alt=3D=22SHOP YOUR WAY &reg;=22 border=3D=22=
+0=22 /></a></td>
+                      <td class=3D=22newheader-right=22 align=3D=22right=22=
+ valign=3D=22middle=22 style=3D=22vertical-align:middle;font-size:13px; col=
+or:=23777777; font-family:Arial&=2344;Helvetica&=2344;sans-serif; -webkit-t=
+ext-size-adjust:none;padding:0px 0px 4px 0px;border-bottom:1px solid =23c2c=
+2c2;=22><strong style=3D=22color:=23f58026;=22><a href=3D=22https://sywr=2E=
+rsys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y4EpIRrRpAEOoz=
+b8oo4URuHtqRbsCVXtpKX%3DTWUBSAT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aU=
+q6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW=
+57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU9f5zVAefHQQlA_7CSq1YXV9K4IOR7=
+8lKwc3XknY2qHsGFlirTPecK3fv75P0lvrRUizdAjoygIuz3pQ7EKaaEvqfosXWhnJADaFc2DM8=
+_plU6eIhjBoq-2Dz-OzKaVF1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQQE7kCCPzbHAhwSzjGEVJ2=
+VT9k0KeD7kVWTer2zg=2E=22 style=3D=22color:=23f58026;text-decoration:none;=
+=22>Don't waste your FREE 2-Day SHIPPING</a></strong><br /><a href=3D=22htt=
+ps://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y4=
+EpIRrRpAEOozb8oo4URuHtqRbsCVXtpKX%3DTWUBSAT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNH=
+vC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQ=
+VAWE453AMrTW57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU9f5zVAefHQQlA_7CS=
+q1YXV9K4IOR78lKwc3XknY2qHsGFlirTPecK3fv75P0lvrRUizdAjoygIuz3pQ7EKaaEvqfosXW=
+hnJADaFc2DM8_plU6eIhjBoq-2Dz-OzKaVF1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQQE7kCCPzb=
+HAhwSzjGEVJ2VT9k0KeD7kVWTer2zg=2E=22 style=3D=22color:=23777777;text-decora=
+tion:none;=22>Use your Shop Your Way MAX<sup>&reg;</sup> membership=21</a><=
+/td>
+                    </tr>
+                  </table>
+                  <=21-- navigation -->
+                  <table id=3D=22header-bottom=22 border=3D=220=22 cellspac=
+ing=3D=220=22 cellpadding=3D=220=22 width=3D=22678=22>
+                    <tr>
+                      <td align=3D=22center=22 style=3D=22padding:8px 0px 8=
+px 0px;=22>
+                        <table class=3D=22mobi-hide=22 width=3D=22100%=22 b=
+order=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                          <tr>
+                            <td align=3D=22left=22 valign=3D=22middle=22 st=
+yle=3D=22font-size:10px; padding:0px 2px 0px 3px; font-family:Arial, Helvet=
+ica, sans-serif; -webkit-text-size-adjust:none;=22><a style=3D=22color:=239=
+19295; text-decoration:none;=22 href=3D=22https://sywr=2Ersys2=2Enet/pub/cc=
+?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y4EpIRrRpAEOozb8oo4URuHtqRbsCVXt=
+pKX%3DTWUBTTT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52=
+r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihL=
+jqcrfbCRrNCLWz2ZQV_kuDe3xqIU9f5zVAefHQQlA_7CSq1YXV9K4IOR78lKwc3XknY2qHsGFli=
+rTPecK3fv75P0lvrRUizdAjoygIuz3pQ7EKaaEvqfosXWhnJADaFc2DM8_plU6eIhjBoq-2Dz-O=
+zKaVF1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQQE7kCCPzbHAhwSzjGEVJ2VT9k0KeD7kVWTer2zg=
+=2E=22 rilt=3D=22earn_redeem=22>EARN & REDEEM POINTS</a></td>
+                            <td align=3D=22left=22 valign=3D=22middle=22>&n=
+bsp;</td>
+                            <td align=3D=22center=22 valign=3D=22middle=22 =
+style=3D=22font-size:10px; padding:0px 11px; font-family:Arial, Helvetica, =
+sans-serif; -webkit-text-size-adjust:none;=22><a style=3D=22color:=23919295=
+; text-decoration:none;=22 href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y4EpIRrRpAEOozb8oo4URuHtqRbsCVXtpKX%3=
+DTWUBTWT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FG=
+Q7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLjqcrf=
+bCRrNCLWz2ZQV_kuDe3xqIU9f5zVAefHQQlA_7CSq1YXV9K4IOR78lKwc3XknY2qHsGFlirTPec=
+K3fv75P0lvrRUizdAjoygIuz3pQ7EKaaEvqfosXWhnJADaFc2DM8_plU6eIhjBoq-2Dz-OzKaVF=
+1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQQE7kCCPzbHAhwSzjGEVJ2VT9k0KeD7kVWTer2zg=2E=
+=22 rilt=3D=22program=22>PROGRAM BENEFITS</a></td>
+                            <td align=3D=22left=22 valign=3D=22middle=22>&n=
+bsp;</td>
+                            <td align=3D=22center=22 valign=3D=22middle=22 =
+style=3D=22font-size:10px; padding:0px 12px; font-family:Arial, Helvetica, =
+sans-serif; -webkit-text-size-adjust:none;=22><a style=3D=22color:=23919295=
+; text-decoration:none;=22 href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y4EpIRrRpAEOozb8oo4URuHtqRbsCVXtpKX%3=
+DTWUBTAT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FG=
+Q7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLjqcrf=
+bCRrNCLWz2ZQV_kuDe3xqIU9f5zVAefHQQlA_7CSq1YXV9K4IOR78lKwc3XknY2qHsGFlirTPec=
+K3fv75P0lvrRUizdAjoygIuz3pQ7EKaaEvqfosXWhnJADaFc2DM8_plU6eIhjBoq-2Dz-OzKaVF=
+1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQQE7kCCPzbHAhwSzjGEVJ2VT9k0KeD7kVWTer2zg=2E=
+=22 rilt=3D=22partners=22>PARTNERS</a></td>
+                            <td align=3D=22left=22 valign=3D=22middle=22>&n=
+bsp;</td>
+                            <td align=3D=22center=22 valign=3D=22middle=22 =
+style=3D=22font-size:10px; padding:0px 10px; font-family:Arial, Helvetica, =
+sans-serif; -webkit-text-size-adjust:none; text-transform:uppercase;=22><a =
+style=3D=22color:=23919295; text-decoration:none;=22 href=3D=22https://sywr=
+=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y4EpIRrRpAE=
+Oozb8oo4URuHtqRbsCVXtpKX%3DTWUBTCT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M=
+_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AM=
+rTW57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU9f5zVAefHQQlA_7CSq1YXV9K4I=
+OR78lKwc3XknY2qHsGFlirTPecK3fv75P0lvrRUizdAjoygIuz3pQ7EKaaEvqfosXWhnJADaFc2=
+DM8_plU6eIhjBoq-2Dz-OzKaVF1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQQE7kCCPzbHAhwSzjGE=
+VJ2VT9k0KeD7kVWTer2zg=2E=22 rilt=3D=22sweeps=22>SWEEPS</a></td>
+                            <td align=3D=22left=22 valign=3D=22middle=22>&n=
+bsp;</td>
+                            <td align=3D=22center=22 valign=3D=22middle=22 =
+style=3D=22font-size:10px; padding:0px 10px; font-family:Arial, Helvetica, =
+sans-serif; -webkit-text-size-adjust:none;=22><a style=3D=22color:=23919295=
+; text-decoration:none;=22 href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y4EpIRrRpAEOozb8oo4URuHtqRbsCVXtpKX%3=
+DTWUBURT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FG=
+Q7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLjqcrf=
+bCRrNCLWz2ZQV_kuDe3xqIU9f5zVAefHQQlA_7CSq1YXV9K4IOR78lKwc3XknY2qHsGFlirTPec=
+K3fv75P0lvrRUizdAjoygIuz3pQ7EKaaEvqfosXWhnJADaFc2DM8_plU6eIhjBoq-2Dz-OzKaVF=
+1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQQE7kCCPzbHAhwSzjGEVJ2VT9k0KeD7kVWTer2zg=2E=
+=22 rilt=3D=22coupons=22>COUPONS</a></td>
+                            <td align=3D=22left=22 valign=3D=22middle=22>&n=
+bsp;</td>
+                            <td align=3D=22right=22 valign=3D=22middle=22 s=
+tyle=3D=22font-size:10px; padding:0px 3px 0px 7px; font-family:Arial, Helve=
+tica, sans-serif; -webkit-text-size-adjust:none;=22><a style=3D=22color:=23=
+919295; text-decoration:none;=22 href=3D=22https://sywr=2Ersys2=2Enet/pub/c=
+c?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y4EpIRrRpAEOozb8oo4URuHtqRbsCVX=
+tpKX%3DTWUBUTT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z5=
+2r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ih=
+LjqcrfbCRrNCLWz2ZQV_kuDe3xqIU9f5zVAefHQQlA_7CSq1YXV9K4IOR78lKwc3XknY2qHsGFl=
+irTPecK3fv75P0lvrRUizdAjoygIuz3pQ7EKaaEvqfosXWhnJADaFc2DM8_plU6eIhjBoq-2Dz-=
+OzKaVF1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQQE7kCCPzbHAhwSzjGEVJ2VT9k0KeD7kVWTer2z=
+g=2E=22 rilt=3D=22account=22>MY ACCOUNT</a></td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                  <=21-- navigation ends -->
+                  <=21-- header ends -->
+                  <=21-- RTP Banner -->
+<=21-- SYWR banner/content bin wrapper -->
+            <table class=3D=22content-bin-wrap=22 width=3D=22680=22 border=
+=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+              <tr>
+                <td align=3D=22center=22 valign=3D=22top=22 bgcolor=3D=22=
+=23f58026=22 style=3D=22border:none; background:=23f58026;=22>
+				<table class=3D=22sywr-banner-wrapper=22 width=3D=22100%=22 border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                	<tr>
+                    	<=21-- Mobile SYW logo -->
+						<td class=3D=22sywr-banner-left-mobile=22><a href=3D=22https://sywr=
+=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y4EpIRrRpAE=
+Oozb8oo4URuHtqRbsCVXtpKX%3DTWUBUWT&_ei_=3DEuEYQkWU38rfKC4NtsOc5IC2cA6YKY7u9=
+ebGPwXMFpQaMHrytougijOhsAsMDhHgxpF5Rm0huaDB4VbZS2IZZwK-hpbshbNDvIEswTqAv_lF=
+dgvcIQiwKJVrtUXnfHPyy5tx2Uhzo9Pr2ocEvyqXnFCKXcwJRF_HxanGXfFCNnzzA7Qw3ziz4CF=
+EE8fRWKhWSg-IJZ6HZu9RIYsPgzem3zTMPmNgwHQmle8HdNA9DuyvcARn-UPZ2phT7Xroz2zI4-=
+IBNgBfox3jiqwOP6lMwSft7alcmougxZhCl4S3wWF8cOFEAQNUUyP8tfxNfen0E6ygtVWPqdN-v=
+gW8Mfv6sIKLL8tdJ7lebY-dyLwByZyonIipLTYhfmUVa6OQbfHK_FZMJALCcamlMhZqow=2E=22=
+><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/cont=
+ent/sywr/SYW_Logo_Mobile=2Epng=22 border=3D=220=22 width=3D=221=22 height=
+=3D=221=22 style=3D=22display:block;=22 /></a></td>
+                        <=21-- Mobile SYW logo -->
+                       =20
+                        <=21-- Mobile Points Banner -->                    =
+=20
+                        <td class=3D=22sywr-banner-right-mobile=22><a href=
+=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirz=
+gize6s4y4EpIRrRpAEOozb8oo4URuHtqRbsCVXtpKX%3DTWUBUAT&_ei_=3DEuEYQkWU38rfKC4=
+NtsOc5IC2cA6YKY7u9ebGPwXMFpQaMHrytougijOhsAsMDhHgxpF5Rm0huaDB4VbZS2IZZwK-hp=
+bshbNDvIEswTqAv_lFdgvcIQiwKJVrtUXnfHPyy5tx2Uhzo9Pr2ocEvyqXnFCKXcwJRF_HxanGX=
+fFCNnzzA7Qw3ziz4CFEE8fRWKhWSg-IJZ6HZu9RIYsPgzem3zTMPmNgwHQmle8HdNA9DuyvcARn=
+-UPZ2phT7Xroz2zI4-IBNgBfox3jiqwOP6lMwSft7alcmougxZhCl4S3wWF8cOFEAQNUUyP8tfx=
+Nfen0E6ygtVWPqdN-vgW8Mfv6sIKLL8tdJ7lebY-dyLwByZyonIipLTYhfmUVa6OQbfHK_FZMJA=
+LCcamlMhZqow=2E=22><img src=3D=22http://promo=2Esemantictec=2Ecom/tec/api/p=
+romo/campaign/Statement/asset/PointsEmail/position/0?sywr=3D708119750973618=
+8&pntbaldol=3D&emlid=3D261753595&zip=3D11790&store=3D&pntbalam=3D&offerbus=
+=3DC3&offerdivs=3D&offeritems=3D&source=3D&seg=3D&sid=3DIOx20150422SYRPRMSY=
+Lx01278407x2008642xLA2WOPTI03&skinstyle=3Dmobile&sywrid=3D7081197509736188=
+=22 border=3D=220=22 style=3D=22display:block;=22 width=3D=221=22 height=3D=
+=221=22 /></a></td>
+                        <=21-- Mobile Points Banner -->
+                       =20
+                        <=21-- Desktop Points Banner -->
+                        <td class=3D=22sywr-banner-right-desktop=22 align=
+=3D=22center=22><a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc=
+2X%3DWQpglLjHJlTQGhfirzgize6s4y4EpIRrRpAEOozb8oo4URuHtqRbsCVXtpKX%3DTWUBUCT=
+&_ei_=3DEuEYQkWU38rfKC4NtsOc5IC2cA6YKY7u9ebGPwXMFpQaMHrytougijOhsAsMDhHgxpF=
+5Rm0huaDB4VbZS2IZZwK-hpbshbNDvIEswTqAv_lFdgvcIQiwKJVrtUXnfHPyy5tx2Uhzo9Pr2o=
+cEvyqXnFCKXcwJRF_HxanGXfFCNnzzA7Qw3ziz4CFEE8fRWKhWSg-IJZ6HZu9RIYsPgzem3zTMP=
+mNgwHQmle8HdNA9DuyvcARn-UPZ2phT7Xroz2zI4-IBNgBfox3jiqwOP6lMwSft7alcmougxZhC=
+l4S3wWF8cOFEAQNUUyP8tfxNfen0E6ygtVWPqdN-vgW8Mfv6sIKLL8tdJ7lebY-dyLwByZyonIi=
+pLTYhfmUVa6OQbfHK_FZMJALCcamlMhZqow=2E=22><img src=3D=22http://promo=2Esema=
+ntictec=2Ecom/tec/api/promo/campaign/Statement/asset/PointsEmail/position/0=
+?sywr=3D7081197509736188&pntbaldol=3D&emlid=3D261753595&zip=3D11790&store=
+=3D&pntbalam=3D&offerbus=3DC3&offerdivs=3D&offeritems=3D&source=3D&seg=3D&s=
+id=3DIOx20150422SYRPRMSYLx01278407x2008642xLA2WOPTI03&sywrid=3D708119750973=
+6188=22 border=3D=220=22 style=3D=22display:block;=22 alt=3D=22View Account=
+ or Redeem Points=22 /></a></td>
+                        <=21-- Desktop Points Banner -->
+					</tr>
+				</table> =20
+				</td>
+              </tr>
+            </table>
+            <=21-- SYWR banner/content bin wrapper -->
+                  <=21-- RTP Banner ends -->
+                </td>
+              </tr>
+            </table>
+			      =20
+            <=21-- header/content bin wrapper ends -->  =20
+<=21-- //////////////////// START CONTENT //////////////////// -->
+
+<=21-- hero wrapper/content bin wrapper -->
+            <table class=3D=22content-bin-wrap=22 width=3D=22678=22 align=
+=3D=22center=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=
+=22>
+              <tr>
+                <td align=3D=22center=22 valign=3D=22top=22>
+                  <=21-- hero -->
+                  <table class=3D=22mobi-hero-20150422SYWSearsOpticalPromo=
+=22 width=3D=2286=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22>
+                    <tr>
+                      <td align=3D=22center=22 valign=3D=22top=22><img src=
+=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/contentl=
+ibrary/=212015/2015_week_12/20150422SYWSRSOptical/SearsOptical_PromoC/image=
+s/04152015_SYW-Sears-Optical-Flat-Version-A_03=2Ejpg=22 width=3D=2286=22 he=
+ight=3D=2288=22 alt=3D=22Sears&reg; OPTICAL=22 border=3D=220=22 style=3D=22=
+display:block;=22 /></td>
+                    </tr>
+                  </table>
+                  <table class=3D=22mobi-hero-20150422SYWSearsOpticalPromo=
+=22 width=3D=22534=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22>
+                    <tr>
+                      <td class=3D=22stack=22 align=3D=22center=22 valign=
+=3D=22top=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsy=
+simages/sywr/contentlibrary/=212015/2015_week_12/20150422SYWSRSOptical/Sear=
+sOptical_PromoC/images/04152015_SYW-Sears-Optical-Flat-Version-A_06v2=2Ejpg=
+=22 width=3D=22295=22 height=3D=2238=22 alt=3D=22Members, use your=22 borde=
+r=3D=220=22 style=3D=22display:block;=22 /></td>
+                      <td class=3D=22stack=22 align=3D=22center=22 valign=
+=3D=22top=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsy=
+simages/sywr/contentlibrary/=212015/2015_week_12/20150422SYWSRSOptical/Sear=
+sOptical_PromoC/images/04152015_SYW-Sears-Optical-Flat-Version-A_07v2=2Ejpg=
+=22 width=3D=22237=22 height=3D=2238=22 alt=3D=22surprise points=22 border=
+=3D=220=22 style=3D=22display:block;=22 /></td>
+                    </tr>
+                  </table>
+                  <table class=3D=22mobi-hero-20150422SYWSearsOpticalPromo=
+=22 width=3D=22378=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22>
+                    <tr>
+                      <td align=3D=22center=22 valign=3D=22top=22><img src=
+=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/contentl=
+ibrary/=212015/2015_week_12/20150422SYWSRSOptical/SearsOptical_PromoC/image=
+s/04152015_SYW-Sears-Optical-Flat-Version-A_09=2Ejpg=22 width=3D=22378=22 h=
+eight=3D=2253=22 alt=3D=22with this exclusive offer=21=22 border=3D=220=22 =
+style=3D=22display:block;=22 /></td>
+                    </tr>
+                  </table>
+                  <table class=3D=22mobi-hero-20150422SYWSearsOpticalPromo=
+=22 width=3D=22678=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22>
+                    <tr>
+                      <td class=3D=22stack center-points=22 align=3D=22cent=
+er=22 valign=3D=22top=22 width=3D=22224=22><span style=3D=22font-family:Ari=
+al, Helvetica, sans-serif; font-size:25px; color:=23283c83; -webkit-text-si=
+ze-adjust:none; padding:0 0 0 0;=22><strong style=3D=22font-size:30px;=22>=
+=2415</strong><br> <strong>in surprise points<br></strong></span> <span sty=
+le=3D=22font-family:Arial, Helvetica, sans-serif; font-size:10px; color:=23=
+464646; -webkit-text-size-adjust:none; padding:0 0 0 0;=22> (15,000 points)=
+ toward<br>your eyewear purchase<br> over =24100</span></td>
+                     =20
+                      <td class=3D=22hide=22 align=3D=22center=22 valign=3D=
+=22middle=22 width=3D=223=22 style=3D=22border-left: 1px solid =23c2c2c2;=
+=22></td>
+                     =20
+                      <td class=3D=22stack center-points=22 align=3D=22cent=
+er=22 valign=3D=22top=22 width=3D=22224=22><span style=3D=22font-family:Ari=
+al, Helvetica, sans-serif; font-size:25px; color:=23283c83; -webkit-text-si=
+ze-adjust:none; padding:0 0 0 0;=22><strong style=3D=22font-size:30px;=22>=
+=2425</strong><br> <strong>in surprise points<br></strong></span> <span sty=
+le=3D=22font-family:Arial, Helvetica, sans-serif; font-size:10px; color:=23=
+464646; -webkit-text-size-adjust:none; padding:0 0 0 0;=22>(25,000 points) =
+toward<br>your eyewear purchase<br> over =24200</span></td>
+                     =20
+                      <td class=3D=22hide=22 align=3D=22center=22 valign=3D=
+=22middle=22 width=3D=223=22 style=3D=22border-left: 1px solid =23c2c2c2;=
+=22></td>
+                     =20
+                      <td class=3D=22stack center-points=22 align=3D=22cent=
+er=22 valign=3D=22top=22 width=3D=22224=22><span style=3D=22font-family:Ari=
+al, Helvetica, sans-serif; font-size:25px; color:=23283c83; -webkit-text-si=
+ze-adjust:none; padding:0 0 0 0;=22><strong style=3D=22font-size:30px;=22>=
+=2435</strong><br> <strong>in surprise points<br></strong></span> <span sty=
+le=3D=22font-family:Arial, Helvetica, sans-serif; font-size:10px; color:=23=
+464646; -webkit-text-size-adjust:none; padding:0 0 0 0;=22>(30,000 points) =
+toward<br>your eyewear purchase<br> over =24350</span></td>
+                    </tr>
+                  </table>
+                  <table class=3D=22mobi-hero-20150422SYWSearsOpticalPromo=
+=22 width=3D=22678=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22>
+                    <tr>
+                      <td class=3D=22padding-fix=22 align=3D=22center=22 va=
+lign=3D=22top=22 style=3D=22font-family:Arial, Helvetica, sans-serif; font-=
+size:10px; -webkit-text-size-adjust:none; padding:40px 0 30px 0;=22><a href=
+=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirz=
+gize6s4y4EpIRrRpAEOozb8oo4URuHtqRbsCVXtpKX%3DTWUDTTT&_ei_=3DEolaGGF4SNMvxFF=
+7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlh=
+AiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU9f5zVAef=
+HQQlA_7CSq1YXV9K4IOR78lKwc3XknY2qHsGFlirTPecK3fv75P0lvrRUizdAjoygIuz3pQ7EKa=
+aEvqfosXWhnJADaFc2DM8_plU6eIhjBoq-2Dz-OzKaVF1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQ=
+QE7kCCPzbHAhwSzjGEVJ2VT9k0KeD7kVWTer2zg=2E=22 rilt=3D=22pwk_details_CTA_C=
+=22 style=3D=22color:=238a8a8e; text-decoration:none;=22>Offer ends 5/5/15=
+=2E Exclusions apply=2E <u>See details=2E</u></a></td>
+                    </tr>
+                  </table>
+                  <table class=3D=22mobi-hero-20150422SYWSearsOpticalPromo=
+=22 width=3D=22678=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22>
+                    <tr>
+                      <td class=3D=22stack=22 align=3D=22center=22 valign=
+=3D=22top=22 style=3D=22background:=23e0f1fd;=22>
+                          <table class=3D=22mobi-hero-20150422SYWSearsOptic=
+alPromo=22 width=3D=22450=22 border=3D=220=22 cellspacing=3D=220=22 cellpad=
+ding=3D=220=22>
+                            <tr>
+                              <td class=3D=22padding-top=22 align=3D=22cent=
+er=22 valign=3D=22top=22><a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri=
+_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y4EpIRrRpAEOozb8oo4URuHtqRbsCVXtpKX%=
+3DTWUBWTT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64F=
+GQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLjqcr=
+fbCRrNCLWz2ZQV_kuDe3xqIU9f5zVAefHQQlA_7CSq1YXV9K4IOR78lKwc3XknY2qHsGFlirTPe=
+cK3fv75P0lvrRUizdAjoygIuz3pQ7EKaaEvqfosXWhnJADaFc2DM8_plU6eIhjBoq-2Dz-OzKaV=
+F1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQQE7kCCPzbHAhwSzjGEVJ2VT9k0KeD7kVWTer2zg=2E=
+=22 rilt=3D=22pwk_offer_copy=22><img src=3D=22https://responsys=2Ehs=2Ellnw=
+d=2Enet/i2/responsysimages/sywr/contentlibrary/=212015/2015_week_12/2015042=
+2SYWSRSOptical/SearsOptical_PromoC/images/04152015_SYW-Sears-Optical-Flat-V=
+ersion-A_17=2Ejpg=22 width=3D=22230=22 height=3D=2250=22 alt=3D=22Plus Save=
+ up to =24200*=22 border=3D=220=22 style=3D=22display:block;=22 /></a></td>
+                            </tr>
+                            <tr>
+                              <td align=3D=22center=22 valign=3D=22top=22 s=
+tyle=3D=22font-family:Arial, Helvetica, sans-serif; font-size:16px; -webkit=
+-text-size-adjust:none; padding:0 0 20px 0;=22><a href=3D=22https://sywr=2E=
+rsys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y4EpIRrRpAEOoz=
+b8oo4URuHtqRbsCVXtpKX%3DTWUBWTT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aU=
+q6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW=
+57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU9f5zVAefHQQlA_7CSq1YXV9K4IOR7=
+8lKwc3XknY2qHsGFlirTPecK3fv75P0lvrRUizdAjoygIuz3pQ7EKaaEvqfosXWhnJADaFc2DM8=
+_plU6eIhjBoq-2Dz-OzKaVF1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQQE7kCCPzbHAhwSzjGEVJ2=
+VT9k0KeD7kVWTer2zg=2E=22 rilt=3D=22pwk_offer_copy=22 style=3D=22color:=2366=
+6666; text-decoration:none;=22>on eyeglasses or <span class=3D=22text-stack=
+=22>prescription sunglasses</span></a></td>
+                            </tr>
+                            <tr>
+                              <td align=3D=22center=22 valign=3D=22top=22><=
+a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQ=
+Ghfirzgize6s4y4EpIRrRpAEOozb8oo4URuHtqRbsCVXtpKX%3DTWUBWWT&_ei_=3DEolaGGF4S=
+NMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUr=
+mVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU9f=
+5zVAefHQQlA_7CSq1YXV9K4IOR78lKwc3XknY2qHsGFlirTPecK3fv75P0lvrRUizdAjoygIuz3=
+pQ7EKaaEvqfosXWhnJADaFc2DM8_plU6eIhjBoq-2Dz-OzKaVF1ocwUk_wC1cpLisN3-jW-E3YG=
+dQi7KQQE7kCCPzbHAhwSzjGEVJ2VT9k0KeD7kVWTer2zg=2E=22 rilt=3D=22pwk_cta=22><i=
+mg src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/co=
+ntentlibrary/=212015/2015_week_12/20150422SYWSRSOptical/SearsOptical_PromoC=
+/images/04152015_SYW-Sears-Optical-Flat-Version-A_21=2Ejpg=22 width=3D=2216=
+5=22 height=3D=2236=22 alt=3D=22LEARN MORE=22 border=3D=220=22 style=3D=22d=
+isplay:block;=22 /></a></td>
+                            </tr>
+                            <tr>
+                              <td class=3D=22font-fix=22 align=3D=22center=
+=22 valign=3D=22top=22 style=3D=22font-family:Arial, Helvetica, sans-serif;=
+ font-size:10px; -webkit-text-size-adjust:none; padding:20px 0 20px 0;=22><=
+a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQ=
+Ghfirzgize6s4y4EpIRrRpAEOozb8oo4URuHtqRbsCVXtpKX%3DTWWCCTT&_ei_=3DEolaGGF4S=
+NMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUr=
+mVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU9f=
+5zVAefHQQlA_7CSq1YXV9K4IOR78lKwc3XknY2qHsGFlirTPecK3fv75P0lvrRUizdAjoygIuz3=
+pQ7EKaaEvqfosXWhnJADaFc2DM8_plU6eIhjBoq-2Dz-OzKaVF1ocwUk_wC1cpLisN3-jW-E3YG=
+dQi7KQQE7kCCPzbHAhwSzjGEVJ2VT9k0KeD7kVWTer2zg=2E=22 rilt=3D=22pwk_lowerbody=
+=22 style=3D=22text-decoration:none; color:=238a8a8e;=22>*Offer valid on on=
+e complete pair of eyeglasses (frame and lenses):<br> Get =24100 off up to =
+=24300, =24150 off =24300=2E01-=24500 and =24200 off =24500=2E01 or more=2E=
+<br> Offer ends 7/7/15=2E Exclusions apply=2E <u>See details=2E</u></a>=20
+</td>
+                            </tr>
+                          </table>
+                      </td>
+                      <td class=3D=22hide=22 align=3D=22center=22 valign=3D=
+=22top=22 width=3D=2215=22>&nbsp;</td>
+                      <td class=3D=22stack background-fix=22 align=3D=22cen=
+ter=22 valign=3D=22top=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Ene=
+t/i2/responsysimages/sywr/contentlibrary/=212015/2015_week_12/20150422SYWSR=
+SOptical/SearsOptical_PromoC/images/04152015_SYW-Sears-Optical-Flat-Version=
+-A_14=2Ejpg=22 width=3D=22202=22 height=3D=22209=22  border=3D=220=22 style=
+=3D=22display:block;=22 /></td>
+                    </tr>
+                  </table>
+                  <table class=3D=22mobi-hero-20150422SYWSearsOpticalPromo=
+=22 width=3D=22678=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22>
+                        <tr>
+                          <td align=3D=22center=22 valign=3D=22top=22 heigh=
+t=3D=2215=22></td>
+                        </tr>
+                  </table>
+                  <table class=3D=22mobi-hero-20150422SYWSearsOpticalPromo=
+=22 width=3D=22678=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22>
+                    <tr>
+                      <td align=3D=22center=22 valign=3D=22top=22 style=3D=
+=22background:=23f2f2f2;=22>
+                          <table border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22>
+                        <tr>
+                          <td align=3D=22center=22 valign=3D=22top=22 style=
+=3D=22padding-top:20px;=22><a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_=
+ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y4EpIRrRpAEOozb8oo4URuHtqRbsCVXtpK=
+X%3DTWUBWCT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r6=
+4FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLjq=
+crfbCRrNCLWz2ZQV_kuDe3xqIU9f5zVAefHQQlA_7CSq1YXV9K4IOR78lKwc3XknY2qHsGFlirT=
+PecK3fv75P0lvrRUizdAjoygIuz3pQ7EKaaEvqfosXWhnJADaFc2DM8_plU6eIhjBoq-2Dz-OzK=
+aVF1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQQE7kCCPzbHAhwSzjGEVJ2VT9k0KeD7kVWTer2zg=
+=2E=22 rilt=3D=22pwk_seemore_copy=22><img src=3D=22https://responsys=2Ehs=
+=2Ellnwd=2Enet/i2/responsysimages/sywr/contentlibrary/=212015/2015_week_12/=
+20150422SYWSRSOptical/SearsOptical_PromoC/images/04152015_SYW-Sears-Optical=
+-Flat-Version-A_26=2Ejpg=22 width=3D=22219=22 height=3D=2248=22 alt=3D=22Sp=
+ring is in bloom=21=22 border=3D=220=22 style=3D=22display:block;=22 /></a>=
+</td>
+                        </tr>
+                      </table>
+                      <table border=3D=220=22 cellspacing=3D=220=22 cellpad=
+ding=3D=220=22>
+                        <tr>
+                          <td align=3D=22center=22 valign=3D=22top=22 style=
+=3D=22font-family:Arial, Helvetica, sans-serif; font-size:17px; color:=2366=
+6666; -webkit-text-size-adjust:none; padding:0 0 15px 0;=22><a href=3D=22ht=
+tps://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y=
+4EpIRrRpAEOozb8oo4URuHtqRbsCVXtpKX%3DTWUBWCT&_ei_=3DEolaGGF4SNMvxFF7KucKuWN=
+HvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcq=
+QVAWE453AMrTW57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU9f5zVAefHQQlA_7C=
+Sq1YXV9K4IOR78lKwc3XknY2qHsGFlirTPecK3fv75P0lvrRUizdAjoygIuz3pQ7EKaaEvqfosX=
+WhnJADaFc2DM8_plU6eIhjBoq-2Dz-OzKaVF1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQQE7kCCPz=
+bHAhwSzjGEVJ2VT9k0KeD7kVWTer2zg=2E=22 rilt=3D=22pwk_seemore_copy=22 style=
+=3D=22color:=23666666; text-decoration:none;=22>Shop our great selection<br=
+> of new spring styles from quality <span class=3D=22text-stack=22>brands i=
+ncluding:</span></a></td>
+                        </tr>
+                      </table>
+                      <table border=3D=220=22 cellspacing=3D=220=22 cellpad=
+ding=3D=220=22>
+                        <tr>
+                          <td class=3D=22stack=22 align=3D=22center=22 vali=
+gn=3D=22top=22><a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2=
+X%3DWQpglLjHJlTQGhfirzgize6s4y4EpIRrRpAEOozb8oo4URuHtqRbsCVXtpKX%3DTWUBWCT&=
+_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCd=
+gGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz=
+2ZQV_kuDe3xqIU9f5zVAefHQQlA_7CSq1YXV9K4IOR78lKwc3XknY2qHsGFlirTPecK3fv75P0l=
+vrRUizdAjoygIuz3pQ7EKaaEvqfosXWhnJADaFc2DM8_plU6eIhjBoq-2Dz-OzKaVF1ocwUk_wC=
+1cpLisN3-jW-E3YGdQi7KQQE7kCCPzbHAhwSzjGEVJ2VT9k0KeD7kVWTer2zg=2E=22 rilt=3D=
+=22pwk_seemore_copy=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i=
+2/responsysimages/sywr/contentlibrary/=212015/2015_week_12/20150422SYWSRSOp=
+tical/SearsOptical_PromoC/images/04152015_SYW-Sears-Optical-Flat-Version-A_=
+30=2Ejpg=22 width=3D=22312=22 height=3D=2257=22 alt=3D=22Ray-Ban&reg; =7C V=
+ogue eyewear=22 border=3D=220=22 style=3D=22display:block;=22 /></a></td>
+                          <td class=3D=22hide=22 align=3D=22center=22 valig=
+n=3D=22top=22 width=3D=2250=22></td>
+                          <td class=3D=22stack padding-top=22 align=3D=22ce=
+nter=22 valign=3D=22top=22><a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_=
+ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y4EpIRrRpAEOozb8oo4URuHtqRbsCVXtpK=
+X%3DTWUBWCT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r6=
+4FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLjq=
+crfbCRrNCLWz2ZQV_kuDe3xqIU9f5zVAefHQQlA_7CSq1YXV9K4IOR78lKwc3XknY2qHsGFlirT=
+PecK3fv75P0lvrRUizdAjoygIuz3pQ7EKaaEvqfosXWhnJADaFc2DM8_plU6eIhjBoq-2Dz-OzK=
+aVF1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQQE7kCCPzbHAhwSzjGEVJ2VT9k0KeD7kVWTer2zg=
+=2E=22 rilt=3D=22pwk_seemore_copy=22><img src=3D=22https://responsys=2Ehs=
+=2Ellnwd=2Enet/i2/responsysimages/sywr/contentlibrary/=212015/2015_week_12/=
+20150422SYWSRSOptical/SearsOptical_PromoC/images/04152015_SYW-Sears-Optical=
+-Flat-Version-A_32=2Ejpg=22 width=3D=22276=22 height=3D=2280=22 alt=3D=22Le=
+vi's&reg; =7C Disney=22 border=3D=220=22 style=3D=22display:block;=22 /></a=
+></td>
+                        </tr>
+                      </table>
+                      <table border=3D=220=22 cellspacing=3D=220=22 cellpad=
+ding=3D=220=22>
+                        <tr>
+                          <td align=3D=22center=22 valign=3D=22top=22><a hr=
+ef=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfi=
+rzgize6s4y4EpIRrRpAEOozb8oo4URuHtqRbsCVXtpKX%3DTWWCBCT&_ei_=3DEolaGGF4SNMvx=
+FF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOW=
+lhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU9f5zVA=
+efHQQlA_7CSq1YXV9K4IOR78lKwc3XknY2qHsGFlirTPecK3fv75P0lvrRUizdAjoygIuz3pQ7E=
+KaaEvqfosXWhnJADaFc2DM8_plU6eIhjBoq-2Dz-OzKaVF1ocwUk_wC1cpLisN3-jW-E3YGdQi7=
+KQQE7kCCPzbHAhwSzjGEVJ2VT9k0KeD7kVWTer2zg=2E=22 rilt=3D=22pwk_seemore_produ=
+ct=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages=
+/sywr/contentlibrary/=212015/2015_week_12/20150422SYWSRSOptical/SearsOptica=
+l_PromoC/images/04152015_SYW-Sears-Optical-Flat-Version-A_36=2Ejpg=22 width=
+=3D=22139=22 height=3D=2273=22 alt=3D=22SEE MORE =22 border=3D=220=22 style=
+=3D=22display:block;=22 /></td>
+                        </tr>
+                      </table>
+                      <table border=3D=220=22 cellspacing=3D=220=22 cellpad=
+ding=3D=220=22>
+                        <tr>
+                          <td align=3D=22center=22 valign=3D=22top=22><a hr=
+ef=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfi=
+rzgize6s4y4EpIRrRpAEOozb8oo4URuHtqRbsCVXtpKX%3DTWUBWCT&_ei_=3DEolaGGF4SNMvx=
+FF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOW=
+lhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU9f5zVA=
+efHQQlA_7CSq1YXV9K4IOR78lKwc3XknY2qHsGFlirTPecK3fv75P0lvrRUizdAjoygIuz3pQ7E=
+KaaEvqfosXWhnJADaFc2DM8_plU6eIhjBoq-2Dz-OzKaVF1ocwUk_wC1cpLisN3-jW-E3YGdQi7=
+KQQE7kCCPzbHAhwSzjGEVJ2VT9k0KeD7kVWTer2zg=2E=22 rilt=3D=22pwk_seemore_copy=
+=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/s=
+ywr/contentlibrary/=212015/2015_week_12/20150422SYWSRSOptical/SearsOptical_=
+PromoC/images/04152015_SYW-Sears-Optical-Flat-Version-A_39=2Ejpg=22 width=
+=3D=22157=22 height=3D=2233=22 alt=3D=22Don't forget=21=22 border=3D=220=22=
+ style=3D=22display:block;=22 /></a></td>
+                        </tr>
+                      </table>
+                      <table border=3D=220=22 cellspacing=3D=220=22 cellpad=
+ding=3D=220=22>
+                        <tr>
+                          <td align=3D=22center=22 valign=3D=22top=22 style=
+=3D=22font-family:Arial, Helvetica, sans-serif; font-size:17px; -webkit-tex=
+t-size-adjust:none; padding:0 0 0 0;=22><strong><a href=3D=22https://sywr=
+=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y4EpIRrRpAE=
+Oozb8oo4URuHtqRbsCVXtpKX%3DTWUBWCT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M=
+_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AM=
+rTW57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU9f5zVAefHQQlA_7CSq1YXV9K4I=
+OR78lKwc3XknY2qHsGFlirTPecK3fv75P0lvrRUizdAjoygIuz3pQ7EKaaEvqfosXWhnJADaFc2=
+DM8_plU6eIhjBoq-2Dz-OzKaVF1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQQE7kCCPzbHAhwSzjGE=
+VJ2VT9k0KeD7kVWTer2zg=2E=22 rilt=3D=22pwk_seemore_copy=22 style=3D=22text-d=
+ecoration:none; color:=23f17f21;=22><span class=3D=22text-stack=22>Members =
+can earn and redeem</span> points on purchases</a></strong><br><a href=3D=
+=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgiz=
+e6s4y4EpIRrRpAEOozb8oo4URuHtqRbsCVXtpKX%3DTWUBWCT&_ei_=3DEolaGGF4SNMvxFF7Ku=
+cKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiG=
+qNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU9f5zVAefHQQ=
+lA_7CSq1YXV9K4IOR78lKwc3XknY2qHsGFlirTPecK3fv75P0lvrRUizdAjoygIuz3pQ7EKaaEv=
+qfosXWhnJADaFc2DM8_plU6eIhjBoq-2Dz-OzKaVF1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQQE7=
+kCCPzbHAhwSzjGEVJ2VT9k0KeD7kVWTer2zg=2E=22 rilt=3D=22pwk_seemore_copy=22 st=
+yle=3D=22text-decoration:none; color:=23666666;=22> made at participating S=
+ears <span class=3D=22text-stack=22>Optical locations inside Sears stores=
+=2E</span></a></td>
+                        </tr>
+                      </table>
+                      <table border=3D=220=22 cellspacing=3D=220=22 cellpad=
+ding=3D=220=22>
+                        <tr>
+                          <td align=3D=22center=22 valign=3D=22top=22 style=
+=3D=22font-family:Arial, Helvetica, sans-serif; font-size:20px; -webkit-tex=
+t-size-adjust:none; padding:25px 0 25px 0;=22><strong><a href=3D=22https://=
+sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y4EpIRr=
+RpAEOozb8oo4URuHtqRbsCVXtpKX%3DTWWBWAT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZ=
+ZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE4=
+53AMrTW57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU9f5zVAefHQQlA_7CSq1YXV=
+9K4IOR78lKwc3XknY2qHsGFlirTPecK3fv75P0lvrRUizdAjoygIuz3pQ7EKaaEvqfosXWhnJAD=
+aFc2DM8_plU6eIhjBoq-2Dz-OzKaVF1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQQE7kCCPzbHAhwS=
+zjGEVJ2VT9k0KeD7kVWTer2zg=2E=22 rilt=3D=22pwk_find_optical=22  style=3D=22c=
+olor:=23f17f21;=22><u>FIND A SEARS OPTICAL</u></a></strong></td>
+                        </tr>
+                      </table>
+                      </td>
+                    </tr>
+                  </table>
+                  <=21-- hero ends -->
+                </td>
+              </tr>
+            </table>=20
+<=21-- hero wrapper/content bin wrapper ends --><=21-- ////////////////////=
+ END CONTENT //////////////////// -->    =20
+<=21-- spacer -->
+<table class=3D=22mobi-spacer=22 width=3D=22678=22 border=3D=220=22 cellspa=
+cing=3D=220=22 cellpadding=3D=220=22>
+<tr>
+<td align=3D=22left=22 valign=3D=22top=22><img src=3D=22https://responsys=
+=2Ehs=2Ellnwd=2Enet/i2/responsysimages/content/sears2/00-global-trans=2Epng=
+=22 border=3D=220=22 height=3D=229=22 width=3D=22200=22 style=3D=22display:=
+block;=22 /></td>
+</tr>
+</table>
+<=21-- spacer ends -->
+          </td>
+        </tr>
+      </table>
+      <=21-- main content wrapper ends -->
+
+<=21-- body wrapper -->
+      <=21-- begin footer container -->
+      <table class=3D=22footer-resize=22 align=3D=22center=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22 width=3D=22700=22 border=3D=220=22>
+        <tr>
+          <td align=3D=22center=22 valign=3D=22top=22 style=3D=22padding:0;=
+=22>
+           <=21-- footer links -->
+           <table class=3D=22footer-resize=22 width=3D=22700=22 border=3D=
+=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+             <tr>
+               <td class=3D=22legal-links=22 align=3D=22center=22 valign=3D=
+=22top=22 style=3D=22font-family:Arial, Helvetica, sans-serif; color:=23aca=
+cac; font-size:11px; -webkit-text-size-adjust:none; padding:12px 0; text-tr=
+ansform:uppercase;=22><a style=3D=22color:=23acacac; text-decoration:none;=
+=22 href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJl=
+TQGhfirzgize6s4y4EpIRrRpAEOozb8oo4URuHtqRbsCVXtpKX%3DTWUBYRT&_ei_=3DEolaGGF=
+4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTf=
+UrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU=
+9f5zVAefHQQlA_7CSq1YXV9K4IOR78lKwc3XknY2qHsGFlirTPecK3fv75P0lvrRUizdAjoygIu=
+z3pQXVnSy_SrpGN_HFQmcxmQaR-vWz__LlzPiU79IYWzhkD2ptE-C15GvETLYxrlnPv3C6a0krQ=
+QlVnZDHiSxP3z3YGen4aJ9IMYxG-2LXcE3mWlviBnpgy0Y6qZHmd3gWVRcZUNsK-kyZ29_TATqV=
+jtoXc8Blda8pNCD4wfpYWgwYzajKzfxc1evbZ9PxkqRDAV2OL7HMnJqj199DTmAR45CmPOBd2l4=
+6q1U3Rw6_1J3MZRHbqqWafdQDM9BqEel60ZRdyZvqD-MhnsAuSlJlzT5nWiZBKLWYfjj80qgAbf=
+YkIxYj1X_q-MRh3wq3QAaUlDe8SpKhTrs9K8JPijnDma-AQYRhppJ2v9r55dbhs6uYcWRiTCrjI=
+bNFNh3Ofeohbk0sujvdblrW-5vvxfgWtZaeZlHiKgfdBaAOtaaL_FCMUszN7F90z90TtDCAX8mv=
+cqhbAdmvMwBan5=2E=22 rilt=3D=22unsubscribe=22>UNSUBSCRIBE</a> &nbsp;&nbsp;=
+=7C&nbsp;&nbsp; <a style=3D=22color:=23acacac; text-decoration:none;=22 hre=
+f=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfir=
+zgize6s4y4EpIRrRpAEOozb8oo4URuHtqRbsCVXtpKX%3DTWUBYTT&_ei_=3DEolaGGF4SNMvxF=
+F7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWl=
+hAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU9f5zVAe=
+fHQQlA_7CSq1YXV9K4IOR78lKwc3XknY2qHsGFlirTPecK3fv75P0lvrRUizdAjoygIuz3pQ7EK=
+aaEvqfosXWhnJADaFc2DM8_plU6eIhjBoq-2Dz-OzKaVF1ocwUk_wC1cpLisN3-jW-E3YGdQi7K=
+QQE7kCCPzbHAhwSzjGEVJ2VT9k0KeD7kVWTer2zg=2E=22 rilt=3D=22about_shc=22>ABOUT=
+ SHC</a> &nbsp;&nbsp;=7C&nbsp;&nbsp; <a href=3D=22https://sywr=2Ersys2=2Ene=
+t/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y4EpIRrRpAEOozb8oo4URuHt=
+qRbsCVXtpKX%3DTWUBYWT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6F=
+P3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV=
+0-qo5ihLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU9f5zVAefHQQlA_7CSq1YXV9K4IOR78lKwc3XknY=
+2qHsGFlirTPecK3fv75P0lvrRUizdAjoygIuz3pQ7EKaaEvqfosXWhnJADaFc2DM8_plU6eIhjB=
+oq-2Dz-OzKaVF1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQQE7kCCPzbHAhwSzjGEVJ2VT9k0KeD7k=
+VWTer2zg=2E=22 rilt=3D=22terms_conditions=22 style=3D=22color:=23acacac; te=
+xt-decoration:none;=22>PROGRAM TERMS AND CONDITIONS</a> &nbsp;&nbsp;=7C&nbs=
+p;&nbsp; <a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQ=
+pglLjHJlTQGhfirzgize6s4y4EpIRrRpAEOozb8oo4URuHtqRbsCVXtpKX%3DTWUBYAT&_ei_=
+=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzb=
+xpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz2ZQV=
+_kuDe3xqIU9f5zVAefHQQlA_7CSq1YXV9K4IOR78lKwc3XknY2qHsGFlirTPecK3fv75P0lvrRU=
+izdAjoygIuz3pQ7EKaaEvqfosXWhnJADaFc2DM8_plU6eIhjBoq-2Dz-OzKaVF1ocwUk_wC1cpL=
+isN3-jW-E3YGdQi7KQQE7kCCPzbHAhwSzjGEVJ2VT9k0KeD7kVWTer2zg=2E=22 rilt=3D=22t=
+erms_use=22 style=3D=22color:=23acacac; text-decoration:none;=22>TERMS OF U=
+SE</a></td>
+             </tr>
+             <tr>
+               <td class=3D=22legal-links=22 align=3D=22center=22 valign=3D=
+=22top=22 style=3D=22font-family:Arial, Helvetica, sans-serif; color:=23aca=
+cac; font-size:11px; -webkit-text-size-adjust:none; padding:0 0 12px 0;=22>=
+<a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlT=
+QGhfirzgize6s4y4EpIRrRpAEOozb8oo4URuHtqRbsCVXtpKX%3DTWUBYCT&_ei_=3DEolaGGF4=
+SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfU=
+rmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU9=
+f5zVAefHQQlA_7CSq1YXV9K4IOR78lKwc3XknY2qHsGFlirTPecK3fv75P0lvrRUizdAjoygIuz=
+3pQ7EKaaEvqfosXWhnJADaFc2DM8_plU6eIhjBoq-2Dz-OzKaVF1ocwUk_wC1cpLisN3-jW-E3Y=
+GdQi7KQQE7kCCPzbHAhwSzjGEVJ2VT9k0KeD7kVWTer2zg=2E=22 rilt=3D=22privacy_poli=
+cy=22 style=3D=22color:=23acacac; text-decoration:none;=22>PRIVACY POLICY</=
+a> &nbsp;&nbsp;=7C&nbsp;&nbsp; <a href=3D=22https://sywr=2Ersys2=2Enet/pub/=
+cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y4EpIRrRpAEOozb8oo4URuHtqRbsCV=
+XtpKX%3DTWUBART&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z=
+52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5i=
+hLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU9f5zVAefHQQlA_7CSq1YXV9K4IOR78lKwc3XknY2qHsGF=
+lirTPecK3fv75P0lvrRUizdAjoygIuz3pQ7EKaaEvqfosXWhnJADaFc2DM8_plU6eIhjBoq-2Dz=
+-OzKaVF1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQQE7kCCPzbHAhwSzjGEVJ2VT9k0KeD7kVWTer2=
+zg=2E=22 rilt=3D=22ca_privacy_policy=22 style=3D=22color:=23acacac; text-de=
+coration:none;=22>CALIFORNIA PRIVACY POLICY</a> &nbsp;&nbsp;=7C&nbsp;&nbsp;=
+ <a href=3D=22https://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJl=
+TQGhfirzgize6s4y4EpIRrRpAEOozb8oo4URuHtqRbsCVXtpKX%3DTWUBATT&_ei_=3DEolaGGF=
+4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTf=
+UrmVOWlhAiGqNMcqQVAWE453AMrTW57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU=
+9f5zVAefHQQlA_7CSq1YXV9K4IOR78lKwc3XknY2qHsGFlirTPecK3fv75P0lvrRUizdAjoygIu=
+z3pQ7EKaaEvqfosXWhnJADaFc2DM8_plU6eIhjBoq-2Dz-OzKaVF1ocwUk_wC1cpLisN3-jW-E3=
+YGdQi7KQQE7kCCPzbHAhwSzjGEVJ2VT9k0KeD7kVWTer2zg=2E=22 rilt=3D=22contact_us=
+=22 style=3D=22color:=23acacac; text-decoration:none;=22>CONTACT US</a></td>
+             </tr>
+           </table>
+           <=21-- footer links ends -->
+          <table class=3D=22footer-resize=22 width=3D=22700=22 border=3D=22=
+0=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+             <tr>
+               <td align=3D=22center=22 valign=3D=22top=22 style=3D=22font-=
+family:Arial, Helvetica, sans-serif; color:=23acacac; font-size:10px; -webk=
+it-text-size-adjust:none; padding:12px 0 0 0;=22>
+<table width=3D=2210=22 border=3D=220=22 cellpadding=3D=220=22 cellspacing=
+=3D=220=22>
+  <tr>
+    <td align=3D=22right=22><a style=3D=22color:=23acacac;=22 href=3D=22htt=
+ps://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y4=
+EpIRrRpAEOozb8oo4URuHtqRbsCVXtpKX%3DTWUBAWT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNH=
+vC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQ=
+VAWE453AMrTW57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU9f5zVAefHQQlA_7CS=
+q1YXV9K4IOR78lKwc3XknY2qHsGFlirTPecK3fv75P0lvrRUizdAjoygIuz3pQ7EKaaEvqfosXW=
+hnJADaFc2DM8_plU6eIhjBoq-2Dz-OzKaVF1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQQE7kCCPzb=
+HAhwSzjGEVJ2VT9k0KeD7kVWTer2zg=2E=22  rilt=3D=22syw_footer_logo=22><img src=
+=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/contentl=
+ibrary/oldcontent/=21storewide_templates/syw_content_700px_cobranded_footer=
+_syw=2Eimages/2014_syw=2Ejpg=22 alt=3D=22Shop Your Way&reg;=22 style=3D=22d=
+isplay:inline;=22 border=3D=220=22 ></a></td>
+    <td align=3D=22center=22><a style=3D=22color:=23acacac;=22 href=3D=22ht=
+tps://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y=
+4EpIRrRpAEOozb8oo4URuHtqRbsCVXtpKX%3DTWUBAAT&_ei_=3DEolaGGF4SNMvxFF7KucKuWN=
+HvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcq=
+QVAWE453AMrTW57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU9f5zVAefHQQlA_7C=
+Sq1YXV9K4IOR78lKwc3XknY2qHsGFlirTPecK3fv75P0lvrRUizdAjoygIuz3pQ7EKaaEvqfosX=
+WhnJADaFc2DM8_plU6eIhjBoq-2Dz-OzKaVF1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQQE7kCCPz=
+bHAhwSzjGEVJ2VT9k0KeD7kVWTer2zg=2E=22 rilt=3D=22facebook=22><img src=3D=22h=
+ttps://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/contentlibrary/=
+oldcontent/=21storewide_templates/syw_content_700px_cobranded_footer_syw=2E=
+images/2014_facebook=2Ejpg=22 alt=3D=22Facebook=22 style=3D=22display:inlin=
+e;=22 border=3D=220=22 /></a></td>
+    <td align=3D=22left=22><a style=3D=22color:=23acacac;=22 href=3D=22http=
+s://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y4E=
+pIRrRpAEOozb8oo4URuHtqRbsCVXtpKX%3DTWUBACT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHv=
+C_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQV=
+AWE453AMrTW57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU9f5zVAefHQQlA_7CSq=
+1YXV9K4IOR78lKwc3XknY2qHsGFlirTPecK3fv75P0lvrRUizdAjoygIuz3pQ7EKaaEvqfosXWh=
+nJADaFc2DM8_plU6eIhjBoq-2Dz-OzKaVF1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQQE7kCCPzbH=
+AhwSzjGEVJ2VT9k0KeD7kVWTer2zg=2E=22 rilt=3D=22twitter=22><img src=3D=22http=
+s://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/sywr/contentlibrary/old=
+content/=21storewide_templates/syw_content_700px_cobranded_footer_syw=2Eima=
+ges/2014_twitter=2Ejpg=22 alt=3D=22Twitter=22 style=3D=22display:inline;=22=
+ border=3D=220=22 /></a></td>
+  </tr>
+</table></td>
+             </tr>
+           </table>
+            <=21-- legal begins -->
+            <table class=3D=22footer-resize=22 width=3D=22700=22 border=3D=
+=220=22 align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+              <tr>
+                <td class=3D=22mobi-legal-text=22 valign=3D=22top=22 align=
+=3D=22center=22 style=3D=22font-family:Arial, Helvetica, sans-serif; color:=
+=23acacac; font-size:10px; line-height:12px; -webkit-text-size-adjust:none;=
+ padding-top:12px; border-top:1px solid =23FFFFFF;=22>Shop with help from y=
+our friends=2E Join <a style=3D=22color:=23acacac;=22 href=3D=22https://syw=
+r=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y4EpIRrRpA=
+EOozb8oo4URuHtqRbsCVXtpKX%3DTWUBBRT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO0=
+M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE453A=
+MrTW57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU9f5zVAefHQQlA_7CSq1YXV9K4=
+IOR78lKwc3XknY2qHsGFlirTPecK3fv75P0lvrRUizdAjoygIuz3pQ7EKaaEvqfosXWhnJADaFc=
+2DM8_plU6eIhjBoq-2Dz-OzKaVF1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQQE7kCCPzbHAhwSzjG=
+EVJ2VT9k0KeD7kVWTer2zg=2E=22 rilt=3D=22syw_join=22>Shop Your Way</a>&reg; a=
+nd explore a vast interactive shopping community=21<br />
+                  <br />
+                  <strong>By accepting Shop Your Way member benefits and of=
+fers, you agree to the Shop Your Way terms and conditions, available at <a =
+style=3D=22color:=23acacac; text-decoration:underline;=22 href=3D=22https:/=
+/sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y4EpIR=
+rRpAEOozb8oo4URuHtqRbsCVXtpKX%3DTWUBBTT&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_s=
+ZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcqQVAWE=
+453AMrTW57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU9f5zVAefHQQlA_7CSq1YX=
+V9K4IOR78lKwc3XknY2qHsGFlirTPecK3fv75P0lvrRUizdAjoygIuz3pQ7EKaaEvqfosXWhnJA=
+DaFc2DM8_plU6eIhjBoq-2Dz-OzKaVF1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQQE7kCCPzbHAhw=
+SzjGEVJ2VT9k0KeD7kVWTer2zg=2E=22 rilt=3D=22syw_terms=22>www=2Eshopyourway=
+=2Ecom/terms=2E</a></strong><br />
+                  <br />
+                  If you believe you received this email in error, contact =
+us at Shop Your Way, 1&=23x2011;800&=23x2011;991&=23x2011;8708, where our h=
+elpful staff will verify your enrollment in our program=2E <br />
+                  <br />
+                  Base points are earned on everyday qualifying purchases: =
+10 points for every =241 spent, valid for 12 months once received=2E Bonus =
+points are promotional points earned in addition to base points on specifie=
+d promotional offers, valid for 90 days once received unless otherwise spec=
+ified=2E For the most up-to-date points status please visit <a href=3D=22ht=
+tps://sywr=2Ersys2=2Enet/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y=
+4EpIRrRpAEOozb8oo4URuHtqRbsCVXtpKX%3DTWUBBWT&_ei_=3DEolaGGF4SNMvxFF7KucKuWN=
+HvC_sZZO0M_aUq6x_tqgT6FP3lL5z52r64FGQ7bro-dCdgGzbxpp1hqAYTfUrmVOWlhAiGqNMcq=
+QVAWE453AMrTW57tkuiv1tV0-qo5ihLjqcrfbCRrNCLWz2ZQV_kuDe3xqIU9f5zVAefHQQlA_7C=
+Sq1YXV9K4IOR78lKwc3XknY2qHsGFlirTPecK3fv75P0lvrRUizdAjoygIuz3pQ7EKaaEvqfosX=
+WhnJADaFc2DM8_plU6eIhjBoq-2Dz-OzKaVF1ocwUk_wC1cpLisN3-jW-E3YGdQi7KQQE7kCCPz=
+bHAhwSzjGEVJ2VT9k0KeD7kVWTer2zg=2E=22 rilt=3D=22syw_legal=22 style=3D=22col=
+or:=23acacac; text-decoration:underline;=22>shopyourway=2Ecom</a>=2E <br />=
+<br />
+                 =20
+
+                  Any use of the term =22partner=22 in this material is int=
+ended to convey a valued business relationship, and does not indicate the e=
+xistence of a legal partnership, joint agency or other relationship involvi=
+ng shared ownership or shared liability with Sears Holdings Corp=2E or any =
+of its affiliates=2E   <br />
+                  <br />
+                  Offers, products and assortments may vary by store=2E<br =
+/>
+                  <br />
+                  <strong>This is an advertisement=2E</strong> Sears Holdin=
+gs Corporation shall not be held liable for errors or omissions in pricing=
+=2E<br>
+                  In the event of an error, we will make every effort to ac=
+commodate our customers=2E <br />
+                  <br />
+                <span class=3D=22appleFooterLinks=22>&copy; 2015 Sears Bran=
+ds, LLC, 3333 Beverly Road, Hoffman Estates, IL 60179=2E All Rights Reserve=
+d=2E</span></td>
+              </tr>
+            </table>
+
+</td>
+  </tr>
+</table>
+
+            <=21-- legal ends -->
+          </td>
+        </tr>
+      </table>
+      <=21-- footer container ends --><=21-- body wrapper ends -->
+</td></tr></table>
+
+<=21-- Responsys Display Pixel -->
+<img src=3D=22http://ib=2Eadnxs=2Ecom/getuid?http://a=2Eadrsp=2Enet/dsp/ce/=
+1/E9kCj5kiDmvSip0TDQdN1jk/%24UID/X/EfLSHq__48khIKk8xz_AulR9uxECe5Vfozc/_?ht=
+tp://tag=2Eyieldoptimizer=2Ecom/ps/ps?t=3Di&p=3D1222&u=3D261753595=22 width=
+=3D=221=22 height=3D=221=22 />
+<=21-- Movable Ink Global SYW Tracking Pixel -->
+<img src=3D=22http://www=2Emovable-ink-7790=2Ecom/p/cp/18e2069c4f867e16/o=
+=2Egif?mi_u=3D17369904142=22 width=3D1 height=3D1 />
+
+<=21-- SYW Display Ad Pixel -->
+<img src=3D=22http://sears=2Edemdex=2Enet/event?d_sid=3D1179425=22 width=3D=
+=220=22 height=3D=220=22 />
+</body>
+</html>
+<br>
+<br><img border=3D=220=22 width=3D=221=22 height=3D=221=22 src=3D=22https:/=
+/sywr=2Ersys2=2Enet/pub/as?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGhfirzgize6s4y4EpIR=
+rRpAEOozb8oo4URuHtqRbsCVXHkMX%3Dw&_ei_=3DEvT_BKMCxq5rxc6uAmd0U_rVZYcRJdIjqc=
+80Vvjl8NG-fD_4I5srGJ87P8sAliwFs4LDPbpb0ZO5XONPcrlOZZeQgXLewLa-tUwi9hyNnvm9f=
+aT3q1JdHQadrJfnsxnqBfb5zwImeSvzMM7szw2UH6SHafnW_7kExPZKHNEBJ7-Oj2smYj0b2pef=
+huPmITIQCQVHn8vG-a3zSahJ7Pgxu1TtWPg21dGE8nZ7eGQBCJtdi3tOVePPKdz8CvjmhBtP-Yh=
+w1vcavCCMv1SK45V2ci3-SM-VYATCQWAOIv84Kaccwhkcy6CxQYTwRLs_ZwJxzEYhaM7JHmWa-2=
+z3EPt2E8YcV9JtIMmGQ0=2E=22>
+<br><img border=3D=220=22 width=3D=223=22 height=3D=223=22 src=3D=22http://=
+ib=2Eadnxs=2Ecom/getuid?http://a=2Eadrsp=2Enet/dsp/ci/2/E1aPYQbFzaOLocO1Om1=
+D6879bRkTNFUVJlxWvnOUOo71P3jJA2wKcuPclSUaSaRqxLclvJWnA3YbET0jiuZmHT0yMNeoej=
+o/%24UID=22>
+
+

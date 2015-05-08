@@ -1,0 +1,109 @@
+<style type=3D"text/css">
+.crm_mail_title{ color:#000 !important; m=
+argin:0px !important}
+</style>
+<div class=3D"crm_mail" style=3D"=
+ display:block; margin:0; padding:20px; background:url(https://activate.=
+eltima.com/images/t-bg_0.gif) left top repeat; font-family:'Trebuchet MS=
+', Lucida Grande, Tahoma, Verdata, Arial;">
+	<div class=3D"crm_mail=
+_page" style=3D"background-color:#fff; display:block; margin:0px auto; max=
+-width:840px">
+		<div class=3D"crm_mail_line" style=3D"display:block=
+; height:15px; background:url(https://activate.eltima.com/images/mail_bo=
+rder_1.gif) left top repeat-x; margin:0px">
+        	<div class=3D"=
+crm_clearfloat" style=3D"clear:both; height:0;font-size: 1px;line-height: =
+0px; "></div></div>
+	    <div class=3D"crm_mail_body" style=3D"paddin=
+g: 15px 20px 20px 20px; clear:both; display:block; background-color:#FFF=
+FFF; background:#FFFFFF">
+		<table border=3D0 >
+<tr>
+<td><=
+h2 class=3D'crm_mail_title'>Your Eltima  Software Order 69739343</h2></td>=
+
+<td align=3Dright><strong>January 27, 2015</strong></td>
+</=
+tr>
+<tr><td colspan=3D"2"><br/><br/>
+Dear Weijia Xiong,</td></=
+tr>
+<tr><td colspan=3D"2">
+Thank you for ordering from Eltima So=
+ftware. Here's a snapshot of your purchase:<br/></td></tr>
+<tr><td c=
+olspan=3D"2"><table border=3D"0"  cellspacing=3D"0" cellpadding=3D"4" st=
+yle=3D"margin-bottom:20px" >
+<thead>
+	<tr style=3D"border:1px so=
+lid #F2F2F2; background-color:#F2F2F2">
+		<th  valign=3D"middle" al=
+ign=3D"center" width=3D"25">Qty</th>
+		<th  valign=3D"middle" ali=
+gn=3D"center" width=3D"150">Product</th>
+		<th  valign=3D"middle" ali=
+gn=3D"center" width=3D"25">Product version</th>       =20
+		<th  valign=
+=3D"middle" align=3D"center" width=3D"150">License type</th>
+    	<th =
+ valign=3D"middle" align=3D"center" width=3D"400">Activation code</th>=
+
+	    <th  valign=3D"middle" align=3D"center" width=3D"50" >Activatio=
+ns available</th>
+	</tr>
+</thead>
+<tbody>
+	<tr >
+	=
+<td width=3D"25" valign=3D"middle" align=3D"center" style=3D"border-bott=
+om:1px solid #F2F2F2">1</td>
+	<td width=3D"150" valign=3D"middle" a=
+lign=3D"left" style=3D"border-bottom:1px solid #F2F2F2">Folx</td>
+	=
+<td width=3D"25" valign=3D"middle" align=3D"center" style=3D"border-bott=
+om:1px solid #F2F2F2">4</td>   =20
+	<td width=3D"150" valign=3D"middl=
+e" align=3D"left" style=3D"border-bottom:1px solid #F2F2F2">Personal lic=
+ense</td>
+	<td width=3D"400" valign=3D"middle" align=3D"left" sty=
+le=3D"border-bottom:1px solid #F2F2F2">45036-0BBEC-9E0BD-BC74B-55C06</=
+td>
+	<td width=3D"50" valign=3D"middle" align=3D"center" style=3D"bor=
+der-bottom:1px solid #F2F2F2">1</td>
+	</tr>
+	=20
+</tbod=
+y>
+</table></td></tr>
+<tr><td colspan=3D"2"></td></tr>
+<tr><=
+td colspan=3D"2">
+<br/><br/>Please note that you need to download d=
+emo (free) version to enter your activation code into. You can do that a=
+t either <a href=3D"http://mac.eltima.com">mac.eltima.com</a> or <a hr=
+ef=3D"http://www.eltima.com">www.eltima.com</a> if you haven't done this b=
+efore.
+</td></tr>
+<tr><td colspan=3D"2">
+<br/>Should you h=
+ave any questions please contact us at: <a href=3D"mailto:support@eltima.c=
+om">support@eltima.com</a><br/>
+If not all purchased products are lis=
+ted in this email, please, check for other emails from us.
+</td></tr=
+>
+<tr><td colspan=3D"2">
+<br/>Sincerely, <br/>Eltima  Software=
+
+</td></tr>
+
+</table>    		<div class=3D"crm_clearfloat" sty=
+le=3D"clear:both; height:0;font-size: 1px;line-height: 0px;"></div>
+	=
+    </div>
+	</div>   =20
+    <div class=3D"crm_clearfloat" style=
+=3D"clear:both; height:0;font-size: 1px;line-height: 0px;"></div> =
+  =20
+</div>   =20

@@ -1,0 +1,127 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html><head><META NAME=3D"ROBOTS" CONTENT=3D"NOINDEX, NOFOLLOW"><meta http-=
+equiv=3D'Content-Type' content=3D'text/html; charset=3DUTF-8'/>
+<title>New Student Email Account Instructions</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+</head>
+<p>Welcome to the community of Stony Brook students and scholars!</p>
+<p>As a member of the University community, a Stony Brook email account has=
+ been created for you in our Google Apps for Education domain. If you have =
+any questions about your enrollment status, please email <a href=3D"mailto:=
+enroll@stonybrook.edu" title=3D"Send Email to Admissions">enroll@stonybrook=
+.edu</a></p>
+
+<p>Your Stony Brook email address is:  <strong>Weijia.Xiong@stonybrook.edu<=
+/strong><br>
+Your Stony Brook (SOLAR) ID number is: <strong>109772666</strong><br>
+Your NetID is: <strong>WEXIONG</strong></p>
+
+<p>All official University communications will be sent to you at this addre=
+ss beginning from the time you actually enroll in a course. Stony Brook wil=
+l continue to send you important mail messages to your campus address for a=
+s long as you remain an active member of the community. It is your responsi=
+bility to check your account frequently and to respond appropriately to the=
+se email messages. Checking frequently will ensure that you are informed of=
+ important and time-sensitive notifications and events.</p>=20
+
+<p>Although we do not recommend it, you may choose to <a href=3D"http://it.=
+stonybrook.edu/help/kb/setting-up-mail-forwarding-in-google-mail" title=3D"=
+Setting Up Mail Forwarding in Google Mail">forward your Stony Brook mail to=
+ a personal email account</a>. While email forwarding is usually reliable, =
+you assume all risk for messages that are not delivered to your personal em=
+ail account.</p>
+
+<p><strong>Email Policies</strong><br>
+You are required to comply with the following Stony Brook University polici=
+es related to the appropriate uses of email. Please familiarize yourself wi=
+th these policies:</p>
+
+<ul>
+<li><a href=3D"http://it.stonybrook.edu/policies/d106" title=3D"Email D106 =
+Policy">Email (D106)</a></li>
+<li><a href=3D"http://it.stonybrook.edu/policies/d111" title=3D"Stony Brook=
+ University Google Apps for Education Acceptable Use and Data Security Poli=
+cy D111">Google Apps for Education Acceptable Use and Data Security Policy =
+(D111)</a></li>
+<li><a href=3D"http://it.stonybrook.edu/policies/p109" title=3D"Use of Info=
+rmation Technology P109">Use of Information Technology (P109)</a></li>
+</ul>
+
+<p><strong>Email Prerequisites</strong><br>
+In order to log into your Stony Brook University Google Apps (Gmail) accoun=
+t, you first need to set up secure <a href=3D"http://it.stonybrook.edu/serv=
+ices/solar" title=3D"SOLAR Login Page">SOLAR</a> and <a href=3D"http://it.s=
+tonybrook.edu/services/netid" title=3D"NetID">NetID</a> passwords, if you h=
+aven't already done so.</p>
+
+<ul>
+<li>Go to <a href=3D"http://www.stonybrook.edu/solar" title=3D"SOLAR Login =
+Page">http://www.stonybrook.edu/solar</a></li>
+<li>Click the SOLAR LOGIN button</li>
+<li>Enter your Stony Brook (SOLAR) ID number provided above</li>
+<li>Enter your SOLAR password. Your initial SOLAR password is your date of =
+birth in mmddyy format - example: December 5, 1973 would be typed as 120573=
+. Once logged into SOLAR, click the link under Security and Personal Data t=
+hat says "Change My SOLAR Password," so you can create a more secure passwo=
+rd.</li>
+<li>Next, you need to establish your NetID password. Click the link in SOLA=
+R that says "NetID Maintenance."</li>=20
+<li>On the NetID Maintenance page, click the link that says "Click here to =
+set or change your NetID Password."</li>
+<li>You will be asked to set up a security question and answer. Be sure to =
+pick a security question and answer that is easy to remember. You will be a=
+sked this question in the future whenever you attempt to change your NetID =
+password.</li>
+<li>Once you have done this, click the button that says "Set/Change NetID P=
+assword."</li>
+<li>Create a password that is at least eight characters long and has at lea=
+st one number and one letter. Special characters (!@# etc.) may be used to =
+improve security. You want to create a password that will be easy for you t=
+o remember, but tough for others to guess. NetID passwords are case sensiti=
+ve and should not be shared with others.</li>
+<li>It will take up to 10 minutes for your NetID password to take effect.</=
+li>
+</ul>
+
+<p><strong>How to Access Your Stony Brook Google Apps (Gmail) Account</stro=
+ng><br>
+To access your Stony Brook University Google Apps (Gmail) account, go to <a=
+ href=3D"http://www.stonybrook.edu/mycloud" title=3D"Google Apps Login">htt=
+p://www.stonybrook.edu/mycloud</a> and log in with your NetID and NetID pas=
+sword.</p>
+
+<p>The Google login link can also be directly accessed from the University'=
+s main website at <a href=3D"http://www.stonybrook.edu" title=3D"Main Stony=
+ Brook University Website">http://www.stonybrook.edu</a> by hovering over "=
+Quick Links" in the top right corner and selecting Google Apps for Educatio=
+n.</p>
+
+<p>It can also be accessed from the Division of Information Technology webs=
+ite at <a href=3D"http://www.stonybrook.edu/it" title=3D"DoIT Website">http=
+://www.stonybrook.edu/it</a>.</p>
+
+<p>Users who already have personal Gmail accounts may choose to log in to t=
+heir Stony Brook email directly from <a href=3D"http://gmail.com" title=3D"=
+Main Gmail Login">http://gmail.com</a>. You can toggle between accounts by =
+clicking the drop-down arrow next to your email address in the top right co=
+rner of Gmail and then clicking the "Add Account" button.</p>
+
+<p><strong>Questions?</strong><br>
+For help getting started using your Stony Brook Gmail account and for quest=
+ions about how to get Google Apps on your mobile device, visit us online at=
+ <a href=3D"http://www.stonybrook.edu/it" title=3D"DoIT Website">http://www=
+.stonybrook.edu/it</a> or contact the Division of Information Technology's =
+Client Support Service Center at (631) 632-9800 or <a href=3D"mailto:suppor=
+tteam@stonybrook.edu" title=3D"Send Email to Client Support">supportteam@st=
+onybrook.edu</a>. The Client Support Service Center is located on the fifth=
+ floor of the Melville Library, Room S-5410, and is open Monday - Friday fr=
+om 8:30 a.m. - 5 p.m.</p>
+
+<p>We strongly encourage you to visit our <a href=3D"http://it.stonybrook.e=
+du" title=3D"DoIT Website">website</a> so that you can better understand th=
+e complete range of IT services available to you.</p>
+
+<p>Thank you. We hope you enjoy your time at Stony Brook University.</p>
+
+</html>=

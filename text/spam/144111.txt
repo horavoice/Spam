@@ -1,0 +1,1236 @@
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Transitional//EN=22 =22h=
+ttp://www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd=22>
+<html xmlns=3D=22http://www=2Ew3=2Eorg/1999/xhtml=22 xmlns:v=3D=22urn:schem=
+as-microsoft-com:vml=22>
+<head>
+<meta http-equiv=3D=22Content-Type=22 content=3D=22text/html; charset=3DUTF=
+-8=22 />
+<meta name=3D=22viewport=22 content=3D=22width=3Ddevice-width=22 />
+<title>FOREVER 21</title>
+<style type=3D=22text/css=22>
+
+=2Eyshortcuts=7Bcolor:inherit;=7D
+html =7B -webkit-text-size-adjust: none; =7D /* Prevent Webkit Mobile platf=
+orms from changing default font sizes, while not breaking desktop design=2E=
+ */
+body =7Bwidth:100%; padding:0; margin:0; background-color:=23ffffff;=7D
+=2EReadMsgBody =7B width: 100%; =7D
+=2EExternalClass =7B width: 100%; =7D /* Force Hotmail to display emails at=
+ full width */
+=2EExternalClass * =7Bline-height: 100%=7D
+v:* =7B behavior: url(=23default=23VML); display: block; =7D
+table, td =7B border-collapse: collapse; mso-table-lspace: 0; mso-table-rsp=
+ace: 0; =7D /* Remove spacing around Outlook 07, 10 tables*/
+table th =7Bpadding:0px; margin:0px;=7D
+=09
+=40media only screen and (max-width: 580px)=7B
+	=09
+	/*GENERAL*/
+	*=5Bclass=5D=2Ehide =7B display: none =21important; =7D
+	*=5Bclass=5D=2Eshow=7B
+		display:block =21important;
+		width: auto =21important;=20
+		overflow: visible =21important;=20
+		float: none =21important;
+		max-height:inherit =21important;
+		line-height: auto =21important;
+		margin-top:0px =21important;
+		visibility:inherit =21important;=7D
+	*=5Bclass=5D=2Ewrap =7Bdisplay: block =21important;=7D
+	=09
+	/*BACKGROUNDS*/
+	*=5Bclass=5D=2Ehero0 =7Bbackground-image:url(https://static=2Ecdn=2Erespon=
+sys=2Enet/i5/responsysimages/content/forever21/20150423_F21_US_cnbannermo=
+=2Ejpg) =21important; width:320px =21important; height:50px =21important; b=
+ackground-size: 320px 50px;=7D /*image needs to be hosted and image locatio=
+n should be updated to absolute URL*/
+	*=5Bclass=5D=2Ehero0 a =7Bdisplay:block =21important; width:320px =21impor=
+tant; height:50px =21important;=7D
+=09
+	*=5Bclass=5D=2Ehero1 =7Bbackground-image:url(https://static=2Ecdn=2Erespon=
+sys=2Enet/i5/responsysimages/content/forever21/20150423_F21_US_cnmainmo=2Ej=
+pg) =21important; width:320px =21important; height:270px =21important; back=
+ground-size: 320px 270px;=7D /*image needs to be hosted and image location =
+should be updated to absolute URL*/
+	*=5Bclass=5D=2Ehero1 a =7Bdisplay:block =21important; width:320px =21impor=
+tant; height:270px =21important;=7D
+=09
+	*=5Bclass=5D=2Ehero2 =7Bbackground-image:url(https://static=2Ecdn=2Erespon=
+sys=2Enet/i5/responsysimages/content/forever21/20150423_F21_US_cnfirstmo=2E=
+jpg) =21important; width:320px =21important; height:270px =21important; bac=
+kground-size: 320px 270px;=7D /*image needs to be hosted and image location=
+ should be updated to absolute URL*/
+	*=5Bclass=5D=2Ehero2 a =7Bdisplay:block =21important; width:320px =21impor=
+tant; height:270px =21important;=7D
+=09
+	*=5Bclass=5D=2Ehero3 =7Bbackground-image:url(https://static=2Ecdn=2Erespon=
+sys=2Enet/i5/responsysimages/content/forever21/20150423_F21_US_cnsecmo=2Egi=
+f) =21important; width:320px =21important; height:270px =21important; backg=
+round-size: 320px 270px;=7D /*image needs to be hosted and image location s=
+hould be updated to absolute URL*/
+	*=5Bclass=5D=2Ehero3 a =7Bdisplay:block =21important; width:320px =21impor=
+tant; height:270px =21important;=7D
+=09
+	*=5Bclass=5D=2Ehero4 =7Bbackground-image:url(https://static=2Ecdn=2Erespon=
+sys=2Enet/i5/responsysimages/content/forever21/20150423_F21_US_cnthirdmo=2E=
+jpg) =21important; width:320px =21important; height:270px =21important; bac=
+kground-size: 320px 270px;=7D /*image needs to be hosted and image location=
+ should be updated to absolute URL*/
+	*=5Bclass=5D=2Ehero4 a =7Bdisplay:block =21important; width:320px =21impor=
+tant; height:270px =21important;=7D
+=09
+	*=5Bclass=5D=2Ehero5 =7Bbackground-image:url(https://static=2Ecdn=2Erespon=
+sys=2Enet/i5/responsysimages/content/forever21/20150423_F21_US_cnfourthmo=
+=2Ejpg) =21important; width:320px =21important; height:237px =21important; =
+background-size: 320px 237px;=7D /*image needs to be hosted and image locat=
+ion should be updated to absolute URL*/
+	*=5Bclass=5D=2Ehero5 a =7Bdisplay:block =21important; width:320px =21impor=
+tant; height:237px =21important;=7D
+=09
+	*=5Bclass=5D=2Ehero6 =7Bbackground-image:url(https://static=2Ecdn=2Erespon=
+sys=2Enet/i5/responsysimages/content/forever21/20150423_F21_US_cnfifthmo=2E=
+jpg) =21important; width:320px =21important; height:380px =21important; bac=
+kground-size: 320px 380px;=7D /*image needs to be hosted and image location=
+ should be updated to absolute URL*/
+	*=5Bclass=5D=2Ehero6 a =7Bdisplay:block =21important; width:320px =21impor=
+tant; height:380px =21important;=7D
+=09
+	*=5Bclass=5D=2Ehero_bg =7Bbackground-image:url(images/hero_bg_m=2Ejpg) =21=
+important; background-repeat:no-repeat =21important; background-color:=23ff=
+ffff =21important; width:320px =21important; height:auto =21important;=7D /=
+*image needs to be hosted and image location should be updated to absolute =
+URL*/
+	*=5Bclass=5D=2Estore_location_bg =7Bbackground-image:url(images/img_mod7B_=
+bg_m=2Ejpg) =21important; background-repeat:no-repeat =21important; width:3=
+20px =21important; height:250 =21important;=7D /*image needs to be hosted a=
+nd image location should be updated to absolute URL*/
+=09
+	/*MOBILE TEXT*/
+	*=5Bclass=5D=2Etext_survey:after=7Bcontent:=22Proin nisl nulla, tincidunt =
+vitae sem sed, egestas porttitor nulla=2E=22;=7D
+	*=5Bclass=5D=2Etext_recovery1:after=7Bcontent:=22proin cond=2E=22;=7D
+	*=5Bclass=5D=2Etext_recovery2:after=7Bcontent:=22proin cond=2E=22;=7D
+=09
+	/*FONTS*/
+	*=5Bclass=5D=2Ef14 =7Bfont-size:14px =21important;=7D
+	*=5Bclass=5D=2Ef20 =7Bfont-size:20px =21important;=7D
+	*=5Bclass=5D=2Elh16 =7Bline-height:16px =21important;=7D
+	*=5Bclass=5D=2Elh18 =7Bline-height:18px =21important;=7D
+	=09
+	/*WIDTHS*/
+	*=5Bclass=5D=2Ewauto =7B width: auto =21important; =7D
+	*=5Bclass=5D=2Ew10 =7B width: 10px =21important; =7D
+	*=5Bclass=5D=2Ew85 =7B width: 85px =21important; =7D
+	*=5Bclass=5D=2Ew20 =7B width: 20px =21important; =7D
+	*=5Bclass=5D=2Ew40 =7B width: 40px =21important; =7D
+	*=5Bclass=5D=2Ew100 =7B width: 100px =21important; =7D
+	*=5Bclass=5D=2Ew155 =7B width: 155px =21important; =7D
+	*=5Bclass=5D=2Ew200 =7B width: 200px =21important; =7D /*logo*/
+	*=5Bclass=5D=2Ew280 =7B width: 280px =21important; =7D
+	*=5Bclass=5D=2Ew318 =7B width: 320px =21important; =7D
+	*=5Bclass=5D=2Ew320 =7B width: 320px =21important; =7D
+	=09
+	/*HEIGHTS*/
+	*=5Bclass=5D=2Ehauto =7B height: auto =21important; =7D
+	*=5Bclass=5D=2Eh5 =7B height: 5px =21important; =7D
+	*=5Bclass=5D=2Eh10 =7B height: 10px =21important; =7D
+	*=5Bclass=5D=2Eh20 =7B height: 20px =21important; =7D
+	*=5Bclass=5D=2Eh30 =7B height: 30px =21important; =7D
+	*=5Bclass=5D=2Eh38 =7B height: 38px =21important; =7D
+	*=5Bclass=5D=2Eh45 =7B height: 45px =21important; =7D /*navigation*/
+	*=5Bclass=5D=2Eh60 =7B height: 60px =21important; =7D /*logo*/
+	*=5Bclass=5D=2Eh132 =7B height: 132px =21important; =7D
+	=09
+	/*PADDINGS*/
+	*=5Bclass=5D=2Epb10 =7Bpadding-bottom:10px =21important;=7D
+	*=5Bclass=5D=2Epb20 =7Bpadding-bottom:20px =21important;=7D
+	*=5Bclass=5D=2Epb30 =7Bpadding-bottom:30px =21important;=7D
+	*=5Bclass=5D=2Ept10 =7Bpadding-top:10px =21important;=7D
+	*=5Bclass=5D=2Ept20 =7Bpadding-top:20px =21important;=7D
+	*=5Bclass=5D=2Ept30 =7Bpadding-top:30px =21important;=7D
+	*=5Bclass=5D=2Epr10 =7Bpadding-right:10px =21important;=7D
+	*=5Bclass=5D=2Epr20 =7Bpadding-right:20px =21important;=7D
+	*=5Bclass=5D=2Eplr40 =7Bpadding-left:40px =21important; padding-right:40px=
+ =21important;=7D
+
+  /*Google Mail*/
+  =2ECToWUd =7Bdisplay: none;=7D
+	=09
+=7D
+	 </style>
+</head>
+
+<body><img border=3D=220=22 width=3D=221=22 height=3D=221=22 src=3D=22https=
+://news=2Eforever21=2Ecom/pub/as?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS49=
+uatAzbjzdht1zazdzgymb1W2pcRhVXHkMX%3Dw&_ei_=3DEolaGGF4SNMvxFF7KucKuWNYplWuS=
+Npk-NH3KkVm9MOvqTVLT0=2E=22>
+
+
+<=21--start wrapper table-->
+<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cellpaddin=
+g=3D=220=22 bgcolor=3D=22=23ffffff=22 style=3D=22table-layout:fixed; margin=
+-top:0px;=22>
+  <tr>
+    <td align=3D=22center=22 bgcolor=3D=22=23ffffff=22 style=3D=22margin:0 =
+auto;=22><=21--start fixed table width-->
+     =20
+      <table width=3D=22600=22 border=3D=220=22 cellspacing=3D=220=22 cellp=
+adding=3D=220=22 class=3D=22w320=22>
+        <tr>
+          <td><=21--begin insertion of modules here-->=20
+           =20
+            <=21--start MODULE1: Logo + Pre-header-->
+           =20
+            <table width=3D=22600=22 border=3D=220=22 cellspacing=3D=220=22=
+ cellpadding=3D=220=22 class=3D=22hide=22>
+              <tr>
+                <td height=3D=225=22 style=3D=22line-height:0px;=22 class=
+=3D=22h5=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/respons=
+ysimages/forever21/contentlibrary/=21us/20150423_accedit/RI_20150423_F21_US=
+_AccEdit_Dynamic/images/sp=2Egif=22 width=3D=22600=22 height=3D=221=22 alt=
+=3D=22=22 style=3D=22display:block; border:none; min-width:600px;=22 /></td>
+              </tr>
+              <tr>
+                <td><table border=3D=220=22 cellspacing=3D=220=22 cellpaddi=
+ng=3D=220=22>
+                    <tr>
+                      <td width=3D=2220=22></td>
+                      <td width=3D=22310=22 align=3D=22left=22 style=3D=22f=
+ont-family:Helvetica, Arial, sans-serif; font-size:11px; color:=23666666;=
+=22><a href=3D=22https://news=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQp=
+glLjHJlYQGNWUT4a2HqS49uatAzbjzdht1zazdzgymb1W2pcRhVXtpKX%3DWCCCWY&_ei_=3DEo=
+laGGF4SNMvxFF7KucKuWNYplWuSNpk-NH3KkVm9MOvqTVLT0=2E=22 style=3D=22color:=23=
+666666; text-decoration: underline;=22>30% Off Select Pants & Denim</a></td>
+                      <td width=3D=22250=22 align=3D=22right=22 style=3D=22=
+font-family:Helvetica, Arial, sans-serif; font-size:11px; color:=23666666;=
+=22><a href=3D=22https://news=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQp=
+glLjHJlYQGNWUT4a2HqS49uatAzbjzdht1zazdzgymb1W2pcRhVXtpKX%3DWCCCAY&_ei_=3DEo=
+laGGF4SNMvxFF7KucKuWNHvC_sZZO0M_aUq6x_tqgTz-iK-vjdqJA9cAezQ9fQdrrFaXDLUPUXm=
+ti1MuGXsFQVdBtcEswm2AOriDIRW_ACoMwGBg=2E=22 style=3D=22color:=23666666; tex=
+t-decoration: underline;=22>View email in your browser</a></td>
+                      <td width=3D=2220=22></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+            <table width=3D=22600=22 border=3D=220=22 cellspacing=3D=220=22=
+ cellpadding=3D=220=22 class=3D=22w320=22>
+              <tr>
+                <td align=3D=22center=22 height=3D=2270=22 valign=3D=22bott=
+om=22 class=3D=22h60 pb10=22><a href=3D=22https://news=2Eforever21=2Ecom/pu=
+b/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS49uatAzbjzdht1zazdzgymb1W2pcRh=
+VXtpKX%3DWCCCCY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNYplWuSNpk-NH3KkVm9MOvqTVLT0=
+=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysima=
+ges/forever21/contentlibrary/=21us/20150423_accedit/RI_20150423_F21_US_AccE=
+dit_Dynamic/images/logo=2Epng=22 width=3D=22252=22 height=3D=2242=22 alt=3D=
+=22FOREVER 21 &reg;=22 style=3D=22display:block; border:none;=22 class=3D=
+=22w200 hauto=22 /></a></td>
+              </tr>
+              <tr class=3D=22hide=22>
+                <td height=3D=2220=22 style=3D=22line-height:0px;=22 class=
+=3D=22h20=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/respon=
+sysimages/forever21/contentlibrary/=21us/20150423_accedit/RI_20150423_F21_U=
+S_AccEdit_Dynamic/images/sp=2Egif=22 alt=3D=22=22 width=3D=221=22 height=3D=
+=221=22 style=3D=22display:block; border:none;=22 /></td>
+              </tr>
+            </table>
+           =20
+            <=21--end MODULE1: Logo + Pre-header-->=20
+           =20
+            <=21--start MODULE2: Navigation-->
+           =20
+            <table width=3D=22600=22 border=3D=220=22 cellspacing=3D=220=22=
+ cellpadding=3D=220=22 class=3D=22w320=22>
+              <tr>
+                <td height=3D=2230=22 valign=3D=22middle=22 align=3D=22cent=
+er=22 class=3D=22h45=22><table border=3D=220=22 cellspacing=3D=220=22 cellp=
+adding=3D=220=22>
+                    <tr>
+                      <td align=3D=22center=22 style=3D=22font-family:Helve=
+tica, Arial, sans-serif; font-weight:bold; font-size:14px; color:=23000000;=
+=22><a href=3D=22https://news=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQp=
+glLjHJlYQGNWUT4a2HqS49uatAzbjzdht1zazdzgymb1W2pcRhVXtpKX%3DWCCDRY&_ei_=3DEo=
+laGGF4SNMvxFF7KucKuWNYplWuSNpk-NH3KkVm9MOvqTVLT0=2E=22 style=3D=22color:=23=
+000001; text-decoration: none;=22>New Arrivals</a></td>
+                      <td width=3D=2230=22></td>
+                      <td align=3D=22center=22 style=3D=22font-family:Helve=
+tica, Arial, sans-serif; font-weight:bold; font-size:14px; color:=23000000;=
+=22><a href=3D=22https://news=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQp=
+glLjHJlYQGNWUT4a2HqS49uatAzbjzdht1zazdzgymb1W2pcRhVXtpKX%3DWCCDTY&_ei_=3DEo=
+laGGF4SNMvxFF7KucKuWNYplWuSNpk-NH3KkVm9MOvqTVLT0=2E=22 style=3D=22color:=23=
+000001; text-decoration: none;=22>Women</a></td>
+                      <td width=3D=2230=22></td>
+                      <td align=3D=22center=22 style=3D=22font-family:Helve=
+tica, Arial, sans-serif; font-weight:bold; font-size:14px; color:=23000000;=
+=22><a href=3D=22https://news=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQp=
+glLjHJlYQGNWUT4a2HqS49uatAzbjzdht1zazdzgymb1W2pcRhVXtpKX%3DWCCDWY&_ei_=3DEo=
+laGGF4SNMvxFF7KucKuWNYplWuSNpk-NH3KkVm9MOvqTVLT0=2E=22 style=3D=22color:=23=
+000001; text-decoration: none;=22>Men</a></td>
+                      <td width=3D=2230=22></td>
+                      <td align=3D=22center=22 style=3D=22font-family:Helve=
+tica, Arial, sans-serif; font-weight:bold; font-size:14px; color:=23000000;=
+=22 class=3D=22hide=22><a href=3D=22https://news=2Eforever21=2Ecom/pub/cc?_=
+ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS49uatAzbjzdht1zazdzgymb1W2pcRhVXtpKX=
+%3DWCCDAY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNYplWuSNpk-NH3KkVm9MOvqTVLT0=2E=22 s=
+tyle=3D=22color:=23000001; text-decoration: none;=22>Accessories</a></td>
+                      <td width=3D=2230=22 class=3D=22hide=22></td>
+                      <td align=3D=22center=22 style=3D=22font-family:Helve=
+tica, Arial, sans-serif; font-weight:bold; font-size:14px; color:=23000000;=
+=22 class=3D=22hide=22><a href=3D=22https://news=2Eforever21=2Ecom/pub/cc?_=
+ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS49uatAzbjzdht1zazdzgymb1W2pcRhVXtpKX=
+%3DWCCDCY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNYplWuSNpk-NH3KkVm9MOvqTVLT0=2E=22 s=
+tyle=3D=22color:=23000001; text-decoration: none;=22>Plus Sizes</a></td>
+                      <td width=3D=2230=22 class=3D=22hide=22></td>
+                      <td align=3D=22center=22 style=3D=22font-family:Helve=
+tica, Arial, sans-serif; font-weight:bold; font-size:14px; color:=23000000;=
+=22 class=3D=22hide=22><a href=3D=22https://news=2Eforever21=2Ecom/pub/cc?_=
+ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS49uatAzbjzdht1zazdzgymb1W2pcRhVXtpKX=
+%3DWCDRRY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNYplWuSNpk-NH3KkVm9MOvqTVLT0=2E=22 s=
+tyle=3D=22color:=23000001; text-decoration: none;=22>Kids</a></td>
+                      <td width=3D=2230=22 class=3D=22hide=22></td>
+                      <td align=3D=22center=22 style=3D=22font-family:Helve=
+tica, Arial, sans-serif; font-weight:bold; font-size:14px; color:=23fc0002;=
+=22><a href=3D=22https://news=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQp=
+glLjHJlYQGNWUT4a2HqS49uatAzbjzdht1zazdzgymb1W2pcRhVXtpKX%3DWCDRTY&_ei_=3DEo=
+laGGF4SNMvxFF7KucKuWNYplWuSNpk-NH3KkVm9MOvqTVLT0=2E=22 style=3D=22color:=23=
+fc0002; text-decoration: none;=22>Sale</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+           =20
+            <=21--end MODULE2: Navigation-->=20
+           =20
+			<=21--spacer-->
+            =20
+            <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=22=
+0=22>
+              <tr>
+                <td height=3D=225=22 style=3D=22line-height:0px;=22 class=
+=3D=22h5=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/respons=
+ysimages/forever21/contentlibrary/=21us/20150423_accedit/RI_20150423_F21_US=
+_AccEdit_Dynamic/images/sp=2Egif=22 alt=3D=22=22 width=3D=221=22 height=3D=
+=221=22 style=3D=22display:block; border:none;=22 /></td>
+              </tr>
+            </table>
+		=09
+			<=21--end spacer--> 	=09
+
+			<=21--spacer-->
+            =20
+            <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=22=
+0=22>
+              <tr>
+                <td height=3D=225=22 style=3D=22line-height:0px;=22 class=
+=3D=22h5=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/respons=
+ysimages/forever21/contentlibrary/=21us/20150423_accedit/RI_20150423_F21_US=
+_AccEdit_Dynamic/images/sp=2Egif=22 alt=3D=22=22 width=3D=221=22 height=3D=
+=221=22 style=3D=22display:block; border:none;=22 /></td>
+              </tr>
+            </table>
+		=09
+			<=21--end spacer--> =09
+					=09
+
+			<table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+              <tr>
+                <td valign=3D=22top=22 class=3D=22hero1=22><a href=3D=22htt=
+ps://news=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS=
+49uatAzbjzdht1zazdzgymb1W2pcRhVXtpKX%3DWCDRWY&_ei_=3DEolaGGF4SNMvxFF7KucKuW=
+NYplWuSNpk-NH3KkVm9MOvqTVLT0=2E=22><img src=3D=22https://static=2Ecdn=2Eres=
+ponsys=2Enet/i5/responsysimages/forever21/contentlibrary/=21us/20150423_acc=
+edit/Acc_F21_Module/images/20150423_F21_US_cnmain=2Ejpg=22 alt=3D=22Subtle =
+Statement=2E Sleek accessories with sharp accents to punctuate your summer =
+style=2E=22 width=3D=22600=22 height=3D=22450=22 style=3D=22display:block; =
+border:none; min-width:600px;=22 class=3D=22hide=22 /></a></td>
+              </tr>
+            </table>
+
+			<=21--spacer-->
+            =20
+            =20
+            <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=22=
+0=22>
+              <tr>
+                <td height=3D=225=22 style=3D=22line-height:0px;=22 class=
+=3D=22h5=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/respons=
+ysimages/forever21/contentlibrary/=21us/20150423_accedit/Acc_F21_Module/ima=
+ges/sp=2Egif=22 alt=3D=22=22 width=3D=221=22 height=3D=221=22 style=3D=22di=
+splay:block; border:none;=22 /></td>
+              </tr>
+            </table>
+		=09
+			<=21--end spacer--> 			=09
+		=09
+			<table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+              <tr>
+                <td valign=3D=22top=22 class=3D=22hero2=22><a href=3D=22htt=
+ps://news=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS=
+49uatAzbjzdht1zazdzgymb1W2pcRhVXtpKX%3DWCDRAY&_ei_=3DEolaGGF4SNMvxFF7KucKuW=
+NYplWuSNpk-NH3KkVm9MOvqTVLT0=2E=22><img src=3D=22https://static=2Ecdn=2Eres=
+ponsys=2Enet/i5/responsysimages/forever21/contentlibrary/=21us/20150423_acc=
+edit/Acc_F21_Module/images/20150423_F21_US_cnfirst=2Ejpg=22 alt=3D=22Find y=
+our balance=2E Get in shape with workout gear that feels and looks good=2E=
+=22 width=3D=22600=22 height=3D=22450=22 style=3D=22display:block; border:n=
+one; min-width:600px;=22 class=3D=22hide=22 /></a></td>
+              </tr>
+            </table>
+
+			<=21--spacer-->
+            =20
+            <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=22=
+0=22>
+              <tr>
+                <td height=3D=225=22 style=3D=22line-height:0px;=22 class=
+=3D=22h5=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/respons=
+ysimages/forever21/contentlibrary/=21us/20150423_accedit/Acc_F21_Module/ima=
+ges/sp=2Egif=22 alt=3D=22=22 width=3D=221=22 height=3D=221=22 style=3D=22di=
+splay:block; border:none;=22 /></td>
+              </tr>
+            </table>
+		=09
+			<=21--end spacer-->=20
+
+			<table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+              <tr>
+                <td valign=3D=22top=22 class=3D=22hero3=22><a href=3D=22htt=
+ps://news=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS=
+49uatAzbjzdht1zazdzgymb1W2pcRhVXtpKX%3DWCDRCY&_ei_=3DEolaGGF4SNMvxFF7KucKuW=
+NYplWuSNpk-NH3KkVm9MOvqTVLT0=2E=22><img src=3D=22https://static=2Ecdn=2Eres=
+ponsys=2Enet/i5/responsysimages/forever21/contentlibrary/=21us/20150423_acc=
+edit/Acc_Plus_Module/images/20150423_F21_US_cnsec=2Egif=22 alt=3D=22The new=
+ neutral=2E Airy, ethereal silhouettes in fresh white shades for spring=2E =
+Shop Plus=2E=22 width=3D=22600=22 height=3D=22400=22 style=3D=22display:blo=
+ck; border:none; min-width:600px;=22 class=3D=22hide=22 /></a></td>
+              </tr>
+            </table>
+		=09
+			<=21--spacer-->
+            =20
+            <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=22=
+0=22>
+              <tr>
+                <td height=3D=225=22 style=3D=22line-height:0px;=22 class=
+=3D=22h5=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/respons=
+ysimages/forever21/contentlibrary/=21us/20150423_accedit/Acc_Plus_Module/im=
+ages/sp=2Egif=22 alt=3D=22=22 width=3D=221=22 height=3D=221=22 style=3D=22d=
+isplay:block; border:none;=22 /></td>
+              </tr>
+            </table>
+		=09
+			<=21--end spacer-->=20
+
+			<table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+              <tr>
+                <td valign=3D=22top=22 class=3D=22hero4=22><a href=3D=22htt=
+ps://news=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS=
+49uatAzbjzdht1zazdzgymb1W2pcRhVXtpKX%3DWCCCWY&_ei_=3DEolaGGF4SNMvxFF7KucKuW=
+NYplWuSNpk-NH3KkVm9MOvqTVLT0=2E=22><img src=3D=22https://static=2Ecdn=2Eres=
+ponsys=2Enet/i5/responsysimages/forever21/contentlibrary/=21us/20150423_acc=
+edit/Acc_Men_Module/images/20150423_F21_US_cnthird=2Ejpg=22 alt=3D=22Foreve=
+r 21 Men=2E Slip into style=2E 30% off select pants and denim=2E Shop Men=
+=2E=22 width=3D=22600=22 height=3D=22450=22 style=3D=22display:block; borde=
+r:none; min-width:600px;=22 class=3D=22hide=22 /></a></td>
+              </tr>
+            </table>=09
+		=09
+			<=21--spacer-->
+            =20
+            <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=22=
+0=22>
+              <tr>
+                <td height=3D=225=22 style=3D=22line-height:0px;=22 class=
+=3D=22h5=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/respons=
+ysimages/forever21/contentlibrary/=21us/20150423_accedit/Acc_Men_Module/ima=
+ges/sp=2Egif=22 alt=3D=22=22 width=3D=221=22 height=3D=221=22 style=3D=22di=
+splay:block; border:none;=22 /></td>
+              </tr>
+            </table>
+		=09
+			<=21--end spacer-->=20
+
+			<table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+              <tr>
+                <td valign=3D=22top=22 class=3D=22hero5=22><a href=3D=22htt=
+ps://news=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS=
+49uatAzbjzdht1zazdzgymb1W2pcRhVXtpKX%3DWCDSRY&_ei_=3DEolaGGF4SNMvxFF7KucKuW=
+NYplWuSNpk-NH3KkVm9MOvqTVLT0=2E=22><img src=3D=22https://static=2Ecdn=2Eres=
+ponsys=2Enet/i5/responsysimages/forever21/contentlibrary/=21us/20150423_acc=
+edit/Acc_Kids_Module/images/20150423_F21_US_cnfourth=2Ejpg=22 alt=3D=22Fore=
+ver 21 Kids=2E Charm School=2E It's playtime in polished pieces and darling=
+ dresses=2E Shop Kids=22 width=3D=22600=22 height=3D=22400=22 style=3D=22di=
+splay:block; border:none; min-width:600px;=22 class=3D=22hide=22 /></a></td>
+              </tr>
+            </table>=09
+		=09
+			<=21--spacer-->
+            =20
+            <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=22=
+0=22>
+              <tr>
+                <td height=3D=2210=22 style=3D=22line-height:0px;=22 class=
+=3D=22h10=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/respon=
+sysimages/forever21/contentlibrary/=21us/20150423_accedit/Acc_Kids_Module/i=
+mages/sp=2Egif=22 alt=3D=22=22 width=3D=221=22 height=3D=221=22 style=3D=22=
+display:block; border:none;=22 /></td>
+              </tr>
+            </table>
+		=09
+			<=21--end spacer-->=09
+
+			<table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+              <tr>
+                <td valign=3D=22top=22 class=3D=22hero0=22><a href=3D=22htt=
+ps://news=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS=
+49uatAzbjzdht1zazdzgymb1W2pcRhVXtpKX%3DWCCCCY&_ei_=3DEolaGGF4SNMvxFF7KucKuW=
+NYplWuSNpk-NH3KkVm9MOvqTVLT0=2E=22><img src=3D=22https://static=2Ecdn=2Eres=
+ponsys=2Enet/i5/responsysimages/forever21/contentlibrary/=21us/20150423_acc=
+edit/RI_20150423_F21_US_AccEdit_Dynamic/images/20150423_F21_US_cnbanner=2Ej=
+pg=22 alt=3D=22Recommendations Just for you=22 width=3D=22600=22 height=3D=
+=2255=22 style=3D=22display:block; border:none; min-width:600px;=22 class=
+=3D=22hide=22 /></a></td>
+              </tr>
+            </table>=09
+			<=21--start MODULE4: 4-Up Product Grid-->
+           =20
+            <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=22=
+0=22>
+              <tr>
+                <td><table border=3D=220=22 cellspacing=3D=220=22 cellpaddi=
+ng=3D=220=22>
+                    <tr>
+                      <th align=3D=22left=22 valign=3D=22top=22 class=3D=22=
+wrap w320 pb20=22 style=3D=22vertical-align:top;=22><table border=3D=220=22=
+ cellspacing=3D=220=22 cellpadding=3D=220=22>
+                          <tr>
+                            <td valign=3D=22top=22 width=3D=22142=22 class=
+=3D=22w230=22><=21--PRODUCT 1 of 4-->
+                             =20
+                              <table border=3D=220=22 cellspacing=3D=220=22=
+ cellpadding=3D=220=22>
+                                <tr>
+                                  <td valign=3D=22top=22><table border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                                      <tr>
+                                        <td bgcolor=3D=22=23ebebeb=22 heigh=
+t=3D=221=22 style=3D=22line-height:0px;=22><img src=3D=22https://static=2Ec=
+dn=2Eresponsys=2Enet/i5/responsysimages/forever21/contentlibrary/=21us/2015=
+0423_accedit/RI_20150423_F21_US_AccEdit_Dynamic/images/sp=2Egif=22 alt=3D=
+=22=22 width=3D=221=22 height=3D=221=22 style=3D=22display:block; border:no=
+ne;=22 /></td>
+                                      </tr>
+                                      <tr>
+                                        <td><table border=3D=220=22 cellspa=
+cing=3D=220=22 cellpadding=3D=220=22>
+                                            <tr>
+                                              <td bgcolor=3D=22=23ebebeb=22=
+ width=3D=221=22></td>
+                                              <td><a href=3D=22https://news=
+=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS49uatAzbj=
+zdht1zazdzgymb1W2pcRhVXtpKX%3DWCDSTY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO=
+0M_aUq6x_tqgTRqeQ-d2k4dBltvmv_P9FgLfruOphKAn8r77bCPFY3-fSwhD5gwCWEArt9KBDUF=
+Ak74LfhcKepr9OVgzLRiL1PI0ZTMF3j_AlykR_1ULWVob3bGpi0A1oXcQFoYmDpEt6O4kV6MWy0=
+YZmXYSPC6dbRetbxjCrc-vzb4Q_dPFf3p3K7OGjOCJ4npwV8x8R4JHbuAKKFkbijitjvlKYlvXn=
+U8SiSI6L6_5_Q-euAKtUYasVHrZ4eO_0vafPgDz04lh80Vkn3DDkDegwLZseBVSDa6JOik79NHG=
+upTixm0e49159dqK9r6Yjy5R8uMx9WeQzL2HFwyvw9xpBrw=2E=22><img src=3D=22http://=
+ris=2Eres-x=2Ecom/image=2Easpx?appid=3DForever2101&userid=3Dblackyao12=40gm=
+ail=2Ecom&campaignid=3D20150423_F21_US_AccEdit&scheme=3Dnewarrivals2_rr&ind=
+ex=3D1=22 alt=3D=22Recommendations Just for You=22 width=3D=22140=22 height=
+=3D=22255=22 style=3D=22display:block; border:none;=22 class=3D=22wauto hau=
+to=22 /></a></td>
+                                              <td bgcolor=3D=22=23ebebeb=22=
+ width=3D=221=22></td>
+                                            </tr>
+                                          </table></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                              </table>
+                             =20
+                              <=21--end PRODUCT 1 of 4--></td>
+                            <td width=3D=2211=22 class=3D=22w10=22></td>
+                            <td valign=3D=22top=22 width=3D=22142=22 class=
+=3D=22w230=22><=21--PRODUCT 2 of 4-->
+                             =20
+                              <table border=3D=220=22 cellspacing=3D=220=22=
+ cellpadding=3D=220=22>
+                                <tr>
+                                  <td valign=3D=22top=22><table border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                                      <tr>
+                                        <td bgcolor=3D=22=23ebebeb=22 heigh=
+t=3D=221=22 style=3D=22line-height:0px;=22><img src=3D=22https://static=2Ec=
+dn=2Eresponsys=2Enet/i5/responsysimages/forever21/contentlibrary/=21us/2015=
+0423_accedit/RI_20150423_F21_US_AccEdit_Dynamic/images/sp=2Egif=22 alt=3D=
+=22=22 width=3D=221=22 height=3D=221=22 style=3D=22display:block; border:no=
+ne;=22 /></td>
+                                      </tr>
+                                      <tr>
+                                        <td><table border=3D=220=22 cellspa=
+cing=3D=220=22 cellpadding=3D=220=22>
+                                            <tr>
+                                              <td bgcolor=3D=22=23ebebeb=22=
+ width=3D=221=22></td>
+                                              <td><a href=3D=22https://news=
+=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS49uatAzbj=
+zdht1zazdzgymb1W2pcRhVXtpKX%3DWCDSAY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO=
+0M_aUq6x_tqgTRqeQ-d2k4dBltvmv_P9FgLfruOphKAn8r77bCPFY3-fSwhD5gwCWEArt9KBDUF=
+Ak74LfhcKepr9OVgzLRiL1PI0ZTMF3j_AlykR_1ULWVob3bGpi0A1oXcQFoYmDpEt6O4kV6MWy0=
+YZmXYSPC6dbRetbxjCrc-vzb4Q_dPFf3p3K7OGjOCJ4npwV8x8R4JHbuAKKFkbijitjvlKYlvXn=
+UbkfuwY372HD_j7q0EmpNU5VUOi7wd68MalRmE1ETyWQIBDgX24Itv1KnnYTtVc5kCkS3kuzbrq=
+1zUTQnmfnQPb8nYAWSODorL_OnZI67yGVeevXnKHaDzKHKw=2E=22><img src=3D=22http://=
+ris=2Eres-x=2Ecom/image=2Easpx?appid=3DForever2101&userid=3Dblackyao12=40gm=
+ail=2Ecom&campaignid=3D20150423_F21_US_AccEdit&scheme=3Dnewarrivals2_rr&ind=
+ex=3D2=22 alt=3D=22Recommendations Just for You=22 width=3D=22140=22 height=
+=3D=22255=22 style=3D=22display:block; border:none;=22 class=3D=22wauto hau=
+to=22 /></a></td>
+                                              <td bgcolor=3D=22=23ebebeb=22=
+ width=3D=221=22></td>
+                                            </tr>
+                                          </table></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                              </table>
+                             =20
+                              <=21--end PRODUCT 2 of 4--></td>
+                          </tr>
+                        </table></th>
+                      <th style=3D=22padding:0px; margin:0px;=22 width=3D=
+=2210=22 class=3D=22hide=22></th>
+                      <th align=3D=22left=22 valign=3D=22top=22 class=3D=22=
+wrap w320=22 style=3D=22vertical-align:top;=22><table border=3D=220=22 cell=
+spacing=3D=220=22 cellpadding=3D=220=22>
+                          <tr>
+                            <td valign=3D=22top=22 width=3D=22142=22 class=
+=3D=22w230=22><=21--PRODUCT 3 of 4-->
+                             =20
+                              <table border=3D=220=22 cellspacing=3D=220=22=
+ cellpadding=3D=220=22>
+                                <tr>
+                                  <td><table border=3D=220=22 cellspacing=
+=3D=220=22 cellpadding=3D=220=22>
+                                      <tr>
+                                        <td bgcolor=3D=22=23ebebeb=22 heigh=
+t=3D=221=22 style=3D=22line-height:0px;=22><img src=3D=22https://static=2Ec=
+dn=2Eresponsys=2Enet/i5/responsysimages/forever21/contentlibrary/=21us/2015=
+0423_accedit/RI_20150423_F21_US_AccEdit_Dynamic/images/sp=2Egif=22 alt=3D=
+=22=22 width=3D=221=22 height=3D=221=22 style=3D=22display:block; border:no=
+ne;=22 /></td>
+                                      </tr>
+                                      <tr>
+                                        <td><table border=3D=220=22 cellspa=
+cing=3D=220=22 cellpadding=3D=220=22>
+                                            <tr>
+                                              <td bgcolor=3D=22=23ebebeb=22=
+ width=3D=221=22></td>
+                                              <td><a href=3D=22https://news=
+=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS49uatAzbj=
+zdht1zazdzgymb1W2pcRhVXtpKX%3DWCDSCY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO=
+0M_aUq6x_tqgTRqeQ-d2k4dBltvmv_P9FgLfruOphKAn8r77bCPFY3-fSwhD5gwCWEArt9KBDUF=
+Ak74LfhcKepr9OVgzLRiL1PI0ZTMF3j_AlykR_1ULWVob3bGpi0A1oXcQFoYmDpEt6O4kV6MWy0=
+YZmXYSPC6dbRetbxjCrc-vzb4Q_dPFf3p3K7OGjOCJ4npwV8x8R4JHbuAKKFkbijitjvlKYlvXn=
+U8D6ysUSA3o82LUfPaC1acySCBunL_m1_LeuyrTTvQ9FhU5nJ-bGKZTzPK4gpGGnPns5DeoHy_b=
+E_QZYymeCOXniYnZU5LdlyN4k0W3yl_u1RWEU7gbX4CgpLg=2E=22><img src=3D=22http://=
+ris=2Eres-x=2Ecom/image=2Easpx?appid=3DForever2101&userid=3Dblackyao12=40gm=
+ail=2Ecom&campaignid=3D20150423_F21_US_AccEdit&scheme=3Dnewarrivals2_rr&ind=
+ex=3D3=22 alt=3D=22Recommendations Just for You=22 width=3D=22140=22 height=
+=3D=22255=22 style=3D=22display:block; border:none;=22 class=3D=22wauto hau=
+to=22 /></a></td>
+                                              <td bgcolor=3D=22=23ebebeb=22=
+ width=3D=221=22></td>
+                                            </tr>
+                                          </table></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                              </table>
+                             =20
+                              <=21--end PRODUCT 3 of 4--></td>
+                            <td width=3D=2211=22 class=3D=22w10=22></td>
+                            <td valign=3D=22top=22 width=3D=22142=22 class=
+=3D=22w230=22><=21--PRODUCT 4 of 4-->
+                             =20
+                              <table border=3D=220=22 cellspacing=3D=220=22=
+ cellpadding=3D=220=22>
+                                <tr>
+                                  <td><table border=3D=220=22 cellspacing=
+=3D=220=22 cellpadding=3D=220=22>
+                                      <tr>
+                                        <td bgcolor=3D=22=23ebebeb=22 heigh=
+t=3D=221=22 style=3D=22line-height:0px;=22><img src=3D=22https://static=2Ec=
+dn=2Eresponsys=2Enet/i5/responsysimages/forever21/contentlibrary/=21us/2015=
+0423_accedit/RI_20150423_F21_US_AccEdit_Dynamic/images/sp=2Egif=22 alt=3D=
+=22=22 width=3D=221=22 height=3D=221=22 style=3D=22display:block; border:no=
+ne;=22 /></td>
+                                      </tr>
+                                      <tr>
+                                        <td><table border=3D=220=22 cellspa=
+cing=3D=220=22 cellpadding=3D=220=22>
+                                            <tr>
+                                              <td bgcolor=3D=22=23ebebeb=22=
+ width=3D=221=22></td>
+                                              <td><a href=3D=22https://news=
+=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS49uatAzbj=
+zdht1zazdzgymb1W2pcRhVXtpKX%3DWCDTRY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO=
+0M_aUq6x_tqgTRqeQ-d2k4dBltvmv_P9FgLfruOphKAn8r77bCPFY3-fSwhD5gwCWEArt9KBDUF=
+Ak74LfhcKepr9OVgzLRiL1PI0ZTMF3j_AlykR_1ULWVob3bGpi0A1oXcQFoYmDpEt6O4kV6MWy0=
+YZmXYSPC6dbRetbxjCrc-vzb4Q_dPFf3p3K7OGjOCJ4npwV8x8R4JHbuAKKFkbijitjvlKYlvXn=
+Ubn0hfaXRALq7R3QxHhrJCFQLhgVKL2Y8UHUjdUSBsrdsUmRPGSBA9gPP8yhw7h9PHH6NbD7XPz=
+hofJHex7-zPkzic2iN9cdyvGpNV_jc9-vLTAJEViw5sz0kw=2E=22><img src=3D=22http://=
+ris=2Eres-x=2Ecom/image=2Easpx?appid=3DForever2101&userid=3Dblackyao12=40gm=
+ail=2Ecom&campaignid=3D20150423_F21_US_AccEdit&scheme=3Dnewarrivals2_rr&ind=
+ex=3D4=22 alt=3D=22Recommendations Just for You=22 width=3D=22140=22 height=
+=3D=22255=22 style=3D=22display:block; border:none;=22 class=3D=22wauto hau=
+to=22 /></a></td>
+                                              <td bgcolor=3D=22=23ebebeb=22=
+ width=3D=221=22></td>
+                                            </tr>
+                                          </table></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                              </table>
+                             =20
+                              <=21--end PRODUCT 4--></td>
+                          </tr>
+                        </table></th>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>=09
+			<=21--End MODULE4: 4-Up Product Grid-->
+
+            <=21--spacer-->
+           =20
+            <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=22=
+0=22>
+              <tr>
+                <td height=3D=2220=22 style=3D=22line-height:0px;=22 class=
+=3D=22h20=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/respon=
+sysimages/forever21/contentlibrary/=21us/20150423_accedit/RI_20150423_F21_U=
+S_AccEdit_Dynamic/images/sp=2Egif=22 alt=3D=22=22 width=3D=221=22 height=3D=
+=221=22 style=3D=22display:block; border:none;=22 /></td>
+              </tr>
+            </table>
+           =20
+            <=21--end spacer--> 		=09
+=09
+
+		=09
+			<=21--start MODULE4: 4-Up Product Grid-->
+           =20
+            <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=22=
+0=22>
+              <tr>
+                <td><table border=3D=220=22 cellspacing=3D=220=22 cellpaddi=
+ng=3D=220=22>
+                    <tr>
+                      <th align=3D=22left=22 valign=3D=22top=22 class=3D=22=
+wrap w320=22 style=3D=22vertical-align:top;=22><table border=3D=220=22 cell=
+spacing=3D=220=22 cellpadding=3D=220=22>
+                          <tr>
+                            <td valign=3D=22top=22 width=3D=22142=22 class=
+=3D=22w230=22><=21--PRODUCT 1 of 4-->
+                             =20
+                              <table border=3D=220=22 cellspacing=3D=220=22=
+ cellpadding=3D=220=22>
+                                <tr>
+                                  <td valign=3D=22top=22><table border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                                      <tr>
+                                        <td bgcolor=3D=22=23ebebeb=22 heigh=
+t=3D=221=22 style=3D=22line-height:0px;=22><img src=3D=22https://static=2Ec=
+dn=2Eresponsys=2Enet/i5/responsysimages/forever21/contentlibrary/=21us/2015=
+0423_accedit/RI_20150423_F21_US_AccEdit_Dynamic/images/sp=2Egif=22 alt=3D=
+=22=22 width=3D=221=22 height=3D=221=22 style=3D=22display:block; border:no=
+ne;=22 /></td>
+                                      </tr>
+                                      <tr>
+                                        <td><table border=3D=220=22 cellspa=
+cing=3D=220=22 cellpadding=3D=220=22>
+                                            <tr>
+                                              <td bgcolor=3D=22=23ebebeb=22=
+ width=3D=221=22></td>
+                                              <td><a href=3D=22https://news=
+=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS49uatAzbj=
+zdht1zazdzgymb1W2pcRhVXtpKX%3DWCDTTY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO=
+0M_aUq6x_tqgTRqeQ-d2k4dBltvmv_P9FgLfruOphKAn8r77bCPFY3-fSwhD5gwCWEArt9KBDUF=
+Ak74LfhcKepr9OVgzLRiL1PI0ZTMF3j_AlykR_1ULWVob3bGpi0A1oXcQFoYmDpEt6O4kV6MWy0=
+YZmXYSPC6dbRetbxjCrc-vzb4Q_dPFf3p3K7OGjOCJ4npwV8x8R4JHbuAKKFkbijitjvlKYlvXn=
+U8boaOplD1g_6qKTwsJ2nYKEr9tQaQ57gGzA9F6_qDvWm2VHZLYXigTDErz27vttW_K5sY6oduR=
+BmauKdGIjk-Xflf4z19QES4Ygcvc1tS-zlm1eb6u433BIH0=2E=22><img src=3D=22http://=
+ris=2Eres-x=2Ecom/image=2Easpx?appid=3DForever2101&userid=3Dblackyao12=40gm=
+ail=2Ecom&campaignid=3D20150423_F21_US_AccEdit&scheme=3Dnewarrivals2_rr&ind=
+ex=3D5=22 alt=3D=22Recommendations Just for You=22 width=3D=22140=22 height=
+=3D=22255=22 style=3D=22display:block; border:none;=22 class=3D=22wauto hau=
+to=22 /></a></td>
+                                              <td bgcolor=3D=22=23ebebeb=22=
+ width=3D=221=22></td>
+                                            </tr>
+                                          </table></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                              </table>
+                             =20
+                              <=21--end PRODUCT 1 of 4--></td>
+                            <td width=3D=2211=22 class=3D=22w10=22></td>
+                            <td valign=3D=22top=22 width=3D=22142=22 class=
+=3D=22w230=22><=21--PRODUCT 2 of 4-->
+                             =20
+                              <table border=3D=220=22 cellspacing=3D=220=22=
+ cellpadding=3D=220=22>
+                                <tr>
+                                  <td valign=3D=22top=22><table border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                                      <tr>
+                                        <td bgcolor=3D=22=23ebebeb=22 heigh=
+t=3D=221=22 style=3D=22line-height:0px;=22><img src=3D=22https://static=2Ec=
+dn=2Eresponsys=2Enet/i5/responsysimages/forever21/contentlibrary/=21us/2015=
+0423_accedit/RI_20150423_F21_US_AccEdit_Dynamic/images/sp=2Egif=22 alt=3D=
+=22=22 width=3D=221=22 height=3D=221=22 style=3D=22display:block; border:no=
+ne;=22 /></td>
+                                      </tr>
+                                      <tr>
+                                        <td><table border=3D=220=22 cellspa=
+cing=3D=220=22 cellpadding=3D=220=22>
+                                            <tr>
+                                              <td bgcolor=3D=22=23ebebeb=22=
+ width=3D=221=22></td>
+                                              <td><a href=3D=22https://news=
+=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS49uatAzbj=
+zdht1zazdzgymb1W2pcRhVXtpKX%3DWCDTWY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO=
+0M_aUq6x_tqgTRqeQ-d2k4dBltvmv_P9FgLfruOphKAn8r77bCPFY3-fSwhD5gwCWEArt9KBDUF=
+Ak74LfhcKepr9OVgzLRiL1PI0ZTMF3j_AlykR_1ULWVob3bGpi0A1oXcQFoYmDpEt6O4kV6MWy0=
+YZmXYSPC6dbRetbxjCrc-vzb4Q_dPFf3p3K7OGjOCJ4npwV8x8R4JHbuAKKFkbijitjvlKYlvXn=
+U7Sp1CKVZyxijp0sDkBYZezNC1VQYKBStCi-1bHtCT5wjmdJNRzxcJoIZ-KukH8Bk6kiqzfrdXY=
+VyMhYQoGlZBrJ8JTdpl41c2hIHuGNchyef72b107ocfwWjw=2E=22><img src=3D=22http://=
+ris=2Eres-x=2Ecom/image=2Easpx?appid=3DForever2101&userid=3Dblackyao12=40gm=
+ail=2Ecom&campaignid=3D20150423_F21_US_AccEdit&scheme=3Dnewarrivals2_rr&ind=
+ex=3D6=22 alt=3D=22Recommendations Just for You=22 width=3D=22140=22 height=
+=3D=22255=22 style=3D=22display:block; border:none;=22 class=3D=22wauto hau=
+to=22 /></a></td>
+                                              <td bgcolor=3D=22=23ebebeb=22=
+ width=3D=221=22></td>
+                                            </tr>
+                                          </table></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                              </table>
+                             =20
+                              <=21--end PRODUCT 2 of 4--></td>
+                          </tr>
+                        </table></th>
+                      <th style=3D=22padding:0px; margin:0px;=22 width=3D=
+=2210=22 class=3D=22hide=22></th>
+                      <th align=3D=22left=22 valign=3D=22top=22 class=3D=22=
+wrap w320=22 style=3D=22vertical-align:top;=22><table border=3D=220=22 cell=
+spacing=3D=220=22 cellpadding=3D=220=22>
+                          <tr>
+                            <td valign=3D=22top=22 width=3D=22142=22 class=
+=3D=22w230=22><=21--PRODUCT 3 of 4-->
+                             =20
+                              <table border=3D=220=22 cellspacing=3D=220=22=
+ cellpadding=3D=220=22>
+                                <tr>
+                                  <td><table border=3D=220=22 cellspacing=
+=3D=220=22 cellpadding=3D=220=22>
+                                      <tr>
+                                        <td bgcolor=3D=22=23ebebeb=22 heigh=
+t=3D=221=22 style=3D=22line-height:0px;=22><img src=3D=22https://static=2Ec=
+dn=2Eresponsys=2Enet/i5/responsysimages/forever21/contentlibrary/=21us/2015=
+0423_accedit/RI_20150423_F21_US_AccEdit_Dynamic/images/sp=2Egif=22 alt=3D=
+=22=22 width=3D=221=22 height=3D=221=22 style=3D=22display:block; border:no=
+ne;=22 /></td>
+                                      </tr>
+                                      <tr>
+                                        <td><table border=3D=220=22 cellspa=
+cing=3D=220=22 cellpadding=3D=220=22>
+                                            <tr>
+                                              <td bgcolor=3D=22=23ebebeb=22=
+ width=3D=221=22></td>
+                                              <td><a href=3D=22https://news=
+=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS49uatAzbj=
+zdht1zazdzgymb1W2pcRhVXtpKX%3DWCDTAY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO=
+0M_aUq6x_tqgTRqeQ-d2k4dBltvmv_P9FgLfruOphKAn8r77bCPFY3-fSwhD5gwCWEArt9KBDUF=
+Ak74LfhcKepr9OVgzLRiL1PI0ZTMF3j_AlykR_1ULWVob3bGpi0A1oXcQFoYmDpEt6O4kV6MWy0=
+YZmXYSPC6dbRetbxjCrc-vzb4Q_dPFf3p3K7OGjOCJ4npwV8x8R4JHbuAKKFkbijitjvlKYlvXn=
+U6H_htKJ4TQStHLgo2x6uQ1AvNLIy-kI58KVYfUx6hxnJat99QhCVWcd8IiZZG51d015t2gMat3=
+WEZ0VoqVDEJtVKMe_fIMF9lLmHFZyhBp-S15DsK7vlLr83M=2E=22><img src=3D=22http://=
+ris=2Eres-x=2Ecom/image=2Easpx?appid=3DForever2101&userid=3Dblackyao12=40gm=
+ail=2Ecom&campaignid=3D20150423_F21_US_AccEdit&scheme=3Dnewarrivals2_rr&ind=
+ex=3D7=22 alt=3D=22Recommendations Just for You=22 width=3D=22140=22 height=
+=3D=22255=22 style=3D=22display:block; border:none;=22 class=3D=22wauto hau=
+to=22 /></a></td>
+                                              <td bgcolor=3D=22=23ebebeb=22=
+ width=3D=221=22></td>
+                                            </tr>
+                                          </table></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                              </table>
+                             =20
+                              <=21--end PRODUCT 3 of 4--></td>
+                            <td width=3D=2211=22 class=3D=22w10=22></td>
+                            <td valign=3D=22top=22 width=3D=22142=22 class=
+=3D=22w230=22><=21--PRODUCT 4 of 4-->
+                             =20
+                              <table border=3D=220=22 cellspacing=3D=220=22=
+ cellpadding=3D=220=22>
+                                <tr>
+                                  <td><table border=3D=220=22 cellspacing=
+=3D=220=22 cellpadding=3D=220=22>
+                                      <tr>
+                                        <td bgcolor=3D=22=23ebebeb=22 heigh=
+t=3D=221=22 style=3D=22line-height:0px;=22><img src=3D=22https://static=2Ec=
+dn=2Eresponsys=2Enet/i5/responsysimages/forever21/contentlibrary/=21us/2015=
+0423_accedit/RI_20150423_F21_US_AccEdit_Dynamic/images/sp=2Egif=22 alt=3D=
+=22=22 width=3D=221=22 height=3D=221=22 style=3D=22display:block; border:no=
+ne;=22 /></td>
+                                      </tr>
+                                      <tr>
+                                        <td><table border=3D=220=22 cellspa=
+cing=3D=220=22 cellpadding=3D=220=22>
+                                            <tr>
+                                              <td bgcolor=3D=22=23ebebeb=22=
+ width=3D=221=22></td>
+                                              <td><a href=3D=22https://news=
+=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS49uatAzbj=
+zdht1zazdzgymb1W2pcRhVXtpKX%3DWCDSWY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNHvC_sZZO=
+0M_aUq6x_tqgTRqeQ-d2k4dBltvmv_P9FgLfruOphKAn8r77bCPFY3-fSwhD5gwCWEArt9KBDUF=
+Ak74LfhcKepr9OVgzLRiL1PI0ZTMF3j_AlykR_1ULWVob3bGpi0A1oXcQFoYmDpEt6O4kV6MWy0=
+YZmXYSPC6dbRetbxjCrc-vzb4Q_dPFf3p3K7OGjOCJ4npwV8x8R4JHbuAKKFkbijitjvlKYlvXn=
+Uazk0gc5nUmlctaifQ7qCyE0WQ2NaRQC9AWSFWYhb_8ImjljMakVAMlxP29yszgDKVJuTeI-bbt=
+mptzos7cfH7-dqc_sIpMKbTT2u1s-3vd7xagIF8rIL3mhCg=2E=22><img src=3D=22http://=
+ris=2Eres-x=2Ecom/image=2Easpx?appid=3DForever2101&userid=3Dblackyao12=40gm=
+ail=2Ecom&campaignid=3D20150423_F21_US_AccEdit&scheme=3Dnewarrivals2_rr&ind=
+ex=3D8=22 alt=3D=22Recommendations Just for You=22 width=3D=22140=22 height=
+=3D=22255=22 style=3D=22display:block; border:none;=22 class=3D=22wauto hau=
+to=22 /></a></td>
+                                              <td bgcolor=3D=22=23ebebeb=22=
+ width=3D=221=22></td>
+                                            </tr>
+                                          </table></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                              </table>
+                             =20
+                              <=21--end PRODUCT 4--></td>
+                          </tr>
+                        </table></th>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>			=09
+            					=09
+		=09
+            <=21--spacer-->
+           =20
+            <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=22=
+0=22>
+              <tr>
+                <td height=3D=2220=22 style=3D=22line-height:0px;=22><img s=
+rc=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/forever21=
+/contentlibrary/=21us/20150423_accedit/RI_20150423_F21_US_AccEdit_Dynamic/i=
+mages/sp=2Egif=22 alt=3D=22=22 width=3D=221=22 height=3D=221=22 style=3D=22=
+display:block; border:none;=22 /></td>
+              </tr>
+            </table>
+           =20
+            <=21--end spacer--> 					=09
+		=09
+           <=21--start MODULE9: Recovery Module-->
+           =20
+            <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=22=
+0=22>
+              <tr>
+                <td valign=3D=22top=22 class=3D=22w320 pb20=22 style=3D=22p=
+adding-top:10px; padding-bottom:10px;=22><table border=3D=220=22 cellspacin=
+g=3D=220=22 cellpadding=3D=220=22>
+                    <tr>
+                      <td width=3D=22192=22 align=3D=22center=22 height=3D=
+=2250=22 valign=3D=22middle=22 bgcolor=3D=22=23e0dfdf=22 style=3D=22font-fa=
+mily:Helvetica, Arial, sans-serif; font-weight:normal; font-size:14px; colo=
+r:=23000000;=22 class=3D=22w155=22><a href=3D=22https://news=2Eforever21=2E=
+com/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS49uatAzbjzdht1zazdzgymb1=
+W2pcRhVXtpKX%3DWCDTCY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNYplWuSNpk-NH3KkVm9MOvqT=
+VLT0=2E=22 style=3D=22color:=23000000; text-decoration: none;=22>BRANDED SH=
+OP</a></td>
+                      <td width=3D=2212=22 class=3D=22w10=22></td>
+                      <td width=3D=22192=22 align=3D=22center=22 height=3D=
+=2250=22 valign=3D=22middle=22 bgcolor=3D=22=23e0dfdf=22 style=3D=22font-fa=
+mily:Helvetica, Arial, sans-serif; font-weight:normal; font-size:14px; colo=
+r:=23000000;=22 class=3D=22w155=22><a href=3D=22https://news=2Eforever21=2E=
+com/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS49uatAzbjzdht1zazdzgymb1=
+W2pcRhVXtpKX%3DWCDURY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNYplWuSNpk-NH3KkVm9MOvqT=
+VLT0=2E=22 style=3D=22color:=23000000; text-decoration: none;=22>GIFT CARDS=
+</a></td>
+                      <td width=3D=2212=22 class=3D=22hide=22></td>
+                      <td width=3D=22192=22 align=3D=22center=22 height=3D=
+=2250=22 valign=3D=22middle=22 bgcolor=3D=22=23e0dfdf=22 style=3D=22font-fa=
+mily:Helvetica, Arial, sans-serif; font-weight:normal; font-size:14px; colo=
+r:=23000000;=22 class=3D=22hide=22><a href=3D=22https://news=2Eforever21=2E=
+com/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS49uatAzbjzdht1zazdzgymb1=
+W2pcRhVXtpKX%3DWCDUTY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNYplWuSNpk-NH3KkVm9MOvqT=
+VLT0=2E=22 style=3D=22color:=23000000; text-decoration: none;=22>IPHONE APP=
+</a></td>
+                    </tr>
+                  </table>
+                 =20
+                  <=21--responsive content-->
+                 =20
+                  <div style=3D=22overflow:hidden; display:none; visibility=
+:hidden; line-height:0px; max-height:0px;=22 class=3D=22show pt20=22>
+                    <table border=3D=220=22 cellspacing=3D=220=22 cellpaddi=
+ng=3D=220=22 style=3D=22overflow:hidden; display:none; visibility:hidden; l=
+ine-height:0px; max-height:0px;=22 class=3D=22show=22>
+                      <tr>
+                        <td width=3D=22155=22 align=3D=22center=22 height=
+=3D=2250=22 valign=3D=22middle=22 bgcolor=3D=22=23e0dfdf=22 style=3D=22font=
+-family:Helvetica, Arial, sans-serif; font-weight:normal; font-size:14px; c=
+olor:=23000000;=22><a href=3D=22https://news=2Eforever21=2Ecom/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS49uatAzbjzdht1zazdzgymb1W2pcRhVXtpKX%3D=
+WCDUTY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNYplWuSNpk-NH3KkVm9MOvqTVLT0=2E=22 styl=
+e=3D=22color:=23000000; text-decoration: none;=22>IPHONE APP</a></td>
+                        <td width=3D=2210=22></td>
+                        <td width=3D=22155=22 align=3D=22center=22 height=
+=3D=2250=22 valign=3D=22middle=22 bgcolor=3D=22=23e0dfdf=22 style=3D=22font=
+-family:Helvetica, Arial, sans-serif; font-weight:normal; font-size:14px; c=
+olor:=23000000;=22><a href=3D=22https://news=2Eforever21=2Ecom/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS49uatAzbjzdht1zazdzgymb1W2pcRhVXtpKX%3D=
+WCDUWY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNYplWuSNpk-NH3KkVm9MOvqTVLT0=2E=22 styl=
+e=3D=22color:=23000000; text-decoration: none;=22>ANDROID APP</a></td>
+                      </tr>
+                    </table>
+                  </div>
+                 =20
+                  <=21--end responsive content--></td>
+              </tr>
+              <tr>
+                <td class=3D=22w320=22><table border=3D=220=22 cellspacing=
+=3D=220=22 cellpadding=3D=220=22>
+                    <tr>
+                      <td width=3D=22192=22 align=3D=22center=22 height=3D=
+=2250=22 valign=3D=22middle=22 bgcolor=3D=22=23e0dfdf=22 style=3D=22font-fa=
+mily:Helvetica, Arial, sans-serif; font-weight:normal; font-size:14px; colo=
+r:=23000000;=22 class=3D=22hide=22><a href=3D=22https://news=2Eforever21=2E=
+com/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS49uatAzbjzdht1zazdzgymb1=
+W2pcRhVXtpKX%3DWCDUWY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNYplWuSNpk-NH3KkVm9MOvqT=
+VLT0=2E=22 style=3D=22color:=23000000; text-decoration: none;=22>ANDROID AP=
+P</a></td>
+                      <td width=3D=2212=22 class=3D=22hide=22></td>
+                      <td width=3D=22192=22 align=3D=22center=22 height=3D=
+=2250=22 valign=3D=22middle=22 bgcolor=3D=22=23e0dfdf=22 style=3D=22font-fa=
+mily:Helvetica, Arial, sans-serif; font-weight:normal; font-size:14px; colo=
+r:=23000000;=22 class=3D=22w155=22><a href=3D=22https://news=2Eforever21=2E=
+com/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS49uatAzbjzdht1zazdzgymb1=
+W2pcRhVXtpKX%3DWCDUAY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNYplWuSNpk-NH3KkVm9MOvqT=
+VLT0=2E=22 style=3D=22color:=23000000; text-decoration: none;=22>STORE LOCA=
+TOR</a></td>
+                      <td width=3D=2212=22 class=3D=22w10=22></td>
+                      <td width=3D=22192=22 align=3D=22center=22 height=3D=
+=2250=22 valign=3D=22middle=22 bgcolor=3D=22=23e0dfdf=22 style=3D=22font-fa=
+mily:Helvetica, Arial, sans-serif; font-weight:normal; font-size:14px; colo=
+r:=23fc0002;=22 class=3D=22w155=22><a href=3D=22https://news=2Eforever21=2E=
+com/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS49uatAzbjzdht1zazdzgymb1=
+W2pcRhVXtpKX%3DWCDUCY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNYplWuSNpk-NH3KkVm9MOvqT=
+VLT0=2E=22 style=3D=22color:=23000000; text-decoration: none;=22>FAQ'S</a><=
+/td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+           =20
+            <=21--spacer-->
+           =20
+            <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=22=
+0=22>
+              <tr>
+                <td height=3D=2220=22 style=3D=22line-height:0px;=22 class=
+=3D=22h30=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/respon=
+sysimages/forever21/contentlibrary/=21us/20150423_accedit/RI_20150423_F21_U=
+S_AccEdit_Dynamic/images/sp=2Egif=22 alt=3D=22=22 width=3D=221=22 height=3D=
+=221=22 style=3D=22display:block; border:none;=22 /></td>
+              </tr>
+            </table>
+           =20
+            <=21--end spacer-->=20
+            <=21--start social media-->
+           =20
+            <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=22=
+0=22>
+              <tr>
+                <td width=3D=22600=22 align=3D=22center=22 valign=3D=22top=
+=22 class=3D=22w320 pb20=22 style=3D=22padding-bottom:10px;=22><table borde=
+r=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                    <tr>
+                      <td width=3D=2230=22 align=3D=22left=22 class=3D=22w4=
+0=22><a href=3D=22https://news=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQ=
+pglLjHJlYQGNWUT4a2HqS49uatAzbjzdht1zazdzgymb1W2pcRhVXtpKX%3DWCDWRY&_ei_=3DE=
+olaGGF4SNMvxFF7KucKuWNYplWuSNpk-NH3KkVm9MOvqTVLT0=2E=22><img src=3D=22https=
+://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/forever21/contentlibra=
+ry/=21us/20150423_accedit/RI_20150423_F21_US_AccEdit_Dynamic/images/soc_FB=
+=2Epng=22 width=3D=2225=22 height=3D=2225=22 alt=3D=22Facebook=22 style=3D=
+=22display:block; border:none;=22 class=3D=22wauto hauto=22 /></a></td>
+                      <td width=3D=2230=22 align=3D=22left=22 class=3D=22w4=
+0=22><a href=3D=22https://news=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQ=
+pglLjHJlYQGNWUT4a2HqS49uatAzbjzdht1zazdzgymb1W2pcRhVXtpKX%3DWCDWTY&_ei_=3DE=
+olaGGF4SNMvxFF7KucKuWNYplWuSNpk-NH3KkVm9MOvqTVLT0=2E=22><img src=3D=22https=
+://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/forever21/contentlibra=
+ry/=21us/20150423_accedit/RI_20150423_F21_US_AccEdit_Dynamic/images/soc_TW=
+=2Epng=22 width=3D=2225=22 height=3D=2225=22 alt=3D=22Twitter=22 style=3D=
+=22display:block; border:none;=22 class=3D=22wauto hauto=22 /></a></td>
+                      <td width=3D=2230=22 align=3D=22left=22 class=3D=22w4=
+0=22><a href=3D=22https://news=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQ=
+pglLjHJlYQGNWUT4a2HqS49uatAzbjzdht1zazdzgymb1W2pcRhVXtpKX%3DWCDWWY&_ei_=3DE=
+olaGGF4SNMvxFF7KucKuWNYplWuSNpk-NH3KkVm9MOvqTVLT0=2E=22><img src=3D=22https=
+://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/forever21/contentlibra=
+ry/=21us/20150423_accedit/RI_20150423_F21_US_AccEdit_Dynamic/images/soc_g=
+=2Epng=22 width=3D=2225=22 height=3D=2225=22 alt=3D=22Google+=22 style=3D=
+=22display:block; border:none;=22 class=3D=22wauto hauto=22 /></a></td>
+                      <td width=3D=2230=22 align=3D=22left=22 class=3D=22w4=
+0=22><a href=3D=22https://news=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQ=
+pglLjHJlYQGNWUT4a2HqS49uatAzbjzdht1zazdzgymb1W2pcRhVXtpKX%3DWCDWAY&_ei_=3DE=
+olaGGF4SNMvxFF7KucKuWNYplWuSNpk-NH3KkVm9MOvqTVLT0=2E=22><img src=3D=22https=
+://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/forever21/contentlibra=
+ry/=21us/20150423_accedit/RI_20150423_F21_US_AccEdit_Dynamic/images/soc_You=
+Tube=2Epng=22 width=3D=2225=22 height=3D=2225=22 alt=3D=22YouTube=22 style=
+=3D=22display:block; border:none;=22 class=3D=22wauto hauto=22 /></a></td>
+                      <td width=3D=2230=22 align=3D=22left=22 class=3D=22w4=
+0=22><a href=3D=22https://news=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQ=
+pglLjHJlYQGNWUT4a2HqS49uatAzbjzdht1zazdzgymb1W2pcRhVXtpKX%3DWCDWCY&_ei_=3DE=
+olaGGF4SNMvxFF7KucKuWNYplWuSNpk-NH3KkVm9MOvqTVLT0=2E=22><img src=3D=22https=
+://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/forever21/contentlibra=
+ry/=21us/20150423_accedit/RI_20150423_F21_US_AccEdit_Dynamic/images/soc_pin=
+=2Epng=22 width=3D=2225=22 height=3D=2225=22 alt=3D=22Pinterest=22 style=3D=
+=22display:block; border:none;=22 class=3D=22wauto hauto=22 /></a></td>
+                      <td align=3D=22left=22><a href=3D=22https://news=2Efo=
+rever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS49uatAzbjzdht1=
+zazdzgymb1W2pcRhVXtpKX%3DWCDYRY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNYplWuSNpk-NH3=
+KkVm9MOvqTVLT0=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i=
+5/responsysimages/forever21/contentlibrary/=21us/20150423_accedit/RI_201504=
+23_F21_US_AccEdit_Dynamic/images/soc_insta=2Epng=22 width=3D=2225=22 height=
+=3D=2225=22 alt=3D=22Instagram=22 style=3D=22display:block; border:none;=22=
+ class=3D=22wauto hauto=22 /></a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+
+            <=21--spacer-->
+           =20
+            <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=22=
+0=22>
+              <tr>
+                <td height=3D=2210=22 style=3D=22line-height:0px;=22><img s=
+rc=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/forever21=
+/contentlibrary/=21us/20150423_accedit/RI_20150423_F21_US_AccEdit_Dynamic/i=
+mages/sp=2Egif=22 alt=3D=22=22 width=3D=221=22 height=3D=221=22 style=3D=22=
+display:block; border:none;=22 /></td>
+              </tr>
+            </table>
+           =20
+            <=21--end spacer-->=20
+            <=21--end social media module-->
+            <=21--end MODULE9: Recovery Module-->
+           =20
+            <=21--start MODULE10: Footer-->
+           =20
+            <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=22=
+0=22 width=3D=22100%=22>
+              <tr>
+                <td width=3D=22600=22 align=3D=22center=22 valign=3D=22top=
+=22><table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 wid=
+th=3D=22100%=22>
+                    <tr>
+                      <td height=3D=221=22 bgcolor=3D=22=23ebebeb=22 style=
+=3D=22line-height:0px;=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2E=
+net/i5/responsysimages/forever21/contentlibrary/=21us/20150423_accedit/RI_2=
+0150423_F21_US_AccEdit_Dynamic/images/sp=2Egif=22 alt=3D=22=22 width=3D=221=
+=22 height=3D=221=22 style=3D=22display:block; border:none;=22 /></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr>
+                <td align=3D=22left=22 style=3D=22font-family:Arial, Helvet=
+ica, sans-serif; font-size:11px; line-height:13px; color:=23000000; padding=
+-top:20px; padding-bottom:30px; padding-left:40px; padding-right:40px;=22 c=
+lass=3D=22plr40=22><div align=3D=22center=22 style=3D=22font-size:12px;=22>=
+<span style=3D=22font-family: Georgia, 'Times New Roman', Times, serif; fon=
+t-weight:bold;=22><em>NEED HELP?</em></span>&nbsp;&nbsp;&nbsp;<strong>1-888=
+-494-3837</strong></div>
+				  <br />
+				30% Off Select Pants & Denim<br />
+				Offer valid online only at forever21=2Ecom on items marked =22ON SALE -=
+ LIMITED TIME ONLY=21=C2=94 from 4/23/15 12:00 am PST through 4/26/15 11:59=
+ pm PST, or while supplies last=2E Discount not valid on Branded Shop=C2=99=
+ merchandise, gift cards or e-gift certificates, applicable taxes, or shipp=
+ing and handling charges=2E Items marked final sale cannot be returned or e=
+xchanged=2E No adjustments on previous purchases=2E Cannot be combined with=
+ any other discount, coupon, or promotion=2E Cannot be redeemed for cash or=
+ cash equivalent=2E Offer is nontransferable=2E Forever 21 reserves the rig=
+ht to modify or cancel this promotion at any time without notice=2E<br /><b=
+r />
+
+				  Having trouble viewing this e-mail? <span class=3D=22wrap=22><a href=
+=3D=22https://news=2Eforever21=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGN=
+WUT4a2HqS49uatAzbjzdht1zazdzgymb1W2pcRhVXtpKX%3DWCCCAY&_ei_=3DEolaGGF4SNMvx=
+FF7KucKuWNHvC_sZZO0M_aUq6x_tqgTz-iK-vjdqJA9cAezQ9fQdrrFaXDLUPUXmti1MuGXsFQV=
+dBtcEswm2AOriDIRW_ACoMwGBg=2E=22 style=3D=22color:=235a636a; text-decoratio=
+n: underline;=22>Click here</a> to view in your browser</span><br class=3D=
+=22hide=22 />
+                  <br />
+                  To make sure you receive our emails, please add <strong>f=
+orever21=40news=2Eforever21=2Ecom</strong> to your address book=2E<br />
+                  <br />
+                  You received this message because you've registered or ac=
+cepted our invitation to receive emails from Forever21, or you've made a pu=
+rchase from Forever21=2Ecom=2E<br />
+                  <br />
+                  <a href=3D=22https://news=2Eforever21=2Ecom/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS49uatAzbjzdht1zazdzgymb1W2pcRhVXtpKX%3D=
+WCDYTY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNYplWuSNpk-NH3KkVm9MOvqTVLT0=2E=22 styl=
+e=3D=22color:=235a636a; text-decoration: underline;=22>Update Your Preferen=
+ce</a> <br />
+                  <br />
+                  <a href=3D=22https://news=2Eforever21=2Ecom/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGNWUT4a2HqS49uatAzbjzdht1zazdzgymb1W2pcRhVXtpKX%3D=
+WCDYWY&_ei_=3DEgadeKZj5jLrpWz8wEG8K9a7aT7GK3YBXLWxjhWcXhLCF1WWRszktDtHpPF1y=
+jemr2iGW-Hsu_JonYIVwUWlfTlg2jLoFekkLrxQeuN75xYECLJlXtuhxck3UgdqXwnDPJWIf5X6=
+thamelOUdi28=2E=22 style=3D=22color:=235a636a; text-decoration: underline;=
+=22>Unsubscribe</a> <br />
+                  <br />
+                  Forever 21, Inc=2E 3880 N Mission Road, <span class=3D=22=
+wrap=22>Los Angeles, CA 90031</span></td>
+              </tr>
+			  <tr>
+				<td style=3D=22text-align:center; padding-top:0; padding-bottom:0px;=22=
+ align=3D=22center=22>
+					<a href=3D=22=22 >
+						<img border=3D=220=22 src=3D=22http://www=2Egoogle-analytics=2Ecom/co=
+llect?v=3D1&tid=3DUA-233210-20&cid=3D185082825&t=3Devent&ec=3Demail&ea=3Dop=
+en&el=3Dblackyao12=40gmail=2Ecom&cs=3DRI&cm=3Demail&cn=3D20150423_F21_US_Ac=
+cEdit=22 style=3D=22text-align:center; display:none;=22 alt=3D=22GA Trackin=
+g=22 />
+					</a>
+				</td>
+			  </tr>				 =20
+            </table>
+           =20
+            <=21--end MODULE10: Footer-->=20
+           =20
+            <=21--end modules =7C end fixed table width--></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<=21--end wrapper table - END Email-->
+</body>
+</html>
+<br>
+
+

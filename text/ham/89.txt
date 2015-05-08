@@ -1,0 +1,54 @@
+同学们：
+
+以下是石溪大学的solar system ，请按照下列程序，登记注册。
+
+若有问题，请联系Lynn 和Tiki。
+
+黄老师
+
+
+----- Original Message ----- 
+From: Tiki Ma 
+To: huanglingdi@peixun.sjtu.edu.cn 
+Sent: Tuesday, June 10, 2014 2:01 AM
+Subject: About how to log in SBU system and Net ID password
+
+
+Dear Rosey,
+Below is the procedure for students to log in SBU solar system and how to get their Net ID password, students can follow these steps to sign up their email account and the attachment is students' ID number. Thank you.
+
+
+Email Policies
+You are required to comply with the following Stony Brook University policies related to the appropriate uses of email. Please familiarize yourself with these policies:
+
+  a.. Email (D106)
+  b.. Google Apps for Education Acceptable Use and Data Security Policy (D111) 
+  c.. Use of Information Technology (P109)
+Email Prerequisites
+In order to log into your Stony Brook University Google Apps (Gmail) account, you first need to set up secure SOLAR andNetID passwords, if you haven't already done so.
+
+  a.. Go to http://www.stonybrook.edu/solar
+  b.. Click the SOLAR LOGIN button 
+  c.. Enter your Stony Brook (SOLAR) ID number provided above
+  d.. Enter your SOLAR password. Your initial SOLAR password is your date of birth in mmddyy format - example: December 5, 1973 would be typed as 120573. Once logged into SOLAR, click the link under Security and Personal Data that says "Change My SOLAR Password," so you can create a more secure password. 
+  e.. Next, you need to establish your NetID password. Click the link in SOLAR that says "NetID Maintenance."
+  f.. On the NetID Maintenance page, click the link that says "Click here to set or change your NetID Password." 
+  g.. You will be asked to set up a security question and answer. Be sure to pick a security question and answer that is easy to remember. You will be asked this question in the future whenever you attempt to change your NetID password. 
+  h.. Once you have done this, click the button that says "Set/Change NetID Password."
+  i.. Create a password that is at least eight characters long and has at least one number and one letter. Special characters (!@# etc.) may be used to improve security. You want to create a password that will be easy for you to remember, but tough for others to guess. NetID passwords are case sensitive and should not be shared with others. 
+  j.. It will take up to 10 minutes for your NetID password to take effect.
+How to Access Your Stony Brook Google Apps (Gmail) Account
+To access your Stony Brook University Google Apps (Gmail) account, go to http://www.stonybrook.edu/mycloud and log in with your NetID and NetID password.
+
+The Google login link can also be directly accessed from the University's main website at http://www.stonybrook.edu by hovering over "Quick Links" in the top right corner and selecting Google Apps for Education.
+
+It can also be accessed from the Division of Information Technology website at http://www.stonybrook.edu/it.
+
+Users who already have personal Gmail accounts may choose to log in to their Stony Brook email directly fromhttp://gmail.com. You can toggle between accounts by clicking the drop-down arrow next to your email address in the top right corner of Gmail and then clicking the "Add Account" button.
+
+
+
+
+Best regards,
+
+Tiki

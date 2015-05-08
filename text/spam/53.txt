@@ -1,0 +1,306 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Macy*s</title>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta content="MSHTML 6.00.6000.16981" name="GENERATOR">
+<style> 
+/*Hotmail Fix*/
+.ReadMsgBody { width: 100%;}
+.ExternalClass {width: 100%;}
+.ExternalClass * {line-height: 100%}
+ 
+/*iPhone/iPad Fix*/
+div, p, a, li, td { -webkit-text-size-adjust: 100%; }
+.fake_css {
+width:100%;
+display: block;
+-webkit-text-size-adjust:none;
+margin: 1em 0;
+color: black;
+text-decoration: none;
+border-bottom: none;
+background: none;
+padding-bottom:0px;
+padding-left:0px;
+padding-right:0px;
+background:none;
+border-bottom:thin;
+border-bottom-style:double;
+background-repeat:repeat;
+border-left-color:#C06;
+background-attachment:scroll;
+border:thin;
+page-break-before:auto;
+page-break-before:avoid;
+page-break-inside:inherit;
+azimuth:center-left;
+vertical-align:inherit;
+font-stretch:extra-condensed;
+font-size-adjust:none;
+list-style-image: none;
+counter-reset:none;
+letter-spacing:normal;
+empty-cells:inherit;
+elevation:higher;
+}
+.container {
+max-width:700px!important;
+display:block!important;
+margin:0 auto!important;
+clear:both!important;
+}
+</style>
+</head>
+
+<body spellcheck="false">
+
+<!-- macys:: logo -->
+<table xmlns:str="http://exslt.org/strings" style="padding-top:15px;" border="0" cellspacing="0" cellpadding="0" width="700" >
+<tr>
+<td style="min-width:314px; padding-bottom:2px;" valign="bottom" width="314">
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz4zt0EP?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" style="cursor:pointer;">
+<img style="display:block" src="http://epidm.edgesuite.net/Macys/adhoc/MCOM/macysEmailLogonew.png" alt="Macy's" title="Macy's" width="231" height="63" border="0">
+</a>
+</td>
+<td width="386" style=" min-width: 386px;">
+<table cellpadding="0" cellspacing="0" border="0" style="font-family: Arial, Helvetica, sans-serif;">
+<tr style="min-width: 386px;" width="386">  <!-- macys:: Preheader section -->
+<td style="font-size: 11px; font-weight: normal; line-height:1.3em; color: #333333; font-family: Arial, Helvetica, sans-serif;">Indulge mom with gorgeous gifts + get it in time with Free Guaranteed Delivery! <a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz4zu0EQ?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">shop all beauty</a></td>
+<!-- macys:: Preheader section complete -->
+</tr><!-- macys:: email accessibility section--><tr style="min-width: 386px;" width="386">
+<td style="font-size: 9px; font-weight: normal; line-height: 1.3em; color: #8c8c8c;"><span style="font-family:Arial, Helvetica, sans-serif;">Can't see the images in this email? <a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz4zo0EK?dm_params=JmVtYWlsYWRkcj1ibGFja3lhbzEyQGdtYWlsLmNvbQ==&dm_params_sha256=256d7ea406b662f1ae97cbd55fbde757efd77d77a8ebd6874b90a3fa3d6c763d" target="_blank">Click here</a></span></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+
+<!-- macys:: topNavigation --><table xmlns:str="http://exslt.org/strings" style="border: solid 1px #CCCCCC; border-bottom: none; clear: both; font-family: Arial, Helvetica, sans-serif; min-width: 700px;" width="700" border="0" height="34" cellpadding="0" cellspacing="0" bgcolor="#000000"><tr>
+<td width="99" style="min-width:99px;"><a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz4zw0ES?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="for the home" style="display: block; font-size:11px; line-height: 1.3em; font-weight:bold; color:#ffffff; text-decoration:none; padding-left: 7px;"><span style="color:#ffffff;">FOR THE HOME</span></a></td>
+<td width="76" style="min-width:76px;"><a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz4zx0ET?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="bed & bath" style="display: block; font-size:11px; line-height: 1.3em; font-weight: bold; color:#ffffff; text-decoration:none;"><span style="color:#ffffff;">BED & BATH</span></a></td>
+<td width="57" style="min-width:57px;"><a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz4zy0EU?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="women" style="display: block; font-size:11px; line-height: 1.3em; font-weight:bold; color:#ffffff; text-decoration:none;"><span style="color:#ffffff;">WOMEN</span></a></td>
+<td width="39" style="min-width:39px;"><a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz4zz0EV?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="men" style="display: block; font-size:11px; line-height: 1.3em; font-weight:bold; color:#ffffff; text-decoration:none;"><span style="color:#ffffff;">MEN</span></a></td>
+<td width="57" style="min-width:57px;"><a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz4z10EI?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="juniors" style="display: block; font-size:11px; line-height: 1.3em; font-weight:bold; color:#FFFFFF; text-decoration:none;"><span style="color:#ffffff;">JUNIORS</span></a></td>
+<td width="41" style="min-width:41px;"><a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz4z20EJ?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="kids"style="display: block; font-size:11px; line-height: 1.3em; font-weight:bold; color:#ffffff; text-decoration:none;"><span style="color:#ffffff;">KIDS</span></a></td>
+<td width="56" style="min-width:56px;"><a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz4z30EK?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="beauty" style="display: block; font-size:11px; line-height: 1.3em; font-weight:bold; color:#ffffff; text-decoration:none;"><span style="color:#ffffff;">BEAUTY</span></a></td>
+<td width="56" style="min-width:56px;"><a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz4z40EL?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="shoes" style="display: block; font-size:11px; line-height: 1.3em; font-weight:bold; color:#ffffff; text-decoration:none;"><span style="color:#ffffff;">SHOES</span></a></td>
+<td width="96" style="min-width:96px;"><a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz4z50EM?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="handbags & accessories" style="display: block; font-size:11px; line-height: 1em; font-weight:bold; color:#ffffff; text-decoration:none; padding-top: 2px; padding-bottom: 2px;"><span style="color:#ffffff;">HANDBAGS & ACCESSORIES</span></a></td>
+<td width="77" style="min-width:77px;"><a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz4z60EN?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="jewelry & watches" style="display: block; font-size:11px; line-height: 1em; font-weight:bold; color:#ffffff; text-decoration:none; padding-top: 2px; padding-bottom: 2px;"><span style="color:#ffffff;">JEWELRY & WATCHES</span></a></td>
+<td width="42" style="min-width:40px;"><a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz4z70EO?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="sale" style="display: block; font-size:11px; line-height: 1.3em; font-weight:bold; color:#ffffff; text-decoration:none;"><span style="color:#ffffff;">SALE</span></a></td>
+</tr></table>
+
+<!-- macys:: secondary navigation --><table cellpadding="0" cellspacing="0" border="0" width="700" height="31">
+<tr>
+<td width="270"><a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz4z80EP?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" style="display:block; text-decoration:none;">&nbsp;</a></td>
+<td><a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41A0EL?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="the gift guide" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#333333;"><img src="http://epidm.edgesuite.net/Macys/adhoc/MCOM/gift_guide_02.gif" alt="the gift guide" width="80" height="18" border="0" style="display:block; margin:0;"/></a></td>
+<td width="48"  align="center" ><a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41B0EM?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="stores" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:normal; color:#333333; display:block; line-height:1.3em; text-decoration:none;"><span style="color:#333333;">stores</span></a></td>
+<td width="122"  align="center"><a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41C0EN?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="deals & promotions" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:normal; color:#333333; display:block; line-height:1.3em; text-decoration:none;"><span style="color:#333333;">deals & promotions</span></a></td>
+<td width="65"  align="center"><a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41D0EO?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="gift cards" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:normal; color:#333333; display:block; line-height:1.3em; text-decoration:none;"><span style="color:#333333;">gift cards</span></a></td>
+<td width="115"  align="center"><a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41E0EP?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="wedding registry" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; color:#333333; display:block; line-height:1.3em; text-decoration:none;"><span style="color:#333333;" >wedding registry</span></a></td>
+</tr>
+</table><!-- macys:: FTAF --> 
+
+<!-- macys:: primaryOfferBanner1 --><table xmlns:str="http://exslt.org/strings" cellpadding="0" cellspacing="0" border="0" width="700">
+<tr>
+<td>
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41F0EQ?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" style="cursor:pointer;">
+<img style="display:block" src="http://epidm.edgesuite.net/Macys/adhoc/MCOM/010115_beauty_Scene_email_reminder_copy_POB.png" alt="Free Shipping at $50 and Free Returns, Free Shipping with beauty purchase, Free Returns by mail or in-store, U.S. only, exclusions apply" title="Free Shipping at $50 and Free Returns, Free Shipping with beauty purchase, Free Returns by mail or in-store, U.S. only, exclusions apply" width="700" height="71" border="0">
+</a>
+</td>
+</tr>
+</table>
+
+<!-- macys:: primaryOfferBanner2 --><table xmlns:str="http://exslt.org/strings" cellpadding="0" cellspacing="0" border="0" width="700">
+<tr>
+<td>
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41G0ER?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" style="cursor:pointer;">
+<img style="display:block" src="http://epidm.edgesuite.net/Macys/adhoc/MCOM/L5035217_101_POB2.png" alt="Order by 5/6 for Free Guaranteed Mother&rsquo;s day delivery! Free Shipping with $50 purchase, Continental U.S, only, exclusions and details" title="Order by 5/6 for Free Guaranteed Mother&rsquo;s day delivery! Free Shipping with $50 purchase, Continental U.S, only, exclusions and details" width="700" height="51" border="0">
+</a>
+</td>
+</tr>
+</table>
+
+<!-- macys:: main Banner --><table xmlns:str="http://exslt.org/strings" cellpadding="0" cellspacing="0" border="0" width="700">
+<tr>
+<td>
+<img style="display:block" src="http://epidm.edgesuite.net/Macys/adhoc/MCOM/L5035217_101_MB.png" alt="Only one Star Brings you the Magic of mom, Mother's Day is May 10, Treat Her To Gorgeous Giftables + Free Goodies While Supplies Last! all Beauty, Perfume, Gifts with Purchase, Gifts and Value Sets, Fabulous Free Gifts, Tory Burch Tory Burch, Chloe Love Story, Burberry Brit Rhythm Floral" title="Only one Star Brings you the Magic of mom, Mother's Day is May 10, Treat Her To Gorgeous Giftables + Free Goodies While Supplies Last! all Beauty, Perfume, Gifts with Purchase, Gifts and Value Sets, Fabulous Free Gifts, Tory Burch Tory Burch, Chloe Love Story, Burberry Brit Rhythm Floral" width="700" height="3791" border="0" usemap="#050215EMAILMCOMMDayFragranceMB">
+</td>
+</tr>
+</table>
+<map name="050215EMAILMCOMMDayFragranceMB">
+<area shape="RECT" alt="shop all beauty" title="shop all beauty" coords="46,225,206,278" href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41H0ES?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">
+<area shape="RECT" alt="shop perfume" title="shop perfume" coords="219,225,382,278" href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41I0ET?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">
+<area shape="RECT" alt="shop Gifts with Purchase" title="shop Gifts with Purchase" coords="97,287,336,340" href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41J0EU?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">
+<area shape="RECT" alt="Gifts & Value Sets" title="Gifts & Value Sets" coords="96,347,332,401" href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41K0EV?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">
+<area shape="RECT" alt="+get more! choose a free wristlet, pink or blue with $150 online beauty purchase" title="+get more! choose a free wristlet, pink or blue with $150 online beauty purchase" coords="90,399,290,622" href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41I0ET?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">
+<area shape="RECT" alt="Free tote & fragrance samples pink or blue" title="Free tote & fragrance samples pink or blue" coords="298,374,525,598" href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41I0ET?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">
+<area shape="RECT" alt="Tory burch + complimentary Mirror Shop now" title="Tory burch + complimentary Mirror Shop now" coords="0,620,701,982" href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41L0EW?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">
+<area shape="RECT" alt="Chloe Love story + Complimentary Pouch, shop now" title="Chloe Love story + Complimentary Pouch, shop now" coords="0,889,700,1182" href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41M0EX?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">
+<area shape="RECT" alt="Burberry Brit Rhythm Floral + Complimentary Pouch, shop now" title="Burberry Brit Rhythm Floral + Complimentary Pouch, shop now" coords="0,1183,699,1474" href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41N0EY?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">
+<area shape="RECT" alt="Givenchy limited edition, Very Irresistible Mes Envies + Complimentary Tote, Shop now" title="Givenchy limited edition, Very Irresistible Mes Envies + Complimentary Tote, Shop now" coords="0,1448,699,1760" href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41O0EZ?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">
+<area shape="RECT" alt="Elizabeth Arden Untold + Complimentary Tote with $45 Elizabeth Arden fragrance purchase, shop now" title="Elizabeth Arden Untold + Complimentary Tote with $45 Elizabeth Arden fragrance purchase, shop now" coords="0,1750,700,2019" href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41P0Ea?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">
+<area shape="RECT" alt="Smashbox Full Exposure Eye Palette + Complimentary Deluxe Eye Duo with $55 Smashbox purchase, shop now" title="Smashbox Full Exposure Eye Palette + Complimentary Deluxe Eye Duo with $55 Smashbox purchase, shop now" coords="0,1989,701,2266" href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41Q0Eb?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">
+<area shape="RECT" alt="Michael Kors sexy amber gift set, Only $105 (A $141 Value) Shop now" title="Michael Kors sexy amber gift set, Only $105 (A $141 Value) Shop now" coords="0,2273,701,2648" href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41R0Ec?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">
+<area shape="RECT" alt="Versace Bright Crystal gift set, Only $95 (A $155 value)shop now" title="Versace Bright Crystal gift set, Only $95 (A $155 value)shop now" coords="0,2596,699,2861" href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41S0Ed?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">
+<area shape="RECT" alt="Dolce&Gabbana only at Macy's Light Blue Gift Set, Only $100 (A $139 value)shop now" title="Dolce&Gabbana only at Macy's Light Blue Gift Set, Only $100 (A $139 value)shop now" coords="0,2865,700,3129" href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41T0Ee?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">
+<area shape="RECT" alt="Kate Spade New York live Colorfully Gift Set Only $98 (A $145 value) Shop Now" title="Kate Spade New York live Colorfully Gift Set Only $98 (A $145 value) Shop Now" coords="0,3107,701,3403" href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41U0Ef?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">
+<area shape="RECT" alt="Salvatore Ferragamo Emozione gift Set, Yours for $119, Shop Now" title="Salvatore Ferragamo Emozione gift Set, Yours for $119, Shop Now" coords="0,3376,697,3681" href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41V0Eg?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">
+<area shape="RECT" alt="Want it now? buy online, pick up in-store! Find out more" title="Want it now? buy online, pick up in-store! Find out more" coords="0,3678,699,3772" href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41W0Eh?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">
+<area shape="RECT" alt="Only one Star Brings you the Magic of mom, Mother's Day is May 10, Treat Her To Gorgeous Giftables + Free Goodies While Supplies Last! all Beauty, Perfume, Gifts with Purchase, Gifts and Value Sets, Fabulous Free Gifts, Tory Burch Tory Burch, Chloe Love Story, Burberry Brit Rhythm Floral" title="Only one Star Brings you the Magic of mom, Mother's Day is May 10, Treat Her To Gorgeous Giftables + Free Goodies While Supplies Last! all Beauty, Perfume, Gifts with Purchase, Gifts and Value Sets, Fabulous Free Gifts, Tory Burch Tory Burch, Chloe Love Story, Burberry Brit Rhythm Floral" coords="0,0,697,3780" href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41H0ES?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">
+</map>
+<!-- macys:: subBanner1 --><table xmlns:str="http://exslt.org/strings" cellpadding="0" cellspacing="0" border="0" width="700">
+<tr>
+<td>
+<img style="display:block" src="http://epidm.edgesuite.net/Macys/adhoc/MCOM/L5035217_101_SB1.png" alt="Calvin Klein Euphoria, Complimentary Orchid Plant, with any large spray purchase from the Calvin Klein euphoria fragrance collection, one gift per customer, while supplies last, Calvin Klein, All Beauty" title="Calvin Klein Euphoria, Complimentary Orchid Plant, with any large spray purchase from the Calvin Klein euphoria fragrance collection, one gift per customer, while supplies last, Calvin Klein, All Beauty" width="700" height="269" border="0" usemap="#050215EMAILMCOMMDayFragranceSB1">
+</td>
+</tr>
+</table>
+<map name="050215EMAILMCOMMDayFragranceSB1">
+<area shape="RECT" alt="Shop Calvin Klein" title="Shop Calvin Klein" coords="37,183,193,220" href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41X0Ei?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">
+<area shape="RECT" alt="Shop All beauty" title="Shop All beauty" coords="226,183,384,222" href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41Y0Ej?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">
+<area shape="RECT" alt="Calvin Klein Euphoria, Complimentary Orchid Plant, with any large spray purchase from the Calvin Klein euphoria fragrance collection, one gift per customer, while supplies last, Calvin Klein, All Beauty" title="Calvin Klein Euphoria, Complimentary Orchid Plant, with any large spray purchase from the Calvin Klein euphoria fragrance collection, one gift per customer, while supplies last, Calvin Klein, All Beauty" coords="0,0,699,253" href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41X0Ei?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">
+</map>
+<!-- macys:: subBanner2 --><table xmlns:str="http://exslt.org/strings" cellpadding="0" cellspacing="0" border="0" width="700">
+<tr>
+<td>
+<img style="display:block" src="http://epidm.edgesuite.net/Macys/adhoc/MCOM/L5035139_101_SB3_Muse.png" alt="Macys Friends and Family, Ends Monday! Extra 25 percent off, Extra 10 percent off furniture, mattresses, area rugs, electrics and electronics, exclusions and details, promo code: FRIEND, Shop Now" title="Macys Friends and Family, Ends Monday! Extra 25 percent off, Extra 10 percent off furniture, mattresses, area rugs, electrics and electronics, exclusions and details, promo code: FRIEND, Shop Now" width="700" height="207" border="0" usemap="#050115EMAILMCOMDesignerWatchFFSB3MUSE">
+</td>
+</tr>
+</table>
+<map name="050115EMAILMCOMDesignerWatchFFSB3MUSE">
+<area shape="RECT" alt="exclusions & details" title="exclusions & details" coords="371,132,504,152" href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41Z0Ek?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">
+<area shape="RECT" alt="Macys Friends and Family, Ends Monday! Extra 25 percent off, Extra 10 percent off furniture, mattresses, area rugs, electrics and electronics, exclusions and details, promo code: FRIEND, Shop Now" title="Macys Friends and Family, Ends Monday! Extra 25 percent off, Extra 10 percent off furniture, mattresses, area rugs, electrics and electronics, exclusions and details, promo code: FRIEND, Shop Now" coords="0,0,700,207" href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41a0Er?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">
+</map>
+<!-- macys:: subBanner3 --><table xmlns:str="http://exslt.org/strings" cellpadding="0" cellspacing="0" border="0" width="700">
+<tr>
+<td>
+<img style="display:block" src="http://epidm.edgesuite.net/Macys/adhoc/MCOM/L5035224_101_SB4.png" alt="Mother's Day Gift Guide, find gifts sure to make her smile! Shop now, Thank a mom, share your best mom throwback pics using Macyslovesmom and We'll donate $3 to mom-approved charities, up to $400k" title="Mother's Day Gift Guide, find gifts sure to make her smile! Shop now, Thank a mom, share your best mom throwback pics using Macyslovesmom and We'll donate $3 to mom-approved charities, up to $400k" width="700" height="132" border="0" usemap="#042815EMAILMCOMKidsBabyFFSB4">
+</td>
+</tr>
+</table>
+<map name="042815EMAILMCOMKidsBabyFFSB4">
+<area shape="RECT" alt="Mother's Day Gift Guide, find gifts sure to make her smile! Shop Now" title="Mother's Day Gift Guide, find gifts sure to make her smile! Shop Now" coords="0,0,386,122" href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41b0Es?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">
+<area shape="RECT" alt="Thank a mom, share your best mom throwback pics using #macyslovesmoms & we'll donate $3 to mom-approved charities, up to $400k. check it out" title="Thank a mom, share your best mom throwback pics using #macyslovesmoms & we'll donate $3 to mom-approved charities, up to $400k. check it out" coords="0,0,701,123" href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41c0Et?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">
+</map>
+<!-- macys:: bottomNavigation --><table xmlns:str="http://exslt.org/strings" cellpadding="0" cellspacing="0" border="0" width="700" height="88" bgcolor="#ebebeb">
+<tr>
+<td width="103" valign="top">
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41d0Eu?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="shop online" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; font-weight:normal; text-decoration:none; display:block; line-height:1em; color:#333333; padding-top:15px; padding-left:15px;"><span style="color:#333333;">shop online</span></a>
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41e0Ev?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="wedding registry" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; font-weight:normal; text-decoration:none; display:block; line-height:1em; color:#333333;  padding-top:10px; padding-left:15px;"><span style="color:#333333;">wedding registry</span></a>
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41f0Ew" target="_blank" title="easy returns" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; font-weight:normal; text-decoration:none; display:block; line-height:1em; color:#333333;  padding-top:10px; padding-left:15px;"><span style="color:#333333;">easy returns</span></a>
+</td>
+<td width="90" valign="top">
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41g0Ex" target="_blank" title="catalogs" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; font-weight:normal; text-decoration:none; display:block; line-height:1em; color:#333333; padding-top:15px; padding-left:15px;"><span style="color:#333333;">catalogs</span></a>
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41h0Ey?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="find a store" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; font-weight:normal; text-decoration:none; display:block; line-height:1em; color:#333333;  padding-top:10px; padding-left:15px;"><span style="color:#333333;">find a store</span></a>
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41i0Ez?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="store events" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; font-weight:normal; text-decoration:none; display:block; line-height:1em; color:#333333;  padding-top:10px; padding-left:15px;"><span style="color:#333333;">store events</span></a>
+</td>
+<td width="19" valign="top" style="padding-left:12px;">
+<img src="http://epidm.edgesuite.net/Macys/adhoc/MCOM/email_template_marketing_05.jpg"  style="display:block; margin:0; padding-top:5px;" border="0" alt="" width="7" height="78"/>
+</td>
+<td width="204" valign="top">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td colspan="4">
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41j0E1?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="MACY'S MOBILE" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:normal; text-decoration:none; display:block; line-height:1em; color:#333333;  padding-top:15px; padding-left:19px;"><span style="color:#333333;">MACY'S MOBILE</span>
+</a>
+</td>
+</tr>
+<tr>
+<td width="45">
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41j0E1?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="get our app" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#333333; display:block;  padding-left:15px;"><img src="http://epidm.edgesuite.net/Macys/adhoc/MCOM/email_template_marketing_08.jpg" style="display:block; margin:0;" width="30" height="43" border="0" alt="get our app"/></a>
+</td>
+<td width="59">
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41j0E1?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="get our app" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; font-weight:normal; text-decoration:none; display:block; line-height:1.3em; color:#333333;"><span style="color:#333333;">get our<br/>
+app</span>
+</a>
+</td>
+<td width="35" valign="top">
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41k0E2?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="sign up for texts" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#333333;"><img src="http://epidm.edgesuite.net/Macys/adhoc/MCOM/email_template_marketing_11.jpg" style="display:block; margin:0;" width="35" height="35" border="0" alt="sign up for texts"/></a>
+</td>
+<td width="61">
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41k0E2?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="sign up for texts" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; font-weight:normal; text-decoration:none; display:block; line-height:1.2em; color:#333333;"><span style="color:#333333;">sign up<br/>for texts</span></a>
+</td>
+</tr>
+</table>
+</td>
+<td width="10" valign="top">
+<img src="http://epidm.edgesuite.net/Macys/adhoc/MCOM/email_template_marketing_05.jpg"  style="display:block; margin:0; padding-top:5px;" border="0" alt="" width="7" height="78"/>
+</td>
+<td width="276" valign="top" >
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td colspan="5">
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41j0E1?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="STAY CONNECTED" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:normal; text-decoration:none; display:block; line-height:1em; color:#333333;  padding-top:15px; padding-bottom:10px; padding-left:27px;"><span style="color:#333333;">STAY CONNECTED</span></a>
+</td>
+</tr>
+<tr>
+<td width="33" style="padding-left:27px;">
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41l0E3" target="_blank" title="follow us on pinterest" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#333333;"><img src="http://epidm.edgesuite.net/Macys/adhoc/MCOM/email_template_marketing_14.jpg" style="display:block; margin:0;" width="33" height="29" border="0" alt="follow us on pinterest"/></a>
+</td>
+<td width="51" style="padding-left:10px;">
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41m0E4" target="_blank" title="like us on facebook" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#333333;"><img src="http://epidm.edgesuite.net/Macys/adhoc/MCOM/email_template_marketing_16.jpg" style="display:block; margin:0;" width="36" height="31" border="0" alt="like us on facebook"/></a>
+</td>
+<td width="48" style="padding-left:17px;">
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41n0E5" target="_blank" title="follow us on twitter" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#333333;"><img src="http://epidm.edgesuite.net/Macys/adhoc/MCOM/email_template_marketing_24.gif" style="display:block; margin:0; padding-top:2px;" width="28" height="29" border="0" alt="follow us on twitter"/></a>
+</td>
+<td width="49" style="padding-left:15px;">
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41o0E6" target="_blank" title="watch us on youtube" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#333333;">
+<img src="http://epidm.edgesuite.net/Macys/adhoc/MCOM/email_template_marketing_20.jpg" style="display:block; margin:0;" width="32" height="32" border="0" alt="watch us on youtube"/>
+</a>
+</td>
+<td width="68" style="padding-left:15px;">
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41p0E7?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank" title="read our mblog" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#333333;"><img src="http://epidm.edgesuite.net/Macys/adhoc/MCOM/email_template_marketing_23.gif" style="display:block; margin:0;" width="33" height="29" border="0" alt="read our mblog"/></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<!--\s*macys::\s*offer\s*disclaimer\s*--><table width="700" border="0" cellspacing="0" cellpadding="0"><tr><td><span style="font-family:Arial, Helvetica, sans-serif; color:#666666; font-size:10;"></span></td></tr></table>
+
+
+<!-- macys:: sharedLegal --><table xmlns:str="http://exslt.org/strings" cellpadding="0" cellspacing="0" border="0" width="700">
+<tr>
+<td><span style="font-family:arial; font-size:10; color:#666666;"><BR>FOR SHIPPING OFFER(S) & FREE RETURNS: <a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41q0E8?dm_params=JmNtX2xtX21vPV9remdMWXpCdm5AVEZ6YmsuZ0JG&dm_params_sha256=a3a255eef2ad3687dd92317330651398a4195866a2e63252e771e6cbfdd9844a" target="_blank">see details & exclusions</a>
+<BR><BR>Regular and original prices reflect offering prices that may not have resulted in actual sales. <a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz4zp0EL" target="_blank">see Pricing Policy</a>
+<BR><BR>You're currently registered to receive emails at blackyao12@gmail.com. If you'd rather not receive emails from Macy's, <a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz4zs0EO?dm_params=JkVtYWlsQWRkcj1ibGFja3lhbzEyQGdtYWlsLmNvbSZETUFJTFZBUl9VTlNVQj0xYW1jbGNhYWRiNjZhdHdwcGlma3VqbHQzYWNyYQ==&dm_params_sha256=7bdbdd51c4bbd4e976d160aa377e7a484b8fbab0023624045e1f00176f4729b4" target="_blank">unsubscribe here</a>.
+<BR><BR>To ensure our emails reach your inbox, add <a href="mailto:shop@email.macys.com">shop@email.macys.com</a> to your address book. <a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41t0EC" target="_blank">tell me more</a>
+<BR><BR>&copy;2015 Macys.com Inc., 680 Folsom  Street, Suite 1200, San Francisco,  CA 94107. All rights reserved.</span></td>
+</tr>
+</table>
+
+<!-- macys:: serviceLinks --><table xmlns:str="http://exslt.org/strings" cellpadding="0" cellspacing="0" border="0" width="700">
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; font-size:11px; font-weight:normal; text-decoration:none; color:#333333; padding-left:5px; padding-top:25px; padding-bottom:10px;" align="center">
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41u0ED" target="_blank" REPLACED_target="_blank" alt="Customer Service" title="Customer Service" style="color:#333333; text-decoration:none;">Customer Service</a>
+</td>
+<td style="font-family:Arial, Helvetica, sans-serif; font-size:11px; font-weight:normal; text-decoration:none; color:#333333; padding-top:25px; padding-bottom:10px;" align="center">
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41v0EE" target="_blank" REPLACED_target="_blank" alt="Shipping Policy" title="Shipping Policy"  style="color:#333333; text-decoration:none;">Shipping Policy</a>
+</td>
+<td style="font-family:Arial, Helvetica, sans-serif; font-size:11px; font-weight:normal; text-decoration:none; color:#333333; padding-top:25px; padding-bottom:10px;" align="center">
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41w0EF" target="_blank" REPLACED_target="_blank" alt="Pricing Policy" title="Pricing Policy"  style="color:#333333; text-decoration:none;">Pricing Policy</a>
+</td>
+<td style="font-family:Arial, Helvetica, sans-serif; font-size:11px; font-weight:normal; text-decoration:none; color:#333333; padding-top:25px; padding-bottom:10px;" align="center">
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41x0EG" target="_blank" REPLACED_target="_blank" alt="Privacy Practices" title="Privacy Practices"  style="color:#333333; text-decoration:none;">Privacy Practices</a>
+</td>
+<td style="font-family:Arial, Helvetica, sans-serif; font-size:11px; font-weight:normal; text-decoration:none; color:#333333; padding-top:25px; padding-bottom:10px;" align="center">
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41y0EH" target="_blank" REPLACED_target="_blank" alt="Customer Bill of Rights" title="Customer Bill of Rights"  style="color:#333333; text-decoration:none;">Customer Bill of Rights</a>
+</td>
+<td style="font-family:Arial, Helvetica, sans-serif; font-size:11px; font-weight:normal; text-decoration:none; color:#333333; padding-top:25px; padding-bottom:10px;" align="center">
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz41z0EI" target="_blank" REPLACED_target="_blank" alt="Legal Notice" title="Legal Notice"  style="color:#333333; text-decoration:none;">Legal Notice</a>
+</td>
+<td style="font-family:Arial, Helvetica, sans-serif; font-size:11px; font-weight:normal; text-decoration:none; color:#333333; padding-right:5px; padding-top:25px; padding-bottom:10px;" align="center">
+<a href="http://email.macys.com/cgi-bin1/DM/t/h4r50MtKZF0zsH0Bz4zs0EO?dm_params=JkVtYWlsQWRkcj1ibGFja3lhbzEyQGdtYWlsLmNvbSZETUFJTFZBUl9VTlNVQj0xYW1jbGNhYWRiNjZhdHdwcGlma3VqbHQzYWNyYQ==&dm_params_sha256=7bdbdd51c4bbd4e976d160aa377e7a484b8fbab0023624045e1f00176f4729b4" target="_blank" REPLACED_target="_blank" alt="Manage Email Preferences" title="Manage Email Preferences"  style="color:#333333; text-decoration:none;">Manage Email Preferences</a>
+</td>
+</tr>
+</table>
+
+<br> 
+</body>
+<img src="http://pix.bfi0.com/t.gif?k=S1VBK2YzeXZnakJHVjNNcXkya1RKWEVuYjIxSE91OEdldU5ueVB6MkNMST0&c=20150502_MCOM_MDayFragrance&s=165277505" width="1" height="1" />
+
+<IMG SRC="http://email.macys.com/cgi-bin1/flosensing?y=4r50MtKZF0zsH0Ba"></html>

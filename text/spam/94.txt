@@ -1,0 +1,48 @@
+Amazon.com Shipping Confirmation
+http://www.amazon.com/ref=TE_SIMP_g
+
+--------------------------------------------------------------------
+Hello Shengying Yao, 
+
+"kate spade new york Cedar..." has shipped.
+
+Details
+Order #114-7178555-8685012
+
+Expected delivery date:
+    Saturday, May 2, 2015
+
+Track your package at:
+https://www.amazon.com/gp/css/shiptrack/view.html/ref=TE_SIMP_typ?ie=UTF8&addressID=lglplvhmkip&latestArrivalDate=1430622000&orderID=114-7178555-8685012&shipmentDate=1430431923&orderingShipmentId=2352413176908&packageId=1
+
+Shipped to:
+    SHENGYING YAO
+    9 MARION AVE...
+
+Depending on the ship speed you chose, it may take 24 hours for tracking information to be available in your account.
+		
+====================================================================
+
+    Total Before Tax: $148.00 
+    Tax Collected: $12.77
+    Shipment Total: $160.77 
+
+====================================================================
+
+View or manage your order in Your Orders:
+https://www.amazon.com/gp/css/order-details?orderId=114-7178555-8685012&ref_=TE_SIMP_on
+
+Return or replace your items in Your Orders(https://www.amazon.com/gp/css/order-history?ref_=TE_SIMP_oh)
+
+
+We hope to see you again soon.
+Amazon.com
+www.amazon.com/ref=TE_SIMP_g
+
+--------------------------------------------------------------------
+Unless otherwise noted, items sold by Amazon.com LLC are subject to sales tax in select states in accordance with the applicable laws of that state. If your order contains one or more items from a seller other than Amazon.com LLC, it may be subject to state and local sales tax, depending upon the sellers business policies and the location of their operations. For more tax and seller information, visit: http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=200962600 
+
+Your invoice can be accessed here:
+https://www.amazon.com/gp/css/summary/print.html?orderID=114-7178555-8685012&ref_=TE_SIMP_inv
+
+This email was sent from a notification-only address that cannot accept incoming email. Please do not reply to this message. 

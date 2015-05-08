@@ -1,0 +1,34 @@
+熊维佳：
+
+      假期除了把以给你的文章看明白（包括再现仿真例子的结果），另外再把如下附件两篇文章也看明白，回来后要用，
+Analysis on robust stability for interval descriptor systems （Theorem 3.1. 和Lemma 2.1. 证明过程不看，其它都看）
+Maximal perturbation bounds for robust α-stability of matrix second-order systems with one-parameter perturbations （都看）
+
+祝
+    春节快乐！
+
+卢俊国
+2014-01-21 
+
+
+
+jglu 
+
+
+
+发件人： 熊维佳 
+发送时间： 2013-12-20  16:35:07 
+收件人： Junguo Lu 
+抄送： 
+主题： 毕业设计 
+ 
+卢老师：
+您好，我是自动化大四的熊维佳，选了您的毕设课题《具有不确定的线性系统的鲁棒最小相位分析》。以下是我的联系方式：
+手机： 18801969782
+Email： xwjanthony@gmail.com
+
+
+感谢您指导我的毕业设计！
+
+
+熊维佳

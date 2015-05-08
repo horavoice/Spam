@@ -1,0 +1,716 @@
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Transitional//EN=22 =22h=
+ttp://www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd=22>
+<html xmlns=3D=22http://www=2Ew3=2Eorg/1999/xhtml=22>
+<meta name=3D=22viewport=22 content=3D=22width=3Ddevice-width=22>
+<title>JetBlue</title>
+<style>
+
+html =7B -webkit-text-size-adjust:none; -ms-text-size-adjust:none; =7D
+body =7B background-color: =23ffffff; =7D
+
+=2EReadMsgBody     =7B width: 100%; =7D
+=2EExternalClass   =7B width: 100%; =7D
+=2EExternalClass * =7B line-height: 100%; =7D
+=2Eclearfix:after  =7B content: =22=2E=22; visibility: hidden; display: blo=
+ck; height: 0; clear: both; =7D
+=2Eios a           =7B color:=23ffffff; text-decoration:none; =7D a =7B out=
+line:0; =7D
+=2Epoints a        =7B color:=231d2758; text-decoration:none; =7D a =7B out=
+line:0; =7D
+table            =7B border-collapse:collapse; mso-table-lspace:0pt; mso-ta=
+ble-rspace:0pt; =7D
+th               =7B margin:0 =21important; padding:0 =21important; vertica=
+l-align:top; =7D
+
+</style>
+</head>
+<body style=3D=22margin:0; padding:0;=22><img border=3D=220=22 width=3D=221=
+=22 height=3D=221=22 src=3D=22https://email=2Ejetblue=2Ecom/pub/as?_ri_=3DX=
+0Gzc2X%3DWQpglLjHJlYQGui3FL63dPHEg0dzggwtzerHza7A57sNza20U7PTWARVXHkMX%3Dw&=
+_ei_=3DEuDucv_9BIh4vvnQOsaFJ8v33_VOBPgIm87TDWNyMLmY0GrS4liM8aETccQumrAa-y06=
+TeJx2Z-Gb9I8F5B9VQOrBfRDetX0Pq8bkj4Kff4=2E=22>
+
+
+<=21--=5Bif gte mso 15=5D>
+<style type=3D=22text/css=22 media=3D=22all=22>
+tr =7B font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px; =7D
+</style>
+<=21=5Bendif=5D-->
+
+<=21-- open outer container + yahoo center fix -->
+<table width=3D=22100%=22 cellspacing=3D=220=22 cellpadding=3D=220=22 align=
+=3D=22center=22 border=3D=220=22 style=3D=22table-layout:fixed;=22 class=3D=
+=22w320=22>
+ <tr>
+  <td width=3D=22100%=22 align=3D=22center=22 valign=3D=22top=22 class=3D=
+=22w320=22>
+
+<=21-- open inner container -->
+<table width=3D=22680=22 cellspacing=3D=220=22 cellpadding=3D=220=22 align=
+=3D=22center=22 border=3D=220=22 class=3D=22w320=22>
+ <tr>
+  <td width=3D=2220=22 align=3D=22left=22 valign=3D=22top=22 class=3D=22hid=
+e=22><img style=3D=22display:block;=22 src=3D=22https://static=2Ecdn=2Eresp=
+onsys=2Enet/i5/responsysimages/jetblue/contentlibrary/promotionals/2015_apr=
+il/20150430_1800flowers/0430_1800Flowers_test_nopods/images/x_spcr2x2=2Epng=
+=22 width=3D=2220=22 height=3D=221=22 border=3D=220=22></td>
+  <td width=3D=22640=22 align=3D=22left=22 valign=3D=22top=22 class=3D=22w3=
+20=22>
+
+<=21-- open preheader -->
+<table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 class=
+=3D=22hide=22><tr><td height=3D=2210=22><img style=3D=22display:block;=22 s=
+rc=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetblue/c=
+ontentlibrary/promotionals/2015_april/20150430_1800flowers/0430_1800Flowers=
+_test_nopods/images/x_spcr2x2=2Epng=22 width=3D=221=22 height=3D=2210=22 bo=
+rder=3D=220=22></td></tr></table>
+ <table width=3D=22600=22 cellspacing=3D=220=22 cellpadding=3D=220=22 align=
+=3D=22center=22 border=3D=220=22 class=3D=22hide=22>
+  <tr>
+   <td width=3D=22300=22 align=3D=22left=22 valign=3D=22top=22>
+  =20
+    <div style=3D=22font-weight:normal; font-size:10px; line-height:13px; f=
+ont-family:Arial, Helvetica, sans-serif; color:=23555555;=22>
+    <span>Give gifts, get points=2E</span>
+    </div>
+=20
+   </td>
+
+  </tr>
+ </table>
+<table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 class=
+=3D=22hide=22><tr><td height=3D=2210=22><img style=3D=22display:block;=22 s=
+rc=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetblue/c=
+ontentlibrary/promotionals/2015_april/20150430_1800flowers/0430_1800Flowers=
+_test_nopods/images/x_spcr2x2=2Epng=22 width=3D=221=22 height=3D=2210=22 bo=
+rder=3D=220=22></td></tr></table>
+<=21-- close preheader -->
+<=21-- open TRUEBLUE HEADER -->
+<table width=3D=22640=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=
+=3D=220=22 class=3D=22hide=22><tr><td height=3D=225=22><img style=3D=22disp=
+lay:block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysi=
+mages/jetblue/contentlibrary/promotionals/2015_april/20150430_1800flowers/0=
+430_1800Flowers_test_nopods/images/tru_blu_top=2Epng=22 width=3D=22640=22 h=
+eight=3D=225=22 border=3D=220=22></td></tr></table>
+<table width=3D=22640=22 cellspacing=3D=220=22 cellpadding=3D=220=22 align=
+=3D=22center=22 border=3D=220=22 class=3D=22w320=22>
+ <tr>
+  <th width=3D=22640=22 height=3D=2255=22 align=3D=22center=22 valign=3D=22=
+middle=22 bgcolor=3D=22=2300245d=22 style=3D=22vertical-align:middle;=22 cl=
+ass=3D=22w320 header aligntop=22>
+  =20
+<=21-- open PRIMARY NAVIGATION -->
+    <table width=3D=22600=22 cellspacing=3D=220=22 cellpadding=3D=220=22 al=
+ign=3D=22center=22 border=3D=220=22 class=3D=22w320=22>
+     <tr>
+      <th width=3D=22180=22 align=3D=22left=22 valign=3D=22middle=22 style=
+=3D=22vertical-align:middle;=22 class=3D=22w320 block=22><a href=3D=22https=
+://email=2Ejetblue=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGui3FL63dPHEg0=
+dzggwtzerHza7A57sNza20U7PTWARVXtpKX%3DWRTSTY&_ei_=3DEuDucv_9BIh4vvnQOsaFJ8v=
+33_VOBPgIm87TDWNyMLmY0GrS4liM8aETccQumrAa-y06TeJx2Z-Gb9I8F5B9VQOrBfRDetX0Pq=
+8bkj4Kff4=2E=22 style=3D=22text-decoration:none; color:=23ffffff;=22><img s=
+tyle=3D=22display:block; font-size:16px; font-family:Arial, Helvetica, sans=
+-serif;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimag=
+es/jetblue/contentlibrary/promotionals/2015_april/20150430_1800flowers/0430=
+_1800Flowers_test_nopods/images/header_trublu_logo=2Epng=22 width=3D=22132=
+=22 height=3D=2232=22 border=3D=220=22 alt=3D=22TRUE BLUE jetBlue&reg;=22 c=
+lass=3D=22logo automrgn=22></a></th>
+      <th width=3D=22420=22 align=3D=22right=22 valign=3D=22middle=22 style=
+=3D=22vertical-align:middle;=22 class=3D=22w320 block center=22>
+     =20
+       <div style=3D=22font-weight:bold; font-size:14px; line-height:17px; =
+font-family:Arial, Helvetica, sans-serif; color:=23525f9e;=22 class=3D=22na=
+v=22>
+          <a href=3D=22https://email=2Ejetblue=2Ecom/pub/cc?_ri_=3DX0Gzc2X%=
+3DWQpglLjHJlYQGui3FL63dPHEg0dzggwtzerHza7A57sNza20U7PTWARVXtpKX%3DWRTSWY&_e=
+i_=3DEuDucv_9BIh4vvnQOsaFJ8v33_VOBPgIm87TDWNyMLmY0GrS4liM8aETccQumrAa-y06Te=
+Jx2Z-Gb9I8F5B9VQOrBfRDetX0Pq8bkj4Kff4=2E=22 style=3D=22text-decoration:none=
+; color:=23ffffff;=22><span>Flights</span></a>&nbsp;&nbsp;&nbsp;&nbsp;=7C&n=
+bsp;&nbsp;&nbsp;&nbsp;<a href=3D=22https://email=2Ejetblue=2Ecom/pub/cc?_ri=
+_=3DX0Gzc2X%3DWQpglLjHJlYQGui3FL63dPHEg0dzggwtzerHza7A57sNza20U7PTWARVXtpKX=
+%3DWRTSAY&_ei_=3DEuDucv_9BIh4vvnQOsaFJ8v33_VOBPgIm87TDWNyMLmY0GrS4liM8aETcc=
+QumrAa-y06TeJx2Z-Gb9I8F5B9VQOrBfRDetX0Pq8bkj4Kff4=2E=22 style=3D=22text-dec=
+oration:none; color:=23ffffff;=22><span>Earn</span></a>&nbsp;&nbsp;&nbsp;&n=
+bsp;=7C&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D=22https://email=2Ejetblue=2Ecom/p=
+ub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGui3FL63dPHEg0dzggwtzerHza7A57sNza20U7PT=
+WARVXtpKX%3DWRTSCY&_ei_=3DEuDucv_9BIh4vvnQOsaFJ8v33_VOBPgIm87TDWNyMLmY0GrS4=
+liM8aETccQumrAa-y06TeJx2Z-Gb9I8F5B9VQOrBfRDetX0Pq8bkj4Kff4=2E=22 style=3D=
+=22text-decoration:none; color:=23ffffff;=22><span>Redeem</span></a>
+         </div>=20
+    =20
+      </th>
+     </tr>
+    </table>
+<=21-- close PRIMARY NAVIGATION -->
+
+  </th>
+ </tr>
+</table>
+<=21-- close TRUEBLUE HEADER -->
+<table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22><tr><td=
+ height=3D=221=22><img style=3D=22display:block;=22 src=3D=22https://static=
+=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetblue/contentlibrary/promotio=
+nals/2015_april/20150430_1800flowers/0430_1800Flowers_test_nopods/images/x_=
+spcr2x2=2Epng=22 width=3D=221=22 height=3D=221=22 border=3D=220=22></td></t=
+r></table>
+
+<=21-- open POINTS BALANCE -->
+<table width=3D=22640=22 cellspacing=3D=220=22 cellpadding=3D=220=22 align=
+=3D=22center=22 border=3D=220=22 bgcolor=3D=22=23eff5f8=22 class=3D=22w320=
+=22>
+ <tr>
+  <td width=3D=22640=22 align=3D=22center=22 valign=3D=22middle=22 style=3D=
+=22vertical-align:middle;=22 class=3D=22w320=22>
+
+  <div class=3D=22points_wrap=22>
+   <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22><tr>=
+<td height=3D=2215=22><img style=3D=22display:block;=22 src=3D=22https://st=
+atic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetblue/contentlibrary/prom=
+otionals/2015_april/20150430_1800flowers/0430_1800Flowers_test_nopods/image=
+s/x_spcr2x2=2Epng=22 width=3D=221=22 height=3D=2215=22 border=3D=220=22></t=
+d></tr></table>
+    <table width=3D=22600=22 cellspacing=3D=220=22 cellpadding=3D=220=22 al=
+ign=3D=22center=22 border=3D=220=22 class=3D=22w320=22>
+     <tr>
+      <th width=3D=22250=22 align=3D=22left=22 valign=3D=22top=22 class=3D=
+=22w320 block center=22>
+   =20
+       <div style=3D=22font-weight:bold; font-size:20px; line-height:24px; =
+font-family:Arial, Helvetica, sans-serif; color:=231d2758;=22>
+        Hello, Shengying
+       </div>
+      =20
+       <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22>=
+<tr><td height=3D=225=22><img style=3D=22display:block;=22 src=3D=22https:/=
+/static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetblue/contentlibrary/p=
+romotionals/2015_april/20150430_1800flowers/0430_1800Flowers_test_nopods/im=
+ages/x_spcr2x2=2Epng=22 width=3D=221=22 height=3D=225=22 border=3D=220=22><=
+/td></tr></table>
+      =20
+       <div style=3D=22font-weight:normal; font-size:12px; line-height:15px=
+; font-family:Arial, Helvetica, sans-serif; color:=231d2758;=22 class=3D=22=
+hide points=22>
+        TrueBlue number: 2127582361
+       </div>
+     =20
+      </th>
+      <th width=3D=22350=22 align=3D=22right=22 valign=3D=22top=22 class=3D=
+=22w320 block center=22>
+   =20
+       <div style=3D=22font-weight:bold; font-size:20px; line-height:24px; =
+font-family:Arial, Helvetica, sans-serif; color:=231d2758; class=3D=22point=
+s=22>
+        TrueBlue point balance: <a style=3D=22text-decoration:none; color:=
+=231d2758; cursor:text;=22><span>495</span></a>
+       </div> =20
+   =20
+       <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22>=
+<tr><td height=3D=225=22><img style=3D=22display:block;=22 src=3D=22https:/=
+/static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetblue/contentlibrary/p=
+romotionals/2015_april/20150430_1800flowers/0430_1800Flowers_test_nopods/im=
+ages/x_spcr2x2=2Epng=22 width=3D=221=22 height=3D=225=22 border=3D=220=22><=
+/td></tr></table>
+   =20
+       <div style=3D=22font-weight:bold; font-size:13px; line-height:16px; =
+font-family:Arial, Helvetica, sans-serif; color:=234d90cd;=22>
+        <a href=3D=22https://email=2Ejetblue=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3D=
+WQpglLjHJlYQGui3FL63dPHEg0dzggwtzerHza7A57sNza20U7PTWARVXtpKX%3DWRTTRY&_ei_=
+=3DEuDucv_9BIh4vvnQOsaFJ8v33_VOBPgIm87TDWNyMLmY0GrS4liM8aETccQumrAa-y06TeJx=
+2Z-Gb9I8F5B9VQOrBfRDetX0Pq8bkj4Kff4=2E=22 style=3D=22text-decoration:none; =
+color:=234d90cd;=22><span>VIEW MY ACCOUNT</span></a>&nbsp;<img style=3D=22d=
+isplay:inline;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/respon=
+sysimages/jetblue/contentlibrary/promotionals/2015_april/20150430_1800flowe=
+rs/0430_1800Flowers_test_nopods/images/x_caret_blu=2Epng=22 width=3D=228=22=
+ height=3D=2210=22 border=3D=220=22>
+       </div>
+   =20
+      </th>
+     </tr>
+    </table>
+   <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22><tr>=
+<td height=3D=2215=22><img style=3D=22display:block;=22 src=3D=22https://st=
+atic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetblue/contentlibrary/prom=
+otionals/2015_april/20150430_1800flowers/0430_1800Flowers_test_nopods/image=
+s/x_spcr2x2=2Epng=22 width=3D=221=22 height=3D=2215=22 border=3D=220=22></t=
+d></tr></table>
+  </div>
+
+  </td>
+ </tr>
+</table>
+<=21-- open POINTS BALANCE -->
+
+<=21-- open DESKTOP HERO -->
+<table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22><tr><td=
+ height=3D=225=22><img style=3D=22display:block;=22 src=3D=22https://static=
+=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetblue/contentlibrary/promotio=
+nals/2015_april/20150430_1800flowers/0430_1800Flowers_test_nopods/images/x_=
+spcr2x2=2Epng=22 width=3D=221=22 height=3D=225=22 border=3D=220=22></td></t=
+r></table>
+
+<table width=3D=22640=22 cellspacing=3D=220=22 cellpadding=3D=220=22 align=
+=3D=22center=22 border=3D=220=22 bgcolor=3D=22=23ffffff=22 class=3D=22hide=
+=22>
+ <tr>
+  <td width=3D=22640=22 align=3D=22left=22 valign=3D=22top=22 ><a href=3D=
+=22https://email=2Ejetblue=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGui3FL=
+63dPHEg0dzggwtzerHza7A57sNza20U7PTWARVXtpKX%3DWRTTTY&_ei_=3DEuDucv_9BIh4vvn=
+QOsaFJ8v33_VOBPgIm87TDWNyMLmY0GrS4liM8aETccQumrAa-y06TeJx2Z-Gb9I8F5B9VQOrBf=
+RDetX0Pq8bkj4Kff4=2E=22><img style=3D=22display:block;=22 src=3D=22https://=
+static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetblue/contentlibrary/pr=
+omotionals/2015_april/20150430_1800flowers/0430_1800Flowers_test_nopods/ima=
+ges/Email_620x275=2Ejpg=22 width=3D=22640=22 border=3D=220=22></a><br>
+
+</div></td>
+ </tr>
+</table>
+<=21-- close DESKTOP HERO -->
+
+
+
+
+<=21-- open standard footer -->
+<table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22><tr><td=
+ height=3D=2218=22><img style=3D=22display:block;=22 src=3D=22https://stati=
+c=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetblue/contentlibrary/promoti=
+onals/2015_april/20150430_1800flowers/0430_1800Flowers_test_nopods/images/x=
+_spcr2x2=2Epng=22 width=3D=221=22 height=3D=2218=22 border=3D=220=22></td><=
+/tr></table>
+<table width=3D=22640=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=
+=3D=220=22 bgcolor=3D=22=23dae8f4=22 class=3D=22hide=22><tr><td height=3D=
+=221=22><img style=3D=22display:block;=22 src=3D=22https://static=2Ecdn=2Er=
+esponsys=2Enet/i5/responsysimages/jetblue/contentlibrary/promotionals/2015_=
+april/20150430_1800flowers/0430_1800Flowers_test_nopods/images/x_spcr2x2=2E=
+png=22 width=3D=221=22 height=3D=221=22 border=3D=220=22></td></tr></table>
+<table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22><tr><td=
+ height=3D=2218=22><img style=3D=22display:block;=22 src=3D=22https://stati=
+c=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetblue/contentlibrary/promoti=
+onals/2015_april/20150430_1800flowers/0430_1800Flowers_test_nopods/images/x=
+_spcr2x2=2Epng=22 width=3D=221=22 height=3D=2218=22 border=3D=220=22></td><=
+/tr></table>
+<table width=3D=22640=22 cellspacing=3D=220=22 cellpadding=3D=220=22 align=
+=3D=22center=22 border=3D=220=22 bgcolor=3D=22=23ffffff=22 class=3D=22w280=
+=22>
+ <tr>
+  <th width=3D=22300=22 align=3D=22left=22 valign=3D=22middle=22 class=3D=
+=22w280 block=22 style=3D=22vertical-align:middle;=22>
+
+<=21-- open social navigation -->
+   <table width=3D=22300=22 cellspacing=3D=220=22 cellpadding=3D=220=22 ali=
+gn=3D=22center=22 border=3D=220=22 class=3D=22w280=22>
+    <tr>
+     <td width=3D=2231=22><a href=3D=22https://email=2Ejetblue=2Ecom/pub/cc=
+?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGui3FL63dPHEg0dzggwtzerHza7A57sNza20U7PTWARVX=
+tpKX%3DWRTTWY&_ei_=3DEuDucv_9BIh4vvnQOsaFJ8v33_VOBPgIm87TDWNyMLmY0GrS4liM8a=
+ETccQumrAa-y06TeJx2Z-Gb9I8F5B9VQOrBfRDetX0Pq8bkj4Kff4=2E=22 style=3D=22text=
+-decoration:none; color:=234d90cd;=22><img style=3D=22display:block; font-f=
+amily:arial; font-size:12px;=22 src=3D=22https://static=2Ecdn=2Eresponsys=
+=2Enet/i5/responsysimages/jetblue/contentlibrary/promotionals/2015_april/20=
+150430_1800flowers/0430_1800Flowers_test_nopods/images/social_facebook=2Epn=
+g=22 width=3D=2231=22 height=3D=2232=22 border=3D=220=22 alt=3D=22Facebook=
+=22></a></td>
+     <td width=3D=228=22><img style=3D=22display:block;=22 src=3D=22https:/=
+/static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetblue/contentlibrary/p=
+romotionals/2015_april/20150430_1800flowers/0430_1800Flowers_test_nopods/im=
+ages/x_spcr2x2=2Epng=22 width=3D=228=22 height=3D=221=22 border=3D=220=22><=
+/td>
+     <td width=3D=2231=22><a href=3D=22https://email=2Ejetblue=2Ecom/pub/cc=
+?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGui3FL63dPHEg0dzggwtzerHza7A57sNza20U7PTWARVX=
+tpKX%3DWRTTAY&_ei_=3DEuDucv_9BIh4vvnQOsaFJ8v33_VOBPgIm87TDWNyMLmY0GrS4liM8a=
+ETccQumrAa-y06TeJx2Z-Gb9I8F5B9VQOrBfRDetX0Pq8bkj4Kff4=2E=22 style=3D=22text=
+-decoration:none; color:=234d90cd;=22><img style=3D=22display:block; font-f=
+amily:arial; font-size:12px;=22 src=3D=22https://static=2Ecdn=2Eresponsys=
+=2Enet/i5/responsysimages/jetblue/contentlibrary/promotionals/2015_april/20=
+150430_1800flowers/0430_1800Flowers_test_nopods/images/social_twitter=2Epng=
+=22 width=3D=2231=22 height=3D=2232=22 border=3D=220=22 alt=3D=22Twitter=22=
+></a></td>
+     <td width=3D=229=22><img style=3D=22display:block;=22 src=3D=22https:/=
+/static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetblue/contentlibrary/p=
+romotionals/2015_april/20150430_1800flowers/0430_1800Flowers_test_nopods/im=
+ages/x_spcr2x2=2Epng=22 width=3D=229=22 height=3D=221=22 border=3D=220=22><=
+/td>
+     <td width=3D=2231=22><a href=3D=22https://email=2Ejetblue=2Ecom/pub/cc=
+?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGui3FL63dPHEg0dzggwtzerHza7A57sNza20U7PTWARVX=
+tpKX%3DWRTTCY&_ei_=3DEuDucv_9BIh4vvnQOsaFJ8v33_VOBPgIm87TDWNyMLmY0GrS4liM8a=
+ETccQumrAa-y06TeJx2Z-Gb9I8F5B9VQOrBfRDetX0Pq8bkj4Kff4=2E=22 style=3D=22text=
+-decoration:none; color:=234d90cd;=22><img style=3D=22display:block; font-f=
+amily:arial; font-size:12px;=22 src=3D=22https://static=2Ecdn=2Eresponsys=
+=2Enet/i5/responsysimages/jetblue/contentlibrary/promotionals/2015_april/20=
+150430_1800flowers/0430_1800Flowers_test_nopods/images/social_youtube=2Epng=
+=22 width=3D=2231=22 height=3D=2232=22 border=3D=220=22 alt=3D=22YouTube=22=
+></a></td>
+     <td width=3D=2220=22><img style=3D=22display:block;=22 src=3D=22https:=
+//static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetblue/contentlibrary/=
+promotionals/2015_april/20150430_1800flowers/0430_1800Flowers_test_nopods/i=
+mages/x_spcr2x2=2Epng=22 width=3D=2215=22 height=3D=221=22 border=3D=220=22=
+></td>
+     <td width=3D=221=22 bgcolor=3D=22=23dae8f4=22><img style=3D=22display:=
+block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimage=
+s/jetblue/contentlibrary/promotionals/2015_april/20150430_1800flowers/0430_=
+1800Flowers_test_nopods/images/x_spcr2x2=2Epng=22 width=3D=221=22 height=3D=
+=221=22 border=3D=220=22></td>
+     <td width=3D=2220=22><img style=3D=22display:block;=22 src=3D=22https:=
+//static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetblue/contentlibrary/=
+promotionals/2015_april/20150430_1800flowers/0430_1800Flowers_test_nopods/i=
+mages/x_spcr2x2=2Epng=22 width=3D=2215=22 height=3D=221=22 border=3D=220=22=
+></td>
+     <td width=3D=2237=22><a href=3D=22https://email=2Ejetblue=2Ecom/pub/cc=
+?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGui3FL63dPHEg0dzggwtzerHza7A57sNza20U7PTWARVX=
+tpKX%3DWRTURY&_ei_=3DEuDucv_9BIh4vvnQOsaFJ8v33_VOBPgIm87TDWNyMLmY0GrS4liM8a=
+ETccQumrAa-y06TeJx2Z-Gb9I8F5B9VQOrBfRDetX0Pq8bkj4Kff4=2E=22 style=3D=22text=
+-decoration:none; color:=234d90cd;=22><img style=3D=22display:block;=22 src=
+=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetblue/con=
+tentlibrary/promotionals/2015_april/20150430_1800flowers/0430_1800Flowers_t=
+est_nopods/images/social_blog=2Epng=22 width=3D=2237=22 height=3D=2232=22 b=
+order=3D=220=22></a></td>
+     <td width=3D=2298=22 align=3D=22left=22 valign=3D=22middle=22 class=3D=
+=22w104 center=22>
+  =20
+      <div style=3D=22font-weight:bold; font-size:12px; line-height:15px; f=
+ont-family:Arial, Helvetica, sans-serif; color:=234d90cd;=22>
+       <a href=3D=22https://email=2Ejetblue=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DW=
+QpglLjHJlYQGui3FL63dPHEg0dzggwtzerHza7A57sNza20U7PTWARVXtpKX%3DWRTURY&_ei_=
+=3DEuDucv_9BIh4vvnQOsaFJ8v33_VOBPgIm87TDWNyMLmY0GrS4liM8aETccQumrAa-y06TeJx=
+2Z-Gb9I8F5B9VQOrBfRDetX0Pq8bkj4Kff4=2E=22 style=3D=22text-decoration:none; =
+color:=234d90cd;=22><span>BlueTales Blog</span></a>
+      </div>
+  =20
+     </td>
+     <td width=3D=2210=22 class=3D=22hide=22><img style=3D=22display:block;=
+=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetb=
+lue/contentlibrary/promotionals/2015_april/20150430_1800flowers/0430_1800Fl=
+owers_test_nopods/images/x_spcr2x2=2Epng=22 width=3D=2210=22 height=3D=221=
+=22 border=3D=220=22></td>
+     <td width=3D=221=22 bgcolor=3D=22=23dae8f4=22 class=3D=22hide=22><img =
+style=3D=22display:block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Ene=
+t/i5/responsysimages/jetblue/contentlibrary/promotionals/2015_april/2015043=
+0_1800flowers/0430_1800Flowers_test_nopods/images/x_spcr2x2=2Epng=22 width=
+=3D=221=22 height=3D=221=22 border=3D=220=22></td>
+     <td width=3D=223=22 class=3D=22hide=22><img style=3D=22display:block;=
+=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetb=
+lue/contentlibrary/promotionals/2015_april/20150430_1800flowers/0430_1800Fl=
+owers_test_nopods/images/x_spcr2x2=2Epng=22 width=3D=223=22 height=3D=221=
+=22 border=3D=220=22></td>
+    </tr>
+   </table>
+<=21-- close social navigation -->
+ =20
+  </th>
+  <th width=3D=22340=22 align=3D=22left=22 valign=3D=22middle=22 class=3D=
+=22w280 block=22>
+
+<=21-- open mobile app --> =20
+   <div class=3D=22mobile_app=22>
+    <table width=3D=22340=22 cellspacing=3D=220=22 cellpadding=3D=220=22 al=
+ign=3D=22center=22 border=3D=220=22 class=3D=22w280=22>
+     <tr>
+      <td width=3D=2260=22 align=3D=22left=22 valign=3D=22top=22><a href=3D=
+=22https://email=2Ejetblue=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGui3FL=
+63dPHEg0dzggwtzerHza7A57sNza20U7PTWARVXtpKX%3DWRTUTY&_ei_=3DEuDucv_9BIh4vvn=
+QOsaFJ8v33_VOBPgIm87TDWNyMLmY0GrS4liM8aETccQumrAa-y06TeJx2Z-Gb9I8F5B9VQOrBf=
+RDetX0Pq8bkj4Kff4=2E=22><img style=3D=22display:block;=22 src=3D=22https://=
+static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetblue/contentlibrary/pr=
+omotionals/2015_april/20150430_1800flowers/0430_1800Flowers_test_nopods/ima=
+ges/social_app=2Epng=22 width=3D=2260=22 height=3D=2240=22 border=3D=220=22=
+></a></td>
+      <td width=3D=2210=22 class=3D=22hide=22><img style=3D=22display:block=
+;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jet=
+blue/contentlibrary/promotionals/2015_april/20150430_1800flowers/0430_1800F=
+lowers_test_nopods/images/x_spcr2x2=2Epng=22 width=3D=2210=22 height=3D=221=
+=22 border=3D=220=22></td>
+      <td width=3D=22220=22 align=3D=22left=22 valign=3D=22top=22>
+=20
+       <div style=3D=22font-weight:bold; font-size:11px; line-height:14px; =
+font-family:Arial, Helvetica, sans-serif; color:=234d90cd;=22>
+        <a href=3D=22https://email=2Ejetblue=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3D=
+WQpglLjHJlYQGui3FL63dPHEg0dzggwtzerHza7A57sNza20U7PTWARVXtpKX%3DWRTUTY&_ei_=
+=3DEuDucv_9BIh4vvnQOsaFJ8v33_VOBPgIm87TDWNyMLmY0GrS4liM8aETccQumrAa-y06TeJx=
+2Z-Gb9I8F5B9VQOrBfRDetX0Pq8bkj4Kff4=2E=22 style=3D=22text-decoration:none; =
+color:=234d90cd;=22><span>Same smart app=2E More smartphones=2E</span></a>
+       </div>
+      =20
+       <div style=3D=22font-weight:normal; font-size:11px; line-height:14px=
+; font-family:Arial, Helvetica, sans-serif; color:=23999999;=22>
+        Download the JetBlue mobile app for iPhone and Android now=21
+       </div>
+     =20
+      </td>
+      <td width=3D=2250=22 class=3D=22hide=22><img style=3D=22display:block=
+;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jet=
+blue/contentlibrary/promotionals/2015_april/20150430_1800flowers/0430_1800F=
+lowers_test_nopods/images/x_spcr2x2=2Epng=22 width=3D=2250=22 height=3D=221=
+=22 border=3D=220=22></td>
+     </tr>
+    </table>
+   </div>  =20
+<=21-- close mobile app --> =20
+
+  </th>
+ </tr>
+</table>
+<table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22><tr><td=
+ height=3D=2214=22><img style=3D=22display:block;=22 src=3D=22https://stati=
+c=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetblue/contentlibrary/promoti=
+onals/2015_april/20150430_1800flowers/0430_1800Flowers_test_nopods/images/x=
+_spcr2x2=2Epng=22 width=3D=221=22 height=3D=2214=22 border=3D=220=22></td><=
+/tr></table>
+<=21-- close standard footer -->
+
+<=21-- open secondary navigation -->
+<table width=3D=22620=22 cellspacing=3D=220=22 cellpadding=3D=220=22 align=
+=3D=22center=22 border=3D=220=22 class=3D=22w320=22>
+<tr>
+<td align=3D=22left=22>
+
+<table width=3D=22640=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=
+=3D=220=22 bgcolor=3D=22=23dae8f4=22 class=3D=22w320=22><tr><td height=3D=
+=221=22><img style=3D=22display:block;=22 src=3D=22https://static=2Ecdn=2Er=
+esponsys=2Enet/i5/responsysimages/jetblue/contentlibrary/promotionals/2015_=
+april/20150430_1800flowers/0430_1800Flowers_test_nopods/images/x_spcr2x2=2E=
+png=22 width=3D=221=22 height=3D=221=22 border=3D=220=22></td></tr></table>
+<table width=3D=22640=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=
+=3D=220=22 class=3D=22w320=22><tr><td height=3D=2218=22><img style=3D=22dis=
+play:block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsys=
+images/jetblue/contentlibrary/promotionals/2015_april/20150430_1800flowers/=
+0430_1800Flowers_test_nopods/images/x_spcr2x2=2Epng=22 width=3D=221=22 heig=
+ht=3D=2218=22 border=3D=220=22></td></tr></table>
+<table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 class=
+=3D=22w320=22>
+ <tr>
+  <th align=3D=22center=22 valign=3D=22top=22 class=3D=22w320 block=22>
+
+   <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22>
+    <tr>
+     <td align=3D=22left=22 valign=3D=22top=22>
+    =20
+      <div style=3D=22font-weight:normal; font-size:12px; line-height:15px;=
+ font-family:Arial, Helvetica, sans-serif; color:=234d90cd;=22>
+       <a href=3D=22https://email=2Ejetblue=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DW=
+QpglLjHJlYQGui3FL63dPHEg0dzggwtzerHza7A57sNza20U7PTWARVXtpKX%3DWRTUWY&_ei_=
+=3DEriq_zy8CUDUCF03RGKOBzenDYh9gu2cCJkYJPCYOvRpc-1z9GuNA1xInLJX6ooSAo0EdUCl=
+-IEzXWN1UnmcHvwXpWY4d41jFelBpS6UAkXiiR6k0AsnaqctEfo84li_QxLrgc5OYTkGHHyfeQg=
+I7gChM8Bm-VYuo7q3OjPyTSUzNumXH2kEtJy-AliIs_jwdHTJGh3SDICl1PNCN0_W9hsEaK1myS=
+LkcVTpEM8mH_AJln-PMGejefSjEtmKkpvVl2agVqFQL7LhD1yypxKu6RNeKyUvv5g5A36N2aWeq=
+tcdA4V9drD7vszMM075FBuKjxo2qXJ7FY6wUXvBr9BryPoko88RGYEBthuP0Vye-heBCx41T9dX=
+MDHjJzIf0iHThtStX8-U0OUvo6IRMv4qCm_j2Fsxvd1F6vqaNSBdaBuznmKNkKaDmid5XLJjagC=
+6KdKPN8dN4cX_auS6n9qaYJP1fwXp3tLd-7PoU9tnI_NW0Bm39g5rKJBY=2E=22 style=3D=22=
+text-decoration:none; color:=234d90cd;=22><span>Preference Center</span></a>
+      </div>
+  =20
+     </td>
+     <td width=3D=2212=22><img style=3D=22display:block;=22 src=3D=22https:=
+//static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetblue/contentlibrary/=
+promotionals/2015_april/20150430_1800flowers/0430_1800Flowers_test_nopods/i=
+mages/x_spcr2x2=2Epng=22 width=3D=2212=22 height=3D=221=22 border=3D=220=22=
+></td>
+     <td align=3D=22left=22 valign=3D=22top=22>
+    =20
+      <div style=3D=22font-weight:normal; font-size:12px; line-height:15px;=
+ font-family:Arial, Helvetica, sans-serif; color:=234d90cd;=22>
+       <a href=3D=22https://email=2Ejetblue=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DW=
+QpglLjHJlYQGui3FL63dPHEg0dzggwtzerHza7A57sNza20U7PTWARVXtpKX%3DWRTUAY&_ei_=
+=3DEuDucv_9BIh4vvnQOsaFJ8v33_VOBPgIm87TDWNyMLmY0GrS4liM8aETccQumrAa-y06TeJx=
+2Z-Gb9I8F5B9VQOrBfRDetX0Pq8bkj4Kff4=2E=22 style=3D=22text-decoration:none; =
+color:=234d90cd;=22><span>Help</span></a>
+      </div>
+  =20
+     </td>
+     <td width=3D=2212=22><img style=3D=22display:block;=22 src=3D=22https:=
+//static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetblue/contentlibrary/=
+promotionals/2015_april/20150430_1800flowers/0430_1800Flowers_test_nopods/i=
+mages/x_spcr2x2=2Epng=22 width=3D=2212=22 height=3D=221=22 border=3D=220=22=
+></td>
+     <td align=3D=22left=22 valign=3D=22top=22>
+    =20
+      <div style=3D=22font-weight:normal; font-size:12px; line-height:15px;=
+ font-family:Arial, Helvetica, sans-serif; color:=234d90cd;=22>
+       <a href=3D=22https://email=2Ejetblue=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DW=
+QpglLjHJlYQGui3FL63dPHEg0dzggwtzerHza7A57sNza20U7PTWARVXtpKX%3DWRTUCY&_ei_=
+=3DEuDucv_9BIh4vvnQOsaFJ8v33_VOBPgIm87TDWNyMLmY0GrS4liM8aETccQumrAa-y06TeJx=
+2Z-Gb9I8F5B9VQOrBfRDetX0Pq8bkj4Kff4=2E=22 style=3D=22text-decoration:none; =
+color:=234d90cd;=22><span>Corporate&nbsp;Travel</span></a>
+      </div>
+  =20
+     </td>
+     <td width=3D=2212=22><img style=3D=22display:block;=22 src=3D=22https:=
+//static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetblue/contentlibrary/=
+promotionals/2015_april/20150430_1800flowers/0430_1800Flowers_test_nopods/i=
+mages/x_spcr2x2=2Epng=22 width=3D=2212=22 height=3D=221=22 border=3D=220=22=
+></td>
+    </tr>
+   </table>
+
+  </th>
+  <th align=3D=22center=22 valign=3D=22top=22 class=3D=22w320 block secndry=
+_nav=22>
+
+   <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22>
+    <tr>
+     <td align=3D=22left=22 valign=3D=22top=22>
+    =20
+      <div style=3D=22font-weight:normal; font-size:12px; line-height:15px;=
+ font-family:Arial, Helvetica, sans-serif; color:=234d90cd;=22>
+       <a href=3D=22https://email=2Ejetblue=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DW=
+QpglLjHJlYQGui3FL63dPHEg0dzggwtzerHza7A57sNza20U7PTWARVXtpKX%3DWRTWRY&_ei_=
+=3DEuDucv_9BIh4vvnQOsaFJ8v33_VOBPgIm87TDWNyMLmY0GrS4liM8aETccQumrAa-y06TeJx=
+2Z-Gb9I8F5B9VQOrBfRDetX0Pq8bkj4Kff4=2E=22 style=3D=22text-decoration:none; =
+color:=234d90cd;=22><span>Privacy</span></a>
+      </div>
+  =20
+     </td>
+     <td width=3D=2212=22><img style=3D=22display:block;=22 src=3D=22https:=
+//static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetblue/contentlibrary/=
+promotionals/2015_april/20150430_1800flowers/0430_1800Flowers_test_nopods/i=
+mages/x_spcr2x2=2Epng=22 width=3D=2212=22 height=3D=221=22 border=3D=220=22=
+></td>
+     <td align=3D=22left=22 valign=3D=22top=22>
+    =20
+      <div style=3D=22font-weight:normal; font-size:12px; line-height:15px;=
+ font-family:Arial, Helvetica, sans-serif; color:=234d90cd;=22>
+       <a href=3D=22https://email=2Ejetblue=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DW=
+QpglLjHJlYQGui3FL63dPHEg0dzggwtzerHza7A57sNza20U7PTWARVXtpKX%3DWRTWTY&_ei_=
+=3DEuDucv_9BIh4vvnQOsaFJ8v33_VOBPgIm87TDWNyMLmY0GrS4liM8aETccQumrAa-y06TeJx=
+2Z-Gb9I8F5B9VQOrBfRDetX0Pq8bkj4Kff4=2E=22 style=3D=22text-decoration:none; =
+color:=234d90cd;=22><span>About&nbsp;JetBlue</span></a>
+      </div>
+  =20
+     </td>
+    </tr>
+   </table>
+
+  </th>
+ </tr>
+</table>
+<table width=3D=22640=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=
+=3D=220=22 class=3D=22w320=22><tr><td height=3D=2218=22><img style=3D=22dis=
+play:block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsys=
+images/jetblue/contentlibrary/promotionals/2015_april/20150430_1800flowers/=
+0430_1800Flowers_test_nopods/images/x_spcr2x2=2Epng=22 width=3D=221=22 heig=
+ht=3D=2218=22 border=3D=220=22></td></tr></table>
+<table width=3D=22640=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=
+=3D=220=22 bgcolor=3D=22=23dae8f4=22 class=3D=22hide=22><tr><td height=3D=
+=221=22><img style=3D=22display:block;=22 src=3D=22https://static=2Ecdn=2Er=
+esponsys=2Enet/i5/responsysimages/jetblue/contentlibrary/promotionals/2015_=
+april/20150430_1800flowers/0430_1800Flowers_test_nopods/images/x_spcr2x2=2E=
+png=22 width=3D=221=22 height=3D=221=22 border=3D=220=22></td></tr></table>
+
+</td>
+</tr>
+</table>
+<=21-- close secondary navigation -->
+
+<=21-- open disclaimer -->
+<table width=3D=22640=22 cellspacing=3D=220=22 cellpadding=3D=220=22 align=
+=3D=22center=22 border=3D=220=22 class=3D=22w280=22>
+ <tr>
+  <td width=3D=22640=22 align=3D=22left=22 valign=3D=22top=22 class=3D=22w2=
+80=22>
+   <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 clas=
+s=3D=22hide=22><tr><td height=3D=2220=22><img style=3D=22display:block;=22 =
+src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetblue/=
+contentlibrary/promotionals/2015_april/20150430_1800flowers/0430_1800Flower=
+s_test_nopods/images/x_spcr2x2=2Epng=22 width=3D=221=22 height=3D=2220=22 b=
+order=3D=220=22></td></tr></table>
+ =20
+  =20
+   <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22><tr>=
+<td height=3D=2210=22><img style=3D=22display:block;=22 src=3D=22https://st=
+atic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetblue/contentlibrary/prom=
+otionals/2015_april/20150430_1800flowers/0430_1800Flowers_test_nopods/image=
+s/x_spcr2x2=2Epng=22 width=3D=221=22 height=3D=2210=22 border=3D=220=22></t=
+d></tr></table>
+  =20
+    <div style=3D=22font-weight:normal; font-size:10px; line-height:13px; f=
+ont-family:Arial, Helvetica, sans-serif; color:=23999999;=22>
+     This e-mail was sent to <A HREF=3D=22mailto:blackyao12=40gmail=2Ecom=
+=22 style=3D=22color:=234d90cd; text-decoration:none;=22><SPAN style=3D=22l=
+ine-height: 14px;=22>blackyao12=40gmail=2Ecom</SPAN></A>=2E To update your =
+preferences or unsubscribe from future JetBlue emails please <A HREF=3D=22h=
+ttps://email=2Ejetblue=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGui3FL63dP=
+HEg0dzggwtzerHza7A57sNza20U7PTWARVXtpKX%3DWRTUWY&_ei_=3DEriq_zy8CUDUCF03RGK=
+OBzenDYh9gu2cCJkYJPCYOvRpc-1z9GuNA1xInLJX6ooSAo0EdUCl-IEzXWN1UnmcHvwXpWY4d4=
+1jFelBpS6UAkXiiR6k0AsnaqctEfo84li_QxLrgc5OYTkGHHyfeQgI7gChM8Bm-VYuo7q3OjPyT=
+SUzNumXH2kEtJy-AliIs_jwdHTJGh3SDICl1PNCN0_W9hsEaK1mySLkcVTpEM8mH_AJln-PMGej=
+efSjEtmKkpvVl2agVqFQL7LhD1yypxKu6RNeKyUvv5g5A36N2aWeqtcdA4V9drD7vszMM075FBu=
+Kjxo2qXJ7FY6wUXvBr9BryPoko88RGYEBthuP0Vye-heBCx41T9dXMDHjJzIf0iHThtStX8-U0O=
+Uvo6IRMv4qCm_j2Fsxvd1F6vqaNSBdaBuznmKNkKaDmid5XLJjagC6KdKPN8dN4cX_auS6n9qaY=
+JP1fwXp3tLd-7PoU9tnI_NW0Bm39g5rKJBY=2E=22 style=3D=22color:=234d90cd; text-=
+decoration:none;=22><SPAN style=3D=22line-height: 14px;=22>click here</SPAN=
+></A>=2E We're sorry but email sent in reply to this message will not be an=
+swered=2E If you have questions, please visit the Help section at <A HREF=
+=3D=22https://email=2Ejetblue=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGui=
+3FL63dPHEg0dzggwtzerHza7A57sNza20U7PTWARVXtpKX%3DWRTWTY&_ei_=3DEuDucv_9BIh4=
+vvnQOsaFJ8v33_VOBPgIm87TDWNyMLmY0GrS4liM8aETccQumrAa-y06TeJx2Z-Gb9I8F5B9VQO=
+rBfRDetX0Pq8bkj4Kff4=2E=22 style=3D=22color:=234d90cd; text-decoration:none=
+;=22><SPAN style=3D=22line-height: 14px;=22>jetblue=2Ecom</SPAN></A>=2E <A =
+style=3D=22border:0; color:=23999999; text-decoration:none;=22><SPAN style=
+=3D=22line-height: 14px;=22>JetBlue Airways, 6322 South 3000 East, Suite G1=
+0, Salt Lake City, UT 84121=2E<p>
+*TrueBlue points are awarded on the base price of completed sales (excludin=
+g cancellations) at standard published prices and are not earned on any oth=
+er fees or charges, including but not limited to service charges, shipping =
+fees, and taxes=2E Orders must be placed through the JetBlue 1-800-FLOWERS =
+website or by calling 1-800-FLOWERS (1-800-356-9377)=2E  You must be a True=
+Blue Member with your account in good standing and provide your TrueBlue nu=
+mber at the time of your order=2E The name and TrueBlue number provided mus=
+t exactly match those listed in the TrueBlue account=2E  Please allow 6-8 w=
+eeks for TrueBlue points to be posted to your account=2E  No points will be=
+ awarded on cancelled orders or orders that are modified so that they no lo=
+nger satisfy all the terms of this offer=2E Items may vary and are subject =
+to availability, delivery rules and times=2E Offer cannot be combined with =
+other offers, is not redeemable for cash and has no cash value=2E  Offer ma=
+y be modified or discontinued at any time without notice or liability=2E  P=
+rices and charges are subject to change without notice=2E  TrueBlue points =
+are subject to the <a href=3D=22https://email=2Ejetblue=2Ecom/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGui3FL63dPHEg0dzggwtzerHza7A57sNza20U7PTWARVXtpKX%=
+3DWRTWWY&_ei_=3DEuDucv_9BIh4vvnQOsaFJ8v33_VOBPgIm87TDWNyMLmY0GrS4liM8aETccQ=
+umrAa-y06TeJx2Z-Gb9I8F5B9VQOrBfRDetX0Pq8bkj4Kff4=2E=22>TrueBlue terms and c=
+onditions apply=2E</a><br><br>
+Void where prohibited=2E =A9 2015 <a href=3D=22https://email=2Ejetblue=2Eco=
+m/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGui3FL63dPHEg0dzggwtzerHza7A57sNza20U=
+7PTWARVXtpKX%3DWRTWAY&_ei_=3DEuDucv_9BIh4vvnQOsaFJ8v33_VOBPgIm87TDWNyMLmY0G=
+rS4liM8aETccQumrAa-y06TeJx2Z-Gb9I8F5B9VQOrBfRDetX0Pq8bkj4Kff4=2E=22> 1-800-=
+FLOWERS=2ECOM</a>, INC=2E</p>
+&copy; 2015 JetBlue Airways
+    </div>
+  =20
+
+
+
+
+
+   <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22><tr>=
+<td height=3D=2220=22><img style=3D=22display:block;=22 src=3D=22https://st=
+atic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/jetblue/contentlibrary/prom=
+otionals/2015_april/20150430_1800flowers/0430_1800Flowers_test_nopods/image=
+s/x_spcr2x2=2Epng=22 width=3D=221=22 height=3D=2220=22 border=3D=220=22></t=
+d></tr></table>
+  </td>
+ </tr>
+</table>
+<=21-- close disclaimer -->
+
+  </td>
+  <td width=3D=2220=22 align=3D=22left=22 valign=3D=22top=22 class=3D=22hid=
+e=22><img style=3D=22display:block;=22 src=3D=22https://static=2Ecdn=2Eresp=
+onsys=2Enet/i5/responsysimages/jetblue/contentlibrary/promotionals/2015_apr=
+il/20150430_1800flowers/0430_1800Flowers_test_nopods/images/x_spcr2x2=2Epng=
+=22 width=3D=2220=22 height=3D=221=22 border=3D=220=22></td>
+ </tr>
+</table>
+<=21-- close inner container -->
+
+  </td>
+ </tr>
+</table>
+<=21-- close outer container + yahoo center fix -->
+
+</body>
+</html>
+<br>
+<br><img border=3D=220=22 width=3D=223=22 height=3D=223=22 src=3D=22http://=
+ib=2Eadnxs=2Ecom/getuid?http://a=2Eadrsp=2Enet/dsp/ci/2/EavEE4HuyAQTqXMK6gH=
+mvcJKLazHdcNcUTft1psW55UR8x8XGxpz3qVnN9Uba6AqA0U_LrtbfjsVLrsTKf4M5WYAUBgZDM=
+/%24UID=22>
+
+

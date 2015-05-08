@@ -1,0 +1,573 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+    <title>Puritan's Pride</title>
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width">
+
+<style type=3D"text/css">
+body {
+    margin: 0px;
+    padding: 0px
+}
+* {
+    -webkit-text-size-adjust: none;
+} /* prevent iOS font upsizing */
+.ExternalClass * {
+    line-height: 100%;
+} /* force Outlook.com to honor line-height */
+.appleFix a {
+    color: #696969 !important;
+    text-decoration: none !important;
+} /* prevent iOS auto-linking */
+td {
+    mso-line-height-rule: exactly;
+} /* force Outlook to honor line-height */
+.whiteLink a:link {
+    color: #ffffff;
+} /* keeps links white in outlook */
+
+@media only screen and (max-width: 480px) {
+body {
+	width: 100%;
+	min-width: 100%;
+} /* force iOS5 to fill entire screen */
+body[yahoo] .marginfix {
+	position: relative;
+	top: 0;
+	left: 0;
+	right: 0;
+} /* to eliminate padding in iOS7 */
+/* structure */
+body[yahoo] .full-width-content {
+	width: 100% !important;
+	min-width: 100% !important;
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+}
+body[yahoo] .full-width-content2 {
+	width: 100% !important;
+	min-width: 100% !important;
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+	padding: 15px 0px 15px 0px !important;
+}
+body[yahoo] .full-width-content9 {
+	width: 100% !important;
+    min-width: 100% !important;
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+}
+body[yahoo] .full-width-content10 {
+	width: 100% !important;
+	min-width: 100% !important;
+    display:table !important;
+	text-align:center !important;
+}
+body[yahoo] .section-wrapper {
+	width: 95% !important;
+}
+body[yahoo] .section-wrapper2 {
+	width: 97% !important;
+}
+body[yahoo] .section-wrapper3 {
+	width: 95% !important;
+}
+body[yahoo] .section-wrapper4 {
+	width: 75% !important;
+}
+body[yahoo] .section-wrapper5 {
+	width: 100% !important;
+}
+body[yahoo] .hide {
+	width: 0px !important;
+	height: 0px !important;
+	display: none !important;
+}
+body[yahoo] .stack {
+	display: block !important;
+	width: 100% !important;
+	padding: 0px !important;
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+}
+body[yahoo] .centerCell table {
+	margin: 0px auto !important;
+}
+
+/* padding and resizing */
+body[yahoo] .navText td {
+	font-size: 13px !important;
+	padding-top: 4px !important;
+	padding-bottom: 4px !important;
+}
+body[yahoo] .phone {
+    font-size: 14px !important;
+    color: #696969 !important;
+    text-decoration: none !important;
+    text-align: center !important;
+}
+body[yahoo] .nopadding {
+	padding: 0px !important;
+}
+body[yahoo] .padding-top {
+	padding: 15px 0px 0px 0px !important;
+}
+body[yahoo] .alignCenter {
+	text-align: center !important;
+}
+body[yahoo] .cta {
+	width: 97% !important;
+}
+/* image adjustments */
+body[yahoo] .stack img, img.shrink {
+	max-width: 100% !important;
+	height: auto !important;
+}
+body[yahoo] img.shrink {
+	width: 100% !important;
+	height: auto !important;
+}
+body[yahoo] img.shrink2 {
+	width: 65% !important;
+	height: auto !important;
+}
+body[yahoo] img.shrink3 {
+    width: 65% !important;
+	height: auto !important;
+}
+body[yahoo] .shrinkspace {
+    width: 100% !important;
+	display: block !important;
+}
+body[yahoo] img.two-across-resize {
+	width: 128px !important;
+	height: auto !important;
+}
+body[yahoo] img.social {
+	width: 13% !important;
+}
+body[yahoo] img.connected {
+	width: 75% !important;
+}
+body[yahoo] img.schedule {
+	width: 65% !important;
+}
+body[yahoo] .nopad {
+	padding: 0px 0px 0px 0px !important;
+}
+body[yahoo] .mobileShow {
+	display:table !important;
+	width:100% !important;
+	font-size:15px !important;
+	text-align:center !important;
+}
+body[yahoo] .mobileShow2 {
+	display:table !important;
+	font-size:11px !important;
+	padding: 5px 0px 5px 0px !important;
+}
+body[yahoo] .shipline1 {
+    font-family:Arial, Helvetica, sans-serif !important;
+    font-size:34px !important;
+	color:#004680 !important;
+	letter-spacing:-1px !important;
+	font-weight:bold !important;
+	display:table !important;
+	text-align:center !important;
+}
+body[yahoo] .shipline2 {
+	font-family:Arial, Helvetica, sans-serif !important;
+	font-size:12px !important;
+	color:#E37222 !important;
+	letter-spacing:-.3px !important;
+	display:table !important;
+	line-height:7px !important;
+	text-align:center !important;
+}
+body[yahoo] .mobileshowship {
+	display:table !important;
+	width:100% !important;
+	font-size:15px !important;
+	text-align:center !important;
+	padding:10px !important;
+}
+body[yahoo] .shipsup {
+	font-size:12px !important;
+}
+body[yahoo] .spacer {
+	height:10px !important;
+}
+body[yahoo] .mobileShowline {
+	display:table !important;
+	width:100% !important;
+	font-size:15px !important;
+	text-align:center !important;
+	color: #184173 !important;
+	background-color: #184173 !important;
+	display: block;
+	height: 0px;
+    border: 0;
+	border-top: 2px solid #184173;
+    margin: 1.5em 0;
+	padding: 0em;
+}
+body[yahoo] .mainswap{
+    background:url(http://images.vitaminimages.com/pp/VF/ppemail/responsivebanners/15-PP-1474-EMAIL-LastChance-Mobile.jpg) !important;
+    max-width:100%;
+    max-height:auto;
+    display: block !important;
+    background-repeat: no-repeat !important;
+    background-position: center top !important;
+    background-size: cover !important;
+    -webkit-background-size: cover;
+    padding-top: 171.88% !important;
+}
+body[yahoo] .secondswap1{
+    background:url(http://images.vitaminimages.com/pp/VF/ppemail/responsivebanners/15-PP-1420-MOBILE-April-US-VitE.jpg) !important;
+    max-width:100%;
+    max-height:auto;
+    display: block !important;
+    background-repeat: no-repeat !important;
+    background-position: center top !important;
+    background-size: cover !important;
+    -webkit-background-size: cover;
+    padding-top: 225.00% !important;
+}
+body[yahoo] .secondswap2{
+    background:url(http://images.vitaminimages.com/pp/VF/ppemail/responsivebanners/15-PP-1420-MOBILE-April-US-Sports.jpg) !important;
+    max-width:100%;
+    max-height:auto;
+    display: block !important;
+    background-repeat: no-repeat !important;
+    background-position: center top !important;
+    background-size: cover !important;
+    -webkit-background-size: cover;
+    padding-top: 225.00% !important;
+}
+body[yahoo] .pmswap{
+    background:url(http://images.vitaminimages.com/pp/VF/ppemail/responsivebanners/15-PP-1210-EMAIL-PriceMatch.jpg) !important;
+    max-width:100%;
+    max-height:auto;
+    display: block !important;
+    background-repeat: no-repeat !important;
+    background-position: center top !important;
+    background-size: cover !important;
+    -webkit-background-size: cover;
+    padding-top: 32.96% !important;
+}
+sup {
+  font-size: 50%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+  top: -1em;
+}
+div, p, a, li, td {
+    -webkit-box-sizing:none;
+}
+}
+</style>
+</head>
+
+<div itemscope itemtype=3D"http://schema.org/EmailMessage">
+  <div itemprop=3D"publisher" itemscope itemtype=3D"http://schema.org/Organization">
+    <meta itemprop=3D"name" content=3D"Puritan's Pride"/>
+    <link itemprop=3D"url" href=3D"http://www.puritan.com/"/>
+    <link itemprop=3D"url/googlePlus" href=3D"https://plus.google.com/+puritanspride#+puritanspride/posts"/>
+  </div>
+  <div itemprop=3D"about" itemscope itemtype=3D"http://schema.org/Offer">
+    <link itemprop=3D"image" href=3D"http://images.vitaminimages.com/pp/VF/ppemail/responsivebanners/gmailpreview/15-PP-1474-GMAIL-Blowout.jpg">
+  </div>
+</div>
+
+</head>
+
+<body style=3D"margin:0px; padding:0px;" yahoo=3D"fix"><img src=3D"http://link.nbty.com/1x1.dyn?0kkGy3V0iWJxGh7JXrwDwem_K=3D0" width=3D1 height=3D1  width=3D"1" height=3D"1" border=3D"0">
+
+<table class=3D"hide" cellspacing=3D"0" cellpadding=3D"0" width=3D"650" align=3D"center" border=3D"0" class=3D"full-width-content">
+<tr>
+<td class=3D"hide" align=3D"center" width=3D"650"><font color=3D"#666666" face=3D"Arial,Helvetica,sans-serif,Verdana,Geneva" size=3D"1">Highest Quality, Lowest Prices | <a href=3D"http://link.nbty.com/t.d?64Gulcguklyt0U=3D/@HTML_2PREVIEW_2LINK_0a=3D7iWJxeqtqxq58LTtqluCH7Iu" name=3D"viewimages" target=3D"_blank" ><font color=3D"#666666">View Images</font></a></font></td>
+</tr>
+</table>
+
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgcolor=3D"#ffffff" align=3D"center" class=3D"full-width-content">
+<tr>
+<td class=3D"full-width-content" bgcolor=3D"#ffffff" valign=3D"top" align=3D"center">
+
+<table id=3D"wrapper" width=3D"650" align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"full-width-content">
+<tr>
+<td class=3D"full-width-content"align=3D"center" valign=3D"top" bgcolor=3D"#ffffff">
+
+<table style=3D"width: 650px; background-color: #ffffff;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"full-width-content">
+<tr>
+<td class=3D"full-width-content" align=3D"center" valign=3D"top" bgcolor=3D"#ffffff">
+
+<table class=3D"full-width-content" cellpadding=3D"5" cellspacing=3D"0" border=3D"0" bgcolor=3D"#FFFFFF" width=3D"650" height=3D"71">
+    <tr>
+        <td valign=3D"bottom" class=3D"stack" align=3D"center" bgcolor=3D"#FFFFFF" width=3D"264" height=3D"71" ><a href=3D"http://link.nbty.com/u.d?b4Gulcguklyt0UX6r=3D3&s=3D32921&cmp=3Dyml-_2-20150425-_2-default" target=3D"_blank" name=3D"logo"><img src=3D"http://images.postdirect.com/content/nbtyinc/174/pplogo500px.gif" width=3D"264" height=3D"71" alt=3D"Puritan's Pride=C2=AE healthy choices for healthy living" border=3D"0" style=3D"display:block;" class=3D"shrink2" /></a></td>
+		<td class=3D"hide" height=3D"71" valign=3D"bottom" align=3D"right" bgcolor=3D"#FFFFFF"><font style=3D"font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#666666;"><a class=3D"hide" href=3D"http://link.nbty.com/t.d?z4Gulcguklyt0U=3D/@SHARE_2THIS_2LINK_0a=3DtCWJxeqtqxq58LTtqluCH7Iu" target=3D"_blank" style=3D"text-decoration:none;" name=3D"sharethis" ><img class=3D"hide" src=3D"http://content.4at5.net/email_domains/imgLib/share_this.png" alt=3D"" height=3D"10" border=3D"0" /><font color=3D"#339900">&nbsp;ShareThis</font></a>&nbsp;&nbsp;
+		<a class=3D"hide" href=3D"https://web.puritan.com/ftaf.jsp?s=3DZR-G&i=3D446475981072" target=3D"_blank" style=3D"text-decoration:none;" name=3D"ftaf" ><img class=3D"hide" src=3D"http://images.postdirect.com/content/nbtyinc/174/envelopeicon.gif" alt=3D"" height=3D"10" border=3D"0" /><font color=3D"#666666">&nbsp;Forward to a Friend</font></a></font><br class=3D"hide"><br class=3D"hide">
+		<a class=3D"hide" href=3D"http://link.nbty.com/u.d?VYGulcguklyt0UX6h=3D23&s=3D32921&cmp=3Dyml-_2-20150425-_2-default" target=3D"_blank" style=3D"text-decoration:none;" name=3D"FS_Header"><img src=3D"http://images.postdirect.com/content/nbtyinc/174/14-PP-7085-EMAIL-FreeShipping-Blue-Orange.gif" height=3D"71" alt=3D"FREE SHIPPING** ON EVERYTHING delivered within the contiguous 48 US" width=3D"264" border=3D"0" class=3D"hide"></td>
+    </tr>
+</table>
+
+<!--[if !mso 9]><!-->
+
+<table><tr><td class=3D"mobileshowship" style=3D"height:0px;width:0px;font-size:0;max-height:0;line-height:0;padding:0px;mso-hide:all;font-size:0px;display:none;">
+<a href=3D"http://link.nbty.com/u.d?a4Gulcguklyt0UX662=3D33&s=3D32921&cmp=3Dyml-_2-20150425-_2-default"  target=3D"_blank" style=3D"text-decoration:none" name=3D"FS_Mobile">
+     <CENTER><font class=3D"shipline1">FREE SHIPPING<sup class=3D"shipsup">* *</sup></font></CENTER><BR>
+     <CENTER><font class=3D"shipline2"><b>on everything delivered within contiguous 48 US.</b></font></CENTER>
+      </a></td></tr></table>
+
+<!--<![endif]-->
+<table class=3D"hide" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" bgcolor=3D"#ffffff">
+             <tr>
+                <td align=3D"center" style=3D"padding:8px 5px 0px 5px;" class=3D"nopad"><hr color=3D"#184173"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                    <tr>
+                      <td class=3D"stack navText" align=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">                          <tr>
+                            <td align=3D"center" style=3D"font-family:Arial, Verdana, sans serif;font-size:12px;color:#184173;padding:0px 10px 0px 10px"><span class=3D"whiteLink"><a href=3D"http://link.nbty.com/u.d?M4Gulcguklyt0UXmL=3D3&s=3D32921&cmp=3Dinfo-_2-20150425-_2-default" style=3D"color:#184173; text-decoration:none"><strong>Vitamins & Herbs</strong></a></span></td>
+                            <td align=3D"right" style=3D"font-family:Arial, Verdana, sans serif;font-size:12px;color:#184173;padding:0px 0px 0px 0px">|</td>
+                            <td align=3D"center" style=3D"font-family:Arial, Verdana, sans serif;font-size:12px;color:#184173;padding:0px 10px 0px 10px"><span class=3D"whiteLink"><a href=3D"http://link.nbty.com/u.d?OYGulcguklyt0UXmM=3D13&s=3D32921&cmp=3Dinfo-_2-20150425-_2-default" style=3D"color:#184173; text-decoration:none"><strong>Clearance</strong></a></span></td>
+                            <td align=3D"right" style=3D"font-family:Arial, Verdana, sans serif;font-size:12px;color:#184173;padding:0px 0px 0px 0px">|</td>
+                            <td align=3D"center" style=3D"font-family:Arial, Verdana, sans serif;font-size:12px;color:#184173;padding:0px 10px 0px 10px"><span class=3D"whiteLink"><a href=3D"http://link.nbty.com/u.d?a4Gulcguklyt0UXmB=3D23&s=3D32921&cmp=3Dinfo-_2-20150425-_2-default" style=3D"color:#184173; text-decoration:none"><strong>Top Sellers</strong></a></span></td>
+                          </tr>
+                        </table></td>
+                      <td class=3D"hide" align=3D"center" style=3D"font-family:Arial, Verdana, sans serif;font-size:12px;color:#184173;padding:0px 0px 0px 0px">|</td>
+                      <td class=3D"hide" align=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                          <tr>
+                            <td align=3D"center" style=3D"font-family:Arial, Verdana, sans serif;font-size:12px;color:#184173;padding:0px 0px 0px 0px"></td>
+                            <td align=3D"center" style=3D"font-family:Arial, Verdana, sans serif;font-size:12px;color:#184173;padding:0px 10px 0px 10px"><span class=3D"whiteLink"><a href=3D"http://link.nbty.com/u.d?dYGulcguklyt0UXma2=3D33&s=3D32921&cmp=3Dinfo-_2-20150425-_2-default" style=3D"color:#184173; text-decoration:none"><strong>Bargain Bin</strong></a></span></td>
+                            <td align=3D"center" style=3D"font-family:Arial, Verdana, sans serif;font-size:12px;color:#184173;padding:0px 0px 0px 0px">|</td>
+                            <td align=3D"center" style=3D"font-family:Arial, Verdana, sans serif;font-size:12px;color:#184173;padding:0px 10px 0px 10px"><span class=3D"whiteLink"><a href=3D"http://link.nbty.com/u.d?L4Gulcguklyt0UXmaz=3D43&s=3D32921&cmp=3Dinfo-_2-20150425-_2-default" style=3D"color:#184173; text-decoration:none"><strong>Health & Beauty</strong></a></span></td>
+                            <td align=3D"center" style=3D"font-family:Arial, Verdana, sans serif;font-size:12px;color:#184173;padding:0px 0px 0px 0px">|</td>
+                            <td align=3D"center" style=3D"font-family:Arial, Verdana, sans serif;font-size:12px;color:#184173;padding:0px 10px 0px 10px"><span class=3D"whiteLink"><a href=3D"http://link.nbty.com/u.d?F4Gulcguklyt0UXma8=3D53&s=3D32921&cmp=3Dinfo-_2-20150425-_2-default" style=3D"color:#184173; text-decoration:none"><strong>Co Q-10</strong></a></span></td>
+                          </tr>
+                       </table></td>
+                    </tr>
+                  </table>
+                  <hr color=3D"#184173">
+                 </td>
+              </tr>
+            </table>
+
+<CENTER><a href=3D"http://link.nbty.com/u.d?V4Gulcguklyt0Uc9O9UyI=3D9501&s=3D32921&cmp=3Dyml-_2-20150425-_2-default" target=3D"_blank" style=3D"display:block" name=3D"Main_LC_BMSM_75off_fs"><table class=3D"section-wrapper5" cellspacing=3D"0" align=3D"center" cellpadding=3D"0" border=3D"0" width=3D"650" bgcolor=3D"#FFFFFF">
+<tr>
+<td class=3D"mainswap"></a>
+<a href=3D"http://link.nbty.com/u.d?D4Gulcguklyt0Uc9O9UyV=3D9511&s=3D32921&cmp=3Dyml-_2-20150425-_2-default" target=3D"_blank" style=3D"display:block" name=3D"Main_LC_BMSM_75off_fs"><img src=3D"http://images.postdirect.com/master/9/1184311/15-PP-1474-EMAIL-LastChance.jpg" width=3D"650" height=3D"1059" style=3D"display:block;" alt=3D"Last Chance ends 4.28.15 Buy More Save More^ on select items up To 75% Off^ + Free Shipping** SHOP NOW &raquo;" border=3D"0" class=3D"hide"></a>
+</td>
+</tr></table></CENTER></a>
+
+<table class=3D"shrink" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" bgcolor=3D"#ffffff">
+<tr>
+<td class=3D"shrink" height=3D"20" style=3D"line-height:10px; font-size:1px;">&nbsp;</td>
+</tr>
+</table>
+
+<CENTER><a href=3D"http://link.nbty.com/u.d?A4Gulcguklyt0Uc9O9Uyw=3D9581&s=3D32921&cmp=3Dyml-_2-20150425-_2-default" target=3D"_blank" style=3D"display:block" name=3D"Secondary_VitaminE_70pct"><table class=3D"section-wrapper5" cellspacing=3D"0" align=3D"center" cellpadding=3D"0" border=3D"0" width=3D"650" bgcolor=3D"#FFFFFF">
+<tr>
+<td class=3D"secondswap1"></a>
+<a href=3D"http://link.nbty.com/u.d?K4Gulcguklyt0Uc9O9Uy9=3D9591&s=3D32921&cmp=3Dyml-_2-20150425-_2-default" target=3D"_blank" style=3D"display:block" name=3D"Secondary_VitaminE_70pct"><img src=3D"http://images.postdirect.com/master/9/1184311/15-PP-1420-EMAIL-April-US-VitE-V2.jpg" width=3D"650" height=3D"319" style=3D"display:block;" alt=3D"Vitamin E Supports Circulatory Function* An Effective Antioxidant* Maintains a Healthy Immune System* up to 70% OFF^ &raquo;" border=3D"0" class=3D"hide"></a>
+</td>
+</tr></table></CENTER></a>
+
+<table class=3D"shrink" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" bgcolor=3D"#ffffff">
+<tr>
+<td class=3D"shrink" height=3D"20" style=3D"line-height:10px; font-size:1px;">&nbsp;</td>
+</tr>
+</table>
+
+<CENTER><a href=3D"http://link.nbty.com/u.d?aYGulcguklyt0Uc9O9UzG=3D9601&s=3D32921&cmp=3Dyml-_2-20150425-_2-default" target=3D"_blank" style=3D"display:block" name=3D"Secondary_Sports_Diet"><table class=3D"section-wrapper5" cellspacing=3D"0" align=3D"center" cellpadding=3D"0" border=3D"0" width=3D"650" bgcolor=3D"#FFFFFF">
+<tr>
+<td class=3D"secondswap2"></a>
+<a href=3D"http://link.nbty.com/u.d?E4Gulcguklyt0Uc9O9UzD=3D9611&s=3D32921&cmp=3Dyml-_2-20150425-_2-default" target=3D"_blank" style=3D"display:block" name=3D"Secondary_Sports_Diet"><img src=3D"http://images.postdirect.com/master/9/1184311/15-PP-1420-EMAIL-April-US-Sports-V2.jpg" width=3D"650" height=3D"319" style=3D"display:block;" alt=3D"Sports & Diet Don't Wish for It, Work For it Protein Powders Amino Acids Sports Supplements for Men & Women Fitness Accessories Nutrition on-the-go & more ON SALE NOW Shop All Sports & Diet &raquo;" border=3D"0" class=3D"hide"></a>
+</td>
+</tr></table></CENTER></a>
+
+<table class=3D"shrink" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" bgcolor=3D"#ffffff">
+<tr>
+<td class=3D"shrink" height=3D"20" style=3D"line-height:10px; font-size:1px;">&nbsp;</td>
+</tr>
+</table>
+
+<CENTER><a href=3D"http://link.nbty.com/u.d?P4Gulcguklyt0UXk6I=3D93&s=3D32921&cmp=3Dyml-_2-20150425-_2-default" target=3D"_blank" name=3D"pm_mobile"><table class=3D"section-wrapper5" cellspacing=3D"0" align=3D"center" cellpadding=3D"0" border=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF">
+<tr>
+<td class=3D"pmswap">
+</td>
+</tr></table></a></CENTER>
+
+<table style=3D"display:none;" class=3D"mobileShow" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" bgcolor=3D"#ffffff">
+<tr>
+<td class=3D"spacer" height=3D"0" style=3D"line-height:1px; font-size:1px;">&nbsp;</td>
+</tr>
+</table>
+
+<CENTER><table class=3D"full-width-content2" align=3D"center" height=3D"32" width=3D"650" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgcolor=3D"#184173" >
+    	<tr>
+        <td class=3D"hide" height=3D"32" width=3D"125"></td>
+		<td class=3D"stack" align=3D"center" height=3D"15" style=3D"font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#FFFFFF;"><strong>HIGHEST QUALITY INGREDIENTS</strong></a></span></td>
+        <td class=3D"hide" align=3D"center" height=3D"15" style=3D"font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#FFFFFF;"><strong>&nbsp;&nbsp;&bull;&nbsp;&nbsp;</strong></a></span></td>
+         <td class=3D"stack" height=3D"15" align=3D"center" style=3D"font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#FFFFFF;"><strong>LOWEST PRICES</strong></td>
+         <td class=3D"hide" height=3D"32" width=3D"125"></td>
+    	</tr></table></CENTER>
+
+<!--[if !mso 9]><!-->
+
+<hr class=3D"mobileShowline" color=3D"#FFFFFF" style=3D"color:#FFFFFF;height:0px;width:0px;font-size:0;max-height:0;line-height:0;padding:0;mso-hide:all;font-size:0px;display:none;">
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr>
+<td class=3D"mobileShow" align=3D"center" style=3D"font-family:Arial, Verdana, sans serif;color:#184173;height:0px;width:0px;font-size:0;max-height:0;line-height:0;padding:0;mso-hide:all;font-size:0px;display:none;"><a href=3D"http://link.nbty.com/u.d?K4Gulcguklyt0UXk6V=3D103&s=3D32921&cmp=3Dinfo-_2-20150425-_2-default" style=3D"color:#184173; text-decoration:none" name=3D"Vitamin_Herbs_Mobile"><strong>Vitamins & Herbs</strong></a></td></tr></table>
+
+<hr class=3D"mobileShowline" color=3D"#FFFFFF" style=3D"color:#FFFFFF;height:0px;width:0px;font-size:0;max-height:0;line-height:0;padding:0;mso-hide:all;font-size:0px;display:none;">
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr>
+<td class=3D"mobileShow" align=3D"center" style=3D"font-family:Arial, Verdana, sans serif;color:#184173;height:0px;width:0px;font-size:0;max-height:0;line-height:0;padding:0;mso-hide:all;font-size:0px;display:none;"><a href=3D"http://link.nbty.com/u.d?TYGulcguklyt0UXk6e=3D113&s=3D32921&cmp=3Dinfo-_2-20150425-_2-default" style=3D"color:#184173; text-decoration:none" name=3D"Clearance_Mobile"><strong>Clearance</strong></a></td></tr></table>
+
+<hr class=3D"mobileShowline" color=3D"#FFFFFF" style=3D"color:#FFFFFF;height:0px;width:0px;font-size:0;max-height:0;line-height:0;padding:0;mso-hide:all;font-size:0px;display:none;">
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr>
+<td class=3D"mobileShow" align=3D"center" style=3D"font-family:Arial, Verdana, sans serif;color:#184173;height:0px;width:0px;font-size:0;max-height:0;line-height:0;padding:0;mso-hide:all;font-size:0px;display:none;"><a href=3D"http://link.nbty.com/u.d?I4Gulcguklyt0UXk6b=3D123&s=3D32921&cmp=3Dinfo-_2-20150425-_2-default" style=3D"color:#184173; text-decoration:none" name=3D"Top_Sellers_Mobile"><strong>Top Sellers</strong></a></td></tr></table>
+
+<hr class=3D"mobileShowline" color=3D"#FFFFFF" style=3D"color:#FFFFFF;height:0px;width:0px;font-size:0;max-height:0;line-height:0;padding:0;mso-hide:all;font-size:0px;display:none;">
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr>
+<td class=3D"mobileShow" align=3D"center" style=3D"font-family:Arial, Verdana, sans serif;color:#184173;height:0px;width:0px;font-size:0;max-height:0;line-height:0;padding:0;mso-hide:all;font-size:0px;display:none;"><a href=3D"http://link.nbty.com/u.d?L4Gulcguklyt0UXk7k=3D133&s=3D32921&cmp=3Dinfo-_2-20150425-_2-default" style=3D"color:#184173; text-decoration:none" name=3D"Bargin_Bin_Mobile"><strong>Bargain Bin</strong></a></td></tr></table>
+
+<hr class=3D"mobileShowline" color=3D"#FFFFFF" style=3D"color:#FFFFFF;height:0px;width:0px;font-size:0;max-height:0;line-height:0;padding:0;mso-hide:all;font-size:0px;display:none;">
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr>
+<td class=3D"mobileShow" align=3D"center" style=3D"font-family:Arial, Verdana, sans serif;color:#184173;height:0px;width:0px;font-size:0;max-height:0;line-height:0;padding:0;mso-hide:all;font-size:0px;display:none;"><a href=3D"http://link.nbty.com/u.d?O4Gulcguklyt0UXk7h=3D143&s=3D32921&cmp=3Dinfo-_2-20150425-_2-default" style=3D"color:#184173; text-decoration:none" name=3D"Health_Beauty_Mobile"><strong>Health & Beauty</strong></a></span></td></tr></table>
+
+<hr class=3D"mobileShowline" color=3D"#FFFFFF" style=3D"color:#FFFFFF;height:0px;width:0px;font-size:0;max-height:0;line-height:0;padding:0;mso-hide:all;font-size:0px;display:none;">
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr>
+<td class=3D"mobileShow" align=3D"center" style=3D"font-family:Arial, Verdana, sans serif;color:#184173;height:0px;width:0px;font-size:0;max-height:0;line-height:0;padding:0;mso-hide:all;font-size:0px;display:none;"><a href=3D"http://link.nbty.com/u.d?A4Gulcguklyt0UXk7q=3D153&s=3D32921&cmp=3Dinfo-_2-20150425-_2-default" style=3D"color:#184173; text-decoration:none" name=3D"CoQ10_Mobile"><strong>Co Q-10</strong></a></span></td></tr></table>
+
+<hr class=3D"mobileShowline" color=3D"#FFFFFF" style=3D"color:#FFFFFF;height:0px;width:0px;font-size:0;max-height:0;line-height:0;padding:0;mso-hide:all;font-size:0px;display:none;">
+
+<!--<![endif]-->
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF">
+<tr>
+<td align=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+<tr>
+<td class=3D"stack navText" align=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+<tr>
+<td align=3D"center" style=3D"color:#FFFFFF;" class=3D"social"><img src=3D"http://images.postdirect.com/content/nbtyinc/146/Emailfooter_stayconnected3.jpg" alt=3D"Stay Connected" width=3D"260" height=3D"30" border=3D"0" class=3D"connected"></a></td></tr>
+                            <TR>
+                            <td align=3D"center" style=3D"color:#FFFFFF;">
+               <a href=3D"http://link.nbty.com/u.d?F4Gulcguklyt0UXkr=3D3" target=3D"_blank" name=3D"facebook"><img src=3D"http://images.postdirect.com/content/nbtyinc/146/Emailfooter_FB2.jpg" width=3D"36" height=3D"33" border=3D"0" class=3D"social"></a>
+		<a href=3D"http://link.nbty.com/u.d?A4Gulcguklyt0UXks=3D13" target=3D"_blank" name=3D"twitter"><img src=3D"http://images.postdirect.com/content/nbtyinc/146/Emailfooter_tw2.jpg" width=3D"32" height=3D"33" border=3D"0" class=3D"social"></a>
+		<a href=3D"http://link.nbty.com/u.d?FYGulcguklyt0UXkh=3D23" target=3D"_blank" name=3D"Pinterest"><img src=3D"http://images.postdirect.com/content/nbtyinc/146/Emailfooter_pin2.jpg" width=3D"32" height=3D"33" border=3D"0" class=3D"social"></a>
+               <a href=3D"http://link.nbty.com/u.d?KYGulcguklyt0UXk62=3D33" target=3D"_blank" name=3D"Instagram"><img src=3D"http://images.postdirect.com/content/nbtyinc/146/Emailfooter_inst2.jpg" width=3D"31" height=3D"33" border=3D"0" class=3D"social"></a>
+		<a href=3D"http://link.nbty.com/u.d?G4Gulcguklyt0UXk6z=3D43" target=3D"_blank" name=3D"Blog"><img src=3D"http://images.postdirect.com/content/nbtyinc/146/Emailfooter_blog2.jpg" width=3D"31" height=3D"33" border=3D"0" class=3D"social"></a>
+		<a href=3D"http://link.nbty.com/u.d?F4Gulcguklyt0UXk68=3D53" target=3D"_blank" name=3D"Google Plus"><img src=3D"http://images.postdirect.com/content/nbtyinc/146/Emailfooter_gplus2.jpg" width=3D"32" height=3D"33" border=3D"0" class=3D"social"></a>
+		<a href=3D"http://link.nbty.com/u.d?UYGulcguklyt0UXk65=3D63" target=3D"_blank" name=3D"Youtube"><img src=3D"http://images.postdirect.com/content/nbtyinc/146/Emailfooter_youtube2.jpg" width=3D"33" height=3D"33" border=3D"0" class=3D"social"></a></td>
+                          </tr>
+                        </table></td>
+          <td class=3D"stack navText" align=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                          <tr>
+                            <td width=3D"1" class=3D"hide"><img src=3D"http://images.postdirect.com/content/nbtyinc/146/Emailfooter_vertrule.jpg" width=3D"1" height=3D"93" /></td>
+
+
+<td>
+<a href=3D"http://link.nbty.com/u.d?W4Gulcguklyt0UXk73=3D163" target=3D"_blank" style=3D"display:block" name=3D"refer_desktop"><img src=3D"http://images.postdirect.com/content/nbtyinc/146/Emailfooter_refer3.jpg" width=3D"158" height=3D"93" style=3D"display:block;" alt=3D"" border=3D"0" class=3D"hide"></a>
+</td>
+
+</tr></table></td>
+
+         <td class=3D"stack navText" align=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                          <tr>
+                            <td width=3D"1" class=3D"hide"><img src=3D"http://images.postdirect.com/content/nbtyinc/146/Emailfooter_vertrule.jpg" width=3D"1" height=3D"93" /></td>
+                            <td width=3D"10" class=3D"hide"></td>
+                           <td align=3D"center" style=3D"color:#FFFFFF;"><a href=3D"http://link.nbty.com/u.d?D4Gulcguklyt0UXk7D=3D203&s=3D32921&cmp=3Dinfo-_2-20150425-_2-default" target=3D"_blank" name=3D"new_low_prices"><img src=3D"http://images.postdirect.com/content/nbtyinc/146/bannerleftnav_pricematch.gif" alt=3D"Find a Lower Price and We'll Match It&raquo;" width=3D"179" height=3D"66" border=3D"0" class=3D"hide"></a></td>
+                          </tr>
+                        </table></td></tr>
+                  </table></td>
+              </tr>
+            </table>
+            </td>
+          </tr>
+        </table>
+
+<table bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"shrink" width=3D"100%">
+<tr>
+<td class=3D"shrink" height=3D"15" style=3D"line-height:1px; font-size:1px;">
+</td>
+</tr>
+</table>
+
+<table align=3D"center" border=3D"1" bordercolor=3D"#000000" cellpadding=3D"1" cellspacing=3D"0" class=3D"section-wrapper" width=3D"475">
+<tr>
+<td align=3D"center">
+<font color=3D"#000000" face=3D"Arial,Helvetica,sans-serif, Verdana,Geneva" size=3D"1">* These statements have not been evaluated by the U.S. Food and Drug Administration. These products are not intended to diagnose, treat, cure or prevent any disease.</font></td>
+</tr>
+</table>
+
+
+<br />
+
+<center>
+<table cellpadding=3D"0" cellspacing=3D"0" class=3D"section-wrapper" width=3D"650">
+<tr>
+<td align=3D"left" class=3D"shrink3" valign=3D"top">
+<font style=3D"font-family:Arial,Helvetica,sans-serif;font-size:18px;color:#184173;">
+ To order by phone, call <a href=3D"tel:1-800-645-1030" style=3D"color:#184173;text-decoration:none;"><span style=3D"color:#184173;">1.800.645.1030</span></a>
+ and mention code <span style=3D"color:#184173;">151474L</span></font><br><br>
+
+<font style=3D"font-family:Arial,Helvetica,sans-serif;font-size:11px;color:#4e4e4e;">
+This email was sent to: blackyao12@gmail.com<br /><br />
+If this email was forwarded to you, <a href=3D"http://link.nbty.com/u.d?R4Gulcguklyt0Uc9O9U7p=3D8671&s=3D32921&cmp=3Dyml-_2-20150425-_2-default" name=3D"signup" style=3D"color:#184173;" target=3D"_blank">click here to subscribe</a> to the Puritan's Pride&reg; email list.<br /><br />Individual Results May Vary.<br><br>
+
+
+^ Discount applies to same item, same size Puritan's Pride=C2=AE brand products; discount already reflected in advertised product price; cannot be combined with any additional coupon or 3rd party cash back offers; certain products, including clearance section items, may be excluded; ends 04/28/2015.<br><br>
+					    ** Free Shipping applies to orders shipping within the contiguous 48 United States only; discount will automatically apply to cart at checkout; not valid on prior purchases.<br />
+&dagger; Some conditions apply. See <a href=3D"http://link.nbty.com/u.d?LYGulcguklyt0UDd_=3D43" name=3D"referafriend_tcs" target=3D"_blank" style=3D"color:#184173;">terms and conditions</a> for details.<br />
+All products subject to availability. To expedite orders, we may substitute a smaller bottle if ordered quantity is out of stock. Terms and conditions subject to change. Internet distribution or resale strictly prohibited. We reserve the right, at our sole discretion, to refuse or cancel any order for any reason. For your convenience, you will not be charged until your payment method is authorized, the order information is verified for accuracy and your order is shipped.<br />
+										<br />
+										<strong>Please do not reply to this email.</strong> To send us your questions and comments, or to unsubscribe from future email messages and exclusive offers from Puritan&#39;s Pride&reg;, please use the links below.<br />
+										<br />
+										<a href=3D"http://link.nbty.com/u.d?M4Gulcguklyt0UDM=3D3&s=3D32921&cmp=3Dyml-_2-20150425-_2-default" target=3D"_blank" name=3D"custserv"><font color=3D"#666666">Customer Service</font></a> | <a href=3D"https://web.puritan.com/unsubscribe.jsp?s=3DZR-G&i=3D446475981072" target=3D"_blank" name=3D"unsub"><font color=3D"#666666">Unsubscribe</font></a> | <a href=3D"http://link.nbty.com/u.d?BYGulcguklyt0UDG=3D23&s=3D32921&cmp=3Dyml-_2-20150425-_2-default" target=3D"_blank" name=3D"privacy"><font color=3D"#666666">Privacy Policy</font></a><br />
+										<br />
+										Copyright 2015 Puritan's Pride&reg;, Inc. &middot; PO Box 9001 &middot; Oakdale, NY 11769 &middot; 1-800-645-1030 &middot; <a href=3D"http://link.nbty.com/u.d?C4Gulcguklyt0UDd6=3D33&s=3D32921&cmp=3Dyml-_2-20150425-_2-default" style=3D"text-decoration: none" target=3D"_blank" name=3D"ppurl"><font color=3D"#333333">www.puritan.com</font></a></font></td>
+															</tr>
+													</table>
+												</center>
+											</td>
+										</tr>
+									</table>
+							</td>
+						</tr>
+				</table>
+			</td>
+		</tr>
+</table>
+
+
+<img src=3D"http://cquotient.puritan.com/blackyao12@gmail.com?cqid=3D151474L&_cq_pool_id=3Dcontrol" />
+
+
+
+<!-- ALC pixel. Do not remove -->
+
+<img width=3D"1" height=3D"1" src=3D"http://na-track.idtargeting.com/email.gif?cid=3DHA25O&_mjnctid=3Db540b7a54fb57fc0e6060e6af7ad8808">
+<img width=3D"1" height=3D"1" src=3D"http://na-ho.idtargeting.com/ho/HA25O/0?_mjnctid=3Db540b7a54fb57fc0e6060e6af7ad8808&hash=3D74cf52216548201dfc0e853fce5395cc98e670df">
+<img width=3D"1" height=3D"1" src=3D"http://na-ho.idtargeting.com/ho/HA25O/1?_mjnctid=3Db540b7a54fb57fc0e6060e6af7ad8808&hash=3D85d6deca101b3de9752870169ce0a8a2308b32d2">
+<img width=3D"1" height=3D"1" src=3D"http://na-ho.idtargeting.com/ho/HA25O/2?_mjnctid=3Db540b7a54fb57fc0e6060e6af7ad8808&hash=3D74cf52216548201dfc0e853fce5395cc98e670df">
+<img width=3D"1" height=3D"1" src=3D"http://na-ho.idtargeting.com/ho/HA25O/3?_mjnctid=3Db540b7a54fb57fc0e6060e6af7ad8808&hash=3Db540b7a54fb57fc0e6060e6af7ad8808">
+
+
+
+
+<style>@media print{ #_t { background-image: url('https://526moykc.emltrk.com/526moykc?p&d=3D'eMail'');}} div.OutlookMessageHeader {background-image:url('https://526moykc.emltrk.com/526moykc?f&d=3D'eMail'')} table.moz-email-headers-table {background-image:url('https://526moykc.emltrk.com/526moykc?f&d=3D'eMail'')} blockquote #_t {background-image:url('https://526moykc.emltrk.com/526moykc?f&d=3D'eMail'')} #MailContainerBody #_t {background-image:url('https://526moykc.emltrk.com/526moykc?f&d=3D'eMail'')}</style><div id=3D"_t"></div>
+<img src=3D"https://526moykc.emltrk.com/526moykc?d=3D'eMail'" width=3D"1" height=3D"1" border=3D"0" />
+
+</body>
+</html>
+

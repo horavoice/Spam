@@ -1,0 +1,44 @@
+  View Itinerary
+  http://www.airbnb.com/reservation/itinerary?code=EYNTSH&euid=036f7ffc-0793-af9d-e9f1-78d9834200fa
+
+  * Customer Receipt
+  Confirmation Code: EYNTSH
+  Fri, April 10, 2015
+  Receipt # 2078216871
+
+  Guests: Weijia Xiong, and 5 others
+  Travel Destination: Washington, DC
+  Accommodation Address: 311 Seaton Place Northeast, Washington, DC 20002, United States
+  Travel Property: A home 5 stops from the White House
+  Accommodation Type: Entire home/apt
+  Nights: 2
+
+  * Check In
+  Fri, Apr 17 2:00 PM
+  * Check Out
+  Sun, Apr 19 11:00 AM
+
+  Payment Details
+      Payment received: Fri, April 10, 2015
+
+  Accommodations: $440 ($220 x 2 Nights)
+Cleaning Fees: $70
+Airbnb Service Fee: $61
+Occupancy Taxes: $73
+Discount : -$25
+Total: $619
+
+
+
+      Payment (VISA xxxxxxxxxxxx2077): $619
+
+    Balance: $0
+
+    
+
+
+
+Email preferences
+http://www.airbnb.com/users/notifications?euid=036f7ffc-0793-af9d-e9f1-78d9834200fa
+
+### Airbnb ###
